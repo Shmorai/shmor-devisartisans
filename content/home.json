@@ -1,7 +1,7 @@
 {
   "updated": "2026-10-15",
   "slug": "",
-  "title": "DevisArtisans : trouvez un artisan, comparez les devis",
+  "title": "DevisArtisans : trouvez un artisan, comparez les devis",
   "description": "Plombier, électricien, couvreur, peintre, maçon… Trouvez un artisan près de chez vous partout en France et comparez des devis gratuits, sans engagement.",
   "keywords": [
     "devis artisan",
@@ -12,8 +12,8 @@
   "eyebrow": "Partout en France métropolitaine",
   "h1": "Trouvez le bon artisan, sans perdre de temps.",
   "h1Html": "Trouvez le bon artisan, <span class=\"hl\">sans perdre de temps.</span>",
-  "intro": "Décrivez vos travaux une seule fois et comparez les devis gratuits d’artisans de votre secteur : plomberie, électricité, toiture, peinture, chauffage, rénovation et bien plus.",
-  "searchPlaceholder": "Quel artisan cherchez-vous ? p. ex. plombier, couvreur…",
+  "intro": "Décrivez vos travaux une seule fois et comparez les devis gratuits d’artisans de votre secteur : plomberie, électricité, toiture, peinture, chauffage, rénovation et bien plus.",
+  "searchPlaceholder": "Quel artisan cherchez-vous ? p. ex. plombier, couvreur…",
   "chips": [
     {
       "label": "Plombier",
@@ -46,7 +46,7 @@
     "credit": "Ernie Journeys",
     "creditUrl": "https://unsplash.com/@erniejourneys"
   },
-  "highlightsTitle": "Pourquoi commencer par DevisArtisans ?",
+  "highlightsTitle": "Pourquoi commencer par DevisArtisans ?",
   "highlights": [
     {
       "title": "Gratuit",
@@ -66,6 +66,130 @@
     }
   ],
   "blocks": [
+    {
+      "type": "deals",
+      "class": "svc",
+      "title": "Les prestations les plus demandées",
+      "intro": "Les travaux pour lesquels les particuliers demandent le plus de devis.",
+      "more": {
+        "title": "Toutes les prestations",
+        "slug": "metiers"
+      },
+      "items": [
+        {
+          "title": "Peinture intérieure",
+          "text": "Murs, plafonds, boiseries",
+          "icon": "roller",
+          "slug": "metiers/peintre",
+          "cta": "Voir"
+        },
+        {
+          "title": "Rénovation complète",
+          "text": "Appartement ou maison, tous corps d’état",
+          "icon": "hammer",
+          "slug": "metiers/renovation",
+          "cta": "Voir"
+        },
+        {
+          "title": "Climatisation réversible",
+          "text": "Mono-split, multi-split ou gainable",
+          "icon": "sun",
+          "slug": "metiers/climatisation",
+          "cta": "Voir"
+        },
+        {
+          "title": "Entretien de jardin",
+          "text": "Tonte, taille de haies, débroussaillage",
+          "icon": "tree",
+          "slug": "metiers/jardinier-paysagiste",
+          "cta": "Voir"
+        },
+        {
+          "title": "Ménage et nettoyage",
+          "text": "Domicile, vitres, fin de chantier",
+          "icon": "sparkles",
+          "slug": "metiers/nettoyage",
+          "cta": "Voir"
+        },
+        {
+          "title": "Rénovation de toiture",
+          "text": "Tuiles, ardoises, zinc : réparation ou réfection",
+          "icon": "house",
+          "slug": "metiers/couvreur",
+          "cta": "Voir"
+        },
+        {
+          "title": "Pose de carrelage",
+          "text": "Sols, faïence, terrasses",
+          "icon": "layers",
+          "slug": "metiers/carreleur",
+          "cta": "Voir"
+        },
+        {
+          "title": "Petits travaux de maçonnerie",
+          "text": "Murets, seuils, reprises",
+          "icon": "hardhat",
+          "slug": "metiers/macon",
+          "cta": "Voir"
+        },
+        {
+          "title": "Petits travaux d’électricité",
+          "text": "Prises, interrupteurs, points lumineux",
+          "icon": "zap",
+          "slug": "metiers/electricien",
+          "cta": "Voir"
+        },
+        {
+          "title": "Élagage et abattage",
+          "text": "Arbres dangereux ou envahissants",
+          "icon": "tree",
+          "slug": "metiers/jardinier-paysagiste",
+          "cta": "Voir"
+        },
+        {
+          "title": "Réparation de fuite",
+          "text": "Recherche et réparation, devis avant intervention",
+          "icon": "droplet",
+          "slug": "metiers/plombier",
+          "cta": "Voir"
+        },
+        {
+          "title": "Pompe à chaleur",
+          "text": "Air/eau, air/air, géothermie par un installateur RGE",
+          "icon": "zap",
+          "slug": "metiers/pompe-a-chaleur",
+          "cta": "Voir"
+        },
+        {
+          "title": "Isolation des combles",
+          "text": "Combles perdus ou aménagés",
+          "icon": "house",
+          "slug": "metiers/isolation",
+          "cta": "Voir"
+        },
+        {
+          "title": "Fenêtres et portes-fenêtres",
+          "text": "Remplacement, double vitrage",
+          "icon": "window",
+          "slug": "metiers/menuisier",
+          "cta": "Voir"
+        },
+        {
+          "title": "Salle de bain complète",
+          "text": "Plomberie, carrelage et électricité coordonnés",
+          "icon": "bath",
+          "slug": "metiers/salle-de-bain",
+          "cta": "Voir"
+        },
+        {
+          "title": "Entretien de chaudière",
+          "text": "Visite annuelle obligatoire et attestation",
+          "icon": "flame",
+          "slug": "metiers/chauffagiste",
+          "cta": "Voir"
+        }
+      ]
+    },
     {
       "type": "tiles",
       "title": "Les métiers les plus demandés",
@@ -165,7 +289,7 @@
         {
           "icon": "file",
           "title": "Décrivez votre projet",
-          "text": "Métier, travaux, code postal : en quelques minutes."
+          "text": "Métier, travaux, code postal : en quelques minutes."
         },
         {
           "icon": "message",
@@ -182,33 +306,35 @@
   ],
   "sections": [
     {
-      "h2": "Avant de signer : les bons réflexes",
-      "html": "<ul><li><strong>Vérifiez l’entreprise</strong> (SIRET, assurance décennale, qualification RGE) : <a href=\"/guides/verifier-un-artisan/\">notre guide</a>.</li><li><strong>Comparez des devis détaillés</strong> portant sur les mêmes prestations : <a href=\"/guides/devis-travaux/\">ce que doit contenir un devis</a>.</li><li><strong>Renseignez-vous sur les aides</strong> avant de signer pour une rénovation énergétique : <a href=\"/guides/aides-renovation/\">MaPrimeRénov’, CEE, TVA réduite</a>.</li><li><strong>Signez un procès-verbal de réception</strong> à la fin du chantier : <a href=\"/guides/garanties-travaux/\">vos garanties</a>.</li></ul>"
+      "h2": "Avant de signer : les bons réflexes",
+      "html": "<ul><li><strong>Vérifiez l’entreprise</strong> (SIRET, assurance décennale, qualification RGE) : <a href=\"/guides/verifier-un-artisan/\">notre guide</a>.</li><li><strong>Comparez des devis détaillés</strong> portant sur les mêmes prestations : <a href=\"/guides/devis-travaux/\">ce que doit contenir un devis</a>.</li><li><strong>Renseignez-vous sur les aides</strong> avant de signer pour une rénovation énergétique : <a href=\"/guides/aides-renovation/\">MaPrimeRénov’, CEE, TVA réduite</a>.</li><li><strong>Signez un procès-verbal de réception</strong> à la fin du chantier : <a href=\"/guides/garanties-travaux/\">vos garanties</a>.</li></ul>"
     }
   ],
   "faqs": [
     {
-      "q": "DevisArtisans est-il gratuit ?",
+      "q": "DevisArtisans est-il gratuit ?",
       "a": "Oui. Nos guides sont gratuits, et publier votre projet chez nos partenaires pour recevoir des devis l’est aussi."
     },
     {
-      "q": "Comment DevisArtisans est-il rémunéré ?",
-      "a": "Certains liens sont des liens d’affiliation : un partenaire peut nous verser une commission lorsque vous publiez un projet chez lui. Cela ne change rien au prix que vous payez."
+      "q": "Comment DevisArtisans est-il rémunéré ?",
+      "a": "Certains liens sont des liens d’affiliation : un partenaire peut nous verser une commission lorsque vous publiez un projet chez lui. Cela ne change rien au prix que vous payez."
     },
     {
-      "q": "Les artisans sont-ils vérifiés ?",
+      "q": "Les artisans sont-ils vérifiés ?",
       "a": "Les artisans sont des entreprises indépendantes inscrites chez nos partenaires. Nous vous recommandons de vérifier vous-même leur SIRET, leur assurance et leurs qualifications."
     },
     {
-      "q": "Dans quelles régions ?",
+      "q": "Dans quelles régions ?",
       "a": "Dans toute la France métropolitaine, Corse comprise. Consultez la page de votre région pour des conseils adaptés."
     }
   ],
+  "latestPosts": 3,
+  "latestTitle": "Derniers articles du blog",
   "related": [
     "guides/verifier-un-artisan",
     "guides/devis-travaux",
     "guides/aides-renovation"
   ],
   "relatedTitle": "Nos guides",
-  "ctaTitle": "De quel artisan avez-vous besoin ?"
+  "ctaTitle": "De quel artisan avez-vous besoin ?"
 }

@@ -1,0 +1,80 @@
+{
+  "updated": "2026-10-15",
+  "slug": "metiers/vitrier",
+  "nav": "Vitrier",
+  "title": "Vitrier : remplacement de vitre et double vitrage",
+  "description": "Vitre cassée, double vitrage, miroir, verrière ou vitrine : comparez les devis de vitriers près de chez vous et exigez un devis avant tout dépannage.",
+  "keywords": [
+    "vitrier",
+    "remplacement vitre",
+    "vitre cassée",
+    "double vitrage",
+    "miroitier",
+    "verrière"
+  ],
+  "cardText": "Remplacement de vitre cassée · Pose de double ou triple vitrage · Miroirs et parois sur mesure",
+  "eyebrow": "Vitrerie",
+  "h1": "Trouver un vitrier",
+  "intro": "Vitre cassée, vitrage à améliorer ou miroir sur mesure : comparez les devis de vitriers de votre secteur, et gardez les réflexes anti-arnaque en cas d’urgence.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1598721987126-0e7bee3ba71f",
+    "alt": "Fenêtre vitrée à cadre en bois",
+    "credit": "Mark Olsen",
+    "creditUrl": "https://unsplash.com/@markolsen"
+  },
+  "searchPlaceholder": "Votre projet, p. ex. « fuite » ou « fenêtres »",
+  "highlights": [
+    {
+      "title": "Gratuit",
+      "text": "Décrire votre projet et recevoir des devis ne vous coûte rien."
+    },
+    {
+      "title": "Plusieurs devis",
+      "text": "Comparez les propositions, les délais et les prix avant de décider."
+    },
+    {
+      "title": "Sans engagement",
+      "text": "Vous choisissez librement votre artisan, ou personne."
+    }
+  ],
+  "partnersTitle": "Comparez les devis gratuits de nos partenaires",
+  "sections": [
+    {
+      "h2": "Ce que fait un vitrier",
+      "html": "<ul><li>Remplacement de vitre cassée</li><li>Pose de double ou triple vitrage</li><li>Miroirs et parois sur mesure</li><li>Verrières d’intérieur</li><li>Vitrines de commerce</li><li>Mise en sécurité après effraction</li></ul>"
+    },
+    {
+      "h2": "Quand faire appel à un vitrier ?",
+      "html": "<ul><li>Une vitre est cassée ou fêlée</li><li>Vous voulez améliorer l’isolation sans changer toute la fenêtre</li><li>Vous aménagez une verrière</li><li>Après une tentative d’effraction</li></ul>"
+    },
+    {
+      "h2": "Les questions à poser avant de signer",
+      "html": "<p>Au moment de comparer les devis, ces questions vous aident à choisir :</p><ol><li>Pouvez-vous me transmettre votre <strong>attestation d’assurance décennale</strong> (et de responsabilité civile professionnelle) en cours de validité ?</li><li>Quel est votre numéro <strong>SIRET</strong> ?</li><li>Quel type de verre proposez-vous (feuilleté, isolant, retardateur d’effraction) ?</li><li>Le prix inclut-il le déplacement et la mise en sécurité provisoire ?</li><li>Sous quel délai le vitrage sur mesure sera-t-il posé ?</li></ol><p>Pour aller plus loin : <a href=\"/guides/verifier-un-artisan/\">comment vérifier un artisan</a>.</p>"
+    },
+    {
+      "h2": "Ce qui fait varier le prix",
+      "html": "<p>Chaque chantier est différent. Les principaux facteurs :</p><ul><li>Les dimensions et le type de verre</li><li>L’urgence de l’intervention</li><li>L’accès (étage, hauteur)</li><li>La découpe sur mesure</li></ul><p>Le plus fiable pour connaître le prix de votre projet est de comparer plusieurs devis détaillés. Voir <a href=\"/guides/devis-travaux/\">ce que doit contenir un devis</a>.</p>"
+    },
+    {
+      "h2": "Règles et précautions à connaître",
+      "html": "<p>Comme pour tout dépannage, un <strong>devis détaillé</strong> doit vous être remis avant l’intervention. En cas de bris de glace, vérifiez votre <strong>assurance habitation</strong> : la garantie bris de glace couvre souvent le remplacement.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Peut-on remplacer seulement le vitrage d’une fenêtre ?",
+      "a": "Oui, si le cadre est en bon état. Le vitrier mesure la feuillure pour poser un vitrage isolant adapté."
+    },
+    {
+      "q": "Mon assurance couvre-t-elle une vitre cassée ?",
+      "a": "Si votre contrat comprend la garantie bris de glace, oui en général, avec éventuellement une franchise. Déclarez le sinistre avant de faire réparer si possible."
+    }
+  ],
+  "related": [
+    "metiers/menuisier",
+    "metiers/serrurier",
+    "metiers/veranda"
+  ],
+  "relatedTitle": "Métiers liés",
+  "ctaTitle": "De quel artisan avez-vous besoin ?"
+}

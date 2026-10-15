@@ -1,0 +1,71 @@
+{
+  "type": "post",
+  "date": "2026-10-10",
+  "updated": "2026-10-10",
+  "slug": "blog/preparer-maison-hiver",
+  "nav": "Préparer sa maison pour l’hiver : 10 points à vérifier",
+  "title": "Préparer sa maison pour l’hiver : la check-list",
+  "description": "Chaudière, ramonage, gouttières, toiture, isolation, robinets extérieurs : la check-list d’automne pour passer l’hiver au chaud et éviter les sinistres.",
+  "keywords": [
+    "entretien",
+    "préparer",
+    "maison",
+    "l’hiver"
+  ],
+  "cardText": "Chaudière, ramonage, gouttières, toiture, isolation, robinets extérieurs : la check-list d’automne pour passer l’hiver au chaud et éviter les sinistres.",
+  "eyebrow": "Entretien",
+  "h1": "Préparer sa maison pour l’hiver : 10 points à vérifier",
+  "intro": "L’automne est le bon moment pour anticiper : les artisans sont plus disponibles qu’en plein hiver et les petits défauts n’ont pas encore causé de dégâts.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1761319914911-71b059a655d8",
+    "alt": "Salon chaleureux avec cheminée et grandes fenêtres",
+    "credit": "Clay Banks",
+    "creditUrl": "https://unsplash.com/@claybanks"
+  },
+  "sections": [
+    {
+      "h2": "Chauffage",
+      "html": "<ul><li>Entretien annuel de la <a href=\"/metiers/chauffagiste/\">chaudière</a></li><li><a href=\"/metiers/ramoneur/\">Ramonage</a> des conduits</li><li>Purge des radiateurs</li><li>Test du thermostat et de la programmation</li></ul>"
+    },
+    {
+      "h2": "Toiture et extérieur",
+      "html": "<ul><li>Nettoyage des <a href=\"/metiers/couvreur/\">gouttières</a></li><li>Vérification des tuiles ou ardoises après les tempêtes</li><li>Coupure et purge des robinets extérieurs</li><li>Élagage des branches proches du toit</li></ul>"
+    },
+    {
+      "h2": "Isolation et confort",
+      "html": "<ul><li>Joints de fenêtres et bas de portes</li><li>Isolation des <a href=\"/metiers/isolation/\">combles</a> si elle est insuffisante</li><li>Bon fonctionnement de la ventilation</li></ul>"
+    },
+    {
+      "h2": "Sécurité",
+      "html": "<ul><li>Testez vos détecteurs de fumée</li><li>Installez un détecteur de monoxyde de carbone près des appareils à combustion</li><li>Vérifiez que les grilles de ventilation ne sont pas obstruées</li><li>Gardez à portée de main le contact d’un plombier et d’un chauffagiste</li></ul>"
+    },
+    {
+      "h2": "Économies d’énergie rapides",
+      "html": "<p>Réglez le chauffage autour de 19 °C dans les pièces de vie et un peu moins dans les chambres, programmez les baisses de température la nuit et en journée si le logement est inoccupé, fermez volets et rideaux la nuit, et dépoussiérez les radiateurs. Ces gestes simples réduisent la consommation sans travaux.</p>"
+    },
+    {
+      "h2": "Anticiper les travaux de l’an prochain",
+      "html": "<p>L’hiver révèle les faiblesses du logement : courants d’air, pièces froides, condensation. Notez-les : elles serviront à préparer un audit et des <a href=\"/metiers/isolation/\">travaux d’isolation</a> au printemps, quand les artisans sont plus disponibles.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Quand faire entretenir sa chaudière ?",
+      "a": "Idéalement avant la saison de chauffe, à l’automne. Les plannings des chauffagistes se remplissent vite dès les premiers froids."
+    },
+    {
+      "q": "Faut-il vidanger les canalisations extérieures ?",
+      "a": "Oui dans les régions où il gèle : coupez l’alimentation des robinets extérieurs et purgez-les pour éviter que les tuyaux n’éclatent."
+    },
+    {
+      "q": "Quand faire vérifier la toiture ?",
+      "a": "À l’automne, avant les tempêtes, puis après chaque épisode de vent fort."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Service-public.fr",
+      "url": "https://www.service-public.gouv.fr/"
+    }
+  ]
+}

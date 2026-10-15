@@ -1,0 +1,80 @@
+{
+  "updated": "2026-10-15",
+  "slug": "metiers/veranda",
+  "nav": "Véranda",
+  "title": "Véranda : devis et démarches d’urbanisme",
+  "description": "Véranda, pergola, verrière ou extension vitrée : comparez les devis de vérandalistes près de chez vous et vérifiez les autorisations d’urbanisme nécessaires.",
+  "keywords": [
+    "véranda",
+    "veranda",
+    "pergola",
+    "extension vitrée",
+    "verrière",
+    "vérandaliste"
+  ],
+  "cardText": "Conception et fabrication sur mesure · Fondations et dalle · Pose de la structure et des vitrages",
+  "eyebrow": "Véranda et extension",
+  "h1": "Construire une véranda",
+  "intro": "Une véranda agrandit la maison et la relie au jardin. Elle crée de la surface de plancher : démarches, isolation et orientation sont essentielles. Comparez les devis.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1779819710461-f6034c3585f9",
+    "alt": "Extension vitrée moderne accolée à une maison en pierre",
+    "credit": "Samuel Isaacs",
+    "creditUrl": "https://unsplash.com/@sisacreative"
+  },
+  "searchPlaceholder": "Votre projet, p. ex. « fuite » ou « fenêtres »",
+  "highlights": [
+    {
+      "title": "Gratuit",
+      "text": "Décrire votre projet et recevoir des devis ne vous coûte rien."
+    },
+    {
+      "title": "Plusieurs devis",
+      "text": "Comparez les propositions, les délais et les prix avant de décider."
+    },
+    {
+      "title": "Sans engagement",
+      "text": "Vous choisissez librement votre artisan, ou personne."
+    }
+  ],
+  "partnersTitle": "Comparez les devis gratuits de nos partenaires",
+  "sections": [
+    {
+      "h2": "Ce que fait un vérandaliste",
+      "html": "<ul><li>Conception et fabrication sur mesure</li><li>Fondations et dalle</li><li>Pose de la structure et des vitrages</li><li>Toiture isolante et protections solaires</li><li>Pergolas et pergolas bioclimatiques</li><li>Chauffage et ventilation de la véranda</li></ul>"
+    },
+    {
+      "h2": "Quand faire appel à un vérandaliste ?",
+      "html": "<ul><li>Vous voulez une pièce lumineuse supplémentaire</li><li>Vous fermez une terrasse</li><li>Vous voulez profiter du jardin toute l’année</li><li>Votre ancienne véranda est mal isolée</li></ul>"
+    },
+    {
+      "h2": "Les questions à poser avant de signer",
+      "html": "<p>Au moment de comparer les devis, ces questions vous aident à choisir :</p><ol><li>Pouvez-vous me transmettre votre <strong>attestation d’assurance décennale</strong> (et de responsabilité civile professionnelle) en cours de validité ?</li><li>Quel est votre numéro <strong>SIRET</strong> ?</li><li>Qui prépare la déclaration préalable ou le permis ?</li><li>Quelles performances thermiques pour la toiture et les vitrages ?</li><li>Comment gérez-vous la chaleur en été ?</li></ol><p>Pour aller plus loin : <a href=\"/guides/verifier-un-artisan/\">comment vérifier un artisan</a>.</p>"
+    },
+    {
+      "h2": "Ce qui fait varier le prix",
+      "html": "<p>Chaque chantier est différent. Les principaux facteurs :</p><ul><li>La surface et la forme</li><li>Le matériau (aluminium, bois, PVC)</li><li>Le type de toiture et de vitrage</li><li>Les fondations et la dalle</li></ul><p>Le plus fiable pour connaître le prix de votre projet est de comparer plusieurs devis détaillés. Voir <a href=\"/guides/devis-travaux/\">ce que doit contenir un devis</a>.</p>"
+    },
+    {
+      "h2": "Règles et précautions à connaître",
+      "html": "<p>Une véranda crée de la surface : en général une <strong>déclaration préalable</strong> de 5 à 20 m² (40 m² en zone urbaine couverte par un PLU), un <strong>permis de construire</strong> au-delà. Elle est soumise à la <strong>taxe d’aménagement</strong> et doit être déclarée à l’administration fiscale. En copropriété, l’accord de l’assemblée générale est nécessaire.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Une véranda est-elle soumise à la taxe d’aménagement ?",
+      "a": "Oui, une véranda close et couverte crée de la surface taxable. Le montant dépend de la surface et des taux votés localement."
+    },
+    {
+      "q": "Comment éviter une véranda trop chaude ?",
+      "a": "Orientation, toiture isolante plutôt que vitrée, vitrages à contrôle solaire, stores et ventilation font une grande différence."
+    }
+  ],
+  "related": [
+    "metiers/macon",
+    "metiers/menuisier",
+    "metiers/vitrier"
+  ],
+  "relatedTitle": "Métiers liés",
+  "ctaTitle": "De quel artisan avez-vous besoin ?"
+}

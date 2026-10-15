@@ -1,0 +1,74 @@
+{
+  "type": "post",
+  "date": "2026-09-21",
+  "updated": "2026-09-21",
+  "slug": "blog/acompte-travaux-combien",
+  "nav": "Acompte travaux : combien verser à l’artisan ?",
+  "title": "Acompte pour des travaux : combien verser et quand ?",
+  "description": "Acompte ou arrhes, montant raisonnable, paiements à l’avancement, démarchage : comment sécuriser vos paiements à un artisan du début à la fin du chantier.",
+  "keywords": [
+    "devis",
+    "acompte",
+    "travaux"
+  ],
+  "cardText": "Acompte ou arrhes, montant raisonnable, paiements à l’avancement, démarchage : comment sécuriser vos paiements à un artisan du début à la fin du chantier.",
+  "eyebrow": "Devis",
+  "h1": "Acompte travaux : combien verser à l’artisan ?",
+  "intro": "Verser un acompte est courant, notamment pour commander des matériaux. Encore faut-il qu’il reste raisonnable et que la suite des paiements suive l’avancement réel.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1611125832047-1d7ad1e8e48f",
+    "alt": "Calculatrice noire et argentée à côté d’un stylo",
+    "credit": "Recha Oktaviani",
+    "creditUrl": "https://unsplash.com/@rechaoktaviani"
+  },
+  "sections": [
+    {
+      "h2": "Acompte ou arrhes ?",
+      "html": "<p>Un <strong>acompte</strong> engage définitivement les deux parties. Des <strong>arrhes</strong> permettent de se dédire : vous les perdez si vous renoncez, l’artisan vous en doit le double s’il renonce. À défaut de précision, les sommes versées d’avance sont en principe des arrhes.</p>"
+    },
+    {
+      "h2": "Un montant raisonnable",
+      "html": "<p>Aucun montant unique n’est fixé par la loi pour les travaux. Un acompte limité, puis des paiements échelonnés selon l’avancement, protègent les deux parties. Méfiez-vous d’une demande de paiement total avant le début du chantier.</p>"
+    },
+    {
+      "h2": "Contrat signé à domicile",
+      "html": "<p>Si vous avez signé hors de l’établissement de l’artisan, aucun paiement ne peut en principe être exigé avant l’expiration d’un délai de 7 jours.</p>"
+    },
+    {
+      "h2": "Gardez une part jusqu’à la réception",
+      "html": "<p>Le solde se règle à la <a href=\"/blog/reception-travaux-proces-verbal/\">réception des travaux</a>, après vérification.</p>"
+    },
+    {
+      "h2": "Un échéancier type",
+      "html": "<p>Un échéancier courant prévoit un acompte à la signature (pour commander les matériaux), un ou plusieurs paiements à des étapes vérifiables (fin du gros œuvre, pose des menuiseries…) et le solde à la réception. L’essentiel est que chaque paiement corresponde à un avancement réel, constaté.</p>"
+    },
+    {
+      "h2": "Si l’artisan disparaît après l’acompte",
+      "html": "<p>Envoyez une mise en demeure de commencer les travaux ou de rembourser. Vérifiez sur l’Annuaire des entreprises si une procédure collective est ouverte : dans ce cas, déclarez votre créance auprès du mandataire judiciaire dans les délais. Une assurance protection juridique peut vous aider.</p>"
+    },
+    {
+      "h2": "Bon à savoir",
+      "html": "<p>Les sommes versées et le calendrier de paiement doivent figurer au devis signé. Gardez tous les justificatifs. Voir aussi <a href=\"/guides/devis-travaux/\">ce que doit contenir un devis</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Faut-il payer en espèces ?",
+      "a": "Préférez un moyen de paiement traçable (virement, chèque). Les paiements en espèces sont plafonnés et laissent peu de preuves."
+    },
+    {
+      "q": "Un acompte est-il remboursable ?",
+      "a": "Un acompte engage les deux parties : il n’est en principe pas remboursable si vous renoncez, sauf faute de l’artisan ou rétractation dans le délai légal."
+    },
+    {
+      "q": "Peut-on payer par carte ?",
+      "a": "Si l’artisan l’accepte. Le paiement par carte offre parfois des recours supplémentaires auprès de la banque en cas de prestation non fournie."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Ministère de l’Économie : DGCCRF, fiches pratiques",
+      "url": "https://www.economie.gouv.fr/dgccrf"
+    }
+  ]
+}

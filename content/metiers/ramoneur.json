@@ -1,0 +1,80 @@
+{
+  "updated": "2026-10-15",
+  "slug": "metiers/ramoneur",
+  "nav": "Ramoneur",
+  "title": "Ramoneur : ramonage obligatoire et certificat",
+  "description": "Ramonage de cheminée, poêle ou chaudière, débistrage, tubage : comparez les ramoneurs près de chez vous et obtenez votre certificat de ramonage.",
+  "keywords": [
+    "ramoneur",
+    "ramonage",
+    "ramonage cheminée",
+    "certificat de ramonage",
+    "débistrage",
+    "tubage"
+  ],
+  "cardText": "Ramonage de cheminée, insert et poêle · Ramonage des conduits de chaudière · Débistrage",
+  "eyebrow": "Ramonage",
+  "h1": "Faire ramoner votre conduit",
+  "intro": "Le ramonage limite les risques d’incendie et d’intoxication au monoxyde de carbone. C’est aussi une obligation. Comparez les ramoneurs de votre secteur.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1642799829852-4049c0a74d97",
+    "alt": "Rangée de cheminées sur des toits en pente",
+    "credit": "Richard Bell",
+    "creditUrl": "https://unsplash.com/@maplerockdesign"
+  },
+  "searchPlaceholder": "Votre projet, p. ex. « fuite » ou « fenêtres »",
+  "highlights": [
+    {
+      "title": "Gratuit",
+      "text": "Décrire votre projet et recevoir des devis ne vous coûte rien."
+    },
+    {
+      "title": "Plusieurs devis",
+      "text": "Comparez les propositions, les délais et les prix avant de décider."
+    },
+    {
+      "title": "Sans engagement",
+      "text": "Vous choisissez librement votre artisan, ou personne."
+    }
+  ],
+  "partnersTitle": "Comparez les devis gratuits de nos partenaires",
+  "sections": [
+    {
+      "h2": "Ce que fait un ramoneur",
+      "html": "<ul><li>Ramonage de cheminée, insert et poêle</li><li>Ramonage des conduits de chaudière</li><li>Débistrage</li><li>Tubage et chemisage de conduit</li><li>Vérification du tirage</li><li>Remise du certificat de ramonage</li></ul>"
+    },
+    {
+      "h2": "Quand faire appel à un ramoneur ?",
+      "html": "<ul><li>Avant et pendant la saison de chauffe</li><li>Après l’achat d’un logement avec cheminée</li><li>Si le tirage est mauvais ou que la fumée refoule</li><li>Avant d’installer un nouveau poêle</li></ul>"
+    },
+    {
+      "h2": "Les questions à poser avant de signer",
+      "html": "<p>Au moment de comparer les devis, ces questions vous aident à choisir :</p><ol><li>Pouvez-vous me transmettre votre <strong>attestation d’assurance décennale</strong> (et de responsabilité civile professionnelle) en cours de validité ?</li><li>Quel est votre numéro <strong>SIRET</strong> ?</li><li>Remettez-vous un certificat de ramonage ?</li><li>Utilisez-vous une méthode mécanique ?</li><li>Contrôlez-vous l’état du conduit ?</li></ol><p>Pour aller plus loin : <a href=\"/guides/verifier-un-artisan/\">comment vérifier un artisan</a>.</p>"
+    },
+    {
+      "h2": "Ce qui fait varier le prix",
+      "html": "<p>Chaque chantier est différent. Les principaux facteurs :</p><ul><li>Le type d’appareil et de conduit</li><li>La hauteur et l’accès au toit</li><li>Le débistrage éventuel</li><li>Le nombre de conduits</li></ul><p>Le plus fiable pour connaître le prix de votre projet est de comparer plusieurs devis détaillés. Voir <a href=\"/guides/devis-travaux/\">ce que doit contenir un devis</a>.</p>"
+    },
+    {
+      "h2": "Règles et précautions à connaître",
+      "html": "<p>Le ramonage est <strong>obligatoire</strong> ; sa fréquence est fixée par le <strong>règlement sanitaire départemental</strong> ou un arrêté municipal (souvent deux fois par an pour le bois, dont une pendant la période de chauffe). Le professionnel remet un <strong>certificat de ramonage</strong>, que votre assureur peut demander après un sinistre.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Qui paie le ramonage dans une location ?",
+      "a": "Le ramonage fait partie de l’entretien courant à la charge du locataire, sauf disposition contraire du bail."
+    },
+    {
+      "q": "Les bûches de ramonage suffisent-elles ?",
+      "a": "Non. Elles peuvent faciliter l’entretien, mais ne remplacent pas un ramonage mécanique par un professionnel."
+    }
+  ],
+  "related": [
+    "metiers/poele-a-bois",
+    "metiers/chauffagiste",
+    "metiers/couvreur"
+  ],
+  "relatedTitle": "Métiers liés",
+  "ctaTitle": "De quel artisan avez-vous besoin ?"
+}

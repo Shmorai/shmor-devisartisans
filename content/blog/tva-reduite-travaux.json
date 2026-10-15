@@ -1,0 +1,70 @@
+{
+  "type": "post",
+  "date": "2026-08-13",
+  "updated": "2026-08-13",
+  "slug": "blog/tva-reduite-travaux",
+  "nav": "TVA sur les travaux : quel taux s’applique ?",
+  "title": "TVA réduite sur les travaux : 5,5 %, 10 % ou 20 % ?",
+  "description": "Taux de 5,5 % pour la rénovation énergétique, 10 % pour l’amélioration, 20 % pour le neuf : les conditions de la TVA réduite.",
+  "keywords": [
+    "fiscalité",
+    "réduite",
+    "travaux"
+  ],
+  "cardText": "Taux de 5,5 % pour la rénovation énergétique, 10 % pour l’amélioration, 20 % pour le neuf : les conditions de la TVA réduite.",
+  "eyebrow": "Fiscalité",
+  "h1": "TVA sur les travaux : quel taux s’applique ?",
+  "intro": "Le taux de TVA peut représenter une différence importante sur une facture de travaux. Il dépend de la nature des travaux et de l’âge du logement.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1709880945165-d2208c6ad2ec",
+    "alt": "Calculatrice posée sur une table à côté d’un ordinateur",
+    "credit": "Jakub Żerdzicki",
+    "creditUrl": "https://unsplash.com/@jakubzerdzicki"
+  },
+  "sections": [
+    {
+      "h2": "Les trois taux",
+      "html": "<ul><li><strong>5,5 %</strong> : travaux de rénovation énergétique éligibles (isolation, équipements performants) et travaux induits</li><li><strong>10 %</strong> : travaux d’amélioration, de transformation, d’aménagement et d’entretien</li><li><strong>20 %</strong> : construction neuve, agrandissement important, certains équipements</li></ul>"
+    },
+    {
+      "h2": "Les conditions",
+      "html": "<ul><li>Un logement achevé depuis plus de deux ans</li><li>Des travaux facturés par l’entreprise (pas d’achat de matériaux seuls)</li><li>Une mention justificative sur le devis et la facture, qui a remplacé l’ancienne attestation papier</li></ul>"
+    },
+    {
+      "h2": "Bon à savoir",
+      "html": "<p>Si vous achetez vous-même les matériaux, ils restent taxés à 20 %. Seule la main-d’œuvre facturée par l’entreprise bénéficie alors du taux réduit.</p>"
+    },
+    {
+      "h2": "Exemples",
+      "html": "<ul><li><strong>Isolation des combles par une entreprise</strong> : 5,5 % si les critères de performance sont respectés.</li><li><strong>Remplacement d’une cuisine</strong> : 10 % en général.</li><li><strong>Peinture des pièces</strong> : 10 %.</li><li><strong>Extension augmentant fortement la surface</strong> : 20 %.</li></ul><p>Les cas limites sont nombreux : en cas de doute, demandez à l’entreprise d’expliquer le taux appliqué, ou consultez le Bulletin officiel des finances publiques.</p>"
+    },
+    {
+      "h2": "Ce que vous devez fournir",
+      "html": "<p>Depuis 2025, l’attestation papier que le client remplissait pour justifier du taux réduit a été remplacée par une mention portée sur le devis et la facture. Lisez-la avant de signer : vous y confirmez notamment l’âge du logement et sa destination. Une déclaration inexacte peut entraîner un rappel de TVA.</p>"
+    },
+    {
+      "h2": "TVA et aides",
+      "html": "<p>La TVA réduite se cumule en général avec les autres aides à la rénovation. Voir <a href=\"/guides/aides-renovation/\">notre guide des aides</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Les locataires peuvent-ils en bénéficier ?",
+      "a": "Oui, le taux réduit s’applique aussi aux travaux commandés par un locataire ou un occupant, dès lors que les conditions sont remplies."
+    },
+    {
+      "q": "La TVA réduite s’applique-t-elle aux résidences secondaires ?",
+      "a": "Oui, dès lors qu’il s’agit d’un local d’habitation achevé depuis plus de deux ans et que les autres conditions sont remplies."
+    },
+    {
+      "q": "Et pour un local professionnel ?",
+      "a": "Non, les taux réduits concernent les locaux à usage d’habitation."
+    }
+  ],
+  "sources": [
+    {
+      "title": "impots.gouv.fr",
+      "url": "https://www.impots.gouv.fr/"
+    }
+  ]
+}

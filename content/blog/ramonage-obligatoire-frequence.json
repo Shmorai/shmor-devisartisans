@@ -1,0 +1,70 @@
+{
+  "type": "post",
+  "date": "2026-06-26",
+  "updated": "2026-06-26",
+  "slug": "blog/ramonage-obligatoire-frequence",
+  "nav": "Ramonage : combien de fois par an et pourquoi ?",
+  "title": "Ramonage obligatoire : fréquence et certificat",
+  "description": "Fréquence fixée par le règlement sanitaire départemental, certificat, assurance, location : tout savoir sur le ramonage obligatoire des conduits de fumée.",
+  "keywords": [
+    "chauffage",
+    "ramonage",
+    "obligatoire"
+  ],
+  "cardText": "Fréquence fixée par le règlement sanitaire départemental, certificat, assurance, location : tout savoir sur le ramonage obligatoire des conduits de fumée.",
+  "eyebrow": "Chauffage",
+  "h1": "Ramonage : combien de fois par an et pourquoi ?",
+  "intro": "Un conduit encrassé augmente le risque de feu de cheminée et d’intoxication au monoxyde de carbone. Le ramonage n’est pas une option.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1642799829852-4049c0a74d97",
+    "alt": "Rangée de cheminées sur des toits en pente",
+    "credit": "Richard Bell",
+    "creditUrl": "https://unsplash.com/@maplerockdesign"
+  },
+  "sections": [
+    {
+      "h2": "Quelle fréquence ?",
+      "html": "<p>Elle est fixée par le règlement sanitaire départemental ou par arrêté municipal. Pour les appareils à bois, la règle la plus courante est de deux ramonages par an, dont un pendant la période de chauffe.</p>"
+    },
+    {
+      "h2": "Le certificat de ramonage",
+      "html": "<p>Le professionnel vous remet un certificat qui atteste du ramonage et de l’état du conduit. Conservez-le : votre assureur peut le demander en cas de sinistre.</p>"
+    },
+    {
+      "h2": "Les bons réflexes",
+      "html": "<ul><li>Brûlez du bois sec</li><li>Faites vérifier le conduit avant de raccorder un nouvel appareil</li><li>Installez un détecteur de fumée (obligatoire dans tout logement)</li></ul>"
+    },
+    {
+      "h2": "Comment se déroule un ramonage",
+      "html": "<p>Le ramoneur protège les abords de l’appareil, ramone le conduit mécaniquement à l’aide d’un hérisson adapté à son diamètre, récupère les suies, vérifie la vacuité du conduit et contrôle le tirage. Il remet ensuite un certificat qui mentionne notamment le conduit traité et ses éventuelles anomalies.</p>"
+    },
+    {
+      "h2": "Le débistrage",
+      "html": "<p>Le bistre est un dépôt goudronneux et inflammable qui se forme avec un bois humide ou une combustion au ralenti. Il ne part pas au ramonage classique : un débistrage mécanique ou chimique est alors nécessaire. La prévention passe par du bois sec et une combustion vive.</p>"
+    },
+    {
+      "h2": "Avant d’installer un nouvel appareil",
+      "html": "<p>Faites vérifier la compatibilité du conduit (diamètre, état, étanchéité). Un tubage peut être nécessaire, notamment pour un <a href=\"/metiers/poele-a-bois/\">poêle à bois ou à granulés</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Qui paie le ramonage en location ?",
+      "a": "Le locataire, au titre de l’entretien courant, sauf disposition contraire du bail."
+    },
+    {
+      "q": "Un conduit inutilisé doit-il être ramoné ?",
+      "a": "S’il n’est raccordé à aucun appareil en fonctionnement, l’obligation ne s’applique pas en pratique. Faites-le vérifier avant toute remise en service."
+    },
+    {
+      "q": "Combien de temps dure un ramonage ?",
+      "a": "Généralement moins d’une heure pour un conduit simple, davantage en cas de débistrage ou d’accès difficile."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Service-public.fr",
+      "url": "https://www.service-public.gouv.fr/"
+    }
+  ]
+}

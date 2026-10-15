@@ -1,0 +1,73 @@
+{
+  "type": "post",
+  "date": "2026-08-03",
+  "updated": "2026-08-03",
+  "slug": "blog/dpe-location-calendrier",
+  "nav": "DPE et location : quels logements ne peuvent plus être loués ?",
+  "title": "DPE et location : le calendrier des logements interdits",
+  "description": "Logements G depuis 2025, F en 2028, E en 2034 : le calendrier de la décence énergétique pour les bailleurs et les travaux qui permettent de gagner des classes.",
+  "keywords": [
+    "logement",
+    "location"
+  ],
+  "cardText": "Logements G depuis 2025, F en 2028, E en 2034 : le calendrier de la décence énergétique pour les bailleurs et les travaux qui permettent de gagner des classes.",
+  "eyebrow": "Logement",
+  "h1": "DPE et location : quels logements ne peuvent plus être loués ?",
+  "intro": "La loi Climat et résilience a fixé un niveau minimal de performance énergétique pour qu’un logement soit considéré comme décent. Les bailleurs doivent anticiper.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1543399151-5dc42f103557",
+    "alt": "Immeubles blancs sous un ciel nuageux",
+    "credit": "Salomé Watel",
+    "creditUrl": "https://unsplash.com/@samefaisrire"
+  },
+  "sections": [
+    {
+      "h2": "Le calendrier en France métropolitaine",
+      "html": "<ul><li><strong>1er janvier 2025</strong> : logements classés G</li><li><strong>1er janvier 2028</strong> : logements classés F</li><li><strong>1er janvier 2034</strong> : logements classés E</li></ul><p>Ces logements ne peuvent plus faire l’objet d’un nouveau bail. Les échéances sont décalées en outre-mer.</p>"
+    },
+    {
+      "h2": "Les travaux qui font gagner des classes",
+      "html": "<ul><li><a href=\"/metiers/isolation/\">Isolation</a> des combles, des murs et des planchers</li><li>Remplacement des <a href=\"/metiers/menuisier/\">fenêtres</a> simple vitrage</li><li><a href=\"/metiers/pompe-a-chaleur/\">Chauffage performant</a> et ventilation</li></ul>"
+    },
+    {
+      "h2": "Par où commencer ?",
+      "html": "<p>Un audit énergétique hiérarchise les travaux. Les conseillers France Rénov’ vous orientent gratuitement, y compris sur les aides ouvertes aux bailleurs.</p>"
+    },
+    {
+      "h2": "Comprendre les étiquettes",
+      "html": "<p>Le DPE classe le logement de A à G selon sa consommation d’énergie primaire et ses émissions de gaz à effet de serre ; c’est la plus mauvaise des deux performances qui détermine la classe. Le DPE est opposable : un locataire ou un acheteur peut se retourner contre le bailleur ou le vendeur en cas d’erreur.</p>"
+    },
+    {
+      "h2": "Gel des loyers",
+      "html": "<p>Depuis août 2022, les loyers des logements classés F et G ne peuvent plus être augmentés en France métropolitaine, ni lors de la révision annuelle, ni à la relocation, ni au renouvellement du bail.</p>"
+    },
+    {
+      "h2": "Construire un plan de travaux",
+      "html": "<ul><li>Faire réaliser un audit énergétique</li><li>Traiter d’abord l’enveloppe : toiture, murs, planchers, fenêtres</li><li>Remplacer le chauffage et l’eau chaude une fois les besoins réduits</li><li>Assurer une ventilation efficace</li><li>Comparer des devis d’entreprises <a href=\"/guides/verifier-un-artisan/\">RGE</a></li></ul>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Un bail en cours est-il remis en cause ?",
+      "a": "L’interdiction s’applique aux nouveaux baux et aux renouvellements. Le locataire en place peut toutefois exiger la mise en conformité du logement."
+    },
+    {
+      "q": "Que risque un bailleur qui loue un logement indécent ?",
+      "a": "Le locataire peut demander au juge la mise en conformité et, le cas échéant, une réduction de loyer. Le logement indécent ne peut plus faire l’objet d’un nouveau bail."
+    },
+    {
+      "q": "Un nouveau DPE peut-il améliorer la classe sans travaux ?",
+      "a": "Un DPE refait peut corriger des erreurs, mais seuls des travaux améliorent réellement la performance du logement."
+    }
+  ],
+  "sources": [
+    {
+      "title": "France Rénov’ (service public de la rénovation de l’habitat)",
+      "url": "https://france-renov.gouv.fr/"
+    },
+    {
+      "title": "Service-public.fr",
+      "url": "https://www.service-public.gouv.fr/"
+    }
+  ]
+}

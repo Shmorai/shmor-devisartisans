@@ -1,0 +1,80 @@
+{
+  "updated": "2026-10-15",
+  "slug": "metiers/salle-de-bain",
+  "nav": "Salle de bain",
+  "title": "Rénovation de salle de bain : devis gratuits",
+  "description": "Salle de bain complète, douche à l’italienne, remplacement de baignoire, adaptation PMR : comparez les devis d’artisans près de chez vous, sans engagement.",
+  "keywords": [
+    "salle de bain",
+    "rénovation salle de bain",
+    "douche italienne",
+    "remplacement baignoire",
+    "installation sanitaire",
+    "salle de bain pmr"
+  ],
+  "cardText": "Rénovation complète de salle de bain · Création de douche à l’italienne · Remplacement de baignoire par une douche",
+  "eyebrow": "Salle de bain",
+  "h1": "Rénover votre salle de bain",
+  "intro": "Une salle de bain mobilise plusieurs métiers : plombier, électricien, carreleur. Comparez les devis d’entreprises capables de tout coordonner, ou d’artisans spécialisés.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1584622650111-993a426fbf0a",
+    "alt": "Salle de bain moderne avec douche à l’italienne et meuble vasque",
+    "credit": "Lotus Design N Print",
+    "creditUrl": "https://unsplash.com/@lotusdnp"
+  },
+  "searchPlaceholder": "Votre projet, p. ex. « fuite » ou « fenêtres »",
+  "highlights": [
+    {
+      "title": "Gratuit",
+      "text": "Décrire votre projet et recevoir des devis ne vous coûte rien."
+    },
+    {
+      "title": "Plusieurs devis",
+      "text": "Comparez les propositions, les délais et les prix avant de décider."
+    },
+    {
+      "title": "Sans engagement",
+      "text": "Vous choisissez librement votre artisan, ou personne."
+    }
+  ],
+  "partnersTitle": "Comparez les devis gratuits de nos partenaires",
+  "sections": [
+    {
+      "h2": "Ce que fait un installateur de salle de bain",
+      "html": "<ul><li>Rénovation complète de salle de bain</li><li>Création de douche à l’italienne</li><li>Remplacement de baignoire par une douche</li><li>Pose de sanitaires, meubles vasques et WC</li><li>Adaptation pour personnes âgées ou à mobilité réduite</li><li>Ventilation et chauffage (sèche-serviettes)</li></ul>"
+    },
+    {
+      "h2": "Quand faire appel à un installateur de salle de bain ?",
+      "html": "<ul><li>Votre salle de bain est vieillissante ou mal agencée</li><li>Vous voulez une douche plus accessible</li><li>Des fuites ou de l’humidité apparaissent</li><li>Vous adaptez le logement pour bien vieillir</li></ul>"
+    },
+    {
+      "h2": "Les questions à poser avant de signer",
+      "html": "<p>Au moment de comparer les devis, ces questions vous aident à choisir :</p><ol><li>Pouvez-vous me transmettre votre <strong>attestation d’assurance décennale</strong> (et de responsabilité civile professionnelle) en cours de validité ?</li><li>Quel est votre numéro <strong>SIRET</strong> ?</li><li>Qui coordonne plomberie, électricité et carrelage ?</li><li>Quelle étanchéité prévoyez-vous sous la douche ?</li><li>Combien de jours sans salle de bain faut-il prévoir ?</li></ol><p>Pour aller plus loin : <a href=\"/guides/verifier-un-artisan/\">comment vérifier un artisan</a>.</p>"
+    },
+    {
+      "h2": "Ce qui fait varier le prix",
+      "html": "<p>Chaque chantier est différent. Les principaux facteurs :</p><ul><li>La surface et l’agencement</li><li>Le déplacement des évacuations</li><li>Les équipements choisis</li><li>Le carrelage et l’étanchéité</li></ul><p>Le plus fiable pour connaître le prix de votre projet est de comparer plusieurs devis détaillés. Voir <a href=\"/guides/devis-travaux/\">ce que doit contenir un devis</a>.</p>"
+    },
+    {
+      "h2": "Règles et précautions à connaître",
+      "html": "<p>L’électricité d’une salle de bain respecte des <strong>volumes de sécurité</strong> définis par la norme NF C 15-100. Pour adapter une salle de bain à la perte d’autonomie, l’aide <strong>MaPrimeAdapt’</strong> de l’Anah peut financer une partie des travaux sous conditions de ressources et d’âge ou de handicap. La TVA à 10 % s’applique en général dans un logement de plus de deux ans.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Une douche à l’italienne est-elle possible partout ?",
+      "a": "Il faut une pente suffisante vers l’évacuation. Sur une dalle béton, un receveur extra-plat ou un relevé de sol peut être nécessaire. L’artisan le vérifiera sur place."
+    },
+    {
+      "q": "Quelle aide pour une salle de bain adaptée ?",
+      "a": "MaPrimeAdapt’ (Anah) peut financer l’adaptation du logement pour les personnes âgées ou en situation de handicap, sous conditions. Renseignez-vous sur france-renov.gouv.fr."
+    }
+  ],
+  "related": [
+    "metiers/plombier",
+    "metiers/carreleur",
+    "metiers/electricien"
+  ],
+  "relatedTitle": "Métiers liés",
+  "ctaTitle": "De quel artisan avez-vous besoin ?"
+}

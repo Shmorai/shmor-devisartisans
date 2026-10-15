@@ -1,0 +1,80 @@
+{
+  "updated": "2026-10-15",
+  "slug": "metiers/cuisiniste",
+  "nav": "Cuisiniste",
+  "title": "Cuisiniste : conception et pose de cuisine",
+  "description": "Cuisine sur mesure ou en kit, plan de travail, montage et pose : comparez les devis de cuisinistes et d’artisans poseurs près de chez vous, gratuitement.",
+  "keywords": [
+    "cuisiniste",
+    "pose cuisine",
+    "cuisine sur mesure",
+    "montage cuisine",
+    "plan de travail",
+    "rénovation cuisine"
+  ],
+  "cardText": "Conception et plan de cuisine · Fourniture et pose de meubles · Montage de cuisines en kit",
+  "eyebrow": "Cuisine",
+  "h1": "Installer ou rénover votre cuisine",
+  "intro": "Une cuisine réussie combine un plan bien pensé et une pose soignée. Comparez les devis de cuisinistes et de poseurs de votre région.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1617228069096-4638a7ffc906",
+    "alt": "Cuisine moderne avec îlot central et grande fenêtre",
+    "credit": "Cat Han",
+    "creditUrl": "https://unsplash.com/@figmentprints"
+  },
+  "searchPlaceholder": "Votre projet, p. ex. « fuite » ou « fenêtres »",
+  "highlights": [
+    {
+      "title": "Gratuit",
+      "text": "Décrire votre projet et recevoir des devis ne vous coûte rien."
+    },
+    {
+      "title": "Plusieurs devis",
+      "text": "Comparez les propositions, les délais et les prix avant de décider."
+    },
+    {
+      "title": "Sans engagement",
+      "text": "Vous choisissez librement votre artisan, ou personne."
+    }
+  ],
+  "partnersTitle": "Comparez les devis gratuits de nos partenaires",
+  "sections": [
+    {
+      "h2": "Ce que fait un cuisiniste",
+      "html": "<ul><li>Conception et plan de cuisine</li><li>Fourniture et pose de meubles</li><li>Montage de cuisines en kit</li><li>Pose de plans de travail et crédences</li><li>Raccordements plomberie et électricité</li><li>Installation de hotte et d’électroménager</li></ul>"
+    },
+    {
+      "h2": "Quand faire appel à un cuisiniste ?",
+      "html": "<ul><li>Votre cuisine est vieillissante ou peu pratique</li><li>Vous ouvrez la cuisine sur le séjour</li><li>Vous avez acheté une cuisine en kit à monter</li><li>Vous rénovez entièrement le logement</li></ul>"
+    },
+    {
+      "h2": "Les questions à poser avant de signer",
+      "html": "<p>Au moment de comparer les devis, ces questions vous aident à choisir :</p><ol><li>Pouvez-vous me transmettre votre <strong>attestation d’assurance décennale</strong> (et de responsabilité civile professionnelle) en cours de validité ?</li><li>Quel est votre numéro <strong>SIRET</strong> ?</li><li>La pose, les raccordements et l’évacuation de l’ancienne cuisine sont-ils inclus ?</li><li>Qui gère la plomberie et l’électricité ?</li><li>Quelles garanties sur les meubles et la pose ?</li></ol><p>Pour aller plus loin : <a href=\"/guides/verifier-un-artisan/\">comment vérifier un artisan</a>.</p>"
+    },
+    {
+      "h2": "Ce qui fait varier le prix",
+      "html": "<p>Chaque chantier est différent. Les principaux facteurs :</p><ul><li>Les matériaux des façades et du plan de travail</li><li>Le linéaire et l’agencement</li><li>L’électroménager</li><li>Les travaux annexes (plomberie, électricité, carrelage)</li></ul><p>Le plus fiable pour connaître le prix de votre projet est de comparer plusieurs devis détaillés. Voir <a href=\"/guides/devis-travaux/\">ce que doit contenir un devis</a>.</p>"
+    },
+    {
+      "h2": "Règles et précautions à connaître",
+      "html": "<p>Attention : un achat de cuisine conclu sur une <strong>foire ou un salon</strong> ne bénéficie pas du délai de rétractation de 14 jours (sauf financement par crédit affecté), et le vendeur doit vous en informer. Pour un contrat signé à votre domicile, le délai de rétractation s’applique.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Peut-on faire poser une cuisine achetée ailleurs ?",
+      "a": "Oui, de nombreux artisans posent des cuisines achetées en magasin ou en kit. Vérifiez qui garantit quoi : les meubles relèvent du vendeur, la pose de l’artisan."
+    },
+    {
+      "q": "Faut-il refaire l’électricité de la cuisine ?",
+      "a": "Une cuisine demande des circuits spécialisés (plaque, four, lave-vaisselle). Si votre installation est ancienne, faites-la vérifier par un électricien."
+    }
+  ],
+  "related": [
+    "metiers/plombier",
+    "metiers/electricien",
+    "metiers/carreleur"
+  ],
+  "relatedTitle": "Métiers liés",
+  "ctaTitle": "De quel artisan avez-vous besoin ?"
+}

@@ -1,0 +1,75 @@
+{
+  "type": "post",
+  "date": "2026-05-11",
+  "updated": "2026-05-11",
+  "slug": "blog/isolation-combles-perdus-etapes",
+  "nav": "Isoler ses combles perdus : comment se passe le chantier ?",
+  "title": "Isolation des combles perdus : les étapes du chantier",
+  "description": "Soufflage ou déroulage, préparation, épaisseur, ventilation : les étapes d’une isolation de combles perdus et les points à vérifier sur le devis.",
+  "keywords": [
+    "isolation",
+    "isolation",
+    "combles",
+    "perdus"
+  ],
+  "cardText": "Soufflage ou déroulage, préparation, épaisseur, ventilation : les étapes d’une isolation de combles perdus et les points à vérifier sur le devis.",
+  "eyebrow": "Isolation",
+  "h1": "Isoler ses combles perdus : comment se passe le chantier ?",
+  "intro": "Les combles perdus sont souvent le premier poste de déperdition d’une maison mal isolée. Leur isolation est rapide, mais demande une bonne préparation.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1776604336398-decfacdc7c07",
+    "alt": "Poutres en bois sous la toiture d’un grenier",
+    "credit": "C",
+    "creditUrl": "https://unsplash.com/@thecurlyone"
+  },
+  "sections": [
+    {
+      "h2": "Soufflage ou déroulage",
+      "html": "<p>L’isolant en vrac (laine minérale, ouate de cellulose) est soufflé à la machine ; les rouleaux sont déroulés à la main. Le soufflage est rapide et adapté aux combles difficiles d’accès.</p>"
+    },
+    {
+      "h2": "La préparation, étape clé",
+      "html": "<ul><li>Repérage et protection des spots, boîtiers électriques et conduits de fumée</li><li>Pose d’un pare-vapeur si nécessaire</li><li>Création d’un cheminement pour accéder aux combles</li><li>Rehausse autour de la trappe</li></ul>"
+    },
+    {
+      "h2": "Ce que doit préciser le devis",
+      "html": "<ul><li>La résistance thermique visée (R)</li><li>L’épaisseur après tassement</li><li>La surface traitée</li><li>La qualification RGE pour les aides</li></ul>"
+    },
+    {
+      "h2": "Méfiez-vous du démarchage",
+      "html": "<p>Le démarchage téléphonique pour la rénovation énergétique est interdit. Ne signez jamais sous la pression d’une offre « limitée ».</p>"
+    },
+    {
+      "h2": "Quel isolant choisir ?",
+      "html": "<ul><li><strong>Laines minérales soufflées</strong> (verre, roche) : courantes, incombustibles.</li><li><strong>Ouate de cellulose</strong> : issue de papier recyclé, bonne inertie pour le confort d’été.</li><li><strong>Fibres de bois</strong> en vrac : biosourcées, également intéressantes l’été.</li></ul><p>Quel que soit l’isolant, c’est la résistance thermique R qui compte : plus elle est élevée, mieux le plancher des combles est isolé.</p>"
+    },
+    {
+      "h2": "Après le chantier",
+      "html": "<p>Vérifiez que l’épaisseur annoncée est respectée (des piges graduées sont souvent posées pour la contrôler), que la trappe d’accès est isolée et que l’installateur vous remet une fiche de chantier précisant l’isolant, la surface et la résistance thermique. Ces documents servent pour les aides et pour la revente.</p>"
+    },
+    {
+      "h2": "Combles aménagés : un autre chantier",
+      "html": "<p>Si vos combles sont habitables, l’isolation se fait sous les rampants, avec des panneaux ou rouleaux posés entre et sous les chevrons, ou par l’extérieur lors d’une réfection de toiture (sarking). Voir <a href=\"/metiers/isolation/\">isolation</a> et <a href=\"/metiers/couvreur/\">couvreur</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Combien de temps dure le chantier ?",
+      "a": "Pour une maison individuelle, une isolation par soufflage se fait souvent en une journée, préparation comprise."
+    },
+    {
+      "q": "Faut-il retirer l’ancien isolant ?",
+      "a": "S’il est humide, tassé ou souillé, oui. S’il est sain, l’installateur peut parfois compléter par-dessus. Il le vérifiera lors de la visite."
+    },
+    {
+      "q": "L’isolation des combles réduit-elle aussi la chaleur l’été ?",
+      "a": "Oui, notamment avec des isolants denses comme la ouate de cellulose ou la fibre de bois, qui ralentissent la pénétration de la chaleur."
+    }
+  ],
+  "sources": [
+    {
+      "title": "France Rénov’ (service public de la rénovation de l’habitat)",
+      "url": "https://france-renov.gouv.fr/"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "updated": "2026-10-15",
+  "slug": "metiers/poele-a-bois",
+  "nav": "Poêle à bois",
+  "title": "Poêle à bois ou à granulés : devis d’installateurs",
+  "description": "Poêle à bois, à granulés ou insert : comparez les devis d’installateurs RGE près de chez vous, avec conduit, tubage et démarches pour les aides.",
+  "keywords": [
+    "poêle à bois",
+    "poele a bois",
+    "poêle à granulés",
+    "poele a granules",
+    "insert cheminée",
+    "installateur poêle"
+  ],
+  "cardText": "Conseil et dimensionnement · Installation de poêle à bois ou à granulés · Pose d’insert dans une cheminée existante",
+  "eyebrow": "Chauffage au bois",
+  "h1": "Installer un poêle à bois ou à granulés",
+  "intro": "Un poêle performant chauffe efficacement à condition d’être bien dimensionné et bien raccordé. Comparez les devis d’installateurs de votre région.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1678274909137-ae0677d24a9b",
+    "alt": "Poêle à bois dans un salon",
+    "credit": "Seiya Maeda",
+    "creditUrl": "https://unsplash.com/@seiya_maeda"
+  },
+  "searchPlaceholder": "Votre projet, p. ex. « fuite » ou « fenêtres »",
+  "highlights": [
+    {
+      "title": "Gratuit",
+      "text": "Décrire votre projet et recevoir des devis ne vous coûte rien."
+    },
+    {
+      "title": "Plusieurs devis",
+      "text": "Comparez les propositions, les délais et les prix avant de décider."
+    },
+    {
+      "title": "Sans engagement",
+      "text": "Vous choisissez librement votre artisan, ou personne."
+    }
+  ],
+  "partnersTitle": "Comparez les devis gratuits de nos partenaires",
+  "sections": [
+    {
+      "h2": "Ce que fait un installateur de poêle",
+      "html": "<ul><li>Conseil et dimensionnement</li><li>Installation de poêle à bois ou à granulés</li><li>Pose d’insert dans une cheminée existante</li><li>Création ou tubage de conduit</li><li>Mise en service et premier entretien</li></ul>"
+    },
+    {
+      "h2": "Quand faire appel à un installateur de poêle ?",
+      "html": "<ul><li>Vous cherchez un chauffage principal ou d’appoint</li><li>Votre cheminée ouverte chauffe mal</li><li>Vous remplacez un vieil appareil</li><li>Vous voulez réduire votre facture de chauffage</li></ul>"
+    },
+    {
+      "h2": "Les questions à poser avant de signer",
+      "html": "<p>Au moment de comparer les devis, ces questions vous aident à choisir :</p><ol><li>Pouvez-vous me transmettre votre <strong>attestation d’assurance décennale</strong> (et de responsabilité civile professionnelle) en cours de validité ?</li><li>Quel est votre numéro <strong>SIRET</strong> ?</li><li>Êtes-vous qualifié RGE (Qualibois par exemple) ?</li><li>Le conduit existant est-il compatible ou faut-il un tubage ?</li><li>Quel rendement et quelles émissions pour l’appareil proposé ?</li></ol><p>Pour aller plus loin : <a href=\"/guides/verifier-un-artisan/\">comment vérifier un artisan</a>.</p>"
+    },
+    {
+      "h2": "Ce qui fait varier le prix",
+      "html": "<p>Chaque chantier est différent. Les principaux facteurs :</p><ul><li>Le type d’appareil (bois bûche, granulés, insert)</li><li>La création ou l’adaptation du conduit</li><li>La puissance et la gamme</li><li>Les travaux de toiture pour la sortie de conduit</li></ul><p>Le plus fiable pour connaître le prix de votre projet est de comparer plusieurs devis détaillés. Voir <a href=\"/guides/devis-travaux/\">ce que doit contenir un devis</a>.</p>"
+    },
+    {
+      "h2": "Règles et précautions à connaître",
+      "html": "<p>Un conduit neuf traversant la toiture peut nécessiter une <strong>déclaration préalable</strong>. Pour les aides, l’installateur doit être <strong>RGE</strong>. Le conduit doit être <strong>ramoné</strong> selon le règlement sanitaire départemental. Certaines zones couvertes par un plan de protection de l’atmosphère encadrent l’usage des appareils anciens et peu performants.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Bois bûche ou granulés ?",
+      "a": "Le bois bûche est souvent moins cher à l’achat mais demande de la manutention ; le granulé offre une programmation et une autonomie plus grandes, mais nécessite de l’électricité et un stockage au sec."
+    },
+    {
+      "q": "Peut-on installer un poêle en appartement ?",
+      "a": "C’est possible si un conduit conforme existe ou peut être créé, avec l’accord de la copropriété lorsque les parties communes sont concernées."
+    }
+  ],
+  "related": [
+    "metiers/ramoneur",
+    "metiers/chauffagiste",
+    "metiers/isolation"
+  ],
+  "relatedTitle": "Métiers liés",
+  "ctaTitle": "De quel artisan avez-vous besoin ?"
+}

@@ -2,8 +2,8 @@
   "updated": "2026-10-15",
   "slug": "metiers/peintre",
   "nav": "Peintre",
-  "title": "Peintre en bâtiment : devis peinture intérieure",
-  "description": "Peinture intérieure, papier peint, ravalement de façade : comparez les devis gratuits de peintres en bâtiment près de chez vous, sans engagement.",
+  "title": "Peintre en bâtiment : devis peinture intérieure",
+  "description": "Peinture intérieure, papier peint, ravalement de façade : comparez les devis gratuits de peintres en bâtiment près de chez vous, sans engagement.",
   "keywords": [
     "peintre",
     "peintre en bâtiment",
@@ -13,7 +13,7 @@
     "ravalement de façade",
     "papier peint"
   ],
-  "cardText": "Peinture des murs, plafonds et boiseries · Pose et dépose de papier peint ou de toile de verre · Préparation des supports : rebouchage, ponçage, enduits",
+  "cardText": "Peinture des murs, plafonds et boiseries · Pose et dépose de papier peint ou de toile de verre · Préparation des supports : rebouchage, ponçage, enduits",
   "eyebrow": "Peinture",
   "h1": "Trouver un peintre en bâtiment",
   "intro": "Un chantier de peinture réussi dépend surtout de la préparation des supports. Décrivez vos pièces ou votre façade et comparez les devis de peintres de votre secteur.",
@@ -23,7 +23,7 @@
     "credit": "Theme Photos",
     "creditUrl": "https://unsplash.com/@themephotos"
   },
-  "searchPlaceholder": "Votre projet, p. ex. « fuite » ou « fenêtres »",
+  "searchPlaceholder": "Votre projet, p. ex. « fuite » ou « fenêtres »",
   "highlights": [
     {
       "title": "Gratuit",
@@ -42,36 +42,36 @@
   "sections": [
     {
       "h2": "Ce que fait un peintre en bâtiment",
-      "html": "<ul><li>Peinture des murs, plafonds et boiseries</li><li>Pose et dépose de papier peint ou de toile de verre</li><li>Préparation des supports : rebouchage, ponçage, enduits</li><li>Ravalement et peinture de façade</li><li>Peinture des volets, portails et menuiseries extérieures</li></ul>"
+      "html": "<ul><li>Peinture des murs, plafonds et boiseries</li><li>Pose et dépose de papier peint ou de toile de verre</li><li>Préparation des supports : rebouchage, ponçage, enduits</li><li>Ravalement et peinture de façade</li><li>Peinture des volets, portails et menuiseries extérieures</li></ul>"
     },
     {
-      "h2": "Quand faire appel à un peintre en bâtiment ?",
+      "h2": "Quand faire appel à un peintre en bâtiment ?",
       "html": "<ul><li>Vous emménagez ou préparez une mise en vente ou en location</li><li>Les murs présentent des fissures, des traces d’humidité ou un ancien papier peint</li><li>La façade est encrassée ou s’effrite</li><li>Votre commune vous demande de ravaler la façade</li></ul>"
     },
     {
       "h2": "Les questions à poser avant de signer",
-      "html": "<p>Au moment de comparer les devis, ces questions vous aident à choisir :</p><ol><li>Pouvez-vous me transmettre votre <strong>attestation d’assurance décennale</strong> (et de responsabilité civile professionnelle) en cours de validité ?</li><li>Quel est votre numéro <strong>SIRET</strong> ?</li><li>Le devis précise-t-il le nombre de couches et la marque de peinture ?</li><li>La protection des sols et des meubles est-elle incluse ?</li><li>Combien de temps durera le chantier ?</li></ol><p>Pour aller plus loin : <a href=\"/guides/verifier-un-artisan/\">comment vérifier un artisan</a>.</p>"
+      "html": "<p>Au moment de comparer les devis, ces questions vous aident à choisir :</p><ol><li>Pouvez-vous me transmettre votre <strong>attestation d’assurance décennale</strong> (et de responsabilité civile professionnelle) en cours de validité ?</li><li>Quel est votre numéro <strong>SIRET</strong> ?</li><li>Le devis précise-t-il le nombre de couches et la marque de peinture ?</li><li>La protection des sols et des meubles est-elle incluse ?</li><li>Combien de temps durera le chantier ?</li></ol><p>Pour aller plus loin : <a href=\"/guides/verifier-un-artisan/\">comment vérifier un artisan</a>.</p>"
     },
     {
       "h2": "Ce qui fait varier le prix",
-      "html": "<p>Chaque chantier est différent. Les principaux facteurs :</p><ul><li>La surface à peindre et la hauteur sous plafond</li><li>L’état des supports et le travail de préparation</li><li>Le type et la gamme de peinture</li><li>Pour une façade : l’échafaudage et le traitement éventuel</li></ul><p>Le plus fiable pour connaître le prix de votre projet est de comparer plusieurs devis détaillés. Voir <a href=\"/guides/devis-travaux/\">ce que doit contenir un devis</a>.</p>"
+      "html": "<p>Chaque chantier est différent. Les principaux facteurs :</p><ul><li>La surface à peindre et la hauteur sous plafond</li><li>L’état des supports et le travail de préparation</li><li>Le type et la gamme de peinture</li><li>Pour une façade : l’échafaudage et le traitement éventuel</li></ul><p>Le plus fiable pour connaître le prix de votre projet est de comparer plusieurs devis détaillés. Voir <a href=\"/guides/devis-travaux/\">ce que doit contenir un devis</a>.</p>"
     },
     {
       "h2": "Règles et précautions à connaître",
-      "html": "<p>Dans certaines communes, le <strong>ravalement de façade est obligatoire au moins tous les dix ans</strong> (c’est le cas à Paris) ; un arrêté peut vous enjoindre de le réaliser. Un ravalement peut aussi nécessiter une <strong>déclaration préalable</strong>. Dans les logements construits avant 1949, les anciennes peintures peuvent contenir du plomb : le constat de risque d’exposition au plomb (CREP) permet de le savoir avant de poncer.</p>"
+      "html": "<p>Dans certaines communes, le <strong>ravalement de façade est obligatoire au moins tous les dix ans</strong> (c’est le cas à Paris) ; un arrêté peut vous enjoindre de le réaliser. Un ravalement peut aussi nécessiter une <strong>déclaration préalable</strong>. Dans les logements construits avant 1949, les anciennes peintures peuvent contenir du plomb : le constat de risque d’exposition au plomb (CREP) permet de le savoir avant de poncer.</p>"
     }
   ],
   "faqs": [
     {
-      "q": "Quelle TVA s’applique aux travaux de peinture ?",
+      "q": "Quelle TVA s’applique aux travaux de peinture ?",
       "a": "Pour un logement achevé depuis plus de deux ans, les travaux d’amélioration et d’entretien comme la peinture bénéficient en général du taux de TVA intermédiaire de 10 %, à condition d’être facturés par l’entreprise."
     },
     {
-      "q": "Faut-il une autorisation pour repeindre sa façade ?",
+      "q": "Faut-il une autorisation pour repeindre sa façade ?",
       "a": "Si la couleur change ou si votre commune l’exige, une déclaration préalable est nécessaire. Le plan local d’urbanisme fixe parfois une palette de teintes autorisées."
     },
     {
-      "q": "Combien de devis demander ?",
+      "q": "Combien de devis demander ?",
       "a": "Comparer au moins deux ou trois devis détaillés permet de juger le prix, mais aussi la préparation prévue et la qualité des produits."
     }
   ],
@@ -81,5 +81,5 @@
     "metiers/carreleur"
   ],
   "relatedTitle": "Métiers liés",
-  "ctaTitle": "De quel artisan avez-vous besoin ?"
+  "ctaTitle": "De quel artisan avez-vous besoin ?"
 }

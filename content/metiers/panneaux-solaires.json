@@ -1,0 +1,80 @@
+{
+  "updated": "2026-10-15",
+  "slug": "metiers/panneaux-solaires",
+  "nav": "Panneaux solaires",
+  "title": "Panneaux solaires : devis d’installateurs RGE",
+  "description": "Panneaux photovoltaïques en autoconsommation, chauffe-eau solaire : comparez les devis d’installateurs RGE et connaissez les démarches avant de signer.",
+  "keywords": [
+    "panneaux solaires",
+    "panneaux photovoltaïques",
+    "photovoltaique",
+    "autoconsommation",
+    "installateur solaire",
+    "chauffe-eau solaire"
+  ],
+  "cardText": "Étude de toiture et de production · Installation photovoltaïque en autoconsommation · Raccordement et démarches administratives",
+  "eyebrow": "Énergie solaire",
+  "h1": "Installer des panneaux solaires",
+  "intro": "Produire son électricité est séduisant, mais le secteur est aussi ciblé par le démarchage abusif. Comparez plusieurs devis d’installateurs qualifiés et vérifiez chaque étape.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1655300256335-beef51a914fe",
+    "alt": "Maison équipée de panneaux solaires sur le toit",
+    "credit": "Watt A Lot",
+    "creditUrl": "https://unsplash.com/@wattalot"
+  },
+  "searchPlaceholder": "Votre projet, p. ex. « fuite » ou « fenêtres »",
+  "highlights": [
+    {
+      "title": "Gratuit",
+      "text": "Décrire votre projet et recevoir des devis ne vous coûte rien."
+    },
+    {
+      "title": "Plusieurs devis",
+      "text": "Comparez les propositions, les délais et les prix avant de décider."
+    },
+    {
+      "title": "Sans engagement",
+      "text": "Vous choisissez librement votre artisan, ou personne."
+    }
+  ],
+  "partnersTitle": "Comparez les devis gratuits de nos partenaires",
+  "sections": [
+    {
+      "h2": "Ce que fait un installateur photovoltaïque",
+      "html": "<ul><li>Étude de toiture et de production</li><li>Installation photovoltaïque en autoconsommation</li><li>Raccordement et démarches administratives</li><li>Chauffe-eau solaire</li><li>Batteries de stockage</li><li>Maintenance et suivi</li></ul>"
+    },
+    {
+      "h2": "Quand faire appel à un installateur photovoltaïque ?",
+      "html": "<ul><li>Votre toiture est bien orientée et en bon état</li><li>Vous voulez réduire vos factures d’électricité</li><li>Vous refaites votre toiture</li><li>Vous équipez un véhicule électrique</li></ul>"
+    },
+    {
+      "h2": "Les questions à poser avant de signer",
+      "html": "<p>Au moment de comparer les devis, ces questions vous aident à choisir :</p><ol><li>Pouvez-vous me transmettre votre <strong>attestation d’assurance décennale</strong> (et de responsabilité civile professionnelle) en cours de validité ?</li><li>Quel est votre numéro <strong>SIRET</strong> ?</li><li>Êtes-vous qualifié RGE (QualiPV par exemple) ?</li><li>Votre estimation de production est-elle basée sur une étude de mon toit ?</li><li>Qui gère la déclaration préalable, le raccordement et le Consuel ?</li></ol><p>Pour aller plus loin : <a href=\"/guides/verifier-un-artisan/\">comment vérifier un artisan</a>.</p>"
+    },
+    {
+      "h2": "Ce qui fait varier le prix",
+      "html": "<p>Chaque chantier est différent. Les principaux facteurs :</p><ul><li>La puissance installée</li><li>Le type de pose (surimposition, intégration)</li><li>Les onduleurs et le stockage</li><li>L’état et la complexité de la toiture</li></ul><p>Le plus fiable pour connaître le prix de votre projet est de comparer plusieurs devis détaillés. Voir <a href=\"/guides/devis-travaux/\">ce que doit contenir un devis</a>.</p>"
+    },
+    {
+      "h2": "Règles et précautions à connaître",
+      "html": "<p>L’installation sur une toiture demande en général une <strong>déclaration préalable</strong> en mairie. Elle doit ensuite être déclarée ou raccordée auprès du gestionnaire de réseau (Enedis le plus souvent) et faire l’objet d’une <strong>attestation de conformité Consuel</strong>. Les dispositifs de soutien (prime, tarif d’achat du surplus) évoluent régulièrement : vérifiez-les sur des sources officielles avant de signer, et méfiez-vous des promesses d’« autofinancement ».</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Les panneaux solaires sont-ils rentables ?",
+      "a": "Cela dépend de l’ensoleillement, de l’orientation, de votre consommation en journée et des dispositifs de soutien en vigueur. Demandez une étude chiffrée et comparez-la entre plusieurs installateurs."
+    },
+    {
+      "q": "Comment éviter les arnaques au solaire ?",
+      "a": "Refusez la signature immédiate, vérifiez la qualification RGE, lisez le contrat de crédit éventuel et utilisez votre délai de rétractation si le contrat a été signé chez vous."
+    }
+  ],
+  "related": [
+    "metiers/electricien",
+    "metiers/couvreur",
+    "metiers/pompe-a-chaleur"
+  ],
+  "relatedTitle": "Métiers liés",
+  "ctaTitle": "De quel artisan avez-vous besoin ?"
+}

@@ -1,7 +1,7 @@
 {
   "updated": "2026-10-15",
   "slug": "metiers",
-  "nav": "Tous les métiers",
+  "nav": "Métiers",
   "navOrder": 1,
   "title": "Tous les métiers du bâtiment et de la maison",
   "description": "Plombier, électricien, couvreur, peintre, maçon, chauffagiste, menuisier… Trouvez le bon artisan pour vos travaux et comparez des devis gratuits en France.",
@@ -14,8 +14,437 @@
   ],
   "cardText": "Plomberie, électricité, toiture, peinture, maçonnerie, chauffage, menuiserie et plus encore.",
   "eyebrow": "Annuaire des métiers",
-  "h1": "Quel artisan pour vos travaux ?",
-  "intro": "Choisissez le métier qui correspond à votre projet pour connaître les bonnes questions à poser, les règles à respecter et ce qui fait varier le prix. Puis comparez des devis gratuits.",
+  "h1": "Quel artisan pour vos travaux ?",
+  "intro": "30 métiers et 53 prestations parmi les plus demandées. Choisissez la vôtre pour connaître les bonnes questions à poser, les règles à respecter et ce qui fait varier le prix, puis comparez des devis gratuits.",
+  "blocks": [
+    {
+      "type": "deals",
+      "class": "svc",
+      "title": "Plomberie et salle de bain",
+      "items": [
+        {
+          "title": "Réparation de fuite",
+          "text": "Recherche et réparation, devis avant intervention",
+          "icon": "droplet",
+          "slug": "metiers/plombier",
+          "cta": "Voir"
+        },
+        {
+          "title": "Débouchage de canalisation",
+          "text": "Évier, WC, douche ou évacuation extérieure",
+          "icon": "wrench",
+          "slug": "metiers/plombier",
+          "cta": "Voir"
+        },
+        {
+          "title": "Chauffe-eau",
+          "text": "Remplacement, détartrage, ballon thermodynamique",
+          "icon": "thermometer",
+          "slug": "metiers/plombier",
+          "cta": "Voir"
+        },
+        {
+          "title": "Installation de WC et sanitaires",
+          "text": "Lavabo, douche, baignoire, WC suspendu",
+          "icon": "bath",
+          "slug": "metiers/plombier",
+          "cta": "Voir"
+        },
+        {
+          "title": "Salle de bain complète",
+          "text": "Plomberie, carrelage et électricité coordonnés",
+          "icon": "bath",
+          "slug": "metiers/salle-de-bain",
+          "cta": "Voir"
+        },
+        {
+          "title": "Douche à l’italienne",
+          "text": "Remplacement de baignoire, étanchéité, accessibilité",
+          "icon": "droplet",
+          "slug": "metiers/salle-de-bain",
+          "cta": "Voir"
+        }
+      ]
+    },
+    {
+      "type": "deals",
+      "class": "svc",
+      "title": "Chauffage et climatisation",
+      "items": [
+        {
+          "title": "Entretien de chaudière",
+          "text": "Visite annuelle obligatoire et attestation",
+          "icon": "flame",
+          "slug": "metiers/chauffagiste",
+          "cta": "Voir"
+        },
+        {
+          "title": "Remplacement de chaudière",
+          "text": "Conseil sur la meilleure énergie de remplacement",
+          "icon": "flame",
+          "slug": "metiers/chauffagiste",
+          "cta": "Voir"
+        },
+        {
+          "title": "Radiateurs et plancher chauffant",
+          "text": "Installation, remplacement, désembouage",
+          "icon": "thermometer",
+          "slug": "metiers/chauffagiste",
+          "cta": "Voir"
+        },
+        {
+          "title": "Pompe à chaleur",
+          "text": "Air/eau, air/air, géothermie par un installateur RGE",
+          "icon": "zap",
+          "slug": "metiers/pompe-a-chaleur",
+          "cta": "Voir"
+        },
+        {
+          "title": "Climatisation réversible",
+          "text": "Mono-split, multi-split ou gainable",
+          "icon": "sun",
+          "slug": "metiers/climatisation",
+          "cta": "Voir"
+        },
+        {
+          "title": "Poêle à bois ou à granulés",
+          "text": "Pose, conduit et tubage",
+          "icon": "flame",
+          "slug": "metiers/poele-a-bois",
+          "cta": "Voir"
+        },
+        {
+          "title": "Ramonage",
+          "text": "Conduits de cheminée, poêle et chaudière",
+          "icon": "house",
+          "slug": "metiers/ramoneur",
+          "cta": "Voir"
+        }
+      ]
+    },
+    {
+      "type": "deals",
+      "class": "svc",
+      "title": "Électricité et énergie",
+      "items": [
+        {
+          "title": "Petits travaux d’électricité",
+          "text": "Prises, interrupteurs, points lumineux",
+          "icon": "zap",
+          "slug": "metiers/electricien",
+          "cta": "Voir"
+        },
+        {
+          "title": "Tableau électrique",
+          "text": "Remplacement et mise en sécurité",
+          "icon": "gauge",
+          "slug": "metiers/electricien",
+          "cta": "Voir"
+        },
+        {
+          "title": "Mise aux normes électrique",
+          "text": "Rénovation selon la norme NF C 15-100",
+          "icon": "shield",
+          "slug": "metiers/electricien",
+          "cta": "Voir"
+        },
+        {
+          "title": "Borne de recharge",
+          "text": "Installation par un professionnel IRVE",
+          "icon": "car",
+          "slug": "metiers/electricien",
+          "cta": "Voir"
+        },
+        {
+          "title": "Panneaux solaires",
+          "text": "Photovoltaïque en autoconsommation",
+          "icon": "sun",
+          "slug": "metiers/panneaux-solaires",
+          "cta": "Voir"
+        },
+        {
+          "title": "Diagnostic électricité et DPE",
+          "text": "Pour vendre ou louer en règle",
+          "icon": "clipboard",
+          "slug": "metiers/diagnostiqueur",
+          "cta": "Voir"
+        }
+      ]
+    },
+    {
+      "type": "deals",
+      "class": "svc",
+      "title": "Toiture, façade et isolation",
+      "items": [
+        {
+          "title": "Rénovation de toiture",
+          "text": "Tuiles, ardoises, zinc : réparation ou réfection",
+          "icon": "house",
+          "slug": "metiers/couvreur",
+          "cta": "Voir"
+        },
+        {
+          "title": "Recherche de fuite de toit",
+          "text": "Infiltrations, solins, fenêtres de toit",
+          "icon": "droplet",
+          "slug": "metiers/couvreur",
+          "cta": "Voir"
+        },
+        {
+          "title": "Démoussage de toiture",
+          "text": "Nettoyage et traitement de la couverture",
+          "icon": "sparkles",
+          "slug": "metiers/couvreur",
+          "cta": "Voir"
+        },
+        {
+          "title": "Gouttières et zinguerie",
+          "text": "Pose, réparation et nettoyage",
+          "icon": "waves",
+          "slug": "metiers/couvreur",
+          "cta": "Voir"
+        },
+        {
+          "title": "Charpente",
+          "text": "Réparation, traitement, surélévation",
+          "icon": "hardhat",
+          "slug": "metiers/charpentier",
+          "cta": "Voir"
+        },
+        {
+          "title": "Ravalement de façade",
+          "text": "Nettoyage, enduit, peinture de façade",
+          "icon": "building",
+          "slug": "metiers/facadier",
+          "cta": "Voir"
+        },
+        {
+          "title": "Isolation des combles",
+          "text": "Combles perdus ou aménagés",
+          "icon": "house",
+          "slug": "metiers/isolation",
+          "cta": "Voir"
+        },
+        {
+          "title": "Isolation par l’extérieur",
+          "text": "Façade isolée, ponts thermiques traités",
+          "icon": "layers",
+          "slug": "metiers/isolation",
+          "cta": "Voir"
+        }
+      ]
+    },
+    {
+      "type": "deals",
+      "class": "svc",
+      "title": "Aménagement intérieur",
+      "items": [
+        {
+          "title": "Peinture intérieure",
+          "text": "Murs, plafonds, boiseries",
+          "icon": "roller",
+          "slug": "metiers/peintre",
+          "cta": "Voir"
+        },
+        {
+          "title": "Papier peint",
+          "text": "Pose, dépose et préparation des murs",
+          "icon": "roller",
+          "slug": "metiers/peintre",
+          "cta": "Voir"
+        },
+        {
+          "title": "Pose de carrelage",
+          "text": "Sols, faïence, terrasses",
+          "icon": "layers",
+          "slug": "metiers/carreleur",
+          "cta": "Voir"
+        },
+        {
+          "title": "Pose de parquet",
+          "text": "Massif, contrecollé, stratifié",
+          "icon": "layers",
+          "slug": "metiers/parquet",
+          "cta": "Voir"
+        },
+        {
+          "title": "Ponçage et vitrification",
+          "text": "Rénover un parquet ancien",
+          "icon": "sparkles",
+          "slug": "metiers/parquet",
+          "cta": "Voir"
+        },
+        {
+          "title": "Cloisons et faux plafonds",
+          "text": "Plaques de plâtre, doublages",
+          "icon": "building",
+          "slug": "metiers/plaquiste",
+          "cta": "Voir"
+        },
+        {
+          "title": "Cuisine",
+          "text": "Conception, montage et pose",
+          "icon": "utensils",
+          "slug": "metiers/cuisiniste",
+          "cta": "Voir"
+        },
+        {
+          "title": "Rénovation complète",
+          "text": "Appartement ou maison, tous corps d’état",
+          "icon": "hammer",
+          "slug": "metiers/renovation",
+          "cta": "Voir"
+        }
+      ]
+    },
+    {
+      "type": "deals",
+      "class": "svc",
+      "title": "Fenêtres, portes et sécurité",
+      "items": [
+        {
+          "title": "Fenêtres et portes-fenêtres",
+          "text": "Remplacement, double vitrage",
+          "icon": "window",
+          "slug": "metiers/menuisier",
+          "cta": "Voir"
+        },
+        {
+          "title": "Porte d’entrée et blindage",
+          "text": "Pose et sécurisation",
+          "icon": "lock",
+          "slug": "metiers/menuisier",
+          "cta": "Voir"
+        },
+        {
+          "title": "Volets et volets roulants",
+          "text": "Pose, motorisation, réparation",
+          "icon": "window",
+          "slug": "metiers/menuisier",
+          "cta": "Voir"
+        },
+        {
+          "title": "Placards et dressings",
+          "text": "Aménagements sur mesure",
+          "icon": "hammer",
+          "slug": "metiers/menuisier",
+          "cta": "Voir"
+        },
+        {
+          "title": "Changement de serrure",
+          "text": "Cylindre, serrure multipoints, A2P",
+          "icon": "key",
+          "slug": "metiers/serrurier",
+          "cta": "Voir"
+        },
+        {
+          "title": "Remplacement de vitre",
+          "text": "Vitre cassée, vitrage isolant, miroir",
+          "icon": "window",
+          "slug": "metiers/vitrier",
+          "cta": "Voir"
+        }
+      ]
+    },
+    {
+      "type": "deals",
+      "class": "svc",
+      "title": "Extérieur et jardin",
+      "items": [
+        {
+          "title": "Entretien de jardin",
+          "text": "Tonte, taille de haies, débroussaillage",
+          "icon": "tree",
+          "slug": "metiers/jardinier-paysagiste",
+          "cta": "Voir"
+        },
+        {
+          "title": "Élagage et abattage",
+          "text": "Arbres dangereux ou envahissants",
+          "icon": "tree",
+          "slug": "metiers/jardinier-paysagiste",
+          "cta": "Voir"
+        },
+        {
+          "title": "Création de jardin",
+          "text": "Plantations, allées, arrosage",
+          "icon": "tree",
+          "slug": "metiers/jardinier-paysagiste",
+          "cta": "Voir"
+        },
+        {
+          "title": "Petits travaux de maçonnerie",
+          "text": "Murets, seuils, reprises",
+          "icon": "hardhat",
+          "slug": "metiers/macon",
+          "cta": "Voir"
+        },
+        {
+          "title": "Clôture et portail",
+          "text": "Murs, grillages, portails",
+          "icon": "fence",
+          "slug": "metiers/macon",
+          "cta": "Voir"
+        },
+        {
+          "title": "Extension de maison",
+          "text": "Agrandissement, démarches d’urbanisme",
+          "icon": "building",
+          "slug": "metiers/macon",
+          "cta": "Voir"
+        },
+        {
+          "title": "Terrassement et drainage",
+          "text": "Préparation du terrain, VRD",
+          "icon": "shovel",
+          "slug": "metiers/terrassier",
+          "cta": "Voir"
+        },
+        {
+          "title": "Piscine",
+          "text": "Construction, liner, sécurité",
+          "icon": "waves",
+          "slug": "metiers/pisciniste",
+          "cta": "Voir"
+        },
+        {
+          "title": "Véranda et pergola",
+          "text": "Extension vitrée, pergola bioclimatique",
+          "icon": "sun",
+          "slug": "metiers/veranda",
+          "cta": "Voir"
+        }
+      ]
+    },
+    {
+      "type": "deals",
+      "class": "svc",
+      "title": "Services à la maison",
+      "items": [
+        {
+          "title": "Ménage et nettoyage",
+          "text": "Domicile, vitres, fin de chantier",
+          "icon": "sparkles",
+          "slug": "metiers/nettoyage",
+          "cta": "Voir"
+        },
+        {
+          "title": "Déménagement",
+          "text": "Local, longue distance, garde-meubles",
+          "icon": "truck",
+          "slug": "metiers/demenageur",
+          "cta": "Voir"
+        },
+        {
+          "title": "Diagnostics immobiliers",
+          "text": "DPE, amiante, plomb, termites",
+          "icon": "clipboard",
+          "slug": "metiers/diagnostiqueur",
+          "cta": "Voir"
+        }
+      ]
+    }
+  ],
   "image": {
     "src": "https://images.unsplash.com/photo-1426927308491-6380b6a9936f",
     "alt": "Outils à main rangés sur un mur d’atelier",
@@ -25,11 +454,11 @@
   "sections": [
     {
       "h2": "Les métiers par type de travaux",
-      "html": "<ul><li><strong>Eau et énergie :</strong> <a href=\"/metiers/plombier/\">plombier</a>, <a href=\"/metiers/electricien/\">électricien</a>, <a href=\"/metiers/chauffagiste/\">chauffagiste</a>, <a href=\"/metiers/pompe-a-chaleur/\">pompe à chaleur</a>, <a href=\"/metiers/climatisation/\">climatisation</a>.</li><li><strong>Gros œuvre et enveloppe :</strong> <a href=\"/metiers/macon/\">maçon</a>, <a href=\"/metiers/couvreur/\">couvreur</a>, <a href=\"/metiers/isolation/\">isolation</a>.</li><li><strong>Second œuvre et finitions :</strong> <a href=\"/metiers/menuisier/\">menuisier</a>, <a href=\"/metiers/plaquiste/\">plaquiste</a>, <a href=\"/metiers/carreleur/\">carreleur</a>, <a href=\"/metiers/peintre/\">peintre</a>.</li><li><strong>Extérieur et sécurité :</strong> <a href=\"/metiers/jardinier-paysagiste/\">jardinier paysagiste</a>, <a href=\"/metiers/serrurier/\">serrurier</a>.</li><li><strong>Projet complet :</strong> <a href=\"/metiers/renovation/\">entreprise de rénovation</a>.</li></ul>"
+      "html": "<ul><li><strong>Eau et énergie :</strong> <a href=\"/metiers/plombier/\">plombier</a>, <a href=\"/metiers/electricien/\">électricien</a>, <a href=\"/metiers/chauffagiste/\">chauffagiste</a>, <a href=\"/metiers/pompe-a-chaleur/\">pompe à chaleur</a>, <a href=\"/metiers/climatisation/\">climatisation</a>, <a href=\"/metiers/poele-a-bois/\">poêle à bois</a>, <a href=\"/metiers/panneaux-solaires/\">panneaux solaires</a>, <a href=\"/metiers/ramoneur/\">ramoneur</a>.</li><li><strong>Gros œuvre et enveloppe :</strong> <a href=\"/metiers/macon/\">maçon</a>, <a href=\"/metiers/terrassier/\">terrassier</a>, <a href=\"/metiers/charpentier/\">charpentier</a>, <a href=\"/metiers/couvreur/\">couvreur</a>, <a href=\"/metiers/facadier/\">façadier</a>, <a href=\"/metiers/isolation/\">isolation</a>.</li><li><strong>Second œuvre et finitions :</strong> <a href=\"/metiers/menuisier/\">menuisier</a>, <a href=\"/metiers/vitrier/\">vitrier</a>, <a href=\"/metiers/plaquiste/\">plaquiste</a>, <a href=\"/metiers/carreleur/\">carreleur</a>, <a href=\"/metiers/parquet/\">parquet</a>, <a href=\"/metiers/peintre/\">peintre</a>, <a href=\"/metiers/cuisiniste/\">cuisiniste</a>, <a href=\"/metiers/salle-de-bain/\">salle de bain</a>.</li><li><strong>Extérieur :</strong> <a href=\"/metiers/jardinier-paysagiste/\">jardinier paysagiste</a>, <a href=\"/metiers/pisciniste/\">pisciniste</a>, <a href=\"/metiers/veranda/\">véranda</a>.</li><li><strong>Services :</strong> <a href=\"/metiers/serrurier/\">serrurier</a>, <a href=\"/metiers/nettoyage/\">nettoyage</a>, <a href=\"/metiers/demenageur/\">déménageur</a>, <a href=\"/metiers/diagnostiqueur/\">diagnostiqueur</a>.</li><li><strong>Projet complet :</strong> <a href=\"/metiers/renovation/\">entreprise de rénovation</a>.</li></ul>"
     },
     {
-      "h2": "Vous ne savez pas à qui vous adresser ?",
-      "html": "<ul><li><strong>Une tache au plafond ?</strong> Sous la toiture, appelez un <a href=\"/metiers/couvreur/\">couvreur</a> ; sous une salle de bain, un <a href=\"/metiers/plombier/\">plombier</a>.</li><li><strong>Une maison froide ?</strong> Commencez par l’<a href=\"/metiers/isolation/\">isolation</a> avant de changer de <a href=\"/metiers/chauffagiste/\">chauffage</a>.</li><li><strong>Plusieurs métiers à coordonner ?</strong> Une <a href=\"/metiers/renovation/\">entreprise de rénovation</a> ou un maître d’œuvre peut tout prendre en charge.</li></ul>"
+      "h2": "Vous ne savez pas à qui vous adresser ?",
+      "html": "<ul><li><strong>Une tache au plafond ?</strong> Sous la toiture, appelez un <a href=\"/metiers/couvreur/\">couvreur</a> ; sous une salle de bain, un <a href=\"/metiers/plombier/\">plombier</a>.</li><li><strong>Une maison froide ?</strong> Commencez par l’<a href=\"/metiers/isolation/\">isolation</a> avant de changer de <a href=\"/metiers/chauffagiste/\">chauffage</a>.</li><li><strong>Plusieurs métiers à coordonner ?</strong> Une <a href=\"/metiers/renovation/\">entreprise de rénovation</a> ou un maître d’œuvre peut tout prendre en charge.</li></ul>"
     }
   ],
   "related": [
@@ -47,8 +476,23 @@
     "metiers/jardinier-paysagiste",
     "metiers/serrurier",
     "metiers/renovation",
-    "metiers/isolation"
+    "metiers/isolation",
+    "metiers/charpentier",
+    "metiers/facadier",
+    "metiers/cuisiniste",
+    "metiers/salle-de-bain",
+    "metiers/pisciniste",
+    "metiers/vitrier",
+    "metiers/terrassier",
+    "metiers/ramoneur",
+    "metiers/nettoyage",
+    "metiers/demenageur",
+    "metiers/diagnostiqueur",
+    "metiers/panneaux-solaires",
+    "metiers/poele-a-bois",
+    "metiers/parquet",
+    "metiers/veranda"
   ],
   "relatedTitle": "Tous les métiers",
-  "ctaTitle": "De quel artisan avez-vous besoin ?"
+  "ctaTitle": "De quel artisan avez-vous besoin ?"
 }

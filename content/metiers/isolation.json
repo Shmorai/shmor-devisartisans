@@ -2,8 +2,8 @@
   "updated": "2026-10-15",
   "slug": "metiers/isolation",
   "nav": "Isolation",
-  "title": "Isolation : combles, murs et planchers",
-  "description": "Isolation des combles, des murs par l’intérieur ou l’extérieur, des planchers : comparez les devis d’entreprises RGE et évitez le démarchage abusif.",
+  "title": "Isolation : combles, murs et planchers",
+  "description": "Isolation des combles, des murs par l’intérieur ou l’extérieur, des planchers : comparez les devis d’entreprises RGE et évitez le démarchage abusif.",
   "keywords": [
     "isolation",
     "isolation des combles",
@@ -24,7 +24,7 @@
     "credit": "Brett Jordan",
     "creditUrl": "https://unsplash.com/@brett_jordan"
   },
-  "searchPlaceholder": "Votre projet, p. ex. « fuite » ou « fenêtres »",
+  "searchPlaceholder": "Votre projet, p. ex. « fuite » ou « fenêtres »",
   "highlights": [
     {
       "title": "Gratuit",
@@ -46,33 +46,33 @@
       "html": "<ul><li>Isolation des combles perdus (soufflage)</li><li>Isolation des combles aménagés et rampants</li><li>Isolation des murs par l’intérieur</li><li>Isolation thermique par l’extérieur (ITE)</li><li>Isolation des planchers bas et des sous-sols</li></ul>"
     },
     {
-      "h2": "Quand faire appel à une entreprise d’isolation ?",
+      "h2": "Quand faire appel à une entreprise d’isolation ?",
       "html": "<ul><li>Votre logement est froid l’hiver et chaud l’été</li><li>Vos factures de chauffage augmentent</li><li>Votre diagnostic de performance énergétique (DPE) est mauvais</li><li>Vous refaites la toiture ou la façade</li></ul>"
     },
     {
       "h2": "Les questions à poser avant de signer",
-      "html": "<p>Au moment de comparer les devis, ces questions vous aident à choisir :</p><ol><li>Pouvez-vous me transmettre votre <strong>attestation d’assurance décennale</strong> (et de responsabilité civile professionnelle) en cours de validité ?</li><li>Quel est votre numéro <strong>SIRET</strong> ?</li><li>Êtes-vous RGE pour ce type d’isolation ?</li><li>Quelle résistance thermique (R) allez-vous atteindre ?</li><li>Comment traitez-vous la ventilation et la vapeur d’eau ?</li></ol><p>Pour aller plus loin : <a href=\"/guides/verifier-un-artisan/\">comment vérifier un artisan</a>.</p>"
+      "html": "<p>Au moment de comparer les devis, ces questions vous aident à choisir :</p><ol><li>Pouvez-vous me transmettre votre <strong>attestation d’assurance décennale</strong> (et de responsabilité civile professionnelle) en cours de validité ?</li><li>Quel est votre numéro <strong>SIRET</strong> ?</li><li>Êtes-vous RGE pour ce type d’isolation ?</li><li>Quelle résistance thermique (R) allez-vous atteindre ?</li><li>Comment traitez-vous la ventilation et la vapeur d’eau ?</li></ol><p>Pour aller plus loin : <a href=\"/guides/verifier-un-artisan/\">comment vérifier un artisan</a>.</p>"
     },
     {
       "h2": "Ce qui fait varier le prix",
-      "html": "<p>Chaque chantier est différent. Les principaux facteurs :</p><ul><li>La technique (soufflage, panneaux, ITE)</li><li>La surface et l’accessibilité</li><li>L’isolant choisi et l’épaisseur</li><li>Les travaux annexes (échafaudage, reprises)</li></ul><p>Le plus fiable pour connaître le prix de votre projet est de comparer plusieurs devis détaillés. Voir <a href=\"/guides/devis-travaux/\">ce que doit contenir un devis</a>.</p>"
+      "html": "<p>Chaque chantier est différent. Les principaux facteurs :</p><ul><li>La technique (soufflage, panneaux, ITE)</li><li>La surface et l’accessibilité</li><li>L’isolant choisi et l’épaisseur</li><li>Les travaux annexes (échafaudage, reprises)</li></ul><p>Le plus fiable pour connaître le prix de votre projet est de comparer plusieurs devis détaillés. Voir <a href=\"/guides/devis-travaux/\">ce que doit contenir un devis</a>.</p>"
     },
     {
       "h2": "Règles et précautions à connaître",
-      "html": "<p>Pour bénéficier des aides, l’entreprise doit être <strong>RGE</strong>. Le <strong>démarchage téléphonique</strong> pour des travaux de rénovation énergétique est <strong>interdit</strong> depuis 2020 : raccrochez face aux offres d’isolation « à prix cassé » non sollicitées. Une isolation par l’extérieur modifie l’aspect de la façade et demande généralement une <strong>déclaration préalable</strong>.</p>"
+      "html": "<p>Pour bénéficier des aides, l’entreprise doit être <strong>RGE</strong>. Le <strong>démarchage téléphonique</strong> pour des travaux de rénovation énergétique est <strong>interdit</strong> depuis 2020 : raccrochez face aux offres d’isolation « à prix cassé » non sollicitées. Une isolation par l’extérieur modifie l’aspect de la façade et demande généralement une <strong>déclaration préalable</strong>.</p>"
     }
   ],
   "faqs": [
     {
-      "q": "Par quoi commencer : combles ou murs ?",
-      "a": "La toiture est souvent la principale source de déperditions dans une maison mal isolée ; isoler les combles est généralement la première étape. Un audit énergétique permet de prioriser."
+      "q": "Par quoi commencer : combles ou murs ?",
+      "a": "La toiture est souvent la principale source de déperditions dans une maison mal isolée ; isoler les combles est généralement la première étape. Un audit énergétique permet de prioriser."
     },
     {
-      "q": "Qu’est-ce qu’une entreprise RGE ?",
-      "a": "RGE signifie « Reconnu garant de l’environnement ». Cette qualification, vérifiable dans l’annuaire de France Rénov’, est requise pour la plupart des aides à la rénovation énergétique."
+      "q": "Qu’est-ce qu’une entreprise RGE ?",
+      "a": "RGE signifie « Reconnu garant de l’environnement ». Cette qualification, vérifiable dans l’annuaire de France Rénov’, est requise pour la plupart des aides à la rénovation énergétique."
     },
     {
-      "q": "L’isolation par l’extérieur fait-elle perdre de la surface ?",
+      "q": "L’isolation par l’extérieur fait-elle perdre de la surface ?",
       "a": "Non, contrairement à l’isolation par l’intérieur. Elle traite aussi mieux les ponts thermiques, mais elle est plus coûteuse et soumise aux règles d’urbanisme."
     }
   ],
@@ -82,5 +82,5 @@
     "metiers/pompe-a-chaleur"
   ],
   "relatedTitle": "Métiers liés",
-  "ctaTitle": "De quel artisan avez-vous besoin ?"
+  "ctaTitle": "De quel artisan avez-vous besoin ?"
 }

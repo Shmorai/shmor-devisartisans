@@ -2,8 +2,8 @@
   "updated": "2026-10-15",
   "slug": "regions/occitanie",
   "nav": "Occitanie",
-  "title": "Artisans en Occitanie : devis gratuits",
-  "description": "Trouvez un artisan en Occitanie (Toulouse, Montpellier…) : conseils locaux, règles à connaître et devis gratuits près de chez vous.",
+  "title": "Artisans en Occitanie : devis gratuits",
+  "description": "Trouvez un artisan en Occitanie (Toulouse, Montpellier…) : conseils locaux, règles à connaître et devis gratuits près de chez vous.",
   "keywords": [
     "artisan occitanie",
     "artisan toulouse",
@@ -17,7 +17,7 @@
   "cardText": "Toulouse, Montpellier, Nîmes, Perpignan… Bâti local, risques et démarches.",
   "eyebrow": "Région",
   "h1": "Trouver un artisan en Occitanie",
-  "intro": "Plombier à Toulouse, couvreur à Montpellier ou entreprise de rénovation à Nîmes : décrivez votre projet et comparez les devis d’artisans d’Occitanie.",
+  "intro": "Plombier à Toulouse, couvreur à Montpellier ou entreprise de rénovation à Nîmes : décrivez votre projet et comparez les devis d’artisans d’Occitanie.",
   "image": {
     "src": "https://images.unsplash.com/photo-1533375954403-dcc42d37d33a",
     "alt": "Vue aérienne d’un village",
@@ -46,11 +46,11 @@
   "sections": [
     {
       "h2": "Les départements et villes d’Occitanie",
-      "html": "<p>La région Occitanie regroupe les départements suivants : Ariège (09), Aude (11), Aveyron (12), Gard (30), Haute-Garonne (31), Gers (32), Hérault (34), Lot (46), Lozère (48), Hautes-Pyrénées (65), Pyrénées-Orientales (66), Tarn (81), Tarn-et-Garonne (82).</p><p>Principales villes : Toulouse, Montpellier, Nîmes, Perpignan, Béziers, Narbonne, Montauban, Albi. Où que vous soyez dans la région, décrivez votre projet en indiquant votre code postal pour être mis en relation avec des artisans qui interviennent dans votre secteur.</p>"
+      "html": "<p>La région Occitanie regroupe les départements suivants : Ariège (09), Aude (11), Aveyron (12), Gard (30), Haute-Garonne (31), Gers (32), Hérault (34), Lot (46), Lozère (48), Hautes-Pyrénées (65), Pyrénées-Orientales (66), Tarn (81), Tarn-et-Garonne (82).</p><p>Principales villes : Toulouse, Montpellier, Nîmes, Perpignan, Béziers, Narbonne, Montauban, Albi. Où que vous soyez dans la région, décrivez votre projet en indiquant votre code postal pour être mis en relation avec des artisans qui interviennent dans votre secteur.</p>"
     },
     {
       "h2": "Le bâti et les travaux typiques d’Occitanie",
-      "html": "<ul><li>Toulouse, la « ville rose », doit son surnom à la <strong>brique foraine</strong>, très présente aussi à Albi et Montauban.</li><li>La <strong>tuile canal</strong> et les enduits clairs dominent sur le pourtour méditerranéen, la pierre et la lauze dans les Causses et les Pyrénées.</li><li>La chaleur estivale fait de la <strong>climatisation</strong>, de la <strong>pompe à chaleur réversible</strong> et de l’isolation pour le confort d’été des demandes fréquentes.</li></ul>"
+      "html": "<ul><li>Toulouse, la « ville rose », doit son surnom à la <strong>brique foraine</strong>, très présente aussi à Albi et Montauban.</li><li>La <strong>tuile canal</strong> et les enduits clairs dominent sur le pourtour méditerranéen, la pierre et la lauze dans les Causses et les Pyrénées.</li><li>La chaleur estivale fait de la <strong>climatisation</strong>, de la <strong>pompe à chaleur réversible</strong> et de l’isolation pour le confort d’été des demandes fréquentes.</li></ul>"
     },
     {
       "h2": "Risques naturels et règles locales à vérifier",
@@ -58,20 +58,20 @@
     },
     {
       "h2": "Se faire conseiller gratuitement près de chez vous",
-      "html": "<p>Pour un projet de rénovation énergétique, les <strong>Espaces Conseil France Rénov’</strong> offrent des conseils neutres et gratuits ; trouvez le plus proche sur <a href=\"https://france-renov.gouv.fr/\" rel=\"noopener\" target=\"_blank\">france-renov.gouv.fr</a>. Pour les questions juridiques liées au logement (copropriété, location, urbanisme), l’<strong>ADIL</strong> de votre département peut vous renseigner.</p><p>Avant de choisir, lisez nos guides : <a href=\"/guides/verifier-un-artisan/\">vérifier un artisan</a>, <a href=\"/guides/devis-travaux/\">bien lire un devis</a> et <a href=\"/guides/aides-renovation/\">les aides à la rénovation</a>.</p>"
+      "html": "<p>Pour un projet de rénovation énergétique, les <strong>Espaces Conseil France Rénov’</strong> offrent des conseils neutres et gratuits ; trouvez le plus proche sur <a href=\"https://france-renov.gouv.fr/\" rel=\"noopener\" target=\"_blank\">france-renov.gouv.fr</a>. Pour les questions juridiques liées au logement (copropriété, location, urbanisme), l’<strong>ADIL</strong> de votre département peut vous renseigner.</p><p>Avant de choisir, lisez nos guides : <a href=\"/guides/verifier-un-artisan/\">vérifier un artisan</a>, <a href=\"/guides/devis-travaux/\">bien lire un devis</a> et <a href=\"/guides/aides-renovation/\">les aides à la rénovation</a>.</p>"
     }
   ],
   "faqs": [
     {
-      "q": "Ma maison fissure-t-elle à cause des argiles ?",
+      "q": "Ma maison fissure-t-elle à cause des argiles ?",
       "a": "En période de sécheresse, les sols argileux se rétractent et peuvent provoquer des fissures. Vérifiez l’exposition de votre commune sur Géorisques et faites examiner les fissures par un professionnel avant toute réparation."
     },
     {
-      "q": "Les artisans interviennent-ils partout en Occitanie ?",
+      "q": "Les artisans interviennent-ils partout en Occitanie ?",
       "a": "Nos partenaires mettent en relation avec des professionnels dans toute la France métropolitaine. Le nombre de réponses peut varier selon votre commune, le type de travaux et la période."
     },
     {
-      "q": "Est-ce gratuit ?",
+      "q": "Est-ce gratuit ?",
       "a": "Oui, décrire votre projet et recevoir des devis est gratuit et sans engagement. Vous traitez ensuite directement avec l’artisan que vous choisissez."
     }
   ],

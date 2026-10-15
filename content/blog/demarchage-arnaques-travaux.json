@@ -1,0 +1,83 @@
+{
+  "type": "post",
+  "date": "2026-05-29",
+  "updated": "2026-05-29",
+  "slug": "blog/demarchage-arnaques-travaux",
+  "nav": "Démarchage à domicile et arnaques aux travaux : comment se protéger",
+  "title": "Démarchage et arnaques aux travaux : vos droits",
+  "description": "Rétractation de 14 jours, interdiction de paiement immédiat, démarchage téléphonique interdit : vos droits face aux arnaques aux travaux à domicile.",
+  "keywords": [
+    "droits",
+    "démarchage",
+    "arnaques",
+    "travaux"
+  ],
+  "cardText": "Rétractation de 14 jours, interdiction de paiement immédiat, démarchage téléphonique interdit : vos droits face aux arnaques aux travaux à domicile.",
+  "eyebrow": "Droits",
+  "h1": "Démarchage à domicile et arnaques aux travaux : comment se protéger",
+  "intro": "Faux démoussage, isolation « à 1 euro », panneaux solaires « autofinancés » : les arnaques aux travaux reposent souvent sur l’urgence et la pression. La loi vous protège.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1564783679669-f5391270417b",
+    "alt": "Mousse sur de vieilles tuiles de toit",
+    "credit": "Barb McMahon",
+    "creditUrl": "https://unsplash.com/@barbmcmahon"
+  },
+  "sections": [
+    {
+      "h2": "Les signaux d’alerte",
+      "html": "<ul><li>Un démarcheur qui sonne pour une « inspection gratuite » de toiture</li><li>Une prétendue obligation légale de faire les travaux</li><li>Une offre valable « aujourd’hui seulement »</li><li>Un logo officiel imitant un organisme public</li></ul>"
+    },
+    {
+      "h2": "Vos droits si vous avez signé chez vous",
+      "html": "<ul><li>Un <strong>délai de rétractation de 14 jours</strong>, avec un formulaire joint au contrat</li><li>En principe, <strong>aucun paiement</strong> ne peut être exigé avant 7 jours après la signature</li><li>Un contrat écrit et détaillé obligatoire</li></ul>"
+    },
+    {
+      "h2": "Le démarchage téléphonique",
+      "html": "<p>Depuis 2020, le démarchage téléphonique est interdit pour les travaux de rénovation énergétique. Inscrivez-vous aussi sur Bloctel pour limiter les autres appels commerciaux.</p>"
+    },
+    {
+      "h2": "Signaler",
+      "html": "<p>Signalez les pratiques abusives sur SignalConso, le service de la DGCCRF.</p>"
+    },
+    {
+      "h2": "Les techniques les plus fréquentes",
+      "html": "<ul><li><strong>La fausse urgence</strong> : « vos tuiles sont dangereuses », « votre installation électrique va prendre feu ».</li><li><strong>Le faux mandat officiel</strong> : se présenter comme envoyé par la mairie, un fournisseur d’énergie ou l’État.</li><li><strong>La gratuité trompeuse</strong> : un diagnostic offert qui débouche sur une vente forcée.</li><li><strong>Le crédit caché</strong> : un financement signé en même temps que le bon de commande.</li></ul>"
+    },
+    {
+      "h2": "Comment se rétracter",
+      "html": "<p>Utilisez le formulaire de rétractation joint au contrat ou envoyez une lettre recommandée avec accusé de réception dans les 14 jours suivant la signature. Si un crédit affecté finance les travaux, la rétractation du contrat principal entraîne en principe l’annulation du crédit. Si le formulaire n’a pas été fourni, le délai peut être prolongé.</p>"
+    },
+    {
+      "h2": "Les bons réflexes",
+      "html": "<ul><li>Ne laissez pas entrer un démarcheur que vous n’avez pas sollicité</li><li>Ne signez rien le jour même</li><li>Vérifiez l’entreprise sur l’Annuaire des entreprises</li><li>Demandez d’autres devis : <a href=\"/blog/comparer-plusieurs-devis-travaux/\">comparer les devis</a></li></ul>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Le délai de rétractation s’applique-t-il aux travaux urgents ?",
+      "a": "Pas pour les travaux d’entretien ou de réparation urgents que vous avez vous-même sollicités à domicile, dans la limite de ce qui est nécessaire pour l’urgence."
+    },
+    {
+      "q": "Un démarcheur peut-il encaisser un chèque tout de suite ?",
+      "a": "Non, en principe aucun paiement ne peut être exigé avant l’expiration d’un délai de 7 jours après la conclusion d’un contrat hors établissement, sauf exceptions limitées."
+    },
+    {
+      "q": "Que faire si j’ai déjà payé ?",
+      "a": "Rétractez-vous dans le délai, puis demandez le remboursement par écrit. Signalez les faits sur SignalConso et, en cas d’escroquerie, déposez plainte."
+    }
+  ],
+  "sources": [
+    {
+      "title": "SignalConso (DGCCRF)",
+      "url": "https://signal.conso.gouv.fr/"
+    },
+    {
+      "title": "Bloctel",
+      "url": "https://www.bloctel.gouv.fr/"
+    },
+    {
+      "title": "Ministère de l’Économie : DGCCRF, fiches pratiques",
+      "url": "https://www.economie.gouv.fr/dgccrf"
+    }
+  ]
+}

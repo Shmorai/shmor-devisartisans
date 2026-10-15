@@ -2,15 +2,15 @@
   "updated": "2026-10-15",
   "slug": "guides/devis-travaux",
   "nav": "Lire un devis",
-  "title": "Devis travaux : mentions obligatoires et pièges",
-  "description": "Ce que doit contenir un devis de travaux, quand il est obligatoire, acompte, rétractation : tout pour comparer les devis d’artisans en toute sérénité.",
+  "title": "Devis travaux : mentions obligatoires et pièges",
+  "description": "Ce que doit contenir un devis de travaux, quand il est obligatoire, acompte, rétractation : tout pour comparer les devis d’artisans en toute sérénité.",
   "keywords": [
     "lire un devis"
   ],
-  "cardText": "Le devis est votre meilleure protection : une fois signé, il engage les deux parties. Voici comment le lire et le comparer.",
+  "cardText": "Le devis est votre meilleure protection : une fois signé, il engage les deux parties. Voici comment le lire et le comparer.",
   "eyebrow": "Guide",
-  "h1": "Devis de travaux : ce qu’il doit contenir",
-  "intro": "Le devis est votre meilleure protection : une fois signé, il engage les deux parties. Voici comment le lire et le comparer.",
+  "h1": "Devis de travaux : ce qu’il doit contenir",
+  "intro": "Le devis est votre meilleure protection : une fois signé, il engage les deux parties. Voici comment le lire et le comparer.",
   "image": {
     "src": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85",
     "alt": "Personne écrivant sur un document papier à un bureau",
@@ -19,29 +19,29 @@
   },
   "sections": [
     {
-      "h2": "Quand le devis est-il obligatoire ?",
+      "h2": "Quand le devis est-il obligatoire ?",
       "html": "<p>Pour les prestations de <strong>dépannage, de réparation et d’entretien</strong> dans le bâtiment et l’équipement de la maison, le professionnel doit remettre un <strong>devis détaillé avant l’exécution des travaux</strong> (arrêté du 24 janvier 2017, en vigueur depuis le 1<sup>er</sup> avril 2017). Pour les autres travaux, demander un devis écrit reste vivement conseillé.</p>"
     },
     {
       "h2": "Les mentions à vérifier",
-      "html": "<ul><li>Date du devis et durée de validité</li><li>Nom, adresse, SIRET et coordonnées de l’entreprise</li><li>Votre nom et l’adresse du chantier</li><li>Le détail des travaux : désignation, quantités, prix unitaires</li><li>Les frais de déplacement éventuels</li><li>Le prix total hors taxes, le taux de TVA et le total TTC</li><li>Le caractère gratuit ou payant du devis</li><li>L’assurance professionnelle souscrite (décennale le cas échéant)</li><li>Les délais d’exécution et les conditions de paiement</li></ul>"
+      "html": "<ul><li>Date du devis et durée de validité</li><li>Nom, adresse, SIRET et coordonnées de l’entreprise</li><li>Votre nom et l’adresse du chantier</li><li>Le détail des travaux : désignation, quantités, prix unitaires</li><li>Les frais de déplacement éventuels</li><li>Le prix total hors taxes, le taux de TVA et le total TTC</li><li>Le caractère gratuit ou payant du devis</li><li>L’assurance professionnelle souscrite (décennale le cas échéant)</li><li>Les délais d’exécution et les conditions de paiement</li></ul>"
     },
     {
       "h2": "Comparer plusieurs devis",
-      "html": "<p>Comparez des devis portant sur <strong>les mêmes prestations</strong> : mêmes surfaces, mêmes matériaux, même niveau de finition. Un devis nettement moins cher peut omettre la préparation, l’évacuation des déchets ou les finitions.</p>"
+      "html": "<p>Comparez des devis portant sur <strong>les mêmes prestations</strong> : mêmes surfaces, mêmes matériaux, même niveau de finition. Un devis nettement moins cher peut omettre la préparation, l’évacuation des déchets ou les finitions.</p>"
     },
     {
       "h2": "Acompte, modifications et rétractation",
-      "html": "<ul><li><strong>Acompte :</strong> il n’existe pas de montant légal unique ; évitez de tout payer d’avance et préférez des paiements à l’avancement.</li><li><strong>Modifications :</strong> tout changement en cours de chantier doit faire l’objet d’un avenant écrit et chiffré.</li><li><strong>Rétractation :</strong> si le contrat est signé hors de l’établissement de l’artisan (chez vous, par exemple), vous disposez en principe de 14 jours pour vous rétracter.</li></ul>"
+      "html": "<ul><li><strong>Acompte :</strong> il n’existe pas de montant légal unique ; évitez de tout payer d’avance et préférez des paiements à l’avancement.</li><li><strong>Modifications :</strong> tout changement en cours de chantier doit faire l’objet d’un avenant écrit et chiffré.</li><li><strong>Rétractation :</strong> si le contrat est signé hors de l’établissement de l’artisan (chez vous, par exemple), vous disposez en principe de 14 jours pour vous rétracter.</li></ul>"
     }
   ],
   "faqs": [
     {
-      "q": "Un devis peut-il être payant ?",
+      "q": "Un devis peut-il être payant ?",
       "a": "Oui, à condition que vous en soyez informé avant son établissement. Le devis doit indiquer s’il est gratuit ou payant."
     },
     {
-      "q": "Le prix peut-il changer après signature ?",
+      "q": "Le prix peut-il changer après signature ?",
       "a": "Un devis signé engage l’artisan sur le prix pour les travaux décrits. Seuls des travaux supplémentaires acceptés par écrit peuvent modifier le total."
     }
   ],
@@ -52,5 +52,5 @@
     "comment-ca-marche"
   ],
   "relatedTitle": "Nos autres guides",
-  "ctaTitle": "Prêt à comparer les devis ?"
+  "ctaTitle": "Prêt à comparer les devis ?"
 }

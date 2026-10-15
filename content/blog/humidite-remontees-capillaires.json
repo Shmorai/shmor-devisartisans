@@ -1,0 +1,71 @@
+{
+  "type": "post",
+  "date": "2026-09-02",
+  "updated": "2026-09-02",
+  "slug": "blog/humidite-remontees-capillaires",
+  "nav": "Humidité dans la maison : identifier la cause avant de traiter",
+  "title": "Humidité et remontées capillaires : causes et solutions",
+  "description": "Remontées capillaires, infiltrations, condensation : comment reconnaître l’origine de l’humidité dans un logement et quels professionnels consulter.",
+  "keywords": [
+    "rénovation",
+    "humidité",
+    "remontées",
+    "capillaires"
+  ],
+  "cardText": "Remontées capillaires, infiltrations, condensation : comment reconnaître l’origine de l’humidité dans un logement et quels professionnels consulter.",
+  "eyebrow": "Rénovation",
+  "h1": "Humidité dans la maison : identifier la cause avant de traiter",
+  "intro": "Taches, salpêtre, moisissures : l’humidité a plusieurs origines, et chacune appelle une solution différente. Un mauvais diagnostic coûte cher.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1770208741428-b874de629eb9",
+    "alt": "Gros plan de moisissures sur une surface",
+    "credit": "remapstudio",
+    "creditUrl": "https://unsplash.com/@remapstudio"
+  },
+  "sections": [
+    {
+      "h2": "Les trois grandes causes",
+      "html": "<ul><li><strong>Remontées capillaires</strong> : l’eau du sol monte dans les murs, souvent sur le bas des murs avec du salpêtre.</li><li><strong>Infiltrations</strong> : par la toiture, les façades, les menuiseries ou les gouttières.</li><li><strong>Condensation</strong> : vapeur d’eau intérieure mal évacuée, avec buée et moisissures dans les angles.</li></ul>"
+    },
+    {
+      "h2": "Les solutions",
+      "html": "<ul><li>Ventilation (VMC) contre la condensation</li><li>Réparation de <a href=\"/metiers/couvreur/\">toiture</a> ou de <a href=\"/metiers/facadier/\">façade</a> contre les infiltrations</li><li>Drainage, enduits respirants ou traitement des murs contre les remontées capillaires</li></ul>"
+    },
+    {
+      "h2": "Attention aux mauvais remèdes",
+      "html": "<p>Les peintures ou enduits étanches sur un mur ancien en pierre peuvent aggraver le problème en piégeant l’humidité. Demandez un diagnostic avant tout traitement coûteux.</p>"
+    },
+    {
+      "h2": "Quelques tests simples",
+      "html": "<ul><li>Taches en bas des murs avec auréoles et sels blancs : remontées capillaires probables</li><li>Taches après la pluie sous une toiture ou une façade : infiltration</li><li>Buée sur les vitres et moisissures dans les angles en hiver : condensation</li></ul><p>Un professionnel peut confirmer avec des mesures d’humidité et une inspection de l’enveloppe.</p>"
+    },
+    {
+      "h2": "Les traitements des remontées capillaires",
+      "html": "<p>Plusieurs techniques existent : drainage périphérique, injection de résine hydrophobe à la base des murs, enduits assainissants, ou procédés électro-physiques. Leur efficacité dépend de la nature des murs et du sol. Méfiez-vous des promesses de résultats garantis sans diagnostic préalable.</p>"
+    },
+    {
+      "h2": "La ventilation, souvent la clé",
+      "html": "<p>Un logement isolé et aux fenêtres étanches doit être ventilé. Une VMC entretenue, des entrées d’air dégagées et une aération quotidienne de quelques minutes limitent fortement la condensation et les moisissures.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "L’humidité est-elle dangereuse pour la santé ?",
+      "a": "Les moisissures peuvent aggraver les allergies et les troubles respiratoires. Aérez quotidiennement et traitez la cause rapidement."
+    },
+    {
+      "q": "Un déshumidificateur suffit-il ?",
+      "a": "Il soulage les symptômes mais ne traite pas la cause. Il peut aider en attendant les travaux."
+    },
+    {
+      "q": "Qui paie en location ?",
+      "a": "Si l’humidité provient d’un défaut du bâtiment, le propriétaire doit y remédier. Si elle résulte d’un défaut d’aération par l’occupant, la situation est différente."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Ministère de la Santé : qualité de l’air intérieur",
+      "url": "https://sante.gouv.fr/"
+    }
+  ]
+}

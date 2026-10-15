@@ -1,0 +1,81 @@
+{
+  "updated": "2026-10-15",
+  "slug": "metiers/terrassier",
+  "nav": "Terrassier",
+  "title": "Terrassier : terrassement, VRD et assainissement",
+  "description": "Terrassement, fouilles, viabilisation, drainage ou fosse septique : comparez les devis gratuits de terrassiers près de chez vous pour préparer votre terrain.",
+  "keywords": [
+    "terrassier",
+    "terrassement",
+    "viabilisation",
+    "vrd",
+    "drainage",
+    "fosse septique",
+    "assainissement"
+  ],
+  "cardText": "Terrassement et nivellement · Fouilles pour fondations et piscines · Viabilisation : raccordements eau, électricité, égout",
+  "eyebrow": "Terrassement",
+  "h1": "Trouver un terrassier",
+  "intro": "Avant de construire, d’agrandir ou de créer une piscine, le terrain doit être préparé. Comparez les devis de terrassiers et d’entreprises de VRD de votre région.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1580901369227-308f6f40bdeb",
+    "alt": "Pelleteuse jaune et noire sur un terrain rocailleux",
+    "credit": "Gerold Hinzen",
+    "creditUrl": "https://unsplash.com/@geroldhinzen"
+  },
+  "searchPlaceholder": "Votre projet, p. ex. « fuite » ou « fenêtres »",
+  "highlights": [
+    {
+      "title": "Gratuit",
+      "text": "Décrire votre projet et recevoir des devis ne vous coûte rien."
+    },
+    {
+      "title": "Plusieurs devis",
+      "text": "Comparez les propositions, les délais et les prix avant de décider."
+    },
+    {
+      "title": "Sans engagement",
+      "text": "Vous choisissez librement votre artisan, ou personne."
+    }
+  ],
+  "partnersTitle": "Comparez les devis gratuits de nos partenaires",
+  "sections": [
+    {
+      "h2": "Ce que fait un terrassier",
+      "html": "<ul><li>Terrassement et nivellement</li><li>Fouilles pour fondations et piscines</li><li>Viabilisation : raccordements eau, électricité, égout</li><li>Drainage et gestion des eaux pluviales</li><li>Installation d’assainissement non collectif</li><li>Création d’accès et d’allées</li></ul>"
+    },
+    {
+      "h2": "Quand faire appel à un terrassier ?",
+      "html": "<ul><li>Vous construisez ou agrandissez</li><li>Votre terrain est humide ou mal drainé</li><li>Votre fosse septique doit être remplacée</li><li>Vous créez une piscine ou un accès</li></ul>"
+    },
+    {
+      "h2": "Les questions à poser avant de signer",
+      "html": "<p>Au moment de comparer les devis, ces questions vous aident à choisir :</p><ol><li>Pouvez-vous me transmettre votre <strong>attestation d’assurance décennale</strong> (et de responsabilité civile professionnelle) en cours de validité ?</li><li>Quel est votre numéro <strong>SIRET</strong> ?</li><li>Avez-vous prévu l’évacuation des terres ?</li><li>Une étude de sol est-elle nécessaire ?</li><li>Qui fait les déclarations avant travaux près des réseaux ?</li></ol><p>Pour aller plus loin : <a href=\"/guides/verifier-un-artisan/\">comment vérifier un artisan</a>.</p>"
+    },
+    {
+      "h2": "Ce qui fait varier le prix",
+      "html": "<p>Chaque chantier est différent. Les principaux facteurs :</p><ul><li>Le volume de terre à déplacer</li><li>La nature du sol (roche, argile)</li><li>L’accès pour les engins</li><li>L’évacuation et la mise en décharge</li></ul><p>Le plus fiable pour connaître le prix de votre projet est de comparer plusieurs devis détaillés. Voir <a href=\"/guides/devis-travaux/\">ce que doit contenir un devis</a>.</p>"
+    },
+    {
+      "h2": "Règles et précautions à connaître",
+      "html": "<p>Avant de creuser près de réseaux enterrés, des <strong>déclarations préalables aux exploitants</strong> (DT-DICT) sont obligatoires via le guichet unique des réseaux. Une installation d’<strong>assainissement non collectif</strong> est contrôlée par le SPANC de votre commune, de la conception à la réalisation.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Faut-il une étude de sol avant de construire ?",
+      "a": "Dans les zones exposées au retrait-gonflement des argiles, une étude géotechnique est requise lors de la vente d’un terrain constructible et avant certains contrats de construction."
+    },
+    {
+      "q": "Qui contrôle ma fosse septique ?",
+      "a": "Le service public d’assainissement non collectif (SPANC) de votre commune ou intercommunalité contrôle les installations neuves et existantes."
+    }
+  ],
+  "related": [
+    "metiers/macon",
+    "metiers/pisciniste",
+    "metiers/jardinier-paysagiste"
+  ],
+  "relatedTitle": "Métiers liés",
+  "ctaTitle": "De quel artisan avez-vous besoin ?"
+}

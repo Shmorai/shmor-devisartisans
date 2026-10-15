@@ -1,0 +1,74 @@
+{
+  "type": "post",
+  "date": "2026-04-11",
+  "updated": "2026-04-11",
+  "slug": "blog/fuite-eau-qui-paie",
+  "nav": "Fuite d’eau : qui paie la réparation ?",
+  "title": "Fuite d’eau : qui paie entre locataire et propriétaire ?",
+  "description": "Locataire, propriétaire, copropriété, assurance : qui prend en charge une fuite d’eau et les dégâts qu’elle cause ? Les règles et les bons réflexes.",
+  "keywords": [
+    "plomberie",
+    "fuite",
+    "d’eau"
+  ],
+  "cardText": "Locataire, propriétaire, copropriété, assurance : qui prend en charge une fuite d’eau et les dégâts qu’elle cause ? Les règles et les bons réflexes.",
+  "eyebrow": "Plomberie",
+  "h1": "Fuite d’eau : qui paie la réparation ?",
+  "intro": "Une fuite pose deux questions : qui répare la cause, et qui indemnise les dégâts ? Les réponses dépendent de l’origine de la fuite et de votre statut.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1596394723269-b2cbca4e6313",
+    "alt": "Goutte d’eau sur un tuyau en laiton",
+    "credit": "Elimende Inagella",
+    "creditUrl": "https://unsplash.com/@elimendeinagella"
+  },
+  "sections": [
+    {
+      "h2": "D’abord, limiter les dégâts",
+      "html": "<ol><li>Coupez l’eau au robinet d’arrêt ou au compteur.</li><li>Coupez l’électricité si l’eau approche des installations.</li><li>Prévenez le voisin du dessous ou le syndic.</li><li>Photographiez les dégâts.</li></ol>"
+    },
+    {
+      "h2": "Locataire ou propriétaire ?",
+      "html": "<p>Le décret du 26 août 1987 met à la charge du locataire l’entretien courant et les menues réparations (joints, robinetterie). Les réparations liées à la vétusté, à un défaut d’installation ou à une canalisation encastrée relèvent en principe du propriétaire.</p>"
+    },
+    {
+      "h2": "En copropriété",
+      "html": "<p>Si la fuite provient d’une canalisation commune (colonne montante), c’est le syndicat des copropriétaires qui fait réparer. Si elle vient d’une partie privative, c’est au copropriétaire concerné.</p>"
+    },
+    {
+      "h2": "Les dégâts : votre assurance",
+      "html": "<p>Déclarez le dégât des eaux à votre assureur habitation dans les délais prévus par votre contrat (souvent cinq jours ouvrés). Un constat amiable dégât des eaux peut être rempli avec le voisin concerné.</p>"
+    },
+    {
+      "h2": "Repérer une fuite cachée",
+      "html": "<p>Une facture d’eau anormalement élevée est souvent le premier signe. Relevez votre compteur le soir, n’utilisez pas d’eau pendant la nuit et relevez-le à nouveau le matin : s’il a tourné, une fuite existe. Vérifiez en priorité la chasse d’eau, le groupe de sécurité du chauffe-eau et les raccords visibles.</p>"
+    },
+    {
+      "h2": "Fuite après compteur : le plafonnement de facture",
+      "html": "<p>Pour un local d’habitation, en cas de fuite sur une canalisation après compteur, le distributeur doit vous informer d’une augmentation anormale de consommation. Si vous faites réparer la fuite par une entreprise de plomberie dans un délai d’un mois et transmettez l’attestation de réparation, votre facture peut être plafonnée. Les fuites d’appareils ménagers, d’équipements sanitaires ou de chauffage sont exclues.</p>"
+    },
+    {
+      "h2": "Bien choisir son plombier en urgence",
+      "html": "<p>Gardez à portée de main le contact d’un plombier choisi à l’avance, demandez le prix par téléphone et exigez un devis écrit avant toute intervention. Voir notre page <a href=\"/metiers/plombier/\">plombier</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Le plombier doit-il faire un devis pour une fuite ?",
+      "a": "Oui : pour un dépannage, un devis détaillé doit être remis avant l’intervention."
+    },
+    {
+      "q": "Mon assurance couvre-t-elle la recherche de fuite ?",
+      "a": "De nombreux contrats habitation incluent la recherche de fuite en cas de dégât des eaux. Vérifiez les conditions et plafonds de votre contrat."
+    },
+    {
+      "q": "Que faire si le voisin du dessus est absent ?",
+      "a": "Prévenez le syndic ou le gardien, qui peut avoir accès aux vannes communes, et contactez votre assureur."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Service-public.fr",
+      "url": "https://www.service-public.gouv.fr/"
+    }
+  ]
+}

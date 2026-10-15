@@ -1,0 +1,83 @@
+{
+  "type": "post",
+  "date": "2026-03-03",
+  "updated": "2026-03-03",
+  "slug": "blog/comment-choisir-son-artisan",
+  "nav": "Comment choisir son artisan : les 8 vérifications à faire",
+  "title": "Comment choisir son artisan : 8 vérifications utiles",
+  "description": "SIRET, décennale, qualifications, avis, devis détaillé : les 8 vérifications simples pour choisir un artisan sérieux et éviter les mauvaises surprises.",
+  "keywords": [
+    "conseils",
+    "comment",
+    "choisir",
+    "artisan"
+  ],
+  "cardText": "SIRET, décennale, qualifications, avis, devis détaillé : les 8 vérifications simples pour choisir un artisan sérieux et éviter les mauvaises surprises.",
+  "eyebrow": "Conseils",
+  "h1": "Comment choisir son artisan : les 8 vérifications à faire",
+  "intro": "Choisir un artisan, c’est confier sa maison et son budget à un inconnu. Huit vérifications simples, la plupart en ligne et gratuites, réduisent fortement le risque.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1681505531034-8d67054e07f6",
+    "alt": "Deux personnes se serrant la main au-dessus d’un document",
+    "credit": "Amina Atar",
+    "creditUrl": "https://unsplash.com/@minaslens"
+  },
+  "sections": [
+    {
+      "h2": "1. L’entreprise existe-t-elle vraiment ?",
+      "html": "<p>Saisissez le nom ou le SIRET sur l’Annuaire des entreprises (annuaire-entreprises.data.gouv.fr). Vous verrez si l’entreprise est active, depuis quand, et quelle activité elle a déclarée.</p>"
+    },
+    {
+      "h2": "2. L’activité correspond-elle à vos travaux ?",
+      "html": "<p>Un plombier n’est pas assuré pour refaire une toiture. L’activité déclarée et l’activité couverte par l’assurance doivent correspondre à votre chantier.</p>"
+    },
+    {
+      "h2": "3. L’assurance décennale est-elle valide ?",
+      "html": "<p>Demandez l’attestation d’assurance décennale avant le début du chantier. Vérifiez les dates de validité, les activités couvertes et le nom de l’assureur.</p>"
+    },
+    {
+      "h2": "4. Les qualifications sont-elles adaptées ?",
+      "html": "<p>Pour des aides à la rénovation énergétique, l’entreprise doit être RGE. Les qualifications Qualibat, Qualifelec ou Qualit’EnR attestent aussi d’un niveau de compétence contrôlé.</p>"
+    },
+    {
+      "h2": "5 à 8. Les autres réflexes",
+      "html": "<ul><li><strong>Lisez les avis</strong> sur plusieurs plateformes et demandez des photos de chantiers similaires.</li><li><strong>Exigez un devis détaillé</strong>, avec quantités et prix unitaires.</li><li><strong>Comparez au moins deux ou trois devis</strong> portant sur les mêmes prestations.</li><li><strong>Refusez la pression</strong> : un professionnel sérieux vous laisse le temps de réfléchir.</li></ul><p>Notre guide complet : <a href=\"/guides/verifier-un-artisan/\">comment vérifier un artisan</a>.</p>"
+    },
+    {
+      "h2": "Pourquoi la visite technique compte autant",
+      "html": "<p>Un devis sérieux pour des travaux d’une certaine importance se fait rarement sans visite. L’artisan doit voir l’existant, mesurer, repérer les contraintes d’accès et les éventuelles surprises (humidité, réseaux anciens, supports abîmés). Un professionnel qui chiffre une rénovation complète sur la base de trois photos prend un risque, et ce risque se retrouve souvent dans le prix ou dans des suppléments en cours de chantier.</p><p>Profitez de la visite pour juger de l’écoute : l’artisan pose-t-il des questions sur vos usages, vos priorités, votre budget ? Propose-t-il des alternatives ? Explique-t-il clairement ce qu’il fera et ce qu’il ne fera pas ? Ces échanges en disent souvent plus long que n’importe quel avis en ligne.</p>"
+    },
+    {
+      "h2": "Les documents à conserver",
+      "html": "<ul><li>Le devis signé et ses éventuels avenants</li><li>L’attestation d’assurance décennale valable à la date d’ouverture du chantier</li><li>Les échanges écrits (e-mails, messages) sur les choix techniques</li><li>Les factures, qui doivent reprendre la mention de l’assurance</li><li>Le procès-verbal de réception</li></ul><p>Ces documents vous seront utiles pendant dix ans : pour faire jouer une garantie, pour une déclaration de sinistre ou lors de la revente du logement.</p>"
+    },
+    {
+      "h2": "Artisan local ou grande enseigne ?",
+      "html": "<p>Un artisan indépendant offre souvent un interlocuteur unique et une bonne connaissance du bâti local. Une entreprise plus structurée peut coordonner plusieurs métiers et absorber des chantiers importants. Il n’y a pas de bon choix universel : ce qui compte, ce sont les garanties, la clarté du devis et la capacité à respecter le planning.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Un auto-entrepreneur doit-il avoir une décennale ?",
+      "a": "Oui, dès lors que ses travaux relèvent de la garantie décennale, quel que soit son statut."
+    },
+    {
+      "q": "Faut-il se méfier d’un artisan très disponible ?",
+      "a": "Pas forcément : la disponibilité varie selon la saison et la région. En revanche, une pression pour démarrer immédiatement ou pour payer tout de suite doit vous alerter."
+    },
+    {
+      "q": "Peut-on demander des références ?",
+      "a": "Oui. Un professionnel sérieux peut vous montrer des photos de chantiers similaires, voire vous mettre en relation avec d’anciens clients qui l’acceptent."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Annuaire des entreprises (data.gouv.fr)",
+      "url": "https://annuaire-entreprises.data.gouv.fr/"
+    },
+    {
+      "title": "Annuaire des professionnels RGE (France Rénov’)",
+      "url": "https://france-renov.gouv.fr/annuaires-professionnels/artisan-rge-architecte"
+    }
+  ]
+}

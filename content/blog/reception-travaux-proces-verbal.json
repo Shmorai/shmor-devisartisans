@@ -1,0 +1,74 @@
+{
+  "type": "post",
+  "date": "2026-08-24",
+  "updated": "2026-08-24",
+  "slug": "blog/reception-travaux-proces-verbal",
+  "nav": "Réception des travaux : comment rédiger le procès-verbal ?",
+  "title": "Réception des travaux : bien rédiger le procès-verbal",
+  "description": "Visite, réserves, signature, levée des réserves, retenue de garantie : comment réceptionner vos travaux et pourquoi le procès-verbal protège vos garanties.",
+  "keywords": [
+    "droits",
+    "réception",
+    "travaux"
+  ],
+  "cardText": "Visite, réserves, signature, levée des réserves, retenue de garantie : comment réceptionner vos travaux et pourquoi le procès-verbal protège vos garanties.",
+  "eyebrow": "Droits",
+  "h1": "Réception des travaux : comment rédiger le procès-verbal ?",
+  "intro": "La réception marque la fin du chantier et le point de départ des garanties légales. Elle mérite une visite attentive.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1627518788331-b3b7fdaa382f",
+    "alt": "Main signant un document papier avec un stylo",
+    "credit": "Signature Pro",
+    "creditUrl": "https://unsplash.com/@signaturepro"
+  },
+  "sections": [
+    {
+      "h2": "Avant la visite",
+      "html": "<ul><li>Relisez le devis et les avenants</li><li>Prévoyez du temps et de la lumière</li><li>Testez les équipements (robinets, prises, volets)</li></ul>"
+    },
+    {
+      "h2": "Le procès-verbal",
+      "html": "<p>Il indique la date, les parties, les travaux réceptionnés et, s’il y en a, la liste précise des réserves. Il est signé par vous et par l’entreprise, chacun gardant un exemplaire.</p>"
+    },
+    {
+      "h2": "Les réserves",
+      "html": "<p>Chaque défaut doit être décrit précisément et localisé, idéalement avec photos. L’entreprise doit les lever, en principe dans le cadre de la garantie de parfait achèvement.</p>"
+    },
+    {
+      "h2": "Retenue de garantie",
+      "html": "<p>Pour les marchés de travaux privés, une retenue de garantie de 5 % au maximum peut être prévue au contrat pour garantir la levée des réserves.</p>"
+    },
+    {
+      "h2": "Check-list de la visite",
+      "html": "<ul><li>Conformité avec le devis (matériaux, quantités, finitions)</li><li>Fonctionnement des équipements</li><li>Absence de fissures, d’éclats, de traces</li><li>Nettoyage du chantier et évacuation des déchets</li><li>Remise des notices, garanties et attestations (Consuel, conformité gaz, fiches techniques)</li></ul>"
+    },
+    {
+      "h2": "Réception tacite",
+      "html": "<p>Si vous prenez possession des lieux et payez le solde sans réserve, une réception tacite peut être reconnue. Pour éviter toute contestation, formalisez toujours la réception par écrit, même pour un chantier modeste.</p>"
+    },
+    {
+      "h2": "Se faire accompagner",
+      "html": "<p>Pour un chantier important, un architecte, un maître d’œuvre ou un expert indépendant peut vous assister lors de la réception. Leur regard technique permet de repérer des défauts que l’œil non averti ne voit pas.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Peut-on refuser la réception ?",
+      "a": "Oui, si les travaux sont inachevés ou présentent des défauts graves rendant l’ouvrage impropre à son usage. Motivez votre refus par écrit."
+    },
+    {
+      "q": "Peut-on émettre des réserves après la réception ?",
+      "a": "Les défauts apparus dans l’année qui suit peuvent être signalés par écrit au titre de la garantie de parfait achèvement."
+    },
+    {
+      "q": "Faut-il payer le solde si des réserves sont émises ?",
+      "a": "Si une retenue de garantie est prévue, elle peut être conservée jusqu’à la levée des réserves. Sinon, réglez le solde en conservant la preuve des réserves."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Service-public.fr : garantie décennale et réception",
+      "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2034"
+    }
+  ]
+}

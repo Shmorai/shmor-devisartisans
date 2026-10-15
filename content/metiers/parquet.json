@@ -1,0 +1,81 @@
+{
+  "updated": "2026-10-15",
+  "slug": "metiers/parquet",
+  "nav": "Parquet",
+  "title": "Parquet : pose, ponçage et vitrification",
+  "description": "Pose de parquet massif, contrecollé ou stratifié, ponçage et vitrification : comparez les devis gratuits de parqueteurs et poseurs de sols près de chez vous.",
+  "keywords": [
+    "parquet",
+    "pose parquet",
+    "parqueteur",
+    "ponçage parquet",
+    "vitrification parquet",
+    "parquet stratifié",
+    "revêtement de sol"
+  ],
+  "cardText": "Pose de parquet massif ou contrecollé · Pose de sol stratifié ou vinyle · Ponçage et vitrification",
+  "eyebrow": "Sols",
+  "h1": "Poser ou rénover un parquet",
+  "intro": "Un parquet bien posé apporte chaleur et valeur au logement ; un ancien parquet peut souvent être sauvé. Comparez les devis de parqueteurs de votre secteur.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1642942552674-8302b1123460",
+    "alt": "Gros plan d’un parquet à motifs",
+    "credit": "Denis GeoModule",
+    "creditUrl": "https://unsplash.com/@geomodule"
+  },
+  "searchPlaceholder": "Votre projet, p. ex. « fuite » ou « fenêtres »",
+  "highlights": [
+    {
+      "title": "Gratuit",
+      "text": "Décrire votre projet et recevoir des devis ne vous coûte rien."
+    },
+    {
+      "title": "Plusieurs devis",
+      "text": "Comparez les propositions, les délais et les prix avant de décider."
+    },
+    {
+      "title": "Sans engagement",
+      "text": "Vous choisissez librement votre artisan, ou personne."
+    }
+  ],
+  "partnersTitle": "Comparez les devis gratuits de nos partenaires",
+  "sections": [
+    {
+      "h2": "Ce que fait un poseur de parquet",
+      "html": "<ul><li>Pose de parquet massif ou contrecollé</li><li>Pose de sol stratifié ou vinyle</li><li>Ponçage et vitrification</li><li>Huilage et entretien</li><li>Réparation de lames abîmées</li><li>Pose de plinthes</li></ul>"
+    },
+    {
+      "h2": "Quand faire appel à un poseur de parquet ?",
+      "html": "<ul><li>Votre parquet est terne ou rayé</li><li>Vous changez de revêtement de sol</li><li>Vous rénovez un appartement ancien</li><li>Après un dégât des eaux</li></ul>"
+    },
+    {
+      "h2": "Les questions à poser avant de signer",
+      "html": "<p>Au moment de comparer les devis, ces questions vous aident à choisir :</p><ol><li>Pouvez-vous me transmettre votre <strong>attestation d’assurance décennale</strong> (et de responsabilité civile professionnelle) en cours de validité ?</li><li>Quel est votre numéro <strong>SIRET</strong> ?</li><li>Quel mode de pose recommandez-vous (cloué, collé, flottant) ?</li><li>Comment préparez-vous le support ?</li><li>Quelle finition et quel entretien ensuite ?</li></ol><p>Pour aller plus loin : <a href=\"/guides/verifier-un-artisan/\">comment vérifier un artisan</a>.</p>"
+    },
+    {
+      "h2": "Ce qui fait varier le prix",
+      "html": "<p>Chaque chantier est différent. Les principaux facteurs :</p><ul><li>L’essence et l’épaisseur du bois</li><li>Le mode de pose et les motifs</li><li>La préparation du support</li><li>Les finitions</li></ul><p>Le plus fiable pour connaître le prix de votre projet est de comparer plusieurs devis détaillés. Voir <a href=\"/guides/devis-travaux/\">ce que doit contenir un devis</a>.</p>"
+    },
+    {
+      "h2": "Règles et précautions à connaître",
+      "html": "<p>En copropriété, le remplacement d’un revêtement de sol peut être encadré par le <strong>règlement de copropriété</strong>, notamment pour l’isolation phonique vis-à-vis du voisin du dessous. Renseignez-vous avant de remplacer une moquette par un parquet.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Peut-on poncer un parquet contrecollé ?",
+      "a": "Oui, si la couche d’usure est suffisamment épaisse. Un parqueteur vérifie l’épaisseur avant de poncer."
+    },
+    {
+      "q": "Combien de temps attendre après une vitrification ?",
+      "a": "Le temps de séchage dépend du produit. Le professionnel vous indiquera quand marcher et quand remettre les meubles."
+    }
+  ],
+  "related": [
+    "metiers/menuisier",
+    "metiers/carreleur",
+    "metiers/renovation"
+  ],
+  "relatedTitle": "Métiers liés",
+  "ctaTitle": "De quel artisan avez-vous besoin ?"
+}

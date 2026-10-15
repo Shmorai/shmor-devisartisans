@@ -1,0 +1,80 @@
+{
+  "updated": "2026-10-15",
+  "slug": "metiers/nettoyage",
+  "nav": "Nettoyage",
+  "title": "Entreprise de nettoyage : ménage, vitres, locaux",
+  "description": "Ménage à domicile, nettoyage de vitres, de fin de chantier ou de locaux professionnels : comparez les devis d’entreprises de nettoyage.",
+  "keywords": [
+    "entreprise de nettoyage",
+    "ménage",
+    "femme de ménage",
+    "nettoyage de vitres",
+    "nettoyage fin de chantier",
+    "nettoyage de locaux"
+  ],
+  "cardText": "Ménage régulier à domicile · Nettoyage de vitres · Nettoyage de fin de chantier",
+  "eyebrow": "Nettoyage",
+  "h1": "Trouver une entreprise de nettoyage",
+  "intro": "Ménage régulier, grand nettoyage ou fin de chantier : comparez les devis d’entreprises de nettoyage de votre région, pour les particuliers comme pour les professionnels.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1563453392212-326f5e854473",
+    "alt": "Personne tenant un pulvérisateur jaune pour le ménage",
+    "credit": "JESHOOTS.COM",
+    "creditUrl": "https://unsplash.com/@jeshoots"
+  },
+  "searchPlaceholder": "Votre projet, p. ex. « fuite » ou « fenêtres »",
+  "highlights": [
+    {
+      "title": "Gratuit",
+      "text": "Décrire votre projet et recevoir des devis ne vous coûte rien."
+    },
+    {
+      "title": "Plusieurs devis",
+      "text": "Comparez les propositions, les délais et les prix avant de décider."
+    },
+    {
+      "title": "Sans engagement",
+      "text": "Vous choisissez librement votre artisan, ou personne."
+    }
+  ],
+  "partnersTitle": "Comparez les devis gratuits de nos partenaires",
+  "sections": [
+    {
+      "h2": "Ce que fait une entreprise de nettoyage",
+      "html": "<ul><li>Ménage régulier à domicile</li><li>Nettoyage de vitres</li><li>Nettoyage de fin de chantier</li><li>Entretien de bureaux et commerces</li><li>Remise en état avant un état des lieux</li><li>Nettoyage de moquettes</li></ul>"
+    },
+    {
+      "h2": "Quand faire appel à une entreprise de nettoyage ?",
+      "html": "<ul><li>Vous manquez de temps</li><li>Vous sortez d’un chantier de rénovation</li><li>Vous quittez un logement loué</li><li>Vous gérez des locaux professionnels</li></ul>"
+    },
+    {
+      "h2": "Les questions à poser avant de signer",
+      "html": "<p>Au moment de comparer les devis, ces questions vous aident à choisir :</p><ol><li>Pouvez-vous me transmettre votre <strong>attestation d’assurance décennale</strong> (et de responsabilité civile professionnelle) en cours de validité ?</li><li>Quel est votre numéro <strong>SIRET</strong> ?</li><li>Votre entreprise est-elle déclarée « services à la personne » ?</li><li>Les produits et le matériel sont-ils fournis ?</li><li>Le personnel est-il assuré ?</li></ol><p>Pour aller plus loin : <a href=\"/guides/verifier-un-artisan/\">comment vérifier un artisan</a>.</p>"
+    },
+    {
+      "h2": "Ce qui fait varier le prix",
+      "html": "<p>Chaque chantier est différent. Les principaux facteurs :</p><ul><li>La surface et la fréquence</li><li>Le type de nettoyage</li><li>Les produits et le matériel</li><li>Les contraintes d’accès et d’horaires</li></ul><p>Le plus fiable pour connaître le prix de votre projet est de comparer plusieurs devis détaillés. Voir <a href=\"/guides/devis-travaux/\">ce que doit contenir un devis</a>.</p>"
+    },
+    {
+      "h2": "Règles et précautions à connaître",
+      "html": "<p>Le ménage à domicile effectué par un organisme de <strong>services à la personne</strong> ouvre droit à un <strong>crédit d’impôt de 50 %</strong> des dépenses, dans la limite d’un plafond annuel. Avec l’<strong>avance immédiate</strong> proposée via l’Urssaf, vous pouvez ne payer que la moitié au moment de la prestation lorsque le prestataire y adhère.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Le ménage donne-t-il droit à un crédit d’impôt ?",
+      "a": "Oui, s’il est réalisé à votre domicile par un salarié que vous employez ou par un organisme déclaré de services à la personne. Le crédit est de 50 % des dépenses, sous plafond."
+    },
+    {
+      "q": "Faut-il un nettoyage professionnel après des travaux ?",
+      "a": "Les poussières de plâtre et de ponçage sont tenaces. Un nettoyage de fin de chantier est souvent proposé par les entreprises de nettoyage ; vérifiez s’il est déjà prévu dans le devis des travaux."
+    }
+  ],
+  "related": [
+    "metiers/demenageur",
+    "metiers/renovation",
+    "metiers/peintre"
+  ],
+  "relatedTitle": "Métiers liés",
+  "ctaTitle": "De quel artisan avez-vous besoin ?"
+}

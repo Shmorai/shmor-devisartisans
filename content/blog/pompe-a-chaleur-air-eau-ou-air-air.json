@@ -1,0 +1,76 @@
+{
+  "type": "post",
+  "date": "2026-05-01",
+  "updated": "2026-05-01",
+  "slug": "blog/pompe-a-chaleur-air-eau-ou-air-air",
+  "nav": "Pompe à chaleur air/eau ou air/air : comment choisir ?",
+  "title": "Pompe à chaleur air/eau ou air/air : laquelle choisir ?",
+  "description": "Fonctionnement, émetteurs, eau chaude, confort d’été, aides : les différences entre pompe à chaleur air/eau et air/air pour bien choisir selon votre logement.",
+  "keywords": [
+    "chauffage",
+    "pompe",
+    "chaleur",
+    "air/eau",
+    "air/air"
+  ],
+  "cardText": "Fonctionnement, émetteurs, eau chaude, confort d’été, aides : les différences entre pompe à chaleur air/eau et air/air pour bien choisir selon votre logement.",
+  "eyebrow": "Chauffage",
+  "h1": "Pompe à chaleur air/eau ou air/air : comment choisir ?",
+  "intro": "Les deux puisent la chaleur dans l’air extérieur. Ce qui change, c’est la façon de la diffuser dans la maison.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1776860150305-108ed577d7d4",
+    "alt": "Unité extérieure de pompe à chaleur contre un bâtiment en briques",
+    "credit": "alpha innotec",
+    "creditUrl": "https://unsplash.com/@alpha_innotec"
+  },
+  "sections": [
+    {
+      "h2": "Air/eau : pour remplacer une chaudière",
+      "html": "<p>Elle chauffe l’eau d’un circuit de radiateurs ou d’un plancher chauffant, et peut produire l’eau chaude sanitaire. C’est la solution naturelle pour remplacer une chaudière fioul ou gaz.</p>"
+    },
+    {
+      "h2": "Air/air : chauffage et rafraîchissement",
+      "html": "<p>Elle souffle de l’air chaud ou frais par des unités intérieures. Réversible, elle sert aussi de climatisation. Elle ne produit pas d’eau chaude.</p>"
+    },
+    {
+      "h2": "Les critères de choix",
+      "html": "<ul><li>Vos émetteurs actuels (radiateurs à eau ou non)</li><li>Le besoin d’eau chaude</li><li>Le confort d’été</li><li>L’isolation du logement</li><li>L’éligibilité aux aides, plus large pour l’air/eau</li></ul>"
+    },
+    {
+      "h2": "Dans tous les cas",
+      "html": "<p>Exigez une étude de dimensionnement et un installateur RGE. Voir notre page <a href=\"/metiers/pompe-a-chaleur/\">pompe à chaleur</a>.</p>"
+    },
+    {
+      "h2": "Le coefficient de performance, à lire avec prudence",
+      "html": "<p>Le COP mesure le rapport entre la chaleur produite et l’électricité consommée, dans des conditions de test données. Les performances réelles varient avec la température extérieure et la température de l’eau envoyée dans les radiateurs. Demandez à l’installateur des performances à des températures proches de votre climat, et regardez aussi l’efficacité saisonnière.</p>"
+    },
+    {
+      "h2": "Radiateurs existants : compatibles ?",
+      "html": "<p>Les pompes à chaleur air/eau fonctionnent au mieux avec une eau à température modérée. Des radiateurs anciens prévus pour une eau très chaude peuvent nécessiter une pompe à chaleur haute température, le remplacement de certains émetteurs ou une meilleure isolation du logement. L’étude de dimensionnement doit traiter ce point.</p>"
+    },
+    {
+      "h2": "Bruit et emplacement",
+      "html": "<p>L’unité extérieure émet un bruit de ventilation. Placez-la loin des chambres et des fenêtres voisines, sur des supports antivibratiles, et vérifiez les règles de votre commune et de votre copropriété.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Une pompe à chaleur air/air est-elle aidée ?",
+      "a": "Les aides publiques ciblent surtout les pompes à chaleur air/eau et géothermiques. Vérifiez les conditions en vigueur sur france-renov.gouv.fr."
+    },
+    {
+      "q": "Une pompe à chaleur fonctionne-t-elle par grand froid ?",
+      "a": "Oui, mais son rendement baisse quand la température extérieure chute. Un appoint peut être prévu selon votre région et votre logement."
+    },
+    {
+      "q": "Quelle durée de vie ?",
+      "a": "Elle dépend de la qualité de l’appareil, de l’installation et de l’entretien, d’où l’importance de l’entretien obligatoire au moins tous les deux ans."
+    }
+  ],
+  "sources": [
+    {
+      "title": "France Rénov’ (service public de la rénovation de l’habitat)",
+      "url": "https://france-renov.gouv.fr/"
+    }
+  ]
+}

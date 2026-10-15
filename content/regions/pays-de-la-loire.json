@@ -2,8 +2,8 @@
   "updated": "2026-10-15",
   "slug": "regions/pays-de-la-loire",
   "nav": "Pays de la Loire",
-  "title": "Artisans dans les Pays de la Loire : devis gratuits",
-  "description": "Trouvez un artisan dans les Pays de la Loire (Nantes, Angers…) : conseils locaux, règles à connaître et devis gratuits près de chez vous.",
+  "title": "Artisans dans les Pays de la Loire : devis gratuits",
+  "description": "Trouvez un artisan dans les Pays de la Loire (Nantes, Angers…) : conseils locaux, règles à connaître et devis gratuits près de chez vous.",
   "keywords": [
     "artisan pays de la loire",
     "artisan nantes",
@@ -17,7 +17,7 @@
   "cardText": "Nantes, Angers, Le Mans, Saint-Nazaire… Bâti local, risques et démarches.",
   "eyebrow": "Région",
   "h1": "Trouver un artisan dans les Pays de la Loire",
-  "intro": "Plombier à Nantes, couvreur à Angers ou entreprise de rénovation à Le Mans : décrivez votre projet et comparez les devis d’artisans des Pays de la Loire.",
+  "intro": "Plombier à Nantes, couvreur à Angers ou entreprise de rénovation à Le Mans : décrivez votre projet et comparez les devis d’artisans des Pays de la Loire.",
   "image": {
     "src": "https://images.unsplash.com/photo-1676283898167-addc4238bee8",
     "alt": "Éléphant mécanique géant transportant des visiteurs",
@@ -46,7 +46,7 @@
   "sections": [
     {
       "h2": "Les départements et villes des Pays de la Loire",
-      "html": "<p>La région Pays de la Loire regroupe les départements suivants : Loire-Atlantique (44), Maine-et-Loire (49), Mayenne (53), Sarthe (72), Vendée (85).</p><p>Principales villes : Nantes, Angers, Le Mans, Saint-Nazaire, Cholet, La Roche-sur-Yon, Laval. Où que vous soyez dans la région, décrivez votre projet en indiquant votre code postal pour être mis en relation avec des artisans qui interviennent dans votre secteur.</p>"
+      "html": "<p>La région Pays de la Loire regroupe les départements suivants : Loire-Atlantique (44), Maine-et-Loire (49), Mayenne (53), Sarthe (72), Vendée (85).</p><p>Principales villes : Nantes, Angers, Le Mans, Saint-Nazaire, Cholet, La Roche-sur-Yon, Laval. Où que vous soyez dans la région, décrivez votre projet en indiquant votre code postal pour être mis en relation avec des artisans qui interviennent dans votre secteur.</p>"
     },
     {
       "h2": "Le bâti et les travaux typiques des Pays de la Loire",
@@ -54,24 +54,24 @@
     },
     {
       "h2": "Risques naturels et règles locales à vérifier",
-      "html": "<p>Une partie du littoral est couverte par des plans de prévention des risques littoraux, depuis la tempête Xynthia de 2010 ; la Loire et ses affluents sont exposés aux crues.</p><p>Avant des travaux importants, consultez la fiche de votre commune sur <a href=\"https://www.georisques.gouv.fr/\" rel=\"noopener\" target=\"_blank\">Géorisques</a> (inondation, argiles, sismicité, radon…) et le <strong>plan local d’urbanisme</strong> en mairie. Près d’un monument historique, les travaux extérieurs sont soumis à l’avis de l’Architecte des Bâtiments de France.</p>"
+      "html": "<p>Une partie du littoral est couverte par des plans de prévention des risques littoraux, depuis la tempête Xynthia de 2010 ; la Loire et ses affluents sont exposés aux crues.</p><p>Avant des travaux importants, consultez la fiche de votre commune sur <a href=\"https://www.georisques.gouv.fr/\" rel=\"noopener\" target=\"_blank\">Géorisques</a> (inondation, argiles, sismicité, radon…) et le <strong>plan local d’urbanisme</strong> en mairie. Près d’un monument historique, les travaux extérieurs sont soumis à l’avis de l’Architecte des Bâtiments de France.</p>"
     },
     {
       "h2": "Se faire conseiller gratuitement près de chez vous",
-      "html": "<p>Pour un projet de rénovation énergétique, les <strong>Espaces Conseil France Rénov’</strong> offrent des conseils neutres et gratuits ; trouvez le plus proche sur <a href=\"https://france-renov.gouv.fr/\" rel=\"noopener\" target=\"_blank\">france-renov.gouv.fr</a>. Pour les questions juridiques liées au logement (copropriété, location, urbanisme), l’<strong>ADIL</strong> de votre département peut vous renseigner.</p><p>Avant de choisir, lisez nos guides : <a href=\"/guides/verifier-un-artisan/\">vérifier un artisan</a>, <a href=\"/guides/devis-travaux/\">bien lire un devis</a> et <a href=\"/guides/aides-renovation/\">les aides à la rénovation</a>.</p>"
+      "html": "<p>Pour un projet de rénovation énergétique, les <strong>Espaces Conseil France Rénov’</strong> offrent des conseils neutres et gratuits ; trouvez le plus proche sur <a href=\"https://france-renov.gouv.fr/\" rel=\"noopener\" target=\"_blank\">france-renov.gouv.fr</a>. Pour les questions juridiques liées au logement (copropriété, location, urbanisme), l’<strong>ADIL</strong> de votre département peut vous renseigner.</p><p>Avant de choisir, lisez nos guides : <a href=\"/guides/verifier-un-artisan/\">vérifier un artisan</a>, <a href=\"/guides/devis-travaux/\">bien lire un devis</a> et <a href=\"/guides/aides-renovation/\">les aides à la rénovation</a>.</p>"
     }
   ],
   "faqs": [
     {
-      "q": "Puis-je agrandir ma maison en zone littorale ?",
+      "q": "Puis-je agrandir ma maison en zone littorale ?",
       "a": "Cela dépend du plan de prévention des risques littoraux et du plan local d’urbanisme de votre commune. Certaines zones interdisent ou limitent les extensions. Renseignez-vous en mairie avant de demander des devis."
     },
     {
-      "q": "Les artisans interviennent-ils partout dans les Pays de la Loire ?",
+      "q": "Les artisans interviennent-ils partout dans les Pays de la Loire ?",
       "a": "Nos partenaires mettent en relation avec des professionnels dans toute la France métropolitaine. Le nombre de réponses peut varier selon votre commune, le type de travaux et la période."
     },
     {
-      "q": "Est-ce gratuit ?",
+      "q": "Est-ce gratuit ?",
       "a": "Oui, décrire votre projet et recevoir des devis est gratuit et sans engagement. Vous traitez ensuite directement avec l’artisan que vous choisissez."
     }
   ],

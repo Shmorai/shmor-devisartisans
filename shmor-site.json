@@ -7,7 +7,7 @@
   "status": "building",
   "icon": "house",
   "accent": "#E2673F",
-  "blurb": "Trouvez un artisan en France : plombier, électricien, couvreur, peintre… Comparez des devis gratuits.",
+  "blurb": "Trouvez un artisan en France et comparez des devis gratuits : 30 métiers, 13 régions, conseils et blog.",
   "keywords": [
     "artisan",
     "artisans",
@@ -49,7 +49,47 @@
     "maprimerenov",
     "artisan rge",
     "garantie décennale",
-    "garantie decennale"
+    "garantie decennale",
+    "charpentier",
+    "charpente",
+    "façadier",
+    "ravalement",
+    "cuisiniste",
+    "salle de bain",
+    "douche italienne",
+    "pisciniste",
+    "piscine",
+    "vitrier",
+    "terrassier",
+    "terrassement",
+    "ramoneur",
+    "ramonage",
+    "nettoyage",
+    "femme de ménage",
+    "déménageur",
+    "déménagement",
+    "demenagement",
+    "diagnostiqueur",
+    "diagnostic immobilier",
+    " dpe ",
+    "panneaux solaires",
+    "photovoltaïque",
+    "photovoltaique",
+    "poêle à bois",
+    "poele a bois",
+    "poêle à granulés",
+    "parquet",
+    "véranda",
+    "veranda",
+    "placo",
+    "climatiseur",
+    "débouchage",
+    "fuite d’eau",
+    "fuite d'eau",
+    "chauffe-eau",
+    "volet roulant",
+    "fenêtres",
+    "fenetres"
   ],
   "fallback": "",
   "popular": [
@@ -73,10 +113,10 @@
     "description": "Trouvez un artisan près de chez vous partout en France et comparez des devis gratuits : plombier, électricien, couvreur, peintre, maçon, chauffagiste.",
     "locale": "fr",
     "ogLocale": "fr_FR",
-    "themeColor": "#1B2A41",
+    "themeColor": "#0B2545",
     "searchPlaceholder": "Quel artisan cherchez-vous ?",
     "ctaTitle": "De quel artisan avez-vous besoin ?",
-    "fontsUrl": "https://fonts.googleapis.com/css2?family=Manrope:wght@700;800&family=Inter:wght@400;500;600;700&display=swap"
+    "fontsUrl": "https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@700;800&family=Inter:wght@400;500;600;700&display=swap"
   },
   "card": {
     "image": {
@@ -85,12 +125,12 @@
       "credit": "Ernie Journeys",
       "creditUrl": "https://unsplash.com/@erniejourneys"
     },
-    "logo": "<svg viewBox=\"0 0 40 40\" aria-hidden=\"true\"><rect width=\"40\" height=\"40\" rx=\"10\" fill=\"#1B2A41\"/><path d=\"M8 20.5 20 10l12 10.5\" fill=\"none\" stroke=\"#E2673F\" stroke-width=\"3.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"m14.5 25.5 4 4 7.5-8\" fill=\"none\" stroke=\"#F4C27A\" stroke-width=\"3.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg>",
-    "accent": "#C4532D",
+    "logo": "<svg viewBox=\"0 0 40 40\" aria-hidden=\"true\"><rect width=\"40\" height=\"40\" rx=\"10\" fill=\"#0B2545\"/><path d=\"M8 20.5 20 10l12 10.5\" fill=\"none\" stroke=\"#D9663F\" stroke-width=\"3.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"m14.5 25.5 4 4 7.5-8\" fill=\"none\" stroke=\"#F4C27A\" stroke-width=\"3.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg>",
+    "accent": "#1D4E9E",
     "wordmark": [
       "Devis",
       "Artisans"
     ],
-    "wordmarkColor": "#F4C27A"
+    "wordmarkColor": "#F2A07F"
   }
 }

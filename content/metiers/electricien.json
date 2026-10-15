@@ -2,9 +2,8 @@
   "updated": "2026-10-15",
   "slug": "metiers/electricien",
   "nav": "Électricien",
-  "navOrder": 3,
-  "title": "Électricien : devis gratuits près de chez vous",
-  "description": "Mise aux normes, tableau électrique, prises, éclairage ou borne de recharge : comparez les devis d’électriciens qualifiés près de chez vous, gratuitement.",
+  "title": "Électricien : devis gratuits près de chez vous",
+  "description": "Mise aux normes, tableau électrique, prises, éclairage ou borne de recharge : comparez les devis d’électriciens qualifiés près de chez vous, gratuitement.",
   "keywords": [
     "électricien",
     "electricien",
@@ -17,14 +16,14 @@
   "cardText": "Mise en sécurité ou mise aux normes d’une installation (norme NF C 15-100) · Remplacement du tableau électrique · Ajout de prises, d’interrupteurs et de points lumineux",
   "eyebrow": "Électricité",
   "h1": "Trouver un électricien qualifié",
-  "intro": "L’électricité ne s’improvise pas : une installation mal faite met votre sécurité en jeu. Décrivez votre projet et comparez les devis d’électriciens de votre région.",
+  "intro": "L’électricité ne s’improvise pas : une installation mal faite met votre sécurité en jeu. Décrivez votre projet et comparez les devis d’électriciens de votre région.",
   "image": {
     "src": "https://images.unsplash.com/photo-1621905251189-08b45d6a269e",
     "alt": "Électricien en casque de chantier installant du câblage",
     "credit": "Emmanuel Ikwuegbu",
     "creditUrl": "https://unsplash.com/@emmages"
   },
-  "searchPlaceholder": "Votre projet, p. ex. « fuite » ou « fenêtres »",
+  "searchPlaceholder": "Votre projet, p. ex. « fuite » ou « fenêtres »",
   "highlights": [
     {
       "title": "Gratuit",
@@ -46,16 +45,16 @@
       "html": "<ul><li>Mise en sécurité ou mise aux normes d’une installation (norme NF C 15-100)</li><li>Remplacement du tableau électrique</li><li>Ajout de prises, d’interrupteurs et de points lumineux</li><li>Rénovation complète de l’électricité d’un logement</li><li>Installation d’une borne de recharge pour véhicule électrique</li><li>Recherche de panne et dépannage</li></ul>"
     },
     {
-      "h2": "Quand faire appel à un électricien ?",
+      "h2": "Quand faire appel à un électricien ?",
       "html": "<ul><li>Les disjoncteurs sautent souvent ou des prises chauffent</li><li>Votre installation est ancienne (fils en tissu, absence de prise de terre, fusibles à broches)</li><li>Vous rénovez une pièce ou tout un logement</li><li>Vous achetez une voiture électrique ou hybride rechargeable</li></ul>"
     },
     {
       "h2": "Les questions à poser avant de signer",
-      "html": "<p>Au moment de comparer les devis, ces questions vous aident à choisir :</p><ol><li>Pouvez-vous me transmettre votre <strong>attestation d’assurance décennale</strong> (et de responsabilité civile professionnelle) en cours de validité ?</li><li>Quel est votre numéro <strong>SIRET</strong> ?</li><li>Êtes-vous titulaire d’une qualification (par exemple Qualifelec) pour ce type de travaux ?</li><li>Pour une borne de recharge : avez-vous la qualification IRVE ?</li><li>Le devis inclut-il la remise en état (saignées, rebouchage) ?</li></ol><p>Pour aller plus loin : <a href=\"/guides/verifier-un-artisan/\">comment vérifier un artisan</a>.</p>"
+      "html": "<p>Au moment de comparer les devis, ces questions vous aident à choisir :</p><ol><li>Pouvez-vous me transmettre votre <strong>attestation d’assurance décennale</strong> (et de responsabilité civile professionnelle) en cours de validité ?</li><li>Quel est votre numéro <strong>SIRET</strong> ?</li><li>Êtes-vous titulaire d’une qualification (par exemple Qualifelec) pour ce type de travaux ?</li><li>Pour une borne de recharge : avez-vous la qualification IRVE ?</li><li>Le devis inclut-il la remise en état (saignées, rebouchage) ?</li></ol><p>Pour aller plus loin : <a href=\"/guides/verifier-un-artisan/\">comment vérifier un artisan</a>.</p>"
     },
     {
       "h2": "Ce qui fait varier le prix",
-      "html": "<p>Chaque chantier est différent. Les principaux facteurs :</p><ul><li>L’ampleur des travaux (remplacement ponctuel ou rénovation complète)</li><li>Le nombre de circuits, prises et points lumineux</li><li>L’état des murs et la nécessité de saignées</li><li>Le matériel choisi (tableau, appareillage, domotique)</li></ul><p>Le plus fiable pour connaître le prix de votre projet est de comparer plusieurs devis détaillés. Voir <a href=\"/guides/devis-travaux/\">ce que doit contenir un devis</a>.</p>"
+      "html": "<p>Chaque chantier est différent. Les principaux facteurs :</p><ul><li>L’ampleur des travaux (remplacement ponctuel ou rénovation complète)</li><li>Le nombre de circuits, prises et points lumineux</li><li>L’état des murs et la nécessité de saignées</li><li>Le matériel choisi (tableau, appareillage, domotique)</li></ul><p>Le plus fiable pour connaître le prix de votre projet est de comparer plusieurs devis détaillés. Voir <a href=\"/guides/devis-travaux/\">ce que doit contenir un devis</a>.</p>"
     },
     {
       "h2": "Règles et précautions à connaître",
@@ -64,16 +63,16 @@
   ],
   "faqs": [
     {
-      "q": "Faut-il refaire toute l’électricité d’une maison ancienne ?",
+      "q": "Faut-il refaire toute l’électricité d’une maison ancienne ?",
       "a": "Pas forcément. Un électricien peut d’abord réaliser un état des lieux et proposer une mise en sécurité (prise de terre, protection différentielle, tableau) avant une rénovation complète."
     },
     {
-      "q": "Qu’est-ce que le Consuel ?",
+      "q": "Qu’est-ce que le Consuel ?",
       "a": "Le Consuel (Comité national pour la sécurité des usagers de l’électricité) vise les attestations de conformité des installations électriques neuves ou entièrement rénovées."
     },
     {
-      "q": "Puis-je installer une borne de recharge en copropriété ?",
-      "a": "Oui, le « droit à la prise » permet à un copropriétaire ou locataire d’équiper sa place de stationnement, après information du syndic. Faites appel à un installateur qualifié IRVE."
+      "q": "Puis-je installer une borne de recharge en copropriété ?",
+      "a": "Oui, le « droit à la prise » permet à un copropriétaire ou locataire d’équiper sa place de stationnement, après information du syndic. Faites appel à un installateur qualifié IRVE."
     }
   ],
   "related": [
@@ -82,5 +81,5 @@
     "metiers/climatisation"
   ],
   "relatedTitle": "Métiers liés",
-  "ctaTitle": "De quel artisan avez-vous besoin ?"
+  "ctaTitle": "De quel artisan avez-vous besoin ?"
 }

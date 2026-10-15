@@ -1,0 +1,81 @@
+{
+  "updated": "2026-10-15",
+  "slug": "metiers/diagnostiqueur",
+  "nav": "Diagnostiqueur",
+  "title": "Diagnostiqueur immobilier : DPE, amiante, plomb",
+  "description": "DPE, audit énergétique, amiante, plomb, électricité, gaz, termites : comparez les devis de diagnostiqueurs certifiés près de chez vous pour vendre ou louer.",
+  "keywords": [
+    "diagnostiqueur",
+    "diagnostic immobilier",
+    "dpe",
+    "audit énergétique",
+    "diagnostic amiante",
+    "diagnostic plomb",
+    "diagnostic électricité"
+  ],
+  "cardText": "Diagnostic de performance énergétique (DPE) · Audit énergétique réglementaire · Repérage amiante",
+  "eyebrow": "Diagnostics immobiliers",
+  "h1": "Trouver un diagnostiqueur immobilier",
+  "intro": "Pour vendre ou louer, le dossier de diagnostic technique est obligatoire. Comparez les devis de diagnostiqueurs certifiés de votre région.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1564846824194-346b7871b855",
+    "alt": "Personne remplissant un formulaire au stylo",
+    "credit": "Leon Seibert",
+    "creditUrl": "https://unsplash.com/@yapics"
+  },
+  "searchPlaceholder": "Votre projet, p. ex. « fuite » ou « fenêtres »",
+  "highlights": [
+    {
+      "title": "Gratuit",
+      "text": "Décrire votre projet et recevoir des devis ne vous coûte rien."
+    },
+    {
+      "title": "Plusieurs devis",
+      "text": "Comparez les propositions, les délais et les prix avant de décider."
+    },
+    {
+      "title": "Sans engagement",
+      "text": "Vous choisissez librement votre artisan, ou personne."
+    }
+  ],
+  "partnersTitle": "Comparez les devis gratuits de nos partenaires",
+  "sections": [
+    {
+      "h2": "Ce que fait un diagnostiqueur immobilier",
+      "html": "<ul><li>Diagnostic de performance énergétique (DPE)</li><li>Audit énergétique réglementaire</li><li>Repérage amiante</li><li>Constat de risque d’exposition au plomb (CREP)</li><li>Diagnostics électricité et gaz</li><li>État relatif aux termites et état des risques</li></ul>"
+    },
+    {
+      "h2": "Quand faire appel à un diagnostiqueur immobilier ?",
+      "html": "<ul><li>Vous vendez un logement</li><li>Vous mettez un logement en location</li><li>Vous préparez des travaux dans un bâtiment ancien</li><li>Vous voulez connaître la performance de votre logement</li></ul>"
+    },
+    {
+      "h2": "Les questions à poser avant de signer",
+      "html": "<p>Au moment de comparer les devis, ces questions vous aident à choisir :</p><ol><li>Pouvez-vous me transmettre votre <strong>attestation d’assurance décennale</strong> (et de responsabilité civile professionnelle) en cours de validité ?</li><li>Quel est votre numéro <strong>SIRET</strong> ?</li><li>Êtes-vous certifié pour chacun des diagnostics demandés ?</li><li>Le prix inclut-il tous les diagnostics obligatoires pour mon bien ?</li><li>Sous quel délai recevrai-je les rapports ?</li></ol><p>Pour aller plus loin : <a href=\"/guides/verifier-un-artisan/\">comment vérifier un artisan</a>.</p>"
+    },
+    {
+      "h2": "Ce qui fait varier le prix",
+      "html": "<p>Chaque chantier est différent. Les principaux facteurs :</p><ul><li>Le nombre de diagnostics nécessaires</li><li>La surface et l’âge du bien</li><li>La localisation (zones termites, risques)</li><li>L’urgence</li></ul><p>Le plus fiable pour connaître le prix de votre projet est de comparer plusieurs devis détaillés. Voir <a href=\"/guides/devis-travaux/\">ce que doit contenir un devis</a>.</p>"
+    },
+    {
+      "h2": "Règles et précautions à connaître",
+      "html": "<p>Le diagnostiqueur doit être <strong>certifié</strong> par un organisme accrédité ; vous pouvez le vérifier dans l’annuaire officiel des diagnostiqueurs. Les diagnostics requis dépendent du bien : amiante (permis de construire avant juillet 1997), plomb (avant 1949), électricité et gaz (installations de plus de 15 ans), termites selon la zone. Un <strong>audit énergétique</strong> est exigé pour la vente de certaines maisons et immeubles en monopropriété mal classés au DPE.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Combien de temps un DPE est-il valable ?",
+      "a": "Un DPE est en principe valable 10 ans. Les DPE réalisés avant le 1er juillet 2021 ont une durée de validité réduite."
+    },
+    {
+      "q": "Peut-on louer un logement classé G ?",
+      "a": "Depuis le 1er janvier 2025, les logements classés G ne sont plus considérés comme décents pour les nouveaux baux en France métropolitaine ; ce sera le cas des logements F en 2028 et E en 2034."
+    }
+  ],
+  "related": [
+    "metiers/isolation",
+    "metiers/electricien",
+    "metiers/renovation"
+  ],
+  "relatedTitle": "Métiers liés",
+  "ctaTitle": "De quel artisan avez-vous besoin ?"
+}

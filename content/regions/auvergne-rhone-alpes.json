@@ -2,8 +2,8 @@
   "updated": "2026-10-15",
   "slug": "regions/auvergne-rhone-alpes",
   "nav": "Auvergne-Rhône-Alpes",
-  "title": "Artisans en Auvergne-Rhône-Alpes : devis gratuits",
-  "description": "Trouvez un artisan en Auvergne-Rhône-Alpes (Lyon, Grenoble…) : conseils locaux, règles à connaître et devis gratuits près de chez vous.",
+  "title": "Artisans en Auvergne-Rhône-Alpes : devis gratuits",
+  "description": "Trouvez un artisan en Auvergne-Rhône-Alpes (Lyon, Grenoble…) : conseils locaux, règles à connaître et devis gratuits près de chez vous.",
   "keywords": [
     "artisan auvergne-rhône-alpes",
     "artisan lyon",
@@ -17,7 +17,7 @@
   "cardText": "Lyon, Grenoble, Saint-Étienne, Clermont-Ferrand… Bâti local, risques et démarches.",
   "eyebrow": "Région",
   "h1": "Trouver un artisan en Auvergne-Rhône-Alpes",
-  "intro": "Plombier à Lyon, couvreur à Grenoble ou entreprise de rénovation à Saint-Étienne : décrivez votre projet et comparez les devis d’artisans d’Auvergne-Rhône-Alpes.",
+  "intro": "Plombier à Lyon, couvreur à Grenoble ou entreprise de rénovation à Saint-Étienne : décrivez votre projet et comparez les devis d’artisans d’Auvergne-Rhône-Alpes.",
   "image": {
     "src": "https://images.unsplash.com/photo-1590274853934-90bff4d9ba9e",
     "alt": "Bâtiments anciens au bord d’un canal sous un ciel bleu",
@@ -46,11 +46,11 @@
   "sections": [
     {
       "h2": "Les départements et villes d’Auvergne-Rhône-Alpes",
-      "html": "<p>La région Auvergne-Rhône-Alpes regroupe les départements suivants : Ain (01), Allier (03), Ardèche (07), Cantal (15), Drôme (26), Isère (38), Loire (42), Haute-Loire (43), Puy-de-Dôme (63), Rhône (69) et Métropole de Lyon, Savoie (73), Haute-Savoie (74).</p><p>Principales villes : Lyon, Grenoble, Saint-Étienne, Clermont-Ferrand, Villeurbanne, Annecy, Chambéry, Valence. Où que vous soyez dans la région, décrivez votre projet en indiquant votre code postal pour être mis en relation avec des artisans qui interviennent dans votre secteur.</p>"
+      "html": "<p>La région Auvergne-Rhône-Alpes regroupe les départements suivants : Ain (01), Allier (03), Ardèche (07), Cantal (15), Drôme (26), Isère (38), Loire (42), Haute-Loire (43), Puy-de-Dôme (63), Rhône (69) et Métropole de Lyon, Savoie (73), Haute-Savoie (74).</p><p>Principales villes : Lyon, Grenoble, Saint-Étienne, Clermont-Ferrand, Villeurbanne, Annecy, Chambéry, Valence. Où que vous soyez dans la région, décrivez votre projet en indiquant votre code postal pour être mis en relation avec des artisans qui interviennent dans votre secteur.</p>"
     },
     {
       "h2": "Le bâti et les travaux typiques d’Auvergne-Rhône-Alpes",
-      "html": "<ul><li>En montagne (Alpes, Massif central), les toitures doivent supporter des <strong>charges de neige</strong> importantes : le choix du couvreur et des matériaux en tient compte.</li><li>Le Nord-Isère et ses environs comptent de nombreuses maisons en <strong>pisé</strong> (terre crue), qui demandent des enduits et des isolants respirants.</li><li>Les hivers rigoureux en altitude font du <strong>chauffage au bois</strong> et de l’isolation des priorités, tandis que la vallée du Rhône connaît des étés chauds.</li><li>À Lyon, les immeubles anciens en copropriété impliquent souvent un accord du syndic pour les travaux touchant aux parties communes.</li></ul>"
+      "html": "<ul><li>En montagne (Alpes, Massif central), les toitures doivent supporter des <strong>charges de neige</strong> importantes : le choix du couvreur et des matériaux en tient compte.</li><li>Le Nord-Isère et ses environs comptent de nombreuses maisons en <strong>pisé</strong> (terre crue), qui demandent des enduits et des isolants respirants.</li><li>Les hivers rigoureux en altitude font du <strong>chauffage au bois</strong> et de l’isolation des priorités, tandis que la vallée du Rhône connaît des étés chauds.</li><li>À Lyon, les immeubles anciens en copropriété impliquent souvent un accord du syndic pour les travaux touchant aux parties communes.</li></ul>"
     },
     {
       "h2": "Risques naturels et règles locales à vérifier",
@@ -58,20 +58,20 @@
     },
     {
       "h2": "Se faire conseiller gratuitement près de chez vous",
-      "html": "<p>Pour un projet de rénovation énergétique, les <strong>Espaces Conseil France Rénov’</strong> offrent des conseils neutres et gratuits ; trouvez le plus proche sur <a href=\"https://france-renov.gouv.fr/\" rel=\"noopener\" target=\"_blank\">france-renov.gouv.fr</a>. Pour les questions juridiques liées au logement (copropriété, location, urbanisme), l’<strong>ADIL</strong> de votre département peut vous renseigner.</p><p>Avant de choisir, lisez nos guides : <a href=\"/guides/verifier-un-artisan/\">vérifier un artisan</a>, <a href=\"/guides/devis-travaux/\">bien lire un devis</a> et <a href=\"/guides/aides-renovation/\">les aides à la rénovation</a>.</p>"
+      "html": "<p>Pour un projet de rénovation énergétique, les <strong>Espaces Conseil France Rénov’</strong> offrent des conseils neutres et gratuits ; trouvez le plus proche sur <a href=\"https://france-renov.gouv.fr/\" rel=\"noopener\" target=\"_blank\">france-renov.gouv.fr</a>. Pour les questions juridiques liées au logement (copropriété, location, urbanisme), l’<strong>ADIL</strong> de votre département peut vous renseigner.</p><p>Avant de choisir, lisez nos guides : <a href=\"/guides/verifier-un-artisan/\">vérifier un artisan</a>, <a href=\"/guides/devis-travaux/\">bien lire un devis</a> et <a href=\"/guides/aides-renovation/\">les aides à la rénovation</a>.</p>"
     }
   ],
   "faqs": [
     {
-      "q": "Faut-il adapter sa toiture à la neige en Auvergne-Rhône-Alpes ?",
+      "q": "Faut-il adapter sa toiture à la neige en Auvergne-Rhône-Alpes ?",
       "a": "Oui, en zone de montagne la charpente et la couverture sont dimensionnées selon la zone de neige de la commune. Un couvreur ou un charpentier local connaît ces contraintes."
     },
     {
-      "q": "Les artisans interviennent-ils partout en Auvergne-Rhône-Alpes ?",
+      "q": "Les artisans interviennent-ils partout en Auvergne-Rhône-Alpes ?",
       "a": "Nos partenaires mettent en relation avec des professionnels dans toute la France métropolitaine. Le nombre de réponses peut varier selon votre commune, le type de travaux et la période."
     },
     {
-      "q": "Est-ce gratuit ?",
+      "q": "Est-ce gratuit ?",
       "a": "Oui, décrire votre projet et recevoir des devis est gratuit et sans engagement. Vous traitez ensuite directement avec l’artisan que vous choisissez."
     }
   ],

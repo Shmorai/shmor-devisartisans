@@ -1,0 +1,71 @@
+{
+  "type": "post",
+  "date": "2026-05-20",
+  "updated": "2026-05-20",
+  "slug": "blog/ravalement-facade-obligatoire",
+  "nav": "Ravalement de façade : quand est-il obligatoire ?",
+  "title": "Ravalement de façade obligatoire : ce que dit la loi",
+  "description": "Tous les 10 ans dans certaines communes, injonction du maire, déclaration préalable, isolation : ce qu’il faut savoir avant de ravaler votre façade.",
+  "keywords": [
+    "façade",
+    "ravalement",
+    "façade",
+    "obligatoire"
+  ],
+  "cardText": "Tous les 10 ans dans certaines communes, injonction du maire, déclaration préalable, isolation : ce qu’il faut savoir avant de ravaler votre façade.",
+  "eyebrow": "Façade",
+  "h1": "Ravalement de façade : quand est-il obligatoire ?",
+  "intro": "Le Code de la construction impose de tenir les façades en bon état de propreté. Dans certaines communes, cette obligation est encadrée par un calendrier.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1716641818730-377d944725c6",
+    "alt": "Bâtiment entouré d’un échafaudage",
+    "credit": "Artists Eyes",
+    "creditUrl": "https://unsplash.com/@artistseyes"
+  },
+  "sections": [
+    {
+      "h2": "Tous les dix ans, dans les communes concernées",
+      "html": "<p>Dans les communes inscrites sur une liste préfectorale ou qui l’ont décidé (Paris par exemple), le ravalement doit être effectué au moins tous les dix ans. Le maire peut adresser une injonction aux propriétaires.</p>"
+    },
+    {
+      "h2": "Les démarches",
+      "html": "<ul><li>Déclaration préalable si la commune l’exige ou en secteur protégé</li><li>Autorisation d’occupation du domaine public pour l’échafaudage</li><li>En copropriété, vote en assemblée générale</li></ul>"
+    },
+    {
+      "h2": "Et l’isolation ?",
+      "html": "<p>Un ravalement important est l’occasion d’isoler par l’extérieur, ce que la réglementation peut d’ailleurs imposer lorsque c’est techniquement et économiquement réalisable. Voir <a href=\"/metiers/facadier/\">nos conseils façade</a>.</p>"
+    },
+    {
+      "h2": "Les étapes d’un ravalement",
+      "html": "<ul><li>Diagnostic de la façade (fissures, humidité, nature du support)</li><li>Installation de l’échafaudage et protection des abords</li><li>Nettoyage (lavage, gommage, traitement antimousse)</li><li>Réparation des fissures et des éléments dégradés</li><li>Application de l’enduit, du revêtement ou de la peinture</li><li>Repli et nettoyage du chantier</li></ul>"
+    },
+    {
+      "h2": "Choisir la bonne finition",
+      "html": "<p>Une façade en pierre ancienne supporte mal les revêtements étanches : on privilégie les enduits à la chaux et les peintures minérales. Une façade en béton ou en parpaing enduit accepte d’autres revêtements. Le plan local d’urbanisme peut aussi imposer une palette de teintes.</p>"
+    },
+    {
+      "h2": "En copropriété",
+      "html": "<p>Le ravalement est voté en assemblée générale, sur la base de devis mis en concurrence. Le coût est réparti entre copropriétaires selon les tantièmes. Un architecte ou un maître d’œuvre est souvent mandaté pour les immeubles importants.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Que risque-t-on sans ravaler ?",
+      "a": "Après injonction restée sans effet, le maire peut faire exécuter les travaux d’office aux frais du propriétaire."
+    },
+    {
+      "q": "Quelle TVA pour un ravalement ?",
+      "a": "En général 10 % pour un logement de plus de deux ans, et 5,5 % pour la partie isolation si les conditions sont remplies."
+    },
+    {
+      "q": "Le ravalement donne-t-il droit à des aides ?",
+      "a": "Un simple ravalement non, mais une isolation par l’extérieur réalisée à cette occasion peut ouvrir droit à des aides à la rénovation énergétique."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Service-public.fr",
+      "url": "https://www.service-public.gouv.fr/"
+    }
+  ]
+}

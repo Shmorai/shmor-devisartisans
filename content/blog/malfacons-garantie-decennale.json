@@ -1,0 +1,71 @@
+{
+  "type": "post",
+  "date": "2026-04-02",
+  "updated": "2026-04-02",
+  "slug": "blog/malfacons-garantie-decennale",
+  "nav": "Malfaçons après travaux : quelle garantie faire jouer ?",
+  "title": "Malfaçons après travaux : comment faire jouer les garanties",
+  "description": "Parfait achèvement, biennale, décennale : quelle garantie selon le défaut, dans quels délais, et comment procéder si l’artisan ne répond pas.",
+  "keywords": [
+    "droits",
+    "malfaçons",
+    "après",
+    "travaux"
+  ],
+  "cardText": "Parfait achèvement, biennale, décennale : quelle garantie selon le défaut, dans quels délais, et comment procéder si l’artisan ne répond pas.",
+  "eyebrow": "Droits",
+  "h1": "Malfaçons après travaux : quelle garantie faire jouer ?",
+  "intro": "Un carrelage qui se décolle, une fuite après la pose, une fissure dans l’extension : selon la nature du défaut et le temps écoulé, la garantie applicable n’est pas la même.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1694415847950-973e7dcca94d",
+    "alt": "Fissure sur un mur blanc",
+    "credit": "Lallaoke",
+    "creditUrl": "https://unsplash.com/@lallaoke"
+  },
+  "sections": [
+    {
+      "h2": "Identifier la bonne garantie",
+      "html": "<ul><li><strong>Moins d’un an après la réception</strong> : la garantie de parfait achèvement couvre tous les désordres signalés.</li><li><strong>Équipement dissociable défaillant (moins de deux ans)</strong> : garantie biennale de bon fonctionnement.</li><li><strong>Atteinte à la solidité ou à l’usage de l’ouvrage (moins de dix ans)</strong> : garantie décennale.</li></ul>"
+    },
+    {
+      "h2": "Les étapes",
+      "html": "<ol><li>Prenez des photos datées et décrivez le problème.</li><li>Prévenez l’artisan par écrit et demandez une intervention.</li><li>Sans réponse, envoyez une mise en demeure par lettre recommandée avec accusé de réception.</li><li>Pour un dommage décennal, déclarez le sinistre à l’assureur de l’artisan ou à votre assurance dommages-ouvrage.</li></ol>"
+    },
+    {
+      "h2": "Si le désaccord persiste",
+      "html": "<p>Vous pouvez saisir le médiateur de la consommation dont relève l’entreprise (ses coordonnées doivent figurer sur ses documents), puis, si nécessaire, le tribunal judiciaire.</p>"
+    },
+    {
+      "h2": "Exemples de désordres et garanties",
+      "html": "<ul><li><strong>Un joint de carrelage fissuré signalé à la réception</strong> : parfait achèvement.</li><li><strong>Un volet roulant motorisé qui tombe en panne après huit mois</strong> : bon fonctionnement (biennale) ou parfait achèvement.</li><li><strong>Des infiltrations par une toiture refaite</strong> : décennale, car l’ouvrage est impropre à sa destination.</li><li><strong>Une fissure structurelle sur une extension</strong> : décennale.</li></ul><p>La qualification exacte dépend des circonstances : en cas de doute, un expert ou un juriste peut vous aider.</p>"
+    },
+    {
+      "h2": "L’assurance dommages-ouvrage, un accélérateur",
+      "html": "<p>Si vous avez souscrit une assurance dommages-ouvrage, déclarez-lui directement le sinistre de nature décennale. Elle doit vous indemniser rapidement, puis se retourner contre les assureurs des entreprises responsables. Sans elle, vous devez agir contre l’entreprise et son assureur, ce qui peut prendre beaucoup plus de temps.</p>"
+    },
+    {
+      "h2": "Bien rédiger sa mise en demeure",
+      "html": "<p>Rappelez les références du devis et de la facture, la date de réception, la description précise du désordre (avec photos en annexe), la garantie invoquée et un délai raisonnable pour intervenir. Envoyez-la en recommandé avec accusé de réception et conservez une copie.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "L’artisan a fermé son entreprise : que faire ?",
+      "a": "Pour un dommage décennal, son assureur reste tenu pour les chantiers ouverts pendant la période de validité du contrat. D’où l’importance de conserver l’attestation d’assurance."
+    },
+    {
+      "q": "Combien coûte une expertise ?",
+      "a": "Cela dépend de l’expert et de la complexité. Votre assurance protection juridique peut parfois en prendre une partie en charge : vérifiez votre contrat."
+    },
+    {
+      "q": "Les défauts esthétiques sont-ils couverts par la décennale ?",
+      "a": "En général non, sauf s’ils rendent l’ouvrage impropre à sa destination. Ils relèvent plutôt du parfait achèvement s’ils sont signalés à temps."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Service-public.fr : garantie décennale",
+      "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2034"
+    }
+  ]
+}

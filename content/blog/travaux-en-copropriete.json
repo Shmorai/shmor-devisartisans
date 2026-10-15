@@ -1,0 +1,70 @@
+{
+  "type": "post",
+  "date": "2026-09-11",
+  "updated": "2026-09-11",
+  "slug": "blog/travaux-en-copropriete",
+  "nav": "Travaux en copropriété : quand faut-il l’accord de l’assemblée générale ?",
+  "title": "Travaux en copropriété : ce qui demande l’accord de l’AG",
+  "description": "Parties communes, aspect extérieur, mur porteur, climatisation, fenêtres : les travaux soumis au vote de l’assemblée générale.",
+  "keywords": [
+    "copropriété",
+    "travaux",
+    "copropriété"
+  ],
+  "cardText": "Parties communes, aspect extérieur, mur porteur, climatisation, fenêtres : les travaux soumis au vote de l’assemblée générale.",
+  "eyebrow": "Copropriété",
+  "h1": "Travaux en copropriété : quand faut-il l’accord de l’assemblée générale ?",
+  "intro": "Dans votre appartement, vous êtes libre… dans certaines limites. Dès que les travaux touchent aux parties communes ou à l’aspect de l’immeuble, l’assemblée générale a son mot à dire.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1472508249545-917598a8c985",
+    "alt": "Façade d’immeuble beige vue d’en bas",
+    "credit": "JOHN TOWNER",
+    "creditUrl": "https://unsplash.com/@heytowner"
+  },
+  "sections": [
+    {
+      "h2": "Sans autorisation",
+      "html": "<p>Les travaux purement privatifs qui n’affectent ni les parties communes ni l’aspect extérieur : peinture, cuisine, salle de bain sans modification des réseaux communs, revêtements de sol (sous réserve du règlement sur l’acoustique).</p>"
+    },
+    {
+      "h2": "Avec l’accord de l’assemblée générale",
+      "html": "<ul><li>Ouverture d’un mur porteur</li><li>Pose d’une unité extérieure de climatisation sur la façade</li><li>Changement de fenêtres modifiant l’aspect extérieur</li><li>Raccordements sur les canalisations communes</li></ul>"
+    },
+    {
+      "h2": "Comment faire ?",
+      "html": "<p>Demandez au syndic d’inscrire votre projet à l’ordre du jour de la prochaine assemblée générale, avec un descriptif et les devis. Prévoyez les délais : une AG se tient souvent une fois par an.</p>"
+    },
+    {
+      "h2": "Les majorités",
+      "html": "<p>Selon la nature des travaux, l’assemblée générale statue à la majorité simple, absolue ou double. Les travaux qui affectent les parties communes ou l’aspect extérieur à l’initiative d’un copropriétaire relèvent en général de la majorité absolue (article 25 de la loi du 10 juillet 1965). Le syndic peut vous indiquer la majorité applicable.</p>"
+    },
+    {
+      "h2": "Préparer son dossier",
+      "html": "<ul><li>Description précise des travaux et plans</li><li>Devis d’entreprises assurées</li><li>Attestation de l’architecte ou du bureau d’études si la structure est concernée</li><li>Calendrier et mesures pour limiter les nuisances</li></ul>"
+    },
+    {
+      "h2": "Pendant les travaux",
+      "html": "<p>Prévenez vos voisins, respectez les horaires fixés par le règlement de copropriété ou par arrêté municipal, protégez les parties communes et faites évacuer les gravats. Les dégradations des parties communes engagent votre responsabilité.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Et la borne de recharge ?",
+      "a": "Le « droit à la prise » permet d’installer une borne sur sa place de stationnement après simple information du syndic, qui ne peut s’y opposer que pour un motif sérieux et légitime devant le tribunal."
+    },
+    {
+      "q": "Que se passe-t-il si je fais des travaux sans autorisation ?",
+      "a": "Le syndicat peut exiger la remise en état à vos frais, éventuellement en justice. Une ratification ultérieure par l’AG reste parfois possible."
+    },
+    {
+      "q": "Peut-on contester un refus de l’AG ?",
+      "a": "Un recours est possible dans un délai de deux mois après la notification du procès-verbal, si vous estimez le refus abusif."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Service-public.fr",
+      "url": "https://www.service-public.gouv.fr/"
+    }
+  ]
+}

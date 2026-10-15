@@ -1,0 +1,25 @@
+{
+  "type": "blog",
+  "updated": "2026-10-10",
+  "slug": "blog",
+  "nav": "Blog",
+  "navOrder": 4,
+  "title": "Le blog travaux : conseils, droits et aides | DevisArtisans",
+  "description": "Conseils pratiques, droits des particuliers, aides à la rénovation et réglementation : le blog DevisArtisans pour préparer vos travaux en toute sérénité.",
+  "keywords": [
+    "blog travaux",
+    "conseils travaux maison"
+  ],
+  "cardText": "Conseils, droits et aides pour vos travaux.",
+  "eyebrow": "Blog",
+  "h1": "Le blog des travaux",
+  "intro": "Des articles pratiques pour préparer, financer et réussir vos travaux, vérifiés auprès des sources officielles.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1517581177682-a085bb7ffb15",
+    "alt": "Artisan sur un escabeau dans une pièce en rénovation",
+    "credit": "Milivoj Kuhar",
+    "creditUrl": "https://unsplash.com/@mimithecook"
+  },
+  "search": false,
+  "listTitle": "Tous les articles"
+}

@@ -2,8 +2,8 @@
   "updated": "2026-10-15",
   "slug": "metiers/climatisation",
   "nav": "Climatisation",
-  "title": "Climatisation : devis d’installateurs près de chez vous",
-  "description": "Climatiseur mono-split, multi-split ou gainable, réversible ou non : comparez les devis gratuits d’installateurs de climatisation près de chez vous.",
+  "title": "Climatisation : devis d’installateurs près de chez vous",
+  "description": "Climatiseur mono-split, multi-split ou gainable, réversible ou non : comparez les devis gratuits d’installateurs de climatisation près de chez vous.",
   "keywords": [
     "climatisation",
     "climatiseur",
@@ -23,7 +23,7 @@
     "credit": "Dan LeFebvre",
     "creditUrl": "https://unsplash.com/@danlefeb"
   },
-  "searchPlaceholder": "Votre projet, p. ex. « fuite » ou « fenêtres »",
+  "searchPlaceholder": "Votre projet, p. ex. « fuite » ou « fenêtres »",
   "highlights": [
     {
       "title": "Gratuit",
@@ -45,33 +45,33 @@
       "html": "<ul><li>Conseil et dimensionnement</li><li>Pose de climatiseur mono-split ou multi-split</li><li>Climatisation gainable</li><li>Climatisation réversible (pompe à chaleur air/air)</li><li>Entretien, recharge et dépannage</li></ul>"
     },
     {
-      "h2": "Quand faire appel à un installateur de climatisation ?",
+      "h2": "Quand faire appel à un installateur de climatisation ?",
       "html": "<ul><li>Votre logement surchauffe en été</li><li>Vous cherchez aussi un chauffage d’appoint efficace (modèle réversible)</li><li>Votre climatiseur actuel est bruyant ou perd en efficacité</li><li>Vous aménagez un bureau ou des combles</li></ul>"
     },
     {
       "h2": "Les questions à poser avant de signer",
-      "html": "<p>Au moment de comparer les devis, ces questions vous aident à choisir :</p><ol><li>Pouvez-vous me transmettre votre <strong>attestation d’assurance décennale</strong> (et de responsabilité civile professionnelle) en cours de validité ?</li><li>Quel est votre numéro <strong>SIRET</strong> ?</li><li>Avez-vous l’attestation de capacité pour la manipulation des fluides frigorigènes ?</li><li>Comment évacuez-vous les condensats ?</li><li>Où placerez-vous l’unité extérieure ?</li></ol><p>Pour aller plus loin : <a href=\"/guides/verifier-un-artisan/\">comment vérifier un artisan</a>.</p>"
+      "html": "<p>Au moment de comparer les devis, ces questions vous aident à choisir :</p><ol><li>Pouvez-vous me transmettre votre <strong>attestation d’assurance décennale</strong> (et de responsabilité civile professionnelle) en cours de validité ?</li><li>Quel est votre numéro <strong>SIRET</strong> ?</li><li>Avez-vous l’attestation de capacité pour la manipulation des fluides frigorigènes ?</li><li>Comment évacuez-vous les condensats ?</li><li>Où placerez-vous l’unité extérieure ?</li></ol><p>Pour aller plus loin : <a href=\"/guides/verifier-un-artisan/\">comment vérifier un artisan</a>.</p>"
     },
     {
       "h2": "Ce qui fait varier le prix",
-      "html": "<p>Chaque chantier est différent. Les principaux facteurs :</p><ul><li>Le nombre de pièces à climatiser</li><li>Le type de système (split, gainable)</li><li>La longueur des liaisons et la complexité de la pose</li><li>La gamme de l’appareil (performance, niveau sonore)</li></ul><p>Le plus fiable pour connaître le prix de votre projet est de comparer plusieurs devis détaillés. Voir <a href=\"/guides/devis-travaux/\">ce que doit contenir un devis</a>.</p>"
+      "html": "<p>Chaque chantier est différent. Les principaux facteurs :</p><ul><li>Le nombre de pièces à climatiser</li><li>Le type de système (split, gainable)</li><li>La longueur des liaisons et la complexité de la pose</li><li>La gamme de l’appareil (performance, niveau sonore)</li></ul><p>Le plus fiable pour connaître le prix de votre projet est de comparer plusieurs devis détaillés. Voir <a href=\"/guides/devis-travaux/\">ce que doit contenir un devis</a>.</p>"
     },
     {
       "h2": "Règles et précautions à connaître",
-      "html": "<p>La pose d’une climatisation implique des <strong>fluides frigorigènes</strong> : seul un professionnel titulaire d’une <strong>attestation de capacité</strong> peut les manipuler. L’unité extérieure peut nécessiter une <strong>déclaration préalable</strong> si elle modifie l’aspect de la façade, et, en copropriété, une autorisation de l’assemblée générale. Pensez aussi au bruit pour vos voisins.</p>"
+      "html": "<p>La pose d’une climatisation implique des <strong>fluides frigorigènes</strong> : seul un professionnel titulaire d’une <strong>attestation de capacité</strong> peut les manipuler. L’unité extérieure peut nécessiter une <strong>déclaration préalable</strong> si elle modifie l’aspect de la façade, et, en copropriété, une autorisation de l’assemblée générale. Pensez aussi au bruit pour vos voisins.</p>"
     }
   ],
   "faqs": [
     {
-      "q": "Clim réversible ou pompe à chaleur : quelle différence ?",
-      "a": "Une climatisation réversible est une pompe à chaleur air/air : elle rafraîchit en été et chauffe en hiver. Une pompe à chaleur air/eau, elle, alimente des radiateurs ou un plancher chauffant."
+      "q": "Clim réversible ou pompe à chaleur : quelle différence ?",
+      "a": "Une climatisation réversible est une pompe à chaleur air/air : elle rafraîchit en été et chauffe en hiver. Une pompe à chaleur air/eau, elle, alimente des radiateurs ou un plancher chauffant."
     },
     {
-      "q": "Puis-je installer un climatiseur en copropriété ?",
+      "q": "Puis-je installer un climatiseur en copropriété ?",
       "a": "Si l’unité extérieure est posée sur la façade, un balcon visible ou une partie commune, il faut en principe l’accord de l’assemblée générale. Consultez votre règlement de copropriété."
     },
     {
-      "q": "Faut-il entretenir une climatisation ?",
+      "q": "Faut-il entretenir une climatisation ?",
       "a": "Oui. Nettoyez régulièrement les filtres et faites contrôler l’installation par un professionnel. Certaines installations sont soumises à des contrôles d’étanchéité obligatoires selon la quantité de fluide."
     }
   ],
@@ -81,5 +81,5 @@
     "metiers/isolation"
   ],
   "relatedTitle": "Métiers liés",
-  "ctaTitle": "De quel artisan avez-vous besoin ?"
+  "ctaTitle": "De quel artisan avez-vous besoin ?"
 }

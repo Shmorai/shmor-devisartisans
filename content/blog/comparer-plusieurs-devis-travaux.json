@@ -1,0 +1,76 @@
+{
+  "type": "post",
+  "date": "2026-03-13",
+  "updated": "2026-03-13",
+  "slug": "blog/comparer-plusieurs-devis-travaux",
+  "nav": "Comparer plusieurs devis de travaux : la méthode pas à pas",
+  "title": "Comparer plusieurs devis de travaux : la méthode",
+  "description": "Comment comparer des devis de travaux qui ne se ressemblent pas : ramener à la même base, repérer les oublis, poser les bonnes questions avant de signer.",
+  "keywords": [
+    "devis",
+    "comparer",
+    "plusieurs",
+    "devis",
+    "travaux"
+  ],
+  "cardText": "Comment comparer des devis de travaux qui ne se ressemblent pas : ramener à la même base, repérer les oublis, poser les bonnes questions avant de signer.",
+  "eyebrow": "Devis",
+  "h1": "Comparer plusieurs devis de travaux : la méthode pas à pas",
+  "intro": "Trois devis pour les mêmes travaux affichent souvent des totaux très différents. Avant de choisir le moins cher, il faut vérifier qu’ils décrivent vraiment la même chose.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1648201637025-1c77b9be3013",
+    "alt": "Calculatrice et stylo posés sur une feuille de papier",
+    "credit": "Aaron Lefler",
+    "creditUrl": "https://unsplash.com/@alefler"
+  },
+  "sections": [
+    {
+      "h2": "Ramenez les devis à une base commune",
+      "html": "<p>Listez les postes (préparation, fournitures, pose, finitions, évacuation des déchets) et cochez ce que chaque devis inclut. Les écarts viennent souvent d’un poste absent.</p>"
+    },
+    {
+      "h2": "Comparez les quantités et les matériaux",
+      "html": "<p>Surfaces, mètres linéaires, nombre de prises, marque et gamme des produits : un devis précis vous permet de comparer à l’identique. Un devis au forfait global est plus difficile à juger.</p>"
+    },
+    {
+      "h2": "Regardez au-delà du prix",
+      "html": "<ul><li>Délai de démarrage et durée du chantier</li><li>Conditions de paiement et montant de l’acompte</li><li>Garanties et assurance</li><li>Qualité des échanges et de la visite technique</li></ul>"
+    },
+    {
+      "h2": "Posez vos questions par écrit",
+      "html": "<p>Si un poste vous paraît flou, demandez une précision par e-mail : la réponse écrite complète le devis. Toute modification doit faire l’objet d’un devis rectifié ou d’un avenant.</p>"
+    },
+    {
+      "h2": "Un exemple concret : refaire une salle d’eau",
+      "html": "<p>Imaginons trois devis pour transformer une baignoire en douche. Le premier comprend la dépose, l’étanchéité, le carrelage mural et la plomberie. Le deuxième ne mentionne pas l’étanchéité sous carrelage. Le troisième inclut en plus la reprise électrique de l’éclairage et l’évacuation des gravats. Comparer les totaux n’aurait aucun sens : il faut d’abord aligner le contenu, en demandant au deuxième artisan de chiffrer l’étanchéité et au premier de préciser l’évacuation des déchets.</p>"
+    },
+    {
+      "h2": "Les lignes qui doivent vous interroger",
+      "html": "<ul><li>Les « divers » ou « imprévus » non détaillés</li><li>Les fournitures sans marque, sans référence ni gamme</li><li>Les forfaits globaux sur des postes importants</li><li>Les mentions « selon état » sans prix plafond</li><li>L’absence de délai d’exécution</li></ul><p>Aucune de ces lignes n’est forcément abusive, mais chacune mérite une question. Demandez à l’artisan de préciser par écrit : la réponse complète utilement son devis.</p>"
+    },
+    {
+      "h2": "Négocier sans dégrader le chantier",
+      "html": "<p>Plutôt que de demander une remise sèche, discutez des leviers : choix d’une autre gamme de matériaux, période plus calme pour l’artisan, travaux de préparation que vous pouvez faire vous-même (débarrasser, protéger), regroupement de plusieurs petits travaux. Une baisse de prix obtenue en réduisant la préparation ou les finitions se paie souvent plus tard.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Combien de devis demander ?",
+      "a": "Deux à trois devis détaillés suffisent généralement pour juger du prix du marché et de la qualité des propositions."
+    },
+    {
+      "q": "Le devis le moins cher est-il le meilleur ?",
+      "a": "Pas nécessairement. Vérifiez d’abord qu’il couvre les mêmes prestations et la même qualité de matériaux que les autres."
+    },
+    {
+      "q": "Combien de temps un devis reste-t-il valable ?",
+      "a": "Sa durée de validité doit figurer sur le document. Au-delà, l’artisan peut réviser ses prix."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Ministère de l’Économie : DGCCRF, fiches pratiques",
+      "url": "https://www.economie.gouv.fr/dgccrf"
+    }
+  ]
+}

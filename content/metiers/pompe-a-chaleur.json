@@ -2,8 +2,8 @@
   "updated": "2026-10-15",
   "slug": "metiers/pompe-a-chaleur",
   "nav": "Pompe à chaleur",
-  "title": "Pompe à chaleur : devis d’installateurs RGE",
-  "description": "Pompe à chaleur air/eau, air/air ou géothermique : comparez les devis d’installateurs près de chez vous et vérifiez la qualification RGE pour les aides.",
+  "title": "Pompe à chaleur : devis d’installateurs RGE",
+  "description": "Pompe à chaleur air/eau, air/air ou géothermique : comparez les devis d’installateurs près de chez vous et vérifiez la qualification RGE pour les aides.",
   "keywords": [
     "pompe à chaleur",
     "pompe a chaleur",
@@ -16,14 +16,14 @@
   "cardText": "Étude de dimensionnement (déperditions du logement) · Installation de pompe à chaleur air/eau sur radiateurs ou plancher chauffant · Installation de pompe à chaleur air/air (réversible)",
   "eyebrow": "Chauffage",
   "h1": "Installer une pompe à chaleur",
-  "intro": "Une pompe à chaleur bien dimensionnée peut remplacer une chaudière et réduire votre consommation. Le choix de l’installateur est décisif : comparez plusieurs devis et études.",
+  "intro": "Une pompe à chaleur bien dimensionnée peut remplacer une chaudière et réduire votre consommation. Le choix de l’installateur est décisif : comparez plusieurs devis et études.",
   "image": {
     "src": "https://images.unsplash.com/photo-1776860150305-108ed577d7d4",
     "alt": "Unité extérieure de pompe à chaleur air-eau contre un bâtiment en briques",
     "credit": "alpha innotec",
     "creditUrl": "https://unsplash.com/@alpha_innotec"
   },
-  "searchPlaceholder": "Votre projet, p. ex. « fuite » ou « fenêtres »",
+  "searchPlaceholder": "Votre projet, p. ex. « fuite » ou « fenêtres »",
   "highlights": [
     {
       "title": "Gratuit",
@@ -45,34 +45,34 @@
       "html": "<ul><li>Étude de dimensionnement (déperditions du logement)</li><li>Installation de pompe à chaleur air/eau sur radiateurs ou plancher chauffant</li><li>Installation de pompe à chaleur air/air (réversible)</li><li>Pompe à chaleur géothermique</li><li>Ballon thermodynamique pour l’eau chaude</li><li>Mise en service et entretien</li></ul>"
     },
     {
-      "h2": "Quand faire appel à un installateur de pompe à chaleur ?",
+      "h2": "Quand faire appel à un installateur de pompe à chaleur ?",
       "html": "<ul><li>Vous remplacez une chaudière fioul ou gaz</li><li>Vous rénovez et isolez votre logement</li><li>Vous cherchez à réduire vos factures de chauffage</li><li>Vous souhaitez aussi rafraîchir en été (modèle réversible)</li></ul>"
     },
     {
       "h2": "Les questions à poser avant de signer",
-      "html": "<p>Au moment de comparer les devis, ces questions vous aident à choisir :</p><ol><li>Pouvez-vous me transmettre votre <strong>attestation d’assurance décennale</strong> (et de responsabilité civile professionnelle) en cours de validité ?</li><li>Quel est votre numéro <strong>SIRET</strong> ?</li><li>Êtes-vous qualifié RGE (par exemple QualiPAC) ?</li><li>Comment avez-vous calculé la puissance proposée ?</li><li>Où sera placée l’unité extérieure et quel est son niveau sonore ?</li></ol><p>Pour aller plus loin : <a href=\"/guides/verifier-un-artisan/\">comment vérifier un artisan</a>.</p>"
+      "html": "<p>Au moment de comparer les devis, ces questions vous aident à choisir :</p><ol><li>Pouvez-vous me transmettre votre <strong>attestation d’assurance décennale</strong> (et de responsabilité civile professionnelle) en cours de validité ?</li><li>Quel est votre numéro <strong>SIRET</strong> ?</li><li>Êtes-vous qualifié RGE (par exemple QualiPAC) ?</li><li>Comment avez-vous calculé la puissance proposée ?</li><li>Où sera placée l’unité extérieure et quel est son niveau sonore ?</li></ol><p>Pour aller plus loin : <a href=\"/guides/verifier-un-artisan/\">comment vérifier un artisan</a>.</p>"
     },
     {
       "h2": "Ce qui fait varier le prix",
-      "html": "<p>Chaque chantier est différent. Les principaux facteurs :</p><ul><li>Le type de pompe à chaleur et sa puissance</li><li>La compatibilité des émetteurs existants (radiateurs)</li><li>Les travaux hydrauliques et électriques</li><li>Le forage, pour la géothermie</li></ul><p>Le plus fiable pour connaître le prix de votre projet est de comparer plusieurs devis détaillés. Voir <a href=\"/guides/devis-travaux/\">ce que doit contenir un devis</a>.</p>"
+      "html": "<p>Chaque chantier est différent. Les principaux facteurs :</p><ul><li>Le type de pompe à chaleur et sa puissance</li><li>La compatibilité des émetteurs existants (radiateurs)</li><li>Les travaux hydrauliques et électriques</li><li>Le forage, pour la géothermie</li></ul><p>Le plus fiable pour connaître le prix de votre projet est de comparer plusieurs devis détaillés. Voir <a href=\"/guides/devis-travaux/\">ce que doit contenir un devis</a>.</p>"
     },
     {
       "h2": "Règles et précautions à connaître",
-      "html": "<p>Pour obtenir <strong>MaPrimeRénov’</strong> ou une prime CEE, l’installation doit être réalisée par un professionnel <strong>RGE</strong>. Les pompes à chaleur contiennent des fluides frigorigènes : l’installateur doit détenir une <strong>attestation de capacité</strong> pour les manipuler. Un <strong>entretien</strong> est obligatoire au moins tous les deux ans pour les pompes à chaleur de 4 à 70 kW. Pensez au voisinage (bruit de l’unité extérieure) et aux règles d’urbanisme ou de copropriété.</p>"
+      "html": "<p>Pour obtenir <strong>MaPrimeRénov’</strong> ou une prime CEE, l’installation doit être réalisée par un professionnel <strong>RGE</strong>. Les pompes à chaleur contiennent des fluides frigorigènes : l’installateur doit détenir une <strong>attestation de capacité</strong> pour les manipuler. Un <strong>entretien</strong> est obligatoire au moins tous les deux ans pour les pompes à chaleur de 4 à 70 kW. Pensez au voisinage (bruit de l’unité extérieure) et aux règles d’urbanisme ou de copropriété.</p>"
     }
   ],
   "faqs": [
     {
-      "q": "Une pompe à chaleur fonctionne-t-elle dans une maison mal isolée ?",
+      "q": "Une pompe à chaleur fonctionne-t-elle dans une maison mal isolée ?",
       "a": "Elle fonctionne, mais elle devra être plus puissante et consommera davantage. Isoler d’abord (combles, murs, fenêtres) permet souvent d’installer un équipement plus petit et plus efficace."
     },
     {
-      "q": "Faut-il une autorisation pour installer une pompe à chaleur ?",
+      "q": "Faut-il une autorisation pour installer une pompe à chaleur ?",
       "a": "Selon l’emplacement de l’unité extérieure et les règles locales, une déclaration préalable peut être nécessaire. En copropriété, l’accord de l’assemblée générale est requis pour une installation sur les parties communes ou la façade."
     },
     {
-      "q": "Quelles aides existent ?",
-      "a": "MaPrimeRénov’, les primes CEE, l’éco-prêt à taux zéro et la TVA à 5,5 % peuvent s’appliquer sous conditions. Les montants évoluent : consultez <a href=\"/guides/aides-renovation/\">notre guide des aides</a> et france-renov.gouv.fr."
+      "q": "Quelles aides existent ?",
+      "a": "MaPrimeRénov’, les primes CEE, l’éco-prêt à taux zéro et la TVA à 5,5 % peuvent s’appliquer sous conditions. Les montants évoluent : consultez <a href=\"/guides/aides-renovation/\">notre guide des aides</a> et france-renov.gouv.fr."
     }
   ],
   "related": [
@@ -81,5 +81,5 @@
     "metiers/climatisation"
   ],
   "relatedTitle": "Métiers liés",
-  "ctaTitle": "De quel artisan avez-vous besoin ?"
+  "ctaTitle": "De quel artisan avez-vous besoin ?"
 }

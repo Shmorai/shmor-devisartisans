@@ -1,0 +1,81 @@
+{
+  "updated": "2026-10-15",
+  "slug": "metiers/facadier",
+  "nav": "Façadier",
+  "title": "Ravalement de façade : devis de façadiers",
+  "description": "Ravalement, nettoyage, enduit, peinture ou isolation de façade : comparez les devis gratuits de façadiers près de chez vous et connaissez vos obligations.",
+  "keywords": [
+    "façadier",
+    "facadier",
+    "ravalement de façade",
+    "ravalement facade",
+    "enduit façade",
+    "crépi",
+    "nettoyage façade"
+  ],
+  "cardText": "Nettoyage et démoussage de façade · Ravalement complet · Réfection d’enduits et de crépis",
+  "eyebrow": "Façade",
+  "h1": "Ravaler ou rénover votre façade",
+  "intro": "La façade protège les murs et fait la première impression de votre maison. Nettoyage, enduit ou isolation par l’extérieur : comparez les devis de façadiers de votre secteur.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1574359411659-15573a27fd0c",
+    "alt": "Deux peintres sur des échelles travaillant sur un mur extérieur",
+    "credit": "Ricky Singh",
+    "creditUrl": "https://unsplash.com/@rickysinghy"
+  },
+  "searchPlaceholder": "Votre projet, p. ex. « fuite » ou « fenêtres »",
+  "highlights": [
+    {
+      "title": "Gratuit",
+      "text": "Décrire votre projet et recevoir des devis ne vous coûte rien."
+    },
+    {
+      "title": "Plusieurs devis",
+      "text": "Comparez les propositions, les délais et les prix avant de décider."
+    },
+    {
+      "title": "Sans engagement",
+      "text": "Vous choisissez librement votre artisan, ou personne."
+    }
+  ],
+  "partnersTitle": "Comparez les devis gratuits de nos partenaires",
+  "sections": [
+    {
+      "h2": "Ce que fait un façadier",
+      "html": "<ul><li>Nettoyage et démoussage de façade</li><li>Ravalement complet</li><li>Réfection d’enduits et de crépis</li><li>Peinture et imperméabilisation</li><li>Isolation thermique par l’extérieur</li><li>Reprise de fissures</li></ul>"
+    },
+    {
+      "h2": "Quand faire appel à un façadier ?",
+      "html": "<ul><li>La façade est encrassée, fissurée ou s’effrite</li><li>Votre commune vous enjoint de ravaler</li><li>Vous voulez isoler par l’extérieur</li><li>Vous préparez une vente</li></ul>"
+    },
+    {
+      "h2": "Les questions à poser avant de signer",
+      "html": "<p>Au moment de comparer les devis, ces questions vous aident à choisir :</p><ol><li>Pouvez-vous me transmettre votre <strong>attestation d’assurance décennale</strong> (et de responsabilité civile professionnelle) en cours de validité ?</li><li>Quel est votre numéro <strong>SIRET</strong> ?</li><li>Quel produit et quelle finition proposez-vous selon mon support ?</li><li>Qui demande l’autorisation d’échafaudage sur la voie publique ?</li><li>Le traitement des fissures est-il compris ?</li></ol><p>Pour aller plus loin : <a href=\"/guides/verifier-un-artisan/\">comment vérifier un artisan</a>.</p>"
+    },
+    {
+      "h2": "Ce qui fait varier le prix",
+      "html": "<p>Chaque chantier est différent. Les principaux facteurs :</p><ul><li>La surface et la hauteur de la façade</li><li>L’échafaudage</li><li>L’état du support</li><li>La technique (nettoyage, enduit, ITE)</li></ul><p>Le plus fiable pour connaître le prix de votre projet est de comparer plusieurs devis détaillés. Voir <a href=\"/guides/devis-travaux/\">ce que doit contenir un devis</a>.</p>"
+    },
+    {
+      "h2": "Règles et précautions à connaître",
+      "html": "<p>Dans les communes qui l’ont prévu, le <strong>ravalement est obligatoire au moins tous les dix ans</strong>. Un ravalement peut nécessiter une <strong>déclaration préalable</strong>, notamment en secteur protégé ou si la commune l’a décidé. Un échafaudage sur le trottoir demande une <strong>autorisation d’occupation du domaine public</strong> à la mairie.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Le ravalement est-il obligatoire ?",
+      "a": "Il l’est dans les communes inscrites sur une liste préfectorale ou qui l’ont décidé, comme Paris : les façades doivent y être tenues en bon état et ravalées au moins tous les dix ans."
+    },
+    {
+      "q": "Peut-on isoler pendant un ravalement ?",
+      "a": "Oui, c’est même le moment idéal. Pour des travaux importants de ravalement, la réglementation peut imposer d’isoler si c’est techniquement et économiquement réalisable."
+    }
+  ],
+  "related": [
+    "metiers/peintre",
+    "metiers/isolation",
+    "metiers/macon"
+  ],
+  "relatedTitle": "Métiers liés",
+  "ctaTitle": "De quel artisan avez-vous besoin ?"
+}

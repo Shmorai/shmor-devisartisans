@@ -1,0 +1,70 @@
+{
+  "type": "post",
+  "date": "2026-07-06",
+  "updated": "2026-07-06",
+  "slug": "blog/refaire-sa-salle-de-bain-etapes",
+  "nav": "Refaire sa salle de bain : les étapes du chantier",
+  "title": "Refaire sa salle de bain : les étapes dans l’ordre",
+  "description": "Dépose, plomberie, électricité, étanchéité, carrelage, équipements : l’ordre des travaux pour rénover une salle de bain et les questions à poser aux artisans.",
+  "keywords": [
+    "rénovation",
+    "refaire",
+    "salle"
+  ],
+  "cardText": "Dépose, plomberie, électricité, étanchéité, carrelage, équipements : l’ordre des travaux pour rénover une salle de bain et les questions à poser aux artisans.",
+  "eyebrow": "Rénovation",
+  "h1": "Refaire sa salle de bain : les étapes du chantier",
+  "intro": "Une rénovation de salle de bain mobilise plusieurs métiers dans un ordre précis. Le respecter évite de casser ce qui vient d’être fait.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1620626011761-996317b8d101",
+    "alt": "Baignoire blanche à côté d’une plante verte",
+    "credit": "Steven Ungermann",
+    "creditUrl": "https://unsplash.com/@steveungermann"
+  },
+  "sections": [
+    {
+      "h2": "L’ordre des travaux",
+      "html": "<ol><li>Conception et choix des équipements</li><li>Dépose de l’existant</li><li>Plomberie (alimentations et évacuations)</li><li>Électricité et ventilation</li><li>Cloisons et doublages hydrofuges</li><li>Étanchéité sous carrelage</li><li>Carrelage et faïence</li><li>Pose des équipements et finitions</li></ol>"
+    },
+    {
+      "h2": "Un interlocuteur ou plusieurs ?",
+      "html": "<p>Une entreprise qui coordonne tout simplifie le chantier et les responsabilités. Avec plusieurs artisans, fixez un planning commun. Voir <a href=\"/metiers/salle-de-bain/\">salle de bain</a>.</p>"
+    },
+    {
+      "h2": "Penser à l’avenir",
+      "html": "<p>Une douche de plain-pied, des barres d’appui ou un WC surélevé rendent la pièce accessible. MaPrimeAdapt’ peut aider les personnes âgées ou en situation de handicap, sous conditions.</p>"
+    },
+    {
+      "h2": "Bien concevoir avant de démolir",
+      "html": "<p>Mesurez précisément la pièce, repérez l’arrivée d’eau, la chute des eaux usées et la ventilation. Déplacer un WC ou une douche loin de l’évacuation existante impose des pentes et parfois une pompe de relevage. Pensez au rangement, à l’éclairage du miroir, au sèche-serviettes et à la ventilation : une salle de bain mal ventilée se dégrade vite.</p>"
+    },
+    {
+      "h2": "Les points techniques à vérifier sur le devis",
+      "html": "<ul><li>Étanchéité sous carrelage dans la zone de douche</li><li>Plaques de plâtre hydrofuges</li><li>Respect des volumes de sécurité électrique</li><li>Ventilation (VMC ou bouche existante)</li><li>Évacuation des gravats et protections</li></ul>"
+    },
+    {
+      "h2": "Combien de temps prévoir ?",
+      "html": "<p>Selon l’ampleur, comptez de quelques jours à plusieurs semaines. Prévoyez une solution de repli pour la toilette pendant les travaux. Comparez des devis de <a href=\"/metiers/salle-de-bain/\">rénovation de salle de bain</a>, de <a href=\"/metiers/plombier/\">plombiers</a> et de <a href=\"/metiers/carreleur/\">carreleurs</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Quelle TVA pour une salle de bain ?",
+      "a": "En général 10 % dans un logement achevé depuis plus de deux ans, si les travaux sont facturés par l’entreprise."
+    },
+    {
+      "q": "Peut-on garder la baignoire et créer une douche ?",
+      "a": "Oui si la place le permet. Sinon, une baignoire-douche avec pare-baignoire reste une solution économique."
+    },
+    {
+      "q": "Faut-il une autorisation pour refaire sa salle de bain ?",
+      "a": "Non pour une maison individuelle. En copropriété, seuls les travaux touchant aux canalisations communes ou à la structure demandent un accord."
+    }
+  ],
+  "sources": [
+    {
+      "title": "France Rénov’ (service public de la rénovation de l’habitat)",
+      "url": "https://france-renov.gouv.fr/"
+    }
+  ]
+}

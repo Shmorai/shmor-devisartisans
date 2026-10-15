@@ -2,8 +2,8 @@
   "updated": "2026-10-15",
   "slug": "regions/grand-est",
   "nav": "Grand Est",
-  "title": "Artisans dans le Grand Est : devis gratuits",
-  "description": "Trouvez un artisan dans le Grand Est (Strasbourg, Reims…) : conseils locaux, règles à connaître et devis gratuits près de chez vous.",
+  "title": "Artisans dans le Grand Est : devis gratuits",
+  "description": "Trouvez un artisan dans le Grand Est (Strasbourg, Reims…) : conseils locaux, règles à connaître et devis gratuits près de chez vous.",
   "keywords": [
     "artisan grand est",
     "artisan strasbourg",
@@ -17,7 +17,7 @@
   "cardText": "Strasbourg, Reims, Metz, Mulhouse… Bâti local, risques et démarches.",
   "eyebrow": "Région",
   "h1": "Trouver un artisan dans le Grand Est",
-  "intro": "Plombier à Strasbourg, couvreur à Reims ou entreprise de rénovation à Metz : décrivez votre projet et comparez les devis d’artisans du Grand Est.",
+  "intro": "Plombier à Strasbourg, couvreur à Reims ou entreprise de rénovation à Metz : décrivez votre projet et comparez les devis d’artisans du Grand Est.",
   "image": {
     "src": "https://images.unsplash.com/photo-1584109504427-f9b960c94cdb",
     "alt": "Maisons à colombages au bord d’une rivière",
@@ -46,7 +46,7 @@
   "sections": [
     {
       "h2": "Les départements et villes du Grand Est",
-      "html": "<p>La région Grand Est regroupe les départements suivants : Ardennes (08), Aube (10), Marne (51), Haute-Marne (52), Meurthe-et-Moselle (54), Meuse (55), Moselle (57), Bas-Rhin (67), Haut-Rhin (68), Vosges (88).</p><p>Principales villes : Strasbourg, Reims, Metz, Mulhouse, Nancy, Colmar, Troyes. Où que vous soyez dans la région, décrivez votre projet en indiquant votre code postal pour être mis en relation avec des artisans qui interviennent dans votre secteur.</p>"
+      "html": "<p>La région Grand Est regroupe les départements suivants : Ardennes (08), Aube (10), Marne (51), Haute-Marne (52), Meurthe-et-Moselle (54), Meuse (55), Moselle (57), Bas-Rhin (67), Haut-Rhin (68), Vosges (88).</p><p>Principales villes : Strasbourg, Reims, Metz, Mulhouse, Nancy, Colmar, Troyes. Où que vous soyez dans la région, décrivez votre projet en indiquant votre code postal pour être mis en relation avec des artisans qui interviennent dans votre secteur.</p>"
     },
     {
       "h2": "Le bâti et les travaux typiques du Grand Est",
@@ -58,20 +58,20 @@
     },
     {
       "h2": "Se faire conseiller gratuitement près de chez vous",
-      "html": "<p>Pour un projet de rénovation énergétique, les <strong>Espaces Conseil France Rénov’</strong> offrent des conseils neutres et gratuits ; trouvez le plus proche sur <a href=\"https://france-renov.gouv.fr/\" rel=\"noopener\" target=\"_blank\">france-renov.gouv.fr</a>. Pour les questions juridiques liées au logement (copropriété, location, urbanisme), l’<strong>ADIL</strong> de votre département peut vous renseigner.</p><p>Avant de choisir, lisez nos guides : <a href=\"/guides/verifier-un-artisan/\">vérifier un artisan</a>, <a href=\"/guides/devis-travaux/\">bien lire un devis</a> et <a href=\"/guides/aides-renovation/\">les aides à la rénovation</a>.</p>"
+      "html": "<p>Pour un projet de rénovation énergétique, les <strong>Espaces Conseil France Rénov’</strong> offrent des conseils neutres et gratuits ; trouvez le plus proche sur <a href=\"https://france-renov.gouv.fr/\" rel=\"noopener\" target=\"_blank\">france-renov.gouv.fr</a>. Pour les questions juridiques liées au logement (copropriété, location, urbanisme), l’<strong>ADIL</strong> de votre département peut vous renseigner.</p><p>Avant de choisir, lisez nos guides : <a href=\"/guides/verifier-un-artisan/\">vérifier un artisan</a>, <a href=\"/guides/devis-travaux/\">bien lire un devis</a> et <a href=\"/guides/aides-renovation/\">les aides à la rénovation</a>.</p>"
     }
   ],
   "faqs": [
     {
-      "q": "Peut-on isoler une maison à colombages ?",
+      "q": "Peut-on isoler une maison à colombages ?",
       "a": "Oui, mais avec des matériaux perméables à la vapeur d’eau (fibre de bois, chaux-chanvre) pour ne pas piéger l’humidité dans le bois. L’isolation par l’extérieur est souvent exclue pour préserver les colombages apparents."
     },
     {
-      "q": "Les artisans interviennent-ils partout dans le Grand Est ?",
+      "q": "Les artisans interviennent-ils partout dans le Grand Est ?",
       "a": "Nos partenaires mettent en relation avec des professionnels dans toute la France métropolitaine. Le nombre de réponses peut varier selon votre commune, le type de travaux et la période."
     },
     {
-      "q": "Est-ce gratuit ?",
+      "q": "Est-ce gratuit ?",
       "a": "Oui, décrire votre projet et recevoir des devis est gratuit et sans engagement. Vous traitez ensuite directement avec l’artisan que vous choisissez."
     }
   ],

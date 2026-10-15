@@ -1,0 +1,70 @@
+{
+  "type": "post",
+  "date": "2026-07-15",
+  "updated": "2026-07-15",
+  "slug": "blog/panneaux-solaires-demarches",
+  "nav": "Panneaux solaires : les démarches pas à pas",
+  "title": "Panneaux solaires : les démarches avant de se lancer",
+  "description": "Étude, déclaration préalable, raccordement, Consuel, contrat : les démarches pour installer des panneaux solaires en autoconsommation et les pièges à éviter.",
+  "keywords": [
+    "énergie",
+    "panneaux",
+    "solaires"
+  ],
+  "cardText": "Étude, déclaration préalable, raccordement, Consuel, contrat : les démarches pour installer des panneaux solaires en autoconsommation et les pièges à éviter.",
+  "eyebrow": "Énergie",
+  "h1": "Panneaux solaires : les démarches pas à pas",
+  "intro": "Produire son électricité implique plusieurs démarches. Un installateur sérieux les explique et s’en charge souvent, mais il est utile de les connaître.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1655300256335-beef51a914fe",
+    "alt": "Maison équipée de panneaux solaires sur le toit",
+    "credit": "Watt A Lot",
+    "creditUrl": "https://unsplash.com/@wattalot"
+  },
+  "sections": [
+    {
+      "h2": "Les étapes",
+      "html": "<ol><li>Étude de la toiture (orientation, inclinaison, ombrages, état)</li><li>Déclaration préalable en mairie</li><li>Demande de raccordement ou déclaration d’autoconsommation auprès du gestionnaire de réseau</li><li>Installation par un professionnel qualifié</li><li>Attestation de conformité Consuel</li><li>Mise en service</li></ol>"
+    },
+    {
+      "h2": "Autoconsommation : avec ou sans revente",
+      "html": "<p>Vous pouvez consommer toute votre production ou vendre le surplus. Les conditions de soutien (primes, tarifs) sont fixées par les pouvoirs publics et évoluent : vérifiez-les au moment de votre projet.</p>"
+    },
+    {
+      "h2": "Les pièges",
+      "html": "<ul><li>Les promesses d’« autofinancement » ou d’installation « gratuite »</li><li>Un crédit signé en même temps que le bon de commande</li><li>Une estimation de production sans visite</li></ul>"
+    },
+    {
+      "h2": "Lire une étude de production",
+      "html": "<p>Une étude sérieuse indique la puissance installée, l’orientation et l’inclinaison, les ombrages, une estimation de production annuelle et la part autoconsommée selon votre profil de consommation. Méfiez-vous des économies calculées sur une hausse arbitraire du prix de l’électricité ou sur une autoconsommation de 100 % si vous êtes absent la journée.</p>"
+    },
+    {
+      "h2": "Le contrat et le financement",
+      "html": "<p>Lisez le bon de commande et, s’il existe, le contrat de crédit séparément. Vérifiez la puissance, la marque des panneaux et de l’onduleur, les garanties (produit, performance, pose), le délai de raccordement et qui supporte les frais. Si vous avez signé à domicile, vous disposez d’un délai de rétractation de 14 jours.</p>"
+    },
+    {
+      "h2": "L’état de la toiture d’abord",
+      "html": "<p>Poser des panneaux sur une toiture qui devra être refaite dans quelques années oblige à les déposer et reposer. Faites vérifier la couverture par un <a href=\"/metiers/couvreur/\">couvreur</a> si elle est ancienne.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Faut-il être RGE ?",
+      "a": "Pour bénéficier de certains dispositifs de soutien, l’installateur doit être qualifié RGE (QualiPV par exemple)."
+    },
+    {
+      "q": "Faut-il prévenir son assureur ?",
+      "a": "Oui, déclarez l’installation à votre assureur habitation pour qu’elle soit couverte."
+    },
+    {
+      "q": "Une copropriété peut-elle installer des panneaux ?",
+      "a": "Oui, sur décision de l’assemblée générale, notamment dans le cadre de l’autoconsommation collective."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Photovoltaique.info (Hespul, avec l’ADEME)",
+      "url": "https://www.photovoltaique.info/"
+    }
+  ]
+}

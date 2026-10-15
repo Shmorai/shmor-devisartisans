@@ -1,0 +1,80 @@
+{
+  "type": "post",
+  "date": "2026-06-08",
+  "updated": "2026-06-08",
+  "slug": "blog/declaration-prealable-ou-permis",
+  "nav": "Travaux : déclaration préalable ou permis de construire ?",
+  "title": "Déclaration préalable ou permis de construire ?",
+  "description": "Extension, véranda, fenêtres, façade, piscine, abri : quels travaux demandent une déclaration préalable, lesquels un permis, et comment faire la demande.",
+  "keywords": [
+    "urbanisme",
+    "déclaration",
+    "préalable",
+    "permis",
+    "construire"
+  ],
+  "cardText": "Extension, véranda, fenêtres, façade, piscine, abri : quels travaux demandent une déclaration préalable, lesquels un permis, et comment faire la demande.",
+  "eyebrow": "Urbanisme",
+  "h1": "Travaux : déclaration préalable ou permis de construire ?",
+  "intro": "Avant de demander des devis, vérifiez l’autorisation dont vous aurez besoin : elle conditionne le calendrier de votre projet.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1503387837-b154d5074bd2",
+    "alt": "Personne dessinant un plan de construction",
+    "credit": "Daniel McCullough",
+    "creditUrl": "https://unsplash.com/@d_mccullough"
+  },
+  "sections": [
+    {
+      "h2": "La déclaration préalable",
+      "html": "<p>Elle concerne notamment les extensions de 5 à 20 m² (jusqu’à 40 m² en zone urbaine d’une commune dotée d’un PLU), les changements d’aspect extérieur (fenêtres, façade, toiture), les piscines de 10 à 100 m² et certains abris. Le délai d’instruction est en général d’un mois.</p>"
+    },
+    {
+      "h2": "Le permis de construire",
+      "html": "<p>Il est requis au-delà de ces seuils et pour les constructions nouvelles. L’architecte est obligatoire si la surface totale dépasse 150 m². L’instruction prend en général deux mois pour une maison individuelle.</p>"
+    },
+    {
+      "h2": "Où déposer ?",
+      "html": "<p>En mairie ou en ligne, si votre commune le permet. Consultez d’abord le plan local d’urbanisme : il peut imposer des matériaux, des couleurs ou des distances.</p>"
+    },
+    {
+      "h2": "Affichage et recours",
+      "html": "<p>Une fois l’autorisation obtenue, affichez-la sur le terrain de façon visible depuis la voie publique : le délai de recours des tiers (deux mois) court à partir de cet affichage.</p>"
+    },
+    {
+      "h2": "Exemples courants",
+      "html": "<ul><li><strong>Remplacer des fenêtres à l’identique</strong> : en principe aucune formalité.</li><li><strong>Changer la couleur des volets</strong> : déclaration préalable en général.</li><li><strong>Créer une véranda de 15 m²</strong> : déclaration préalable.</li><li><strong>Construire un abri de jardin de moins de 5 m²</strong> : en principe pas de formalité, hors secteur protégé.</li><li><strong>Piscine de 30 m² non couverte</strong> : déclaration préalable.</li><li><strong>Extension de 50 m²</strong> : permis de construire.</li></ul><p>Ces règles générales connaissent des exceptions en secteur protégé ou selon le PLU : vérifiez toujours auprès de votre mairie.</p>"
+    },
+    {
+      "h2": "Le dossier à constituer",
+      "html": "<p>Formulaire Cerfa adapté, plan de situation, plan de masse, plans des façades et toitures, photos de l’environnement proche et lointain, et une représentation de l’aspect final. Pour un permis, une notice décrivant le projet et son insertion est également demandée.</p>"
+    },
+    {
+      "h2": "Après les travaux",
+      "html": "<p>Pour un permis de construire et certaines déclarations préalables, déposez une déclaration attestant l’achèvement et la conformité des travaux (DAACT). N’oubliez pas la déclaration fiscale des nouvelles surfaces via votre espace en ligne.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Que risque-t-on sans autorisation ?",
+      "a": "Des sanctions pénales, une obligation de mise en conformité ou de démolition, et des difficultés lors de la revente."
+    },
+    {
+      "q": "Combien de temps l’autorisation est-elle valable ?",
+      "a": "En général trois ans pour commencer les travaux, sous réserve qu’ils ne soient pas interrompus plus d’un an ensuite. Une prolongation peut être demandée."
+    },
+    {
+      "q": "L’artisan peut-il faire la demande pour moi ?",
+      "a": "Il peut vous aider à préparer le dossier, mais la demande est déposée au nom du propriétaire ou d’une personne qu’il a mandatée."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Service-public.fr",
+      "url": "https://www.service-public.gouv.fr/"
+    },
+    {
+      "title": "Service-public.fr : demande d’autorisation d’urbanisme en ligne",
+      "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/R52221"
+    }
+  ]
+}

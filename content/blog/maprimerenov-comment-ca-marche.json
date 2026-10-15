@@ -1,0 +1,77 @@
+{
+  "type": "post",
+  "date": "2026-03-24",
+  "updated": "2026-03-24",
+  "slug": "blog/maprimerenov-comment-ca-marche",
+  "nav": "MaPrimeRénov’ : comment fonctionne le dispositif ?",
+  "title": "MaPrimeRénov’ : comprendre le dispositif avant vos travaux",
+  "description": "Qui peut en bénéficier, quels travaux, pourquoi un artisan RGE, quand déposer la demande : les principes de MaPrimeRénov’ expliqués simplement.",
+  "keywords": [
+    "aides",
+    "maprimerénov’"
+  ],
+  "cardText": "Qui peut en bénéficier, quels travaux, pourquoi un artisan RGE, quand déposer la demande : les principes de MaPrimeRénov’ expliqués simplement.",
+  "eyebrow": "Aides",
+  "h1": "MaPrimeRénov’ : comment fonctionne le dispositif ?",
+  "intro": "MaPrimeRénov’ est la principale aide publique à la rénovation énergétique des logements. Ses barèmes évoluent souvent ; ses grands principes, eux, restent stables.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1752852381113-7d93abc9d7ea",
+    "alt": "Combles isolés avec fenêtres de toit",
+    "credit": "Brett Jordan",
+    "creditUrl": "https://unsplash.com/@brett_jordan"
+  },
+  "sections": [
+    {
+      "h2": "Le principe",
+      "html": "<p>Gérée par l’Agence nationale de l’habitat (Anah), MaPrimeRénov’ finance une partie des travaux de rénovation énergétique. Le montant dépend des revenus du foyer, du logement et des travaux réalisés.</p>"
+    },
+    {
+      "h2": "Deux façons de rénover",
+      "html": "<ul><li><strong>Des travaux ciblés</strong> (par geste), par exemple un équipement de chauffage.</li><li><strong>Une rénovation d’ampleur</strong>, avec un gain énergétique important, accompagnée obligatoirement par un Accompagnateur Rénov’.</li></ul>"
+    },
+    {
+      "h2": "Les conditions clés",
+      "html": "<ul><li>Faire réaliser les travaux par une entreprise <strong>RGE</strong>.</li><li>Déposer la demande <strong>avant</strong> de commencer les travaux.</li><li>Respecter les critères de performance des équipements et matériaux.</li></ul>"
+    },
+    {
+      "h2": "Où trouver les montants à jour ?",
+      "html": "<p>Les plafonds et pourcentages changent régulièrement : consultez france-renov.gouv.fr ou appelez un conseiller France Rénov’, gratuit et indépendant. Voir aussi <a href=\"/guides/aides-renovation/\">notre guide des aides</a>.</p>"
+    },
+    {
+      "h2": "Le rôle de l’Accompagnateur Rénov’",
+      "html": "<p>Pour une rénovation d’ampleur, un Accompagnateur Rénov’ agréé vous suit de bout en bout : visite du logement, audit énergétique, scénarios de travaux, aide au montage du dossier et aux demandes d’aides, suivi du chantier. Son intervention est elle-même en partie financée selon vos revenus. Vous pouvez trouver un accompagnateur agréé via France Rénov’.</p>"
+    },
+    {
+      "h2": "Le déroulé type d’un dossier",
+      "html": "<ul><li>Prise de contact avec un conseiller France Rénov’ ou un accompagnateur</li><li>Réalisation d’un audit énergétique pour une rénovation d’ampleur</li><li>Demande de devis auprès d’entreprises RGE</li><li>Dépôt de la demande d’aide en ligne, avant de commencer</li><li>Réalisation des travaux</li><li>Envoi des factures pour le versement de la prime</li></ul>"
+    },
+    {
+      "h2": "Les erreurs fréquentes",
+      "html": "<p>Signer un devis ou démarrer les travaux avant d’avoir déposé la demande, choisir une entreprise dont la qualification RGE ne couvre pas le type de travaux, ou se fier à un intermédiaire qui promet une aide « garantie » contre rémunération. Les démarches officielles sont gratuites : méfiez-vous de quiconque vous demande de payer pour « obtenir » MaPrimeRénov’.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Peut-on cumuler MaPrimeRénov’ avec d’autres aides ?",
+      "a": "Oui, sous conditions, notamment avec les primes CEE, l’éco-prêt à taux zéro et la TVA à taux réduit."
+    },
+    {
+      "q": "Les propriétaires bailleurs sont-ils éligibles ?",
+      "a": "Sous certaines conditions, oui. Les règles diffèrent de celles des propriétaires occupants : renseignez-vous auprès de France Rénov’."
+    },
+    {
+      "q": "L’aide est-elle versée avant les travaux ?",
+      "a": "Elle est en principe versée après les travaux, sur présentation des factures. Des avances sont possibles pour certains ménages."
+    }
+  ],
+  "sources": [
+    {
+      "title": "France Rénov’ (service public de la rénovation de l’habitat)",
+      "url": "https://france-renov.gouv.fr/"
+    },
+    {
+      "title": "Anah : Agence nationale de l’habitat",
+      "url": "https://www.anah.gouv.fr/"
+    }
+  ]
+}

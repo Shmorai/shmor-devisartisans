@@ -1,0 +1,74 @@
+{
+  "type": "post",
+  "date": "2026-07-24",
+  "updated": "2026-07-24",
+  "slug": "blog/debroussaillement-obligatoire",
+  "nav": "Obligations légales de débroussaillement : ce qu’il faut savoir",
+  "title": "Débroussaillement obligatoire : qui est concerné ?",
+  "description": "Zones concernées, rayon de 50 mètres, qui débroussaille, sanctions : les obligations légales de débroussaillement contre les feux de forêt.",
+  "keywords": [
+    "jardin",
+    "débroussaillement",
+    "obligatoire"
+  ],
+  "cardText": "Zones concernées, rayon de 50 mètres, qui débroussaille, sanctions : les obligations légales de débroussaillement contre les feux de forêt.",
+  "eyebrow": "Jardin",
+  "h1": "Obligations légales de débroussaillement : ce qu’il faut savoir",
+  "intro": "Dans les zones exposées aux feux de forêt, les propriétaires doivent débroussailler autour de leur habitation. Le changement climatique étend les territoires concernés.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1720581997079-2359a8e0d90d",
+    "alt": "Tondeuse au milieu d’un terrain herbeux",
+    "credit": "Senwart Machinery",
+    "creditUrl": "https://unsplash.com/@senwart"
+  },
+  "sections": [
+    {
+      "h2": "Qui est concerné ?",
+      "html": "<p>Les terrains situés dans ou à proximité de bois et forêts exposés au risque d’incendie, dans les départements où ces obligations s’appliquent. Votre mairie ou le site Géorisques vous indique si votre parcelle est concernée.</p>"
+    },
+    {
+      "h2": "Ce qu’il faut faire",
+      "html": "<ul><li>Débroussailler en général sur 50 mètres autour des constructions (jusqu’à 100 mètres si le maire le décide)</li><li>Couper les branches à proximité des toitures</li><li>Éliminer les déchets de coupe</li></ul>"
+    },
+    {
+      "h2": "Faire appel à un professionnel",
+      "html": "<p>Un <a href=\"/metiers/jardinier-paysagiste/\">jardinier paysagiste</a> ou un élagueur peut réaliser les travaux. Depuis 2023, l’information sur ces obligations doit figurer lors des ventes et locations de biens concernés.</p>"
+    },
+    {
+      "h2": "Ce que signifie débroussailler",
+      "html": "<p>Débroussailler ne veut pas dire raser. Il s’agit de réduire la masse de végétation combustible : couper les broussailles et herbes sèches, élaguer les arbres conservés, espacer les houppiers et éliminer les rémanents. Les modalités précises sont fixées par arrêté préfectoral selon les départements.</p>"
+    },
+    {
+      "h2": "Quand le faire ?",
+      "html": "<p>Avant la période de risque, généralement au printemps. Évitez les travaux mécaniques par forte chaleur : une étincelle de débroussailleuse peut suffire à déclencher un feu. Le brûlage des déchets verts est en principe interdit ; privilégiez le broyage ou la déchetterie.</p>"
+    },
+    {
+      "h2": "Sanctions",
+      "html": "<p>En cas de manquement, le maire peut mettre en demeure le propriétaire puis faire exécuter les travaux d’office à ses frais, et des amendes peuvent s’appliquer. En cas d’incendie, le non-respect des obligations peut aussi avoir des conséquences sur l’indemnisation par l’assurance.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Dois-je débroussailler chez mon voisin ?",
+      "a": "Si le rayon de 50 mètres déborde sur le terrain voisin, l’obligation vous incombe, après avoir demandé l’accord du voisin."
+    },
+    {
+      "q": "Le locataire doit-il débroussailler ?",
+      "a": "L’obligation pèse sur le propriétaire, mais le bail peut prévoir que l’entretien courant du jardin incombe au locataire."
+    },
+    {
+      "q": "Peut-on bénéficier du crédit d’impôt ?",
+      "a": "Les petits travaux de jardinage réalisés par un prestataire de services à la personne peuvent y ouvrir droit, sous plafond. Les travaux de débroussaillement lourds n’en relèvent pas forcément."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Géorisques : les risques près de chez vous",
+      "url": "https://www.georisques.gouv.fr/"
+    },
+    {
+      "title": "Service-public.fr",
+      "url": "https://www.service-public.gouv.fr/"
+    }
+  ]
+}

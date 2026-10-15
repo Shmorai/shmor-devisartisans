@@ -1,0 +1,70 @@
+{
+  "type": "post",
+  "date": "2026-06-17",
+  "updated": "2026-06-17",
+  "slug": "blog/norme-nf-c-15-100-renovation",
+  "nav": "Norme NF C 15-100 : ce qu’il faut savoir pour rénover",
+  "title": "Norme NF C 15-100 : rénover son électricité en sécurité",
+  "description": "Tableau, différentiels, prise de terre, salle de bain, nombre de prises : les grands principes de la norme NF C 15-100 pour une rénovation électrique.",
+  "keywords": [
+    "électricité",
+    "norme",
+    "15-100"
+  ],
+  "cardText": "Tableau, différentiels, prise de terre, salle de bain, nombre de prises : les grands principes de la norme NF C 15-100 pour une rénovation électrique.",
+  "eyebrow": "Électricité",
+  "h1": "Norme NF C 15-100 : ce qu’il faut savoir pour rénover",
+  "intro": "La norme NF C 15-100 fixe les règles des installations électriques basse tension dans les logements. Elle s’impose aux installations neuves et aux rénovations complètes.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1758101755915-462eddc23f57",
+    "alt": "Électricien testant un tableau électrique avec un multimètre",
+    "credit": "Toolmash Expo",
+    "creditUrl": "https://unsplash.com/@toolmash"
+  },
+  "sections": [
+    {
+      "h2": "Les fondamentaux de la sécurité",
+      "html": "<ul><li>Une prise de terre et des liaisons équipotentielles</li><li>Des dispositifs différentiels 30 mA</li><li>Un tableau avec un disjoncteur par circuit</li><li>Des circuits spécialisés pour les gros appareils</li></ul>"
+    },
+    {
+      "h2": "Salle de bain : les volumes",
+      "html": "<p>Autour de la baignoire et de la douche, la norme définit des volumes dans lesquels seuls certains appareils sont autorisés. Votre électricien en tiendra compte dans l’implantation.</p>"
+    },
+    {
+      "h2": "Mise en sécurité ou mise aux normes ?",
+      "html": "<p>Dans un logement ancien, une mise en sécurité (terre, différentiels, tableau) traite les risques principaux sans tout refaire. Une rénovation complète devra respecter la norme en vigueur et faire l’objet d’une attestation Consuel si le distributeur doit remettre sous tension. Voir <a href=\"/metiers/electricien/\">électricien</a>.</p>"
+    },
+    {
+      "h2": "Les signes qu’une installation doit être revue",
+      "html": "<ul><li>Absence de prise de terre ou de disjoncteur différentiel</li><li>Fusibles à broches ou tableau en bois</li><li>Prises qui chauffent, odeurs de brûlé</li><li>Disjonctions fréquentes</li><li>Multiprises en cascade faute de prises suffisantes</li></ul>"
+    },
+    {
+      "h2": "Les étapes d’une rénovation électrique",
+      "html": "<p>L’électricien établit un état des lieux, propose un plan d’implantation (prises, éclairages, circuits), remplace le tableau, tire les nouvelles lignes et repose l’appareillage. En rénovation occupée, les travaux sont souvent menés pièce par pièce pour limiter les coupures. Les saignées et rebouchages doivent être prévus au devis, ainsi que la peinture si vous ne la faites pas vous-même.</p>"
+    },
+    {
+      "h2": "Domotique et bornes",
+      "html": "<p>C’est le bon moment pour prévoir les usages futurs : circuit dédié pour une <a href=\"/metiers/electricien/\">borne de recharge</a>, gaines en attente pour la domotique, réseau informatique, alimentation de volets roulants motorisés.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Un diagnostic électricité est-il obligatoire ?",
+      "a": "Pour vendre ou louer un logement dont l’installation a plus de 15 ans, oui."
+    },
+    {
+      "q": "Faut-il refaire l’électricité avant de louer ?",
+      "a": "Le logement doit être décent, donc ne pas présenter de risques manifestes. Un diagnostic électricité est obligatoire si l’installation a plus de 15 ans."
+    },
+    {
+      "q": "Peut-on faire soi-même une partie des travaux ?",
+      "a": "Un particulier peut intervenir chez lui, mais l’installation doit rester conforme et sûre. Pour une rénovation complète, le recours à un électricien qualifié est fortement recommandé."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Consuel",
+      "url": "https://www.consuel.com/"
+    }
+  ]
+}

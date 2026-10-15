@@ -2,8 +2,8 @@
   "updated": "2026-10-15",
   "slug": "metiers/chauffagiste",
   "nav": "Chauffagiste",
-  "title": "Chauffagiste : entretien, dépannage et installation",
-  "description": "Entretien de chaudière, dépannage, remplacement, radiateurs ou poêle à bois : comparez les devis de chauffagistes près de chez vous, gratuitement.",
+  "title": "Chauffagiste : entretien, dépannage et installation",
+  "description": "Entretien de chaudière, dépannage, remplacement, radiateurs ou poêle à bois : comparez les devis de chauffagistes près de chez vous, gratuitement.",
   "keywords": [
     "chauffagiste",
     "chaudière",
@@ -24,7 +24,7 @@
     "credit": "Julian Hochgesang",
     "creditUrl": "https://unsplash.com/@julianhochgesang"
   },
-  "searchPlaceholder": "Votre projet, p. ex. « fuite » ou « fenêtres »",
+  "searchPlaceholder": "Votre projet, p. ex. « fuite » ou « fenêtres »",
   "highlights": [
     {
       "title": "Gratuit",
@@ -46,34 +46,34 @@
       "html": "<ul><li>Entretien annuel de chaudière</li><li>Dépannage d’une chaudière ou d’un circuit de chauffage</li><li>Remplacement de chaudière</li><li>Installation ou remplacement de radiateurs</li><li>Pose de plancher chauffant</li><li>Installation de poêle à bois ou à granulés</li></ul>"
     },
     {
-      "h2": "Quand faire appel à un chauffagiste ?",
+      "h2": "Quand faire appel à un chauffagiste ?",
       "html": "<ul><li>Votre chaudière doit être entretenue (chaque année)</li><li>Le chauffage ne démarre plus ou certains radiateurs restent froids</li><li>Votre chaudière est ancienne et votre facture augmente</li><li>Vous envisagez de changer d’énergie (bois, pompe à chaleur)</li></ul>"
     },
     {
       "h2": "Les questions à poser avant de signer",
-      "html": "<p>Au moment de comparer les devis, ces questions vous aident à choisir :</p><ol><li>Pouvez-vous me transmettre votre <strong>attestation d’assurance décennale</strong> (et de responsabilité civile professionnelle) en cours de validité ?</li><li>Quel est votre numéro <strong>SIRET</strong> ?</li><li>Proposez-vous un contrat d’entretien ?</li><li>Êtes-vous certifié RGE pour l’équipement envisagé (utile pour les aides) ?</li><li>Le devis inclut-il la mise en service et l’évacuation de l’ancien appareil ?</li></ol><p>Pour aller plus loin : <a href=\"/guides/verifier-un-artisan/\">comment vérifier un artisan</a>.</p>"
+      "html": "<p>Au moment de comparer les devis, ces questions vous aident à choisir :</p><ol><li>Pouvez-vous me transmettre votre <strong>attestation d’assurance décennale</strong> (et de responsabilité civile professionnelle) en cours de validité ?</li><li>Quel est votre numéro <strong>SIRET</strong> ?</li><li>Proposez-vous un contrat d’entretien ?</li><li>Êtes-vous certifié RGE pour l’équipement envisagé (utile pour les aides) ?</li><li>Le devis inclut-il la mise en service et l’évacuation de l’ancien appareil ?</li></ol><p>Pour aller plus loin : <a href=\"/guides/verifier-un-artisan/\">comment vérifier un artisan</a>.</p>"
     },
     {
       "h2": "Ce qui fait varier le prix",
-      "html": "<p>Chaque chantier est différent. Les principaux facteurs :</p><ul><li>Le type d’équipement et sa puissance</li><li>L’adaptation du circuit existant (radiateurs, conduit)</li><li>Les travaux annexes (conduit de fumée, raccordements)</li><li>Les aides auxquelles vous pouvez prétendre</li></ul><p>Le plus fiable pour connaître le prix de votre projet est de comparer plusieurs devis détaillés. Voir <a href=\"/guides/devis-travaux/\">ce que doit contenir un devis</a>.</p>"
+      "html": "<p>Chaque chantier est différent. Les principaux facteurs :</p><ul><li>Le type d’équipement et sa puissance</li><li>L’adaptation du circuit existant (radiateurs, conduit)</li><li>Les travaux annexes (conduit de fumée, raccordements)</li><li>Les aides auxquelles vous pouvez prétendre</li></ul><p>Le plus fiable pour connaître le prix de votre projet est de comparer plusieurs devis détaillés. Voir <a href=\"/guides/devis-travaux/\">ce que doit contenir un devis</a>.</p>"
     },
     {
       "h2": "Règles et précautions à connaître",
-      "html": "<p>L’<strong>entretien annuel</strong> des chaudières dont la puissance est comprise entre 4 et 400 kW est <strong>obligatoire</strong> (gaz, fioul, bois, charbon). Le professionnel vous remet une attestation d’entretien. Les conduits de fumée doivent être <strong>ramonés</strong> régulièrement ; la fréquence est fixée par le règlement sanitaire départemental. Pour bénéficier des aides publiques, l’installateur doit être <strong>RGE</strong>.</p>"
+      "html": "<p>L’<strong>entretien annuel</strong> des chaudières dont la puissance est comprise entre 4 et 400 kW est <strong>obligatoire</strong> (gaz, fioul, bois, charbon). Le professionnel vous remet une attestation d’entretien. Les conduits de fumée doivent être <strong>ramonés</strong> régulièrement ; la fréquence est fixée par le règlement sanitaire départemental. Pour bénéficier des aides publiques, l’installateur doit être <strong>RGE</strong>.</p>"
     }
   ],
   "faqs": [
     {
-      "q": "L’entretien de la chaudière est-il obligatoire ?",
+      "q": "L’entretien de la chaudière est-il obligatoire ?",
       "a": "Oui, pour les chaudières de 4 à 400 kW, quelle que soit l’énergie. En location, il est en général à la charge du locataire, sauf clause contraire du bail."
     },
     {
-      "q": "Quelle est la différence entre entretien et ramonage ?",
+      "q": "Quelle est la différence entre entretien et ramonage ?",
       "a": "L’entretien concerne l’appareil (réglages, nettoyage, contrôle de la combustion). Le ramonage concerne le conduit d’évacuation des fumées. Les deux sont nécessaires."
     },
     {
-      "q": "Par quoi remplacer une vieille chaudière ?",
-      "a": "Selon le logement : pompe à chaleur, chaudière à granulés, raccordement à un réseau de chaleur… Un conseiller France Rénov’ peut vous aider à comparer les options et les aides."
+      "q": "Par quoi remplacer une vieille chaudière ?",
+      "a": "Selon le logement : pompe à chaleur, chaudière à granulés, raccordement à un réseau de chaleur… Un conseiller France Rénov’ peut vous aider à comparer les options et les aides."
     }
   ],
   "related": [
@@ -82,5 +82,5 @@
     "metiers/isolation"
   ],
   "relatedTitle": "Métiers liés",
-  "ctaTitle": "De quel artisan avez-vous besoin ?"
+  "ctaTitle": "De quel artisan avez-vous besoin ?"
 }

@@ -1,0 +1,74 @@
+{
+  "type": "post",
+  "date": "2026-10-01",
+  "updated": "2026-10-01",
+  "slug": "blog/climatisation-copropriete-autorisations",
+  "nav": "Climatisation : quelles autorisations et quelles règles de bruit ?",
+  "title": "Installer une climatisation : autorisations et bruit",
+  "description": "Déclaration préalable, accord de copropriété, bruit de voisinage, fluides frigorigènes : les règles à connaître avant d’installer une climatisation.",
+  "keywords": [
+    "climatisation",
+    "installer",
+    "climatisation"
+  ],
+  "cardText": "Déclaration préalable, accord de copropriété, bruit de voisinage, fluides frigorigènes : les règles à connaître avant d’installer une climatisation.",
+  "eyebrow": "Climatisation",
+  "h1": "Climatisation : quelles autorisations et quelles règles de bruit ?",
+  "intro": "Après des étés de plus en plus chauds, la climatisation séduit. Mais l’unité extérieure est visible et audible : elle est encadrée par plusieurs règles.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1718203862467-c33159fdc504",
+    "alt": "Unité extérieure de climatisation fixée sur un mur en briques",
+    "credit": "Everett Pachmann",
+    "creditUrl": "https://unsplash.com/@everettp"
+  },
+  "sections": [
+    {
+      "h2": "Urbanisme",
+      "html": "<p>Une unité extérieure qui modifie l’aspect de la façade peut nécessiter une déclaration préalable, en particulier dans les secteurs protégés. Le plan local d’urbanisme peut imposer un emplacement ou un habillage.</p>"
+    },
+    {
+      "h2": "Copropriété",
+      "html": "<p>L’installation sur la façade, un balcon visible ou une partie commune demande l’accord de l’assemblée générale. Voir <a href=\"/blog/travaux-en-copropriete/\">les travaux en copropriété</a>.</p>"
+    },
+    {
+      "h2": "Bruit de voisinage",
+      "html": "<p>Le Code de la santé publique sanctionne les bruits de voisinage excessifs, y compris ceux des équipements. Choisissez un appareil silencieux et un emplacement éloigné des fenêtres voisines.</p>"
+    },
+    {
+      "h2": "Un installateur habilité",
+      "html": "<p>La manipulation des fluides frigorigènes est réservée aux professionnels titulaires d’une attestation de capacité. Comparez les <a href=\"/metiers/climatisation/\">installateurs de climatisation</a>.</p>"
+    },
+    {
+      "h2": "Choisir la bonne puissance",
+      "html": "<p>Une climatisation surdimensionnée fonctionne par à-coups, consomme plus et déshumidifie mal ; sous-dimensionnée, elle tourne en permanence sans atteindre le confort. L’installateur doit tenir compte de la surface, de l’exposition, de l’isolation et des apports internes.</p>"
+    },
+    {
+      "h2": "Réduire les besoins avant de climatiser",
+      "html": "<ul><li>Protections solaires extérieures (volets, stores, brise-soleil)</li><li>Isolation des combles avec des isolants denses</li><li>Ventilation nocturne</li><li>Ventilateurs de plafond</li></ul><p>Ces solutions réduisent la puissance nécessaire et la consommation.</p>"
+    },
+    {
+      "h2": "Entretien",
+      "html": "<p>Nettoyez les filtres des unités intérieures régulièrement et faites contrôler l’installation par un professionnel. Certaines installations sont soumises à des contrôles d’étanchéité obligatoires selon la quantité et le type de fluide frigorigène.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Une climatisation mobile pose-t-elle les mêmes questions ?",
+      "a": "Un climatiseur mobile sans unité extérieure fixe ne demande pas d’autorisation, mais il est généralement moins efficace."
+    },
+    {
+      "q": "Une climatisation réversible peut-elle remplacer le chauffage ?",
+      "a": "Oui dans certains logements, puisqu’il s’agit d’une pompe à chaleur air/air. Elle ne produit cependant pas d’eau chaude."
+    },
+    {
+      "q": "Où placer l’unité extérieure ?",
+      "a": "À l’abri du soleil direct si possible, sur un support stable, loin des fenêtres des voisins et en respectant les règles d’urbanisme et de copropriété."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Service-public.fr",
+      "url": "https://www.service-public.gouv.fr/"
+    }
+  ]
+}

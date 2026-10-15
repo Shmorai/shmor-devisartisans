@@ -1,0 +1,74 @@
+{
+  "type": "post",
+  "date": "2026-04-21",
+  "updated": "2026-04-21",
+  "slug": "blog/entretien-chaudiere-obligatoire",
+  "nav": "Entretien de chaudière : ce que dit la loi",
+  "title": "Entretien de chaudière : obligations, fréquence, attestation",
+  "description": "L’entretien annuel de la chaudière est obligatoire : qui doit le faire, qui paie en location, ce que contrôle le professionnel et à quoi sert l’attestation.",
+  "keywords": [
+    "chauffage",
+    "entretien",
+    "chaudière"
+  ],
+  "cardText": "L’entretien annuel de la chaudière est obligatoire : qui doit le faire, qui paie en location, ce que contrôle le professionnel et à quoi sert l’attestation.",
+  "eyebrow": "Chauffage",
+  "h1": "Entretien de chaudière : ce que dit la loi",
+  "intro": "Gaz, fioul, bois : toutes les chaudières de 4 à 400 kW doivent être entretenues chaque année par un professionnel qualifié.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1607472586893-edb57bdc0e39",
+    "alt": "Tuyaux de chauffage noirs et gris",
+    "credit": "Compagnons",
+    "creditUrl": "https://unsplash.com/@sigmund"
+  },
+  "sections": [
+    {
+      "h2": "Ce que vérifie le professionnel",
+      "html": "<ul><li>Le nettoyage et le réglage de l’appareil</li><li>La combustion et les émissions</li><li>Le bon fonctionnement des sécurités</li><li>Des conseils pour améliorer le rendement</li></ul>"
+    },
+    {
+      "h2": "L’attestation d’entretien",
+      "html": "<p>Le professionnel remet une attestation dans les 15 jours suivant sa visite. Conservez-la au moins deux ans : votre assureur peut la demander après un sinistre.</p>"
+    },
+    {
+      "h2": "Qui paie en location ?",
+      "html": "<p>L’entretien courant est en principe à la charge du locataire, sauf clause contraire du bail. Le remplacement de la chaudière revient au propriétaire.</p>"
+    },
+    {
+      "h2": "Contrat d’entretien ou visite ponctuelle ?",
+      "html": "<p>Un contrat inclut souvent les déplacements de dépannage ; une visite ponctuelle suffit si l’appareil est récent. Comparez les offres de <a href=\"/metiers/chauffagiste/\">chauffagistes</a> près de chez vous.</p>"
+    },
+    {
+      "h2": "Pourquoi c’est important",
+      "html": "<p>Une chaudière mal entretenue consomme davantage, tombe plus souvent en panne et peut produire du monoxyde de carbone, un gaz inodore et mortel. L’entretien régulier réduit ces risques et prolonge la durée de vie de l’appareil.</p><p>Installez aussi un détecteur de monoxyde de carbone près des appareils à combustion : il n’est pas obligatoire, mais il est vivement recommandé.</p>"
+    },
+    {
+      "h2": "Comment choisir son chauffagiste",
+      "html": "<ul><li>Vérifiez qu’il intervient sur votre marque et votre type de chaudière</li><li>Demandez le prix de la visite, déplacement compris</li><li>Comparez les contrats : nombre de dépannages inclus, délais d’intervention, pièces</li><li>Notez la date de la dernière visite pour planifier la suivante</li></ul>"
+    },
+    {
+      "h2": "Et si la chaudière est très ancienne ?",
+      "html": "<p>Profitez de la visite pour demander un avis sur son état et son rendement. Si un remplacement se profile, comparez les options (pompe à chaleur, chaudière à granulés, réseau de chaleur) et les aides disponibles avant la panne. Voir <a href=\"/metiers/chauffagiste/\">chauffagiste</a> et <a href=\"/metiers/pompe-a-chaleur/\">pompe à chaleur</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Les pompes à chaleur sont-elles concernées ?",
+      "a": "Elles ont leur propre obligation : un entretien au moins tous les deux ans pour les pompes à chaleur de 4 à 70 kW."
+    },
+    {
+      "q": "Que risque-t-on sans entretien ?",
+      "a": "En cas de sinistre, l’assureur peut réduire son indemnisation s’il établit un lien avec le défaut d’entretien."
+    },
+    {
+      "q": "L’entretien est-il obligatoire pour une chaudière électrique ?",
+      "a": "L’obligation annuelle vise les chaudières à combustion. Une chaudière électrique gagne néanmoins à être vérifiée régulièrement."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Service-public.fr",
+      "url": "https://www.service-public.gouv.fr/"
+    }
+  ]
+}

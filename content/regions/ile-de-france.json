@@ -2,8 +2,8 @@
   "updated": "2026-10-15",
   "slug": "regions/ile-de-france",
   "nav": "Île-de-France",
-  "title": "Artisans en Île-de-France : devis gratuits",
-  "description": "Trouvez un artisan en Île-de-France (Paris, Boulogne-Billancourt…) : conseils locaux, règles à connaître et devis gratuits près de chez vous.",
+  "title": "Artisans en Île-de-France : devis gratuits",
+  "description": "Trouvez un artisan en Île-de-France (Paris, Boulogne-Billancourt…) : conseils locaux, règles à connaître et devis gratuits près de chez vous.",
   "keywords": [
     "artisan île-de-france",
     "artisan paris",
@@ -17,7 +17,7 @@
   "cardText": "Paris, Boulogne-Billancourt, Saint-Denis, Argenteuil… Bâti local, risques et démarches.",
   "eyebrow": "Région",
   "h1": "Trouver un artisan en Île-de-France",
-  "intro": "Plombier à Paris, couvreur à Boulogne-Billancourt ou entreprise de rénovation à Saint-Denis : décrivez votre projet et comparez les devis d’artisans d’Île-de-France.",
+  "intro": "Plombier à Paris, couvreur à Boulogne-Billancourt ou entreprise de rénovation à Saint-Denis : décrivez votre projet et comparez les devis d’artisans d’Île-de-France.",
   "image": {
     "src": "https://images.unsplash.com/photo-1544244790-9aebdd40c942",
     "alt": "Immeubles parisiens aux façades beige et grises",
@@ -46,32 +46,32 @@
   "sections": [
     {
       "h2": "Les départements et villes d’Île-de-France",
-      "html": "<p>La région Île-de-France regroupe les départements suivants : Paris (75), Seine-et-Marne (77), Yvelines (78), Essonne (91), Hauts-de-Seine (92), Seine-Saint-Denis (93), Val-de-Marne (94), Val-d’Oise (95).</p><p>Principales villes : Paris, Boulogne-Billancourt, Saint-Denis, Argenteuil, Montreuil, Nanterre, Versailles, Créteil. Où que vous soyez dans la région, décrivez votre projet en indiquant votre code postal pour être mis en relation avec des artisans qui interviennent dans votre secteur.</p>"
+      "html": "<p>La région Île-de-France regroupe les départements suivants : Paris (75), Seine-et-Marne (77), Yvelines (78), Essonne (91), Hauts-de-Seine (92), Seine-Saint-Denis (93), Val-de-Marne (94), Val-d’Oise (95).</p><p>Principales villes : Paris, Boulogne-Billancourt, Saint-Denis, Argenteuil, Montreuil, Nanterre, Versailles, Créteil. Où que vous soyez dans la région, décrivez votre projet en indiquant votre code postal pour être mis en relation avec des artisans qui interviennent dans votre secteur.</p>"
     },
     {
       "h2": "Le bâti et les travaux typiques d’Île-de-France",
-      "html": "<ul><li>Une grande partie des logements est en <strong>copropriété</strong> : les travaux touchant aux parties communes, à la façade ou à la structure nécessitent l’accord de l’assemblée générale.</li><li>Les <strong>immeubles haussmanniens</strong> et anciens (parquets, moulures, conduits) demandent des artisans habitués aux contraintes d’accès et de voisinage.</li><li>À Paris, le <strong>ravalement des façades</strong> est obligatoire au moins tous les dix ans.</li><li>En grande couronne, les maisons individuelles des années 1960 à 1980 sont souvent à rénover énergétiquement.</li></ul>"
+      "html": "<ul><li>Une grande partie des logements est en <strong>copropriété</strong> : les travaux touchant aux parties communes, à la façade ou à la structure nécessitent l’accord de l’assemblée générale.</li><li>Les <strong>immeubles haussmanniens</strong> et anciens (parquets, moulures, conduits) demandent des artisans habitués aux contraintes d’accès et de voisinage.</li><li>À Paris, le <strong>ravalement des façades</strong> est obligatoire au moins tous les dix ans.</li><li>En grande couronne, les maisons individuelles des années 1960 à 1980 sont souvent à rénover énergétiquement.</li></ul>"
     },
     {
       "h2": "Risques naturels et règles locales à vérifier",
-      "html": "<p>Le retrait-gonflement des argiles et les anciennes carrières souterraines concernent de nombreuses communes ; certains quartiers de Paris et de la petite couronne sont aussi soumis à des arrêtés relatifs aux termites.</p><p>Avant des travaux importants, consultez la fiche de votre commune sur <a href=\"https://www.georisques.gouv.fr/\" rel=\"noopener\" target=\"_blank\">Géorisques</a> (inondation, argiles, sismicité, radon…) et le <strong>plan local d’urbanisme</strong> en mairie. Près d’un monument historique, les travaux extérieurs sont soumis à l’avis de l’Architecte des Bâtiments de France.</p>"
+      "html": "<p>Le retrait-gonflement des argiles et les anciennes carrières souterraines concernent de nombreuses communes ; certains quartiers de Paris et de la petite couronne sont aussi soumis à des arrêtés relatifs aux termites.</p><p>Avant des travaux importants, consultez la fiche de votre commune sur <a href=\"https://www.georisques.gouv.fr/\" rel=\"noopener\" target=\"_blank\">Géorisques</a> (inondation, argiles, sismicité, radon…) et le <strong>plan local d’urbanisme</strong> en mairie. Près d’un monument historique, les travaux extérieurs sont soumis à l’avis de l’Architecte des Bâtiments de France.</p>"
     },
     {
       "h2": "Se faire conseiller gratuitement près de chez vous",
-      "html": "<p>Pour un projet de rénovation énergétique, les <strong>Espaces Conseil France Rénov’</strong> offrent des conseils neutres et gratuits ; trouvez le plus proche sur <a href=\"https://france-renov.gouv.fr/\" rel=\"noopener\" target=\"_blank\">france-renov.gouv.fr</a>. Pour les questions juridiques liées au logement (copropriété, location, urbanisme), l’<strong>ADIL</strong> de votre département peut vous renseigner.</p><p>Avant de choisir, lisez nos guides : <a href=\"/guides/verifier-un-artisan/\">vérifier un artisan</a>, <a href=\"/guides/devis-travaux/\">bien lire un devis</a> et <a href=\"/guides/aides-renovation/\">les aides à la rénovation</a>.</p>"
+      "html": "<p>Pour un projet de rénovation énergétique, les <strong>Espaces Conseil France Rénov’</strong> offrent des conseils neutres et gratuits ; trouvez le plus proche sur <a href=\"https://france-renov.gouv.fr/\" rel=\"noopener\" target=\"_blank\">france-renov.gouv.fr</a>. Pour les questions juridiques liées au logement (copropriété, location, urbanisme), l’<strong>ADIL</strong> de votre département peut vous renseigner.</p><p>Avant de choisir, lisez nos guides : <a href=\"/guides/verifier-un-artisan/\">vérifier un artisan</a>, <a href=\"/guides/devis-travaux/\">bien lire un devis</a> et <a href=\"/guides/aides-renovation/\">les aides à la rénovation</a>.</p>"
     }
   ],
   "faqs": [
     {
-      "q": "Faut-il l’accord de la copropriété pour mes travaux ?",
+      "q": "Faut-il l’accord de la copropriété pour mes travaux ?",
       "a": "Les travaux privatifs qui n’affectent ni les parties communes ni l’aspect extérieur de l’immeuble n’en nécessitent pas. Pour un mur porteur, la façade, les fenêtres (selon le règlement) ou les réseaux communs, l’accord de l’assemblée générale est requis."
     },
     {
-      "q": "Les artisans interviennent-ils partout en Île-de-France ?",
+      "q": "Les artisans interviennent-ils partout en Île-de-France ?",
       "a": "Nos partenaires mettent en relation avec des professionnels dans toute la France métropolitaine. Le nombre de réponses peut varier selon votre commune, le type de travaux et la période."
     },
     {
-      "q": "Est-ce gratuit ?",
+      "q": "Est-ce gratuit ?",
       "a": "Oui, décrire votre projet et recevoir des devis est gratuit et sans engagement. Vous traitez ensuite directement avec l’artisan que vous choisissez."
     }
   ],
