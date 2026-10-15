@@ -517,3 +517,10 @@ mark.todo { background: #FBE9E2; color: #9A3412; border-radius: 4px; padding: 0 
 .tips .pcards { grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); }
 @media (max-width: 520px) { .tips .pcards { grid-template-columns: 1fr 1fr; } }
 @media (max-width: 360px) { .tips .pcards { grid-template-columns: 1fr; } }
+
+/* ---- Logo v4 (2026-10-15): terracotta ---- */
+.da-word { color: var(--terra); }
+.da-word b { color: var(--marine); }
+.site-footer .da-word { color: #F2A07F; }
+.site-footer .da-word b { color: #fff; }
+.da-mark { filter: drop-shadow(0 4px 10px rgba(194,80,42,.28)); }
