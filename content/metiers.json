@@ -18,7 +18,7 @@
   "intro": "30 métiers et 53 prestations parmi les plus demandées. Choisissez la vôtre pour connaître les bonnes questions à poser, les règles à respecter et ce qui fait varier le prix, puis comparez des devis gratuits.",
   "blocks": [
     {
-      "type": "deals",
+      "type": "cards",
       "class": "svc",
       "title": "Plomberie et salle de bain",
       "items": [
@@ -27,28 +27,52 @@
           "text": "Recherche et réparation, devis avant intervention",
           "icon": "droplet",
           "slug": "metiers/plombier",
-          "cta": "Voir"
+          "cta": "Voir",
+          "image": {
+            "src": "https://images.unsplash.com/photo-1596394723269-b2cbca4e6313",
+            "alt": "Goutte d’eau sur un tuyau en laiton",
+            "credit": "Elimende Inagella",
+            "creditUrl": "https://unsplash.com/@elimendeinagella"
+          }
         },
         {
           "title": "Débouchage de canalisation",
           "text": "Évier, WC, douche ou évacuation extérieure",
           "icon": "wrench",
           "slug": "metiers/plombier",
-          "cta": "Voir"
+          "cta": "Voir",
+          "image": {
+            "src": "https://images.unsplash.com/photo-1654440122140-f1fc995ddb34",
+            "alt": "Gros plan d’une bonde d’évier en métal",
+            "credit": "Daniel Dan",
+            "creditUrl": "https://unsplash.com/@outsideclick"
+          }
         },
         {
           "title": "Chauffe-eau",
           "text": "Remplacement, détartrage, ballon thermodynamique",
           "icon": "thermometer",
           "slug": "metiers/plombier",
-          "cta": "Voir"
+          "cta": "Voir",
+          "image": {
+            "src": "https://images.unsplash.com/photo-1676210134190-3f2c0d5cf58d",
+            "alt": "Plombier intervenant sur un chauffe-eau",
+            "credit": "Timur Shakerzianov",
+            "creditUrl": "https://unsplash.com/@shaker_jpg"
+          }
         },
         {
           "title": "Installation de WC et sanitaires",
           "text": "Lavabo, douche, baignoire, WC suspendu",
           "icon": "bath",
           "slug": "metiers/plombier",
-          "cta": "Voir"
+          "cta": "Voir",
+          "image": {
+            "src": "https://images.unsplash.com/photo-1676210134050-6f12c6898395",
+            "alt": "Plombier aux gants rouges travaillant sur des toilettes",
+            "credit": "Timur Shakerzianov",
+            "creditUrl": "https://unsplash.com/@shaker_jpg"
+          }
         },
         {
           "title": "Salle de bain complète",
@@ -62,12 +86,18 @@
           "text": "Remplacement de baignoire, étanchéité, accessibilité",
           "icon": "droplet",
           "slug": "metiers/salle-de-bain",
-          "cta": "Voir"
+          "cta": "Voir",
+          "image": {
+            "src": "https://images.unsplash.com/photo-1576678433413-202829a1ab98",
+            "alt": "Pommeau de douche en inox",
+            "credit": "kevin Baquerizo",
+            "creditUrl": "https://unsplash.com/@kevinbae"
+          }
         }
       ]
     },
     {
-      "type": "deals",
+      "type": "cards",
       "class": "svc",
       "title": "Chauffage et climatisation",
       "items": [
@@ -76,21 +106,39 @@
           "text": "Visite annuelle obligatoire et attestation",
           "icon": "flame",
           "slug": "metiers/chauffagiste",
-          "cta": "Voir"
+          "cta": "Voir",
+          "image": {
+            "src": "https://images.unsplash.com/photo-1607472586893-edb57bdc0e39",
+            "alt": "Tuyaux de chauffage noirs et gris",
+            "credit": "Compagnons",
+            "creditUrl": "https://unsplash.com/@sigmund"
+          }
         },
         {
           "title": "Remplacement de chaudière",
           "text": "Conseil sur la meilleure énergie de remplacement",
           "icon": "flame",
           "slug": "metiers/chauffagiste",
-          "cta": "Voir"
+          "cta": "Voir",
+          "image": {
+            "src": "https://images.unsplash.com/photo-1618840626133-54463084a141",
+            "alt": "Tuyauterie métallique en noir et blanc",
+            "credit": "Peter Herrmann",
+            "creditUrl": "https://unsplash.com/@tama66"
+          }
         },
         {
           "title": "Radiateurs et plancher chauffant",
           "text": "Installation, remplacement, désembouage",
           "icon": "thermometer",
           "slug": "metiers/chauffagiste",
-          "cta": "Voir"
+          "cta": "Voir",
+          "image": {
+            "src": "https://images.unsplash.com/photo-1669725341213-7379ff6c90d5",
+            "alt": "Radiateur blanc dans une pièce",
+            "credit": "e24",
+            "creditUrl": "https://unsplash.com/@e_heizung_24"
+          }
         },
         {
           "title": "Pompe à chaleur",
@@ -104,7 +152,13 @@
           "text": "Mono-split, multi-split ou gainable",
           "icon": "sun",
           "slug": "metiers/climatisation",
-          "cta": "Voir"
+          "cta": "Voir",
+          "image": {
+            "src": "https://images.unsplash.com/photo-1718203862467-c33159fdc504",
+            "alt": "Unité extérieure de climatisation sur un mur en briques",
+            "credit": "Everett Pachmann",
+            "creditUrl": "https://unsplash.com/@everettp"
+          }
         },
         {
           "title": "Poêle à bois ou à granulés",
@@ -123,7 +177,7 @@
       ]
     },
     {
-      "type": "deals",
+      "type": "cards",
       "class": "svc",
       "title": "Électricité et énergie",
       "items": [
@@ -132,28 +186,52 @@
           "text": "Prises, interrupteurs, points lumineux",
           "icon": "zap",
           "slug": "metiers/electricien",
-          "cta": "Voir"
+          "cta": "Voir",
+          "image": {
+            "src": "https://images.unsplash.com/photo-1635335874521-7987db781153",
+            "alt": "Fils raccordés dans un boîtier électrique",
+            "credit": "mostafa mahmoudi",
+            "creditUrl": "https://unsplash.com/@mostafa_mahmoudi24"
+          }
         },
         {
           "title": "Tableau électrique",
           "text": "Remplacement et mise en sécurité",
           "icon": "gauge",
           "slug": "metiers/electricien",
-          "cta": "Voir"
+          "cta": "Voir",
+          "image": {
+            "src": "https://images.unsplash.com/photo-1758101755915-462eddc23f57",
+            "alt": "Électricien testant un tableau électrique avec un multimètre",
+            "credit": "Toolmash Expo",
+            "creditUrl": "https://unsplash.com/@toolmash"
+          }
         },
         {
           "title": "Mise aux normes électrique",
           "text": "Rénovation selon la norme NF C 15-100",
           "icon": "shield",
           "slug": "metiers/electricien",
-          "cta": "Voir"
+          "cta": "Voir",
+          "image": {
+            "src": "https://images.unsplash.com/photo-1660330589693-99889d60181e",
+            "alt": "Électricien utilisant un tournevis sur un tableau électrique",
+            "credit": "Raze Solar",
+            "creditUrl": "https://unsplash.com/@razesolar"
+          }
         },
         {
           "title": "Borne de recharge",
           "text": "Installation par un professionnel IRVE",
           "icon": "car",
           "slug": "metiers/electricien",
-          "cta": "Voir"
+          "cta": "Voir",
+          "image": {
+            "src": "https://images.unsplash.com/photo-1704475336842-0ab3798abf0e",
+            "alt": "Main branchant un câble de recharge sur une voiture électrique",
+            "credit": "Zaptec",
+            "creditUrl": "https://unsplash.com/@zaptec"
+          }
         },
         {
           "title": "Panneaux solaires",
@@ -172,7 +250,7 @@
       ]
     },
     {
-      "type": "deals",
+      "type": "cards",
       "class": "svc",
       "title": "Toiture, façade et isolation",
       "items": [
@@ -188,21 +266,39 @@
           "text": "Infiltrations, solins, fenêtres de toit",
           "icon": "droplet",
           "slug": "metiers/couvreur",
-          "cta": "Voir"
+          "cta": "Voir",
+          "image": {
+            "src": "https://images.unsplash.com/photo-1635424824849-1b09bdcc55b1",
+            "alt": "Couvreur travaillant sur un toit avec une perceuse",
+            "credit": "Raze Solar",
+            "creditUrl": "https://unsplash.com/@razesolar"
+          }
         },
         {
           "title": "Démoussage de toiture",
           "text": "Nettoyage et traitement de la couverture",
           "icon": "sparkles",
           "slug": "metiers/couvreur",
-          "cta": "Voir"
+          "cta": "Voir",
+          "image": {
+            "src": "https://images.unsplash.com/photo-1564783679669-f5391270417b",
+            "alt": "Mousse sur de vieilles tuiles de toit",
+            "credit": "Barb McMahon",
+            "creditUrl": "https://unsplash.com/@barbmcmahon"
+          }
         },
         {
           "title": "Gouttières et zinguerie",
           "text": "Pose, réparation et nettoyage",
           "icon": "waves",
           "slug": "metiers/couvreur",
-          "cta": "Voir"
+          "cta": "Voir",
+          "image": {
+            "src": "https://images.unsplash.com/photo-1654531015087-8cc3d04d1b2d",
+            "alt": "Gouttière fixée sur le côté d’un bâtiment",
+            "credit": "Taylor Hammersla",
+            "creditUrl": "https://unsplash.com/@taylor_hammersla"
+          }
         },
         {
           "title": "Charpente",
@@ -230,12 +326,18 @@
           "text": "Façade isolée, ponts thermiques traités",
           "icon": "layers",
           "slug": "metiers/isolation",
-          "cta": "Voir"
+          "cta": "Voir",
+          "image": {
+            "src": "https://images.unsplash.com/photo-1716641818730-377d944725c6",
+            "alt": "Bâtiment entouré d’un échafaudage",
+            "credit": "Artists Eyes",
+            "creditUrl": "https://unsplash.com/@artistseyes"
+          }
         }
       ]
     },
     {
-      "type": "deals",
+      "type": "cards",
       "class": "svc",
       "title": "Aménagement intérieur",
       "items": [
@@ -251,7 +353,13 @@
           "text": "Pose, dépose et préparation des murs",
           "icon": "roller",
           "slug": "metiers/peintre",
-          "cta": "Voir"
+          "cta": "Voir",
+          "image": {
+            "src": "https://images.unsplash.com/photo-1693985120993-e9b203ce7631",
+            "alt": "Personne appliquant de la peinture au rouleau sur un mur",
+            "credit": "Andrew Itaga",
+            "creditUrl": "https://unsplash.com/@and73w"
+          }
         },
         {
           "title": "Pose de carrelage",
@@ -272,7 +380,13 @@
           "text": "Rénover un parquet ancien",
           "icon": "sparkles",
           "slug": "metiers/parquet",
-          "cta": "Voir"
+          "cta": "Voir",
+          "image": {
+            "src": "https://images.unsplash.com/photo-1573869908170-64b53a60d8da",
+            "alt": "Parquet en bois brun",
+            "credit": "Hal Gatewood",
+            "creditUrl": "https://unsplash.com/@halacious"
+          }
         },
         {
           "title": "Cloisons et faux plafonds",
@@ -298,7 +412,7 @@
       ]
     },
     {
-      "type": "deals",
+      "type": "cards",
       "class": "svc",
       "title": "Fenêtres, portes et sécurité",
       "items": [
@@ -307,28 +421,52 @@
           "text": "Remplacement, double vitrage",
           "icon": "window",
           "slug": "metiers/menuisier",
-          "cta": "Voir"
+          "cta": "Voir",
+          "image": {
+            "src": "https://images.unsplash.com/photo-1572739275114-ec3764ba1477",
+            "alt": "Fenêtre à cadre blanc",
+            "credit": "Nick Romanov",
+            "creditUrl": "https://unsplash.com/@nick_r"
+          }
         },
         {
           "title": "Porte d’entrée et blindage",
           "text": "Pose et sécurisation",
           "icon": "lock",
           "slug": "metiers/menuisier",
-          "cta": "Voir"
+          "cta": "Voir",
+          "image": {
+            "src": "https://images.unsplash.com/photo-1560184897-ae75f418493e",
+            "alt": "Porche bleu avec une porte d’entrée noire",
+            "credit": "Francesca Tosolini",
+            "creditUrl": "https://unsplash.com/@fromitaly"
+          }
         },
         {
           "title": "Volets et volets roulants",
           "text": "Pose, motorisation, réparation",
           "icon": "window",
           "slug": "metiers/menuisier",
-          "cta": "Voir"
+          "cta": "Voir",
+          "image": {
+            "src": "https://images.unsplash.com/photo-1496045737814-5ef82eb050fd",
+            "alt": "Fenêtre en bois ouverte",
+            "credit": "Jens Peter Olesen",
+            "creditUrl": "https://unsplash.com/@jenspeter"
+          }
         },
         {
           "title": "Placards et dressings",
           "text": "Aménagements sur mesure",
           "icon": "hammer",
           "slug": "metiers/menuisier",
-          "cta": "Voir"
+          "cta": "Voir",
+          "image": {
+            "src": "https://images.unsplash.com/photo-1672137233327-37b0c1049e77",
+            "alt": "Dressing avec un miroir et un tabouret",
+            "credit": "Billy Jo Catbagan",
+            "creditUrl": "https://unsplash.com/@billy_sixteenstudio"
+          }
         },
         {
           "title": "Changement de serrure",
@@ -347,7 +485,7 @@
       ]
     },
     {
-      "type": "deals",
+      "type": "cards",
       "class": "svc",
       "title": "Extérieur et jardin",
       "items": [
@@ -356,21 +494,39 @@
           "text": "Tonte, taille de haies, débroussaillage",
           "icon": "tree",
           "slug": "metiers/jardinier-paysagiste",
-          "cta": "Voir"
+          "cta": "Voir",
+          "image": {
+            "src": "https://images.unsplash.com/photo-1458245201577-fc8a130b8829",
+            "alt": "Tondeuse sur une pelouse verte",
+            "credit": "Daniel Watson",
+            "creditUrl": "https://unsplash.com/@danielwatsondesign"
+          }
         },
         {
           "title": "Élagage et abattage",
           "text": "Arbres dangereux ou envahissants",
           "icon": "tree",
           "slug": "metiers/jardinier-paysagiste",
-          "cta": "Voir"
+          "cta": "Voir",
+          "image": {
+            "src": "https://images.unsplash.com/photo-1754322449185-31f56117ed87",
+            "alt": "Arboriste coupant une branche",
+            "credit": "Zack Masters",
+            "creditUrl": "https://unsplash.com/@masters25"
+          }
         },
         {
           "title": "Création de jardin",
           "text": "Plantations, allées, arrosage",
           "icon": "tree",
           "slug": "metiers/jardinier-paysagiste",
-          "cta": "Voir"
+          "cta": "Voir",
+          "image": {
+            "src": "https://images.unsplash.com/photo-1734079692160-fcbe4be6ab96",
+            "alt": "Homme poussant une brouette dans un jardin",
+            "credit": "FRAEM GmbH",
+            "creditUrl": "https://unsplash.com/@fraem"
+          }
         },
         {
           "title": "Petits travaux de maçonnerie",
@@ -384,14 +540,26 @@
           "text": "Murs, grillages, portails",
           "icon": "fence",
           "slug": "metiers/macon",
-          "cta": "Voir"
+          "cta": "Voir",
+          "image": {
+            "src": "https://images.unsplash.com/photo-1601042860368-debed90085e0",
+            "alt": "Clôture de jardin en bois avec des fleurs blanches",
+            "credit": "Daniel Janzen",
+            "creditUrl": "https://unsplash.com/@paladin_community"
+          }
         },
         {
           "title": "Extension de maison",
           "text": "Agrandissement, démarches d’urbanisme",
           "icon": "building",
           "slug": "metiers/macon",
-          "cta": "Voir"
+          "cta": "Voir",
+          "image": {
+            "src": "https://images.unsplash.com/photo-1754063257992-bb9eabdbdd86",
+            "alt": "Extension moderne de plain-pied avec de grandes baies vitrées",
+            "credit": "Brett Jordan",
+            "creditUrl": "https://unsplash.com/@brett_jordan"
+          }
         },
         {
           "title": "Terrassement et drainage",
@@ -417,7 +585,7 @@
       ]
     },
     {
-      "type": "deals",
+      "type": "cards",
       "class": "svc",
       "title": "Services à la maison",
       "items": [

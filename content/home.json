@@ -93,7 +93,7 @@
       ]
     },
     {
-      "type": "deals",
+      "type": "cards",
       "class": "svc",
       "title": "Les prestations les plus demandées",
       "intro": "Les travaux pour lesquels les particuliers demandent le plus de devis.",
@@ -121,14 +121,26 @@
           "text": "Mono-split, multi-split ou gainable",
           "icon": "sun",
           "slug": "metiers/climatisation",
-          "cta": "Voir"
+          "cta": "Voir",
+          "image": {
+            "src": "https://images.unsplash.com/photo-1718203862467-c33159fdc504",
+            "alt": "Unité extérieure de climatisation sur un mur en briques",
+            "credit": "Everett Pachmann",
+            "creditUrl": "https://unsplash.com/@everettp"
+          }
         },
         {
           "title": "Entretien de jardin",
           "text": "Tonte, taille de haies, débroussaillage",
           "icon": "tree",
           "slug": "metiers/jardinier-paysagiste",
-          "cta": "Voir"
+          "cta": "Voir",
+          "image": {
+            "src": "https://images.unsplash.com/photo-1458245201577-fc8a130b8829",
+            "alt": "Tondeuse sur une pelouse verte",
+            "credit": "Daniel Watson",
+            "creditUrl": "https://unsplash.com/@danielwatsondesign"
+          }
         },
         {
           "title": "Ménage et nettoyage",
@@ -163,21 +175,39 @@
           "text": "Prises, interrupteurs, points lumineux",
           "icon": "zap",
           "slug": "metiers/electricien",
-          "cta": "Voir"
+          "cta": "Voir",
+          "image": {
+            "src": "https://images.unsplash.com/photo-1635335874521-7987db781153",
+            "alt": "Fils raccordés dans un boîtier électrique",
+            "credit": "mostafa mahmoudi",
+            "creditUrl": "https://unsplash.com/@mostafa_mahmoudi24"
+          }
         },
         {
           "title": "Élagage et abattage",
           "text": "Arbres dangereux ou envahissants",
           "icon": "tree",
           "slug": "metiers/jardinier-paysagiste",
-          "cta": "Voir"
+          "cta": "Voir",
+          "image": {
+            "src": "https://images.unsplash.com/photo-1754322449185-31f56117ed87",
+            "alt": "Arboriste coupant une branche",
+            "credit": "Zack Masters",
+            "creditUrl": "https://unsplash.com/@masters25"
+          }
         },
         {
           "title": "Réparation de fuite",
           "text": "Recherche et réparation, devis avant intervention",
           "icon": "droplet",
           "slug": "metiers/plombier",
-          "cta": "Voir"
+          "cta": "Voir",
+          "image": {
+            "src": "https://images.unsplash.com/photo-1596394723269-b2cbca4e6313",
+            "alt": "Goutte d’eau sur un tuyau en laiton",
+            "credit": "Elimende Inagella",
+            "creditUrl": "https://unsplash.com/@elimendeinagella"
+          }
         },
         {
           "title": "Pompe à chaleur",
@@ -198,7 +228,13 @@
           "text": "Remplacement, double vitrage",
           "icon": "window",
           "slug": "metiers/menuisier",
-          "cta": "Voir"
+          "cta": "Voir",
+          "image": {
+            "src": "https://images.unsplash.com/photo-1572739275114-ec3764ba1477",
+            "alt": "Fenêtre à cadre blanc",
+            "credit": "Nick Romanov",
+            "creditUrl": "https://unsplash.com/@nick_r"
+          }
         },
         {
           "title": "Salle de bain complète",
@@ -212,7 +248,205 @@
           "text": "Visite annuelle obligatoire et attestation",
           "icon": "flame",
           "slug": "metiers/chauffagiste",
-          "cta": "Voir"
+          "cta": "Voir",
+          "image": {
+            "src": "https://images.unsplash.com/photo-1607472586893-edb57bdc0e39",
+            "alt": "Tuyaux de chauffage noirs et gris",
+            "credit": "Compagnons",
+            "creditUrl": "https://unsplash.com/@sigmund"
+          }
+        }
+      ]
+    },
+    {
+      "type": "cards",
+      "class": "trades",
+      "title": "Tous nos métiers",
+      "intro": "30 corps de métier pour tous vos travaux, de la plomberie à la piscine.",
+      "more": {
+        "title": "Toutes les prestations",
+        "slug": "metiers"
+      },
+      "items": [
+        {
+          "slug": "metiers/carreleur",
+          "title": "Carreleur",
+          "text": "Pose de carrelage au sol",
+          "cta": "Voir les devis"
+        },
+        {
+          "slug": "metiers/charpentier",
+          "title": "Charpentier",
+          "text": "Création de charpente traditionnelle ou industrielle",
+          "cta": "Voir les devis"
+        },
+        {
+          "slug": "metiers/chauffagiste",
+          "title": "Chauffagiste",
+          "text": "Entretien annuel de chaudière",
+          "cta": "Voir les devis"
+        },
+        {
+          "slug": "metiers/climatisation",
+          "title": "Climatisation",
+          "text": "Conseil et dimensionnement",
+          "cta": "Voir les devis"
+        },
+        {
+          "slug": "metiers/couvreur",
+          "title": "Couvreur",
+          "text": "Recherche et réparation de fuites",
+          "cta": "Voir les devis"
+        },
+        {
+          "slug": "metiers/cuisiniste",
+          "title": "Cuisiniste",
+          "text": "Conception et plan de cuisine",
+          "cta": "Voir les devis"
+        },
+        {
+          "slug": "metiers/demenageur",
+          "title": "Déménageur",
+          "text": "Déménagement local ou longue distance",
+          "cta": "Voir les devis"
+        },
+        {
+          "slug": "metiers/diagnostiqueur",
+          "title": "Diagnostiqueur",
+          "text": "Diagnostic de performance énergétique (DPE)",
+          "cta": "Voir les devis"
+        },
+        {
+          "slug": "metiers/electricien",
+          "title": "Électricien",
+          "text": "Mise en sécurité ou mise aux normes d’une installation (norme NF C 15-100)",
+          "cta": "Voir les devis"
+        },
+        {
+          "slug": "metiers/facadier",
+          "title": "Façadier",
+          "text": "Nettoyage et démoussage de façade",
+          "cta": "Voir les devis"
+        },
+        {
+          "slug": "metiers/isolation",
+          "title": "Isolation",
+          "text": "Isolation des combles perdus (soufflage)",
+          "cta": "Voir les devis"
+        },
+        {
+          "slug": "metiers/jardinier-paysagiste",
+          "title": "Jardinier paysagiste",
+          "text": "Tonte, taille de haies et entretien régulier",
+          "cta": "Voir les devis"
+        },
+        {
+          "slug": "metiers/macon",
+          "title": "Maçon",
+          "text": "Construction de murs, murets et clôtures",
+          "cta": "Voir les devis"
+        },
+        {
+          "slug": "metiers/menuisier",
+          "title": "Menuisier",
+          "text": "Remplacement de fenêtres et portes-fenêtres",
+          "cta": "Voir les devis"
+        },
+        {
+          "slug": "metiers/nettoyage",
+          "title": "Nettoyage",
+          "text": "Ménage régulier à domicile",
+          "cta": "Voir les devis"
+        },
+        {
+          "slug": "metiers/panneaux-solaires",
+          "title": "Panneaux solaires",
+          "text": "Étude de toiture et de production",
+          "cta": "Voir les devis"
+        },
+        {
+          "slug": "metiers/parquet",
+          "title": "Parquet",
+          "text": "Pose de parquet massif ou contrecollé",
+          "cta": "Voir les devis"
+        },
+        {
+          "slug": "metiers/peintre",
+          "title": "Peintre",
+          "text": "Peinture des murs, plafonds et boiseries",
+          "cta": "Voir les devis"
+        },
+        {
+          "slug": "metiers/pisciniste",
+          "title": "Pisciniste",
+          "text": "Construction de piscine maçonnée, coque ou kit",
+          "cta": "Voir les devis"
+        },
+        {
+          "slug": "metiers/plaquiste",
+          "title": "Plaquiste",
+          "text": "Montage de cloisons en plaques de plâtre",
+          "cta": "Voir les devis"
+        },
+        {
+          "slug": "metiers/plombier",
+          "title": "Plombier",
+          "text": "Recherche et réparation de fuites",
+          "cta": "Voir les devis"
+        },
+        {
+          "slug": "metiers/poele-a-bois",
+          "title": "Poêle à bois",
+          "text": "Conseil et dimensionnement",
+          "cta": "Voir les devis"
+        },
+        {
+          "slug": "metiers/pompe-a-chaleur",
+          "title": "Pompe à chaleur",
+          "text": "Étude de dimensionnement (déperditions du logement)",
+          "cta": "Voir les devis"
+        },
+        {
+          "slug": "metiers/ramoneur",
+          "title": "Ramoneur",
+          "text": "Ramonage de cheminée, insert et poêle",
+          "cta": "Voir les devis"
+        },
+        {
+          "slug": "metiers/renovation",
+          "title": "Rénovation",
+          "text": "Rénovation complète « tous corps d’état »",
+          "cta": "Voir les devis"
+        },
+        {
+          "slug": "metiers/salle-de-bain",
+          "title": "Salle de bain",
+          "text": "Rénovation complète de salle de bain",
+          "cta": "Voir les devis"
+        },
+        {
+          "slug": "metiers/serrurier",
+          "title": "Serrurier",
+          "text": "Ouverture de porte claquée ou verrouillée",
+          "cta": "Voir les devis"
+        },
+        {
+          "slug": "metiers/terrassier",
+          "title": "Terrassier",
+          "text": "Terrassement et nivellement",
+          "cta": "Voir les devis"
+        },
+        {
+          "slug": "metiers/veranda",
+          "title": "Véranda",
+          "text": "Conception et fabrication sur mesure",
+          "cta": "Voir les devis"
+        },
+        {
+          "slug": "metiers/vitrier",
+          "title": "Vitrier",
+          "text": "Remplacement de vitre cassée",
+          "cta": "Voir les devis"
         }
       ]
     },
@@ -251,7 +485,7 @@
       ]
     },
     {
-      "type": "deals",
+      "type": "cards",
       "class": "svc tips",
       "title": "Astuces du moment",
       "intro": "Des conseils simples pour éviter les pièges et faire des économies.",

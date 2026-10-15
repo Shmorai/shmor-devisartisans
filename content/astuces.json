@@ -23,7 +23,7 @@
   },
   "blocks": [
     {
-      "type": "deals",
+      "type": "cards",
       "class": "svc tips",
       "title": "Avant de signer",
       "items": [
@@ -72,7 +72,7 @@
       ]
     },
     {
-      "type": "deals",
+      "type": "cards",
       "class": "svc tips",
       "title": "Pendant le chantier",
       "items": [
@@ -121,7 +121,7 @@
       ]
     },
     {
-      "type": "deals",
+      "type": "cards",
       "class": "svc tips",
       "title": "Économies d’énergie",
       "items": [
@@ -170,7 +170,7 @@
       ]
     },
     {
-      "type": "deals",
+      "type": "cards",
       "class": "svc tips",
       "title": "Entretien de la maison",
       "items": [
@@ -219,7 +219,7 @@
       ]
     },
     {
-      "type": "deals",
+      "type": "cards",
       "class": "svc tips",
       "title": "Urgences et sécurité",
       "items": [
@@ -268,7 +268,7 @@
       ]
     },
     {
-      "type": "deals",
+      "type": "cards",
       "class": "svc tips",
       "title": "Voisinage et règles",
       "items": [

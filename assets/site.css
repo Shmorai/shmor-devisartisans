@@ -482,3 +482,38 @@ mark.todo { background: #FBE9E2; color: #9A3412; border-radius: 4px; padding: 0 
 .blocks-strip { background: #fff; padding: 22px 0; }
 .blocks-strip .ico { color: var(--terra); }
 .blocks-strip strong { font-family: var(--display); }
+
+/* ---- v3 (2026-10-15): new logo colours + photo cards ---- */
+/* Wordmark: "Devis" bleu, "Artisans" marine (light blue / white on the dark footer) */
+.da-word { color: var(--blue); letter-spacing: -.035em; }
+.da-word b { color: var(--marine); }
+.site-footer .da-word { color: #8DB4F0; }
+.site-footer .da-word b { color: #fff; }
+.da-mark { filter: drop-shadow(0 4px 10px rgba(29,78,158,.25)); }
+
+/* Photo cards ("cards" block from tools/blocks.js): services, tips, trades */
+.blocks-cards.svc, .blocks-cards.trades { background: var(--surface-2); }
+.blocks-cards.tips { background: #fff; }
+.blocks-cards.svc + .blocks-cards.svc { padding-top: 0; }
+.pcards { display: grid; grid-template-columns: repeat(auto-fill, minmax(230px, 1fr)); gap: 18px; }
+.trades .pcards { grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); }
+.pcard { display: flex; flex-direction: column; background: #fff; border: 1px solid var(--line); border-radius: var(--radius); overflow: hidden; text-decoration: none; color: inherit; box-shadow: var(--shadow); transition: transform .2s, box-shadow .2s, border-color .2s; isolation: isolate; }
+.pcard:hover { transform: translateY(-3px); border-color: var(--blue); box-shadow: 0 2px 4px rgba(11,37,69,.06), 0 18px 40px rgba(11,37,69,.12); }
+.pcard-img { display: block; width: 100%; height: auto; aspect-ratio: 16 / 10; object-fit: cover; transition: transform .4s; }
+.pcard:hover .pcard-img { transform: scale(1.04); }
+.pcard-body { position: relative; display: flex; flex-direction: column; gap: 6px; flex: 1; padding: 30px 18px 18px; background: #fff; }
+.pcard.no-img .pcard-body { padding-top: 18px; }
+.pcard-ico { position: absolute; top: -22px; left: 16px; display: grid; place-items: center; width: 44px; height: 44px; border-radius: 50%; background: var(--blue); color: #fff; border: 3px solid #fff; box-shadow: 0 4px 12px rgba(11,37,69,.15); }
+.pcard:nth-child(3n+2) .pcard-ico { background: var(--terra); }
+.pcard-ico .ico { width: 20px; height: 20px; }
+.pcard.no-img .pcard-ico { position: static; margin-bottom: 6px; }
+.pcard h3 { font-size: 17px; letter-spacing: -.02em; margin: 0; }
+.pcard p { margin: 0; color: var(--ink-2); font-size: 14.5px; flex: 1; }
+.pcard .cta { color: var(--blue); font-size: 14px; padding-top: 6px; }
+.trades .pcard-body { padding-top: 16px; }
+.trades .pcard h3 { font-size: 16.5px; }
+@media (max-width: 520px) { .pcards, .trades .pcards { grid-template-columns: 1fr 1fr; gap: 12px; } .pcard-body { padding: 26px 12px 14px; } .pcard p { font-size: 13.5px; } .pcard h3 { font-size: 15.5px; } .pcard-ico { width: 38px; height: 38px; top: -19px; left: 12px; } }
+@media (max-width: 360px) { .pcards, .trades .pcards { grid-template-columns: 1fr; } }
+.tips .pcards { grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); }
+@media (max-width: 520px) { .tips .pcards { grid-template-columns: 1fr 1fr; } }
+@media (max-width: 360px) { .tips .pcards { grid-template-columns: 1fr; } }
