@@ -1,0 +1,89 @@
+{
+  "updated": "2026-10-15",
+  "slug": "regions/normandie",
+  "nav": "Normandie",
+  "title": "Artisans en Normandie : devis gratuits",
+  "description": "Trouvez un artisan en Normandie (Rouen, Le Havre…) : conseils locaux, règles à connaître et devis gratuits près de chez vous.",
+  "keywords": [
+    "artisan normandie",
+    "artisan rouen",
+    "artisan le havre",
+    "artisan caen",
+    "artisan cherbourg-en-cotentin",
+    "plombier rouen",
+    "plombier le havre",
+    "plombier caen"
+  ],
+  "cardText": "Rouen, Le Havre, Caen, Cherbourg-en-Cotentin… Bâti local, risques et démarches.",
+  "eyebrow": "Région",
+  "h1": "Trouver un artisan en Normandie",
+  "intro": "Plombier à Rouen, couvreur à Le Havre ou entreprise de rénovation à Caen : décrivez votre projet et comparez les devis d’artisans de Normandie.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1551257227-0ac2bb537380",
+    "alt": "Falaises et arche rocheuse au bord de la mer",
+    "credit": "Laurent Gence",
+    "creditUrl": "https://unsplash.com/@lgence"
+  },
+  "chips": [
+    {
+      "label": "Couvreur",
+      "slug": "metiers/couvreur"
+    },
+    {
+      "label": "Menuisier",
+      "slug": "metiers/menuisier"
+    },
+    {
+      "label": "Maçon",
+      "slug": "metiers/macon"
+    },
+    {
+      "label": "Isolation",
+      "slug": "metiers/isolation"
+    }
+  ],
+  "partnersTitle": "Comparez les devis d’artisans de Normandie",
+  "sections": [
+    {
+      "h2": "Les départements et villes de Normandie",
+      "html": "<p>La région Normandie regroupe les départements suivants : Calvados (14), Eure (27), Manche (50), Orne (61), Seine-Maritime (76).</p><p>Principales villes : Rouen, Le Havre, Caen, Cherbourg-en-Cotentin, Évreux, Dieppe. Où que vous soyez dans la région, décrivez votre projet en indiquant votre code postal pour être mis en relation avec des artisans qui interviennent dans votre secteur.</p>"
+    },
+    {
+      "h2": "Le bâti et les travaux typiques de Normandie",
+      "html": "<ul><li>La Normandie compte de nombreuses <strong>maisons à colombages</strong>, notamment dans le Pays d’Auge, et quelques toitures en <strong>chaume</strong>.</li><li>Le Pays de Caux associe <strong>brique et silex</strong>, tandis que le Cotentin et la Manche utilisent le granit et le schiste.</li><li>Le climat humide et venteux impose un entretien régulier des toitures, des façades et des menuiseries.</li></ul>"
+    },
+    {
+      "h2": "Risques naturels et règles locales à vérifier",
+      "html": "<p>Les cavités souterraines (marnières) sont fréquentes en Seine-Maritime et dans l’Eure, et le littoral est concerné par l’érosion et la submersion marine.</p><p>Avant des travaux importants, consultez la fiche de votre commune sur <a href=\"https://www.georisques.gouv.fr/\" rel=\"noopener\" target=\"_blank\">Géorisques</a> (inondation, argiles, sismicité, radon…) et le <strong>plan local d’urbanisme</strong> en mairie. Près d’un monument historique, les travaux extérieurs sont soumis à l’avis de l’Architecte des Bâtiments de France.</p>"
+    },
+    {
+      "h2": "Se faire conseiller gratuitement près de chez vous",
+      "html": "<p>Pour un projet de rénovation énergétique, les <strong>Espaces Conseil France Rénov’</strong> offrent des conseils neutres et gratuits ; trouvez le plus proche sur <a href=\"https://france-renov.gouv.fr/\" rel=\"noopener\" target=\"_blank\">france-renov.gouv.fr</a>. Pour les questions juridiques liées au logement (copropriété, location, urbanisme), l’<strong>ADIL</strong> de votre département peut vous renseigner.</p><p>Avant de choisir, lisez nos guides : <a href=\"/guides/verifier-un-artisan/\">vérifier un artisan</a>, <a href=\"/guides/devis-travaux/\">bien lire un devis</a> et <a href=\"/guides/aides-renovation/\">les aides à la rénovation</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Qu’est-ce qu’une marnière et pourquoi s’en soucier ?",
+      "a": "Une marnière est une ancienne cavité d’extraction de craie. Avant de construire ou d’agrandir en Seine-Maritime ou dans l’Eure, renseignez-vous en mairie et sur Géorisques sur la présence de cavités à proximité."
+    },
+    {
+      "q": "Les artisans interviennent-ils partout en Normandie ?",
+      "a": "Nos partenaires mettent en relation avec des professionnels dans toute la France métropolitaine. Le nombre de réponses peut varier selon votre commune, le type de travaux et la période."
+    },
+    {
+      "q": "Est-ce gratuit ?",
+      "a": "Oui, décrire votre projet et recevoir des devis est gratuit et sans engagement. Vous traitez ensuite directement avec l’artisan que vous choisissez."
+    }
+  ],
+  "related": [
+    "metiers/couvreur",
+    "metiers/menuisier",
+    "metiers/macon",
+    "metiers/isolation",
+    "regions/bretagne",
+    "regions/hauts-de-france",
+    "regions/ile-de-france"
+  ],
+  "relatedTitle": "Métiers et régions voisines",
+  "ctaTitle": "Votre projet en Normandie"
+}

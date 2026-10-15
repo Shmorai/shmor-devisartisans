@@ -1,15 +1,214 @@
 {
+  "updated": "2026-10-15",
   "slug": "",
-  "title": "DevisArtisans: Trouvez un artisan près de chez vous en Franc",
-  "description": "Trouvez un artisan près de chez vous en France : plombier, électricien, couvreur, peintre… Comparez des devis gratuits. Free to use, part of the Shmor.ai network.",
-  "eyebrow": "Part of the Shmor.ai network",
-  "h1": "DevisArtisans",
-  "intro": "Trouvez un artisan près de chez vous en France : plombier, électricien, couvreur, peintre… Comparez des devis gratuits.",
-  "related": [],
+  "title": "DevisArtisans : trouvez un artisan, comparez les devis",
+  "description": "Plombier, électricien, couvreur, peintre, maçon… Trouvez un artisan près de chez vous partout en France et comparez des devis gratuits, sans engagement.",
+  "keywords": [
+    "devis artisan",
+    "trouver un artisan",
+    "devis travaux gratuit",
+    "artisan près de chez moi"
+  ],
+  "eyebrow": "Partout en France métropolitaine",
+  "h1": "Trouvez le bon artisan, sans perdre de temps.",
+  "h1Html": "Trouvez le bon artisan, <span class=\"hl\">sans perdre de temps.</span>",
+  "intro": "Décrivez vos travaux une seule fois et comparez les devis gratuits d’artisans de votre secteur : plomberie, électricité, toiture, peinture, chauffage, rénovation et bien plus.",
+  "searchPlaceholder": "Quel artisan cherchez-vous ? p. ex. plombier, couvreur…",
+  "chips": [
+    {
+      "label": "Plombier",
+      "slug": "metiers/plombier"
+    },
+    {
+      "label": "Électricien",
+      "slug": "metiers/electricien"
+    },
+    {
+      "label": "Couvreur",
+      "slug": "metiers/couvreur"
+    },
+    {
+      "label": "Peintre",
+      "slug": "metiers/peintre"
+    },
+    {
+      "label": "Pompe à chaleur",
+      "slug": "metiers/pompe-a-chaleur"
+    },
+    {
+      "label": "Rénovation",
+      "slug": "metiers/renovation"
+    }
+  ],
+  "image": {
+    "src": "https://images.unsplash.com/photo-1672627170267-fca17bb54156",
+    "alt": "Maison en construction avec murs en contreplaqué et fenêtres neuves",
+    "credit": "Ernie Journeys",
+    "creditUrl": "https://unsplash.com/@erniejourneys"
+  },
+  "highlightsTitle": "Pourquoi commencer par DevisArtisans ?",
+  "highlights": [
+    {
+      "title": "Gratuit",
+      "text": "Décrire votre projet et recevoir des devis ne vous coûte rien."
+    },
+    {
+      "title": "Plusieurs devis",
+      "text": "Comparez prix, délais et approches de plusieurs artisans."
+    },
+    {
+      "title": "Sans engagement",
+      "text": "Vous choisissez librement, et traitez directement avec l’artisan."
+    },
+    {
+      "title": "Conseils locaux",
+      "text": "Bâti, risques et démarches propres à votre région."
+    }
+  ],
+  "blocks": [
+    {
+      "type": "tiles",
+      "title": "Les métiers les plus demandés",
+      "more": {
+        "title": "Tous les métiers",
+        "slug": "metiers"
+      },
+      "items": [
+        {
+          "slug": "metiers/plombier",
+          "text": "Fuites, débouchage, chauffe-eau, salle de bain"
+        },
+        {
+          "slug": "metiers/electricien",
+          "text": "Mise aux normes, tableau, prises, borne de recharge"
+        },
+        {
+          "slug": "metiers/couvreur",
+          "text": "Fuites de toit, tuiles, ardoises, gouttières"
+        },
+        {
+          "slug": "metiers/peintre",
+          "text": "Murs, plafonds, papier peint, façade"
+        },
+        {
+          "slug": "metiers/macon",
+          "text": "Murs, dalles, extension, mur porteur"
+        },
+        {
+          "slug": "metiers/chauffagiste",
+          "text": "Entretien, dépannage, chaudière, radiateurs"
+        }
+      ]
+    },
+    {
+      "type": "links",
+      "title": "Trouver un artisan dans votre région",
+      "items": [
+        {
+          "slug": "regions/auvergne-rhone-alpes",
+          "icon": "pin"
+        },
+        {
+          "slug": "regions/bourgogne-franche-comte",
+          "icon": "pin"
+        },
+        {
+          "slug": "regions/bretagne",
+          "icon": "pin"
+        },
+        {
+          "slug": "regions/centre-val-de-loire",
+          "icon": "pin"
+        },
+        {
+          "slug": "regions/corse",
+          "icon": "pin"
+        },
+        {
+          "slug": "regions/grand-est",
+          "icon": "pin"
+        },
+        {
+          "slug": "regions/hauts-de-france",
+          "icon": "pin"
+        },
+        {
+          "slug": "regions/ile-de-france",
+          "icon": "pin"
+        },
+        {
+          "slug": "regions/normandie",
+          "icon": "pin"
+        },
+        {
+          "slug": "regions/nouvelle-aquitaine",
+          "icon": "pin"
+        },
+        {
+          "slug": "regions/occitanie",
+          "icon": "pin"
+        },
+        {
+          "slug": "regions/pays-de-la-loire",
+          "icon": "pin"
+        },
+        {
+          "slug": "regions/provence-alpes-cote-d-azur",
+          "icon": "pin"
+        }
+      ]
+    },
+    {
+      "type": "steps",
+      "title": "Comment ça marche",
+      "items": [
+        {
+          "icon": "file",
+          "title": "Décrivez votre projet",
+          "text": "Métier, travaux, code postal : en quelques minutes."
+        },
+        {
+          "icon": "message",
+          "title": "Recevez des réponses",
+          "text": "Des artisans de votre secteur intéressés par votre projet vous contactent."
+        },
+        {
+          "icon": "check",
+          "title": "Choisissez librement",
+          "text": "Comparez les profils et les devis, puis décidez."
+        }
+      ]
+    }
+  ],
   "sections": [
     {
-      "h2": "Why use DevisArtisans?",
-      "html": "<p>Trouvez un artisan près de chez vous en France : plombier, électricien, couvreur, peintre… Comparez des devis gratuits.</p>"
+      "h2": "Avant de signer : les bons réflexes",
+      "html": "<ul><li><strong>Vérifiez l’entreprise</strong> (SIRET, assurance décennale, qualification RGE) : <a href=\"/guides/verifier-un-artisan/\">notre guide</a>.</li><li><strong>Comparez des devis détaillés</strong> portant sur les mêmes prestations : <a href=\"/guides/devis-travaux/\">ce que doit contenir un devis</a>.</li><li><strong>Renseignez-vous sur les aides</strong> avant de signer pour une rénovation énergétique : <a href=\"/guides/aides-renovation/\">MaPrimeRénov’, CEE, TVA réduite</a>.</li><li><strong>Signez un procès-verbal de réception</strong> à la fin du chantier : <a href=\"/guides/garanties-travaux/\">vos garanties</a>.</li></ul>"
     }
-  ]
+  ],
+  "faqs": [
+    {
+      "q": "DevisArtisans est-il gratuit ?",
+      "a": "Oui. Nos guides sont gratuits, et publier votre projet chez nos partenaires pour recevoir des devis l’est aussi."
+    },
+    {
+      "q": "Comment DevisArtisans est-il rémunéré ?",
+      "a": "Certains liens sont des liens d’affiliation : un partenaire peut nous verser une commission lorsque vous publiez un projet chez lui. Cela ne change rien au prix que vous payez."
+    },
+    {
+      "q": "Les artisans sont-ils vérifiés ?",
+      "a": "Les artisans sont des entreprises indépendantes inscrites chez nos partenaires. Nous vous recommandons de vérifier vous-même leur SIRET, leur assurance et leurs qualifications."
+    },
+    {
+      "q": "Dans quelles régions ?",
+      "a": "Dans toute la France métropolitaine, Corse comprise. Consultez la page de votre région pour des conseils adaptés."
+    }
+  ],
+  "related": [
+    "guides/verifier-un-artisan",
+    "guides/devis-travaux",
+    "guides/aides-renovation"
+  ],
+  "relatedTitle": "Nos guides",
+  "ctaTitle": "De quel artisan avez-vous besoin ?"
 }

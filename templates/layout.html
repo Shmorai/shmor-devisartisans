@@ -1,15 +1,25 @@
 <!doctype html>
-<html lang="en">
+<html lang="fr">
 <head>
 {{head}}
 </head>
-<!-- This site's own design. tools/build.js fills each double-brace placeholder: head, nav, main, footer_nav, site_name, year, body_class. -->
+<!-- DevisArtisans design. tools/build.js fills each double-brace placeholder: head, nav, main, site_name, year, body_class. The footer lists are written by hand (37 pages are too many for an automatic list). -->
 <body class="{{body_class}}">
-<a class="skip" href="#main">Skip to content</a>
+<a class="skip" href="#main">Aller au contenu</a>
 <header class="site-header">
   <div class="wrap bar">
-    <a class="brand" href="/">{{site_name}}</a>
-    <nav class="nav" data-nav aria-label="Main">{{nav}}</nav>
+    <div class="brand-wrap">
+      <a class="brand" href="/" aria-label="Accueil DevisArtisans">
+        <svg class="da-mark" viewBox="0 0 40 40" aria-hidden="true">
+          <rect width="40" height="40" rx="10" fill="#1B2A41"/>
+          <path d="M8 20.5 20 10l12 10.5" fill="none" stroke="#E2673F" stroke-width="3.6" stroke-linecap="round" stroke-linejoin="round"/>
+          <path d="m14.5 25.5 4 4 7.5-8" fill="none" stroke="#F4C27A" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round"/>
+        </svg>
+        <span class="da-word">Devis<b>Artisans</b></span>
+      </a>
+      <a class="by" href="https://shmor.ai/">par Shmor.ai</a>
+    </div>
+    <nav class="nav" data-nav aria-label="Menu principal">{{nav}}</nav>
     <button class="menu" data-menu aria-label="Menu" aria-expanded="false"><span></span><span></span><span></span></button>
   </div>
 </header>
@@ -19,21 +29,53 @@
 <footer class="site-footer">
   <div class="wrap">
     <div class="foot-cols">
-      <div><a class="brand" href="/">{{site_name}}</a><p>Part of the <a href="https://shmor.ai/">Shmor.ai</a> network. Search more. Do less.</p></div>
-      <div><h4>Guides</h4><ul>{{footer_nav}}</ul></div>
-      <div><h4>Shmor.ai</h4><ul>
-        <li><a href="https://shmor.ai/">All Shmor marketplaces</a></li>
-        <li><a href="https://shmor.ai/about/">About</a></li>
-        <li><a href="https://shmor.ai/contact/">Contact</a></li>
+      <div>
+        <a class="brand" href="/"><span class="da-word">Devis<b>Artisans</b></span></a>
+        <p>Trouvez un artisan près de chez vous et comparez des devis gratuits, partout en France métropolitaine. Un site du réseau <a href="https://shmor.ai/">Shmor.ai</a>.</p>
+      </div>
+      <div><h4>Métiers</h4><ul>
+        <li><a href="/metiers/plombier/">Plombier</a></li>
+        <li><a href="/metiers/electricien/">Électricien</a></li>
+        <li><a href="/metiers/couvreur/">Couvreur</a></li>
+        <li><a href="/metiers/peintre/">Peintre</a></li>
+        <li><a href="/metiers/macon/">Maçon</a></li>
+        <li><a href="/metiers/chauffagiste/">Chauffagiste</a></li>
+        <li><a href="/metiers/pompe-a-chaleur/">Pompe à chaleur</a></li>
+        <li><a href="/metiers/renovation/">Rénovation</a></li>
+        <li><a href="/metiers/">Tous les métiers</a></li>
       </ul></div>
-      <div><h4>Legal</h4><ul>
-        <li><a href="https://shmor.ai/privacy/">Privacy</a></li>
-        <li><a href="https://shmor.ai/cookies/">Cookies</a></li>
-        <li><a href="https://shmor.ai/terms/">Terms</a></li>
-        <li><a href="https://shmor.ai/affiliate-disclosure/">How we make money</a></li>
+      <div><h4>Régions</h4><ul class="cols-2">
+        <li><a href="/regions/auvergne-rhone-alpes/">Auvergne-Rhône-Alpes</a></li>
+        <li><a href="/regions/bourgogne-franche-comte/">Bourgogne-Franche-Comté</a></li>
+        <li><a href="/regions/bretagne/">Bretagne</a></li>
+        <li><a href="/regions/centre-val-de-loire/">Centre-Val de Loire</a></li>
+        <li><a href="/regions/corse/">Corse</a></li>
+        <li><a href="/regions/grand-est/">Grand Est</a></li>
+        <li><a href="/regions/hauts-de-france/">Hauts-de-France</a></li>
+        <li><a href="/regions/ile-de-france/">Île-de-France</a></li>
+        <li><a href="/regions/normandie/">Normandie</a></li>
+        <li><a href="/regions/nouvelle-aquitaine/">Nouvelle-Aquitaine</a></li>
+        <li><a href="/regions/occitanie/">Occitanie</a></li>
+        <li><a href="/regions/pays-de-la-loire/">Pays de la Loire</a></li>
+        <li><a href="/regions/provence-alpes-cote-d-azur/">Provence-Alpes-Côte d’Azur</a></li>
+      </ul></div>
+      <div><h4>Guides</h4><ul>
+        <li><a href="/comment-ca-marche/">Comment ça marche</a></li>
+        <li><a href="/guides/verifier-un-artisan/">Vérifier un artisan</a></li>
+        <li><a href="/guides/devis-travaux/">Lire un devis</a></li>
+        <li><a href="/guides/garanties-travaux/">Garanties des travaux</a></li>
+        <li><a href="/guides/aides-renovation/">Aides à la rénovation</a></li>
+      </ul>
+      <h4 class="h4-gap">Shmor.ai</h4><ul>
+        <li><a href="https://shmor.ai/" hreflang="en">Le réseau Shmor.ai</a></li>
+        <li><a href="https://shmor.ai/contact/" hreflang="en">Contact</a></li>
+        <li><a href="https://shmor.ai/privacy/" hreflang="en">Confidentialité</a></li>
+        <li><a href="https://shmor.ai/cookies/" hreflang="en">Cookies</a></li>
+        <li><a href="https://shmor.ai/terms/" hreflang="en">Conditions d’utilisation</a></li>
+        <li><a href="https://shmor.ai/affiliate-disclosure/" hreflang="en">Notre rémunération</a></li>
       </ul></div>
     </div>
-    <p class="disclosure">{{site_name}} is free to use. Some links are affiliate links: if you book or buy through them we may earn a commission, at no extra cost to you. Prices and availability are set by providers and can change. © {{year}} Shmor.ai</p>
+    <p class="disclosure">DevisArtisans est un service gratuit d’information et d’orientation. Nous n’employons pas d’artisans, ne réalisons pas de travaux et ne vérifions pas individuellement les professionnels : vous contractez directement avec eux. Certains liens sont des liens d’affiliation ; un partenaire peut nous verser une commission, sans surcoût pour vous. Les informations de ce site sont générales et ne constituent pas un conseil juridique ou fiscal. © {{year}} Shmor.ai</p>
   </div>
 </footer>
 <script src="/assets/site.js" defer></script>

@@ -1,0 +1,89 @@
+{
+  "updated": "2026-10-15",
+  "slug": "regions/centre-val-de-loire",
+  "nav": "Centre-Val de Loire",
+  "title": "Artisans en Centre-Val de Loire : devis gratuits",
+  "description": "Trouvez un artisan en Centre-Val de Loire (Tours, Orléans…) : conseils locaux, règles à connaître et devis gratuits près de chez vous.",
+  "keywords": [
+    "artisan centre-val de loire",
+    "artisan tours",
+    "artisan orléans",
+    "artisan bourges",
+    "artisan blois",
+    "plombier tours",
+    "plombier orléans",
+    "plombier bourges"
+  ],
+  "cardText": "Tours, Orléans, Bourges, Blois… Bâti local, risques et démarches.",
+  "eyebrow": "Région",
+  "h1": "Trouver un artisan en Centre-Val de Loire",
+  "intro": "Plombier à Tours, couvreur à Orléans ou entreprise de rénovation à Bourges : décrivez votre projet et comparez les devis d’artisans du Centre-Val de Loire.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1705591930871-68ecb786773d",
+    "alt": "Château flanqué de tours",
+    "credit": "Colin Watts",
+    "creditUrl": "https://unsplash.com/@colinwatts"
+  },
+  "chips": [
+    {
+      "label": "Maçon",
+      "slug": "metiers/macon"
+    },
+    {
+      "label": "Couvreur",
+      "slug": "metiers/couvreur"
+    },
+    {
+      "label": "Menuisier",
+      "slug": "metiers/menuisier"
+    },
+    {
+      "label": "Isolation",
+      "slug": "metiers/isolation"
+    }
+  ],
+  "partnersTitle": "Comparez les devis d’artisans du Centre-Val de Loire",
+  "sections": [
+    {
+      "h2": "Les départements et villes du Centre-Val de Loire",
+      "html": "<p>La région Centre-Val de Loire regroupe les départements suivants : Cher (18), Eure-et-Loir (28), Indre (36), Indre-et-Loire (37), Loir-et-Cher (41), Loiret (45).</p><p>Principales villes : Tours, Orléans, Bourges, Blois, Chartres, Châteauroux. Où que vous soyez dans la région, décrivez votre projet en indiquant votre code postal pour être mis en relation avec des artisans qui interviennent dans votre secteur.</p>"
+    },
+    {
+      "h2": "Le bâti et les travaux typiques du Centre-Val de Loire",
+      "html": "<ul><li>La Touraine et le Val de Loire sont connus pour le <strong>tuffeau</strong>, une pierre calcaire claire et tendre, et pour les toitures en <strong>ardoise</strong>.</li><li>Le tuffeau supporte mal les enduits et joints au ciment : un maçon formé au bâti ancien privilégiera la chaux.</li><li>Le Val de Loire est inscrit au patrimoine mondial de l’UNESCO : aux abords des monuments historiques, les travaux extérieurs sont soumis à l’avis de l’Architecte des Bâtiments de France.</li></ul>"
+    },
+    {
+      "h2": "Risques naturels et règles locales à vérifier",
+      "html": "<p>Le retrait-gonflement des argiles concerne de nombreuses communes, et les vallées de la Loire et de ses affluents sont exposées au risque d’inondation.</p><p>Avant des travaux importants, consultez la fiche de votre commune sur <a href=\"https://www.georisques.gouv.fr/\" rel=\"noopener\" target=\"_blank\">Géorisques</a> (inondation, argiles, sismicité, radon…) et le <strong>plan local d’urbanisme</strong> en mairie. Près d’un monument historique, les travaux extérieurs sont soumis à l’avis de l’Architecte des Bâtiments de France.</p>"
+    },
+    {
+      "h2": "Se faire conseiller gratuitement près de chez vous",
+      "html": "<p>Pour un projet de rénovation énergétique, les <strong>Espaces Conseil France Rénov’</strong> offrent des conseils neutres et gratuits ; trouvez le plus proche sur <a href=\"https://france-renov.gouv.fr/\" rel=\"noopener\" target=\"_blank\">france-renov.gouv.fr</a>. Pour les questions juridiques liées au logement (copropriété, location, urbanisme), l’<strong>ADIL</strong> de votre département peut vous renseigner.</p><p>Avant de choisir, lisez nos guides : <a href=\"/guides/verifier-un-artisan/\">vérifier un artisan</a>, <a href=\"/guides/devis-travaux/\">bien lire un devis</a> et <a href=\"/guides/aides-renovation/\">les aides à la rénovation</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Comment entretenir une façade en tuffeau ?",
+      "a": "Avec des matériaux compatibles : chaux, pierre de remplacement de même nature et nettoyage doux. Les mortiers de ciment emprisonnent l’humidité et abîment la pierre."
+    },
+    {
+      "q": "Les artisans interviennent-ils partout en Centre-Val de Loire ?",
+      "a": "Nos partenaires mettent en relation avec des professionnels dans toute la France métropolitaine. Le nombre de réponses peut varier selon votre commune, le type de travaux et la période."
+    },
+    {
+      "q": "Est-ce gratuit ?",
+      "a": "Oui, décrire votre projet et recevoir des devis est gratuit et sans engagement. Vous traitez ensuite directement avec l’artisan que vous choisissez."
+    }
+  ],
+  "related": [
+    "metiers/macon",
+    "metiers/couvreur",
+    "metiers/menuisier",
+    "metiers/isolation",
+    "regions/ile-de-france",
+    "regions/pays-de-la-loire",
+    "regions/nouvelle-aquitaine"
+  ],
+  "relatedTitle": "Métiers et régions voisines",
+  "ctaTitle": "Votre projet en Centre-Val de Loire"
+}

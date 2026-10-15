@@ -1,0 +1,86 @@
+{
+  "updated": "2026-10-15",
+  "slug": "metiers/menuisier",
+  "nav": "Menuisier",
+  "title": "Menuisier : fenêtres, portes et aménagements",
+  "description": "Fenêtres, portes, volets, escaliers, placards sur mesure : comparez les devis gratuits de menuisiers près de chez vous pour votre projet intérieur ou extérieur.",
+  "keywords": [
+    "menuisier",
+    "menuiserie",
+    "devis fenêtre",
+    "remplacement fenêtres",
+    "porte d’entrée",
+    "volets",
+    "placard sur mesure",
+    "escalier bois"
+  ],
+  "cardText": "Remplacement de fenêtres et portes-fenêtres · Pose de portes d’entrée et de portes intérieures · Volets battants ou roulants",
+  "eyebrow": "Menuiserie",
+  "h1": "Trouver un menuisier pour votre projet",
+  "intro": "Remplacer ses fenêtres, créer un dressing ou un escalier sur mesure : le menuisier allie technique et finition. Comparez les devis de menuisiers de votre région.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1595844730298-b960ff98fee0",
+    "alt": "Menuisier portant une ceinture à outils en cuir dans son atelier",
+    "credit": "Callum Hill",
+    "creditUrl": "https://unsplash.com/@inkyhills"
+  },
+  "searchPlaceholder": "Votre projet, p. ex. « fuite » ou « fenêtres »",
+  "highlights": [
+    {
+      "title": "Gratuit",
+      "text": "Décrire votre projet et recevoir des devis ne vous coûte rien."
+    },
+    {
+      "title": "Plusieurs devis",
+      "text": "Comparez les propositions, les délais et les prix avant de décider."
+    },
+    {
+      "title": "Sans engagement",
+      "text": "Vous choisissez librement votre artisan, ou personne."
+    }
+  ],
+  "partnersTitle": "Comparez les devis gratuits de nos partenaires",
+  "sections": [
+    {
+      "h2": "Ce que fait un menuisier",
+      "html": "<ul><li>Remplacement de fenêtres et portes-fenêtres</li><li>Pose de portes d’entrée et de portes intérieures</li><li>Volets battants ou roulants</li><li>Escaliers, placards et dressings sur mesure</li><li>Parquet et lambris</li><li>Réparation de menuiseries anciennes</li></ul>"
+    },
+    {
+      "h2": "Quand faire appel à un menuisier ?",
+      "html": "<ul><li>Vos fenêtres sont en simple vitrage ou laissent passer l’air</li><li>Vous voulez sécuriser votre porte d’entrée</li><li>Vous aménagez des combles ou un rangement</li><li>Vos volets sont abîmés</li></ul>"
+    },
+    {
+      "h2": "Les questions à poser avant de signer",
+      "html": "<p>Au moment de comparer les devis, ces questions vous aident à choisir :</p><ol><li>Pouvez-vous me transmettre votre <strong>attestation d’assurance décennale</strong> (et de responsabilité civile professionnelle) en cours de validité ?</li><li>Quel est votre numéro <strong>SIRET</strong> ?</li><li>Quelles performances thermiques (coefficient Uw) proposez-vous ?</li><li>Pose en rénovation ou dépose totale de l’ancien dormant ?</li><li>Êtes-vous RGE, pour bénéficier des aides ?</li></ol><p>Pour aller plus loin : <a href=\"/guides/verifier-un-artisan/\">comment vérifier un artisan</a>.</p>"
+    },
+    {
+      "h2": "Ce qui fait varier le prix",
+      "html": "<p>Chaque chantier est différent. Les principaux facteurs :</p><ul><li>Le matériau (bois, PVC, aluminium, mixte)</li><li>Les dimensions et le nombre d’ouvrants</li><li>Le type de vitrage</li><li>Le mode de pose et les finitions</li></ul><p>Le plus fiable pour connaître le prix de votre projet est de comparer plusieurs devis détaillés. Voir <a href=\"/guides/devis-travaux/\">ce que doit contenir un devis</a>.</p>"
+    },
+    {
+      "h2": "Règles et précautions à connaître",
+      "html": "<p>Changer l’aspect de vos fenêtres ou volets (matériau, couleur, découpage) nécessite souvent une <strong>déclaration préalable</strong>, et des règles plus strictes s’appliquent près des monuments historiques (avis de l’Architecte des Bâtiments de France). Le remplacement de fenêtres simple vitrage peut ouvrir droit à des aides si l’entreprise est <strong>RGE</strong>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Faut-il une autorisation pour changer ses fenêtres ?",
+      "a": "Un remplacement à l’identique n’en nécessite en principe pas. Si l’aspect extérieur change, une déclaration préalable est généralement requise. Votre mairie peut vous renseigner."
+    },
+    {
+      "q": "Bois, PVC ou aluminium ?",
+      "a": "Le bois offre une bonne isolation et un aspect traditionnel mais demande de l’entretien ; le PVC est économique et isolant ; l’aluminium permet des profilés fins. Le choix dépend aussi des règles locales."
+    },
+    {
+      "q": "Quelle TVA pour des fenêtres ?",
+      "a": "Pour un logement de plus de deux ans, le remplacement de fenêtres répondant à des critères de performance énergétique peut bénéficier du taux de 5,5 %. À défaut, le taux de 10 % s’applique en général aux travaux d’amélioration."
+    }
+  ],
+  "related": [
+    "metiers/isolation",
+    "metiers/serrurier",
+    "metiers/couvreur"
+  ],
+  "relatedTitle": "Métiers liés",
+  "ctaTitle": "De quel artisan avez-vous besoin ?"
+}

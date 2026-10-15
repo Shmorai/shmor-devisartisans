@@ -1,0 +1,86 @@
+{
+  "updated": "2026-10-15",
+  "slug": "metiers/macon",
+  "nav": "Maçon",
+  "title": "Maçon : devis pour vos travaux de maçonnerie",
+  "description": "Mur, dalle, extension, ouverture de mur porteur, clôture : trouvez un maçon près de chez vous et comparez des devis de maçonnerie gratuits.",
+  "keywords": [
+    "maçon",
+    "macon",
+    "maçonnerie",
+    "devis maçonnerie",
+    "extension maison",
+    "mur porteur",
+    "dalle béton",
+    "muret"
+  ],
+  "cardText": "Construction de murs, murets et clôtures · Coulage de dalles et de fondations · Extension de maison et agrandissement",
+  "eyebrow": "Maçonnerie",
+  "h1": "Trouver un maçon pour votre projet",
+  "intro": "Les travaux de maçonnerie touchent à la structure de votre maison : ils demandent un vrai savoir-faire et une assurance décennale. Comparez les devis de maçons de votre région.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1701850009190-2859ba2aeea6",
+    "alt": "Maçon posant du mortier sur un mur de briques neuf",
+    "credit": "Solømen",
+    "creditUrl": "https://unsplash.com/@solomen"
+  },
+  "searchPlaceholder": "Votre projet, p. ex. « fuite » ou « fenêtres »",
+  "highlights": [
+    {
+      "title": "Gratuit",
+      "text": "Décrire votre projet et recevoir des devis ne vous coûte rien."
+    },
+    {
+      "title": "Plusieurs devis",
+      "text": "Comparez les propositions, les délais et les prix avant de décider."
+    },
+    {
+      "title": "Sans engagement",
+      "text": "Vous choisissez librement votre artisan, ou personne."
+    }
+  ],
+  "partnersTitle": "Comparez les devis gratuits de nos partenaires",
+  "sections": [
+    {
+      "h2": "Ce que fait un maçon",
+      "html": "<ul><li>Construction de murs, murets et clôtures</li><li>Coulage de dalles et de fondations</li><li>Extension de maison et agrandissement</li><li>Ouverture ou modification d’un mur porteur</li><li>Reprise de fissures et rejointoiement</li><li>Petits travaux de maçonnerie : seuils, appuis, escaliers extérieurs</li></ul>"
+    },
+    {
+      "h2": "Quand faire appel à un maçon ?",
+      "html": "<ul><li>Vous souhaitez agrandir votre maison ou créer une ouverture</li><li>Des fissures apparaissent sur les murs</li><li>Vous construisez un garage, un abri ou une clôture</li><li>Vous aménagez une terrasse ou une allée</li></ul>"
+    },
+    {
+      "h2": "Les questions à poser avant de signer",
+      "html": "<p>Au moment de comparer les devis, ces questions vous aident à choisir :</p><ol><li>Pouvez-vous me transmettre votre <strong>attestation d’assurance décennale</strong> (et de responsabilité civile professionnelle) en cours de validité ?</li><li>Quel est votre numéro <strong>SIRET</strong> ?</li><li>Une étude de structure par un bureau d’études est-elle nécessaire ?</li><li>Qui s’occupe des démarches d’urbanisme ?</li><li>Le devis comprend-il l’évacuation des gravats ?</li></ol><p>Pour aller plus loin : <a href=\"/guides/verifier-un-artisan/\">comment vérifier un artisan</a>.</p>"
+    },
+    {
+      "h2": "Ce qui fait varier le prix",
+      "html": "<p>Chaque chantier est différent. Les principaux facteurs :</p><ul><li>La nature des travaux et les volumes de matériaux</li><li>L’accès au chantier pour les engins</li><li>La nature du sol et les fondations nécessaires</li><li>Les études préalables (structure, sol)</li></ul><p>Le plus fiable pour connaître le prix de votre projet est de comparer plusieurs devis détaillés. Voir <a href=\"/guides/devis-travaux/\">ce que doit contenir un devis</a>.</p>"
+    },
+    {
+      "h2": "Règles et précautions à connaître",
+      "html": "<p>Une extension crée de la surface de plancher : en général, une <strong>déclaration préalable</strong> suffit entre 5 et 20 m², tandis qu’un <strong>permis de construire</strong> est nécessaire au-delà (seuil porté à 40 m² en zone urbaine couverte par un plan local d’urbanisme, avec des exceptions). Le recours à un <strong>architecte</strong> est obligatoire si la surface totale après travaux dépasse 150 m². Toucher à un mur porteur exige une étude de structure.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Peut-on ouvrir un mur porteur soi-même ?",
+      "a": "C’est fortement déconseillé. L’ouverture d’un mur porteur nécessite un calcul de structure (poutre, appuis) et doit être réalisée par un professionnel assuré. En copropriété, l’accord de l’assemblée générale est requis."
+    },
+    {
+      "q": "Les fissures sont-elles graves ?",
+      "a": "Les microfissures superficielles sont fréquentes. Des fissures larges, évolutives ou en escalier peuvent signaler un problème de structure ou de sol : faites-les examiner par un professionnel."
+    },
+    {
+      "q": "Un maçon doit-il avoir une assurance décennale ?",
+      "a": "Oui. Tout constructeur doit être assuré en responsabilité décennale avant d’ouvrir le chantier et doit vous en remettre l’attestation."
+    }
+  ],
+  "related": [
+    "metiers/renovation",
+    "metiers/couvreur",
+    "metiers/jardinier-paysagiste"
+  ],
+  "relatedTitle": "Métiers liés",
+  "ctaTitle": "De quel artisan avez-vous besoin ?"
+}

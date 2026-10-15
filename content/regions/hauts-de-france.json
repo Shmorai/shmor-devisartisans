@@ -1,0 +1,89 @@
+{
+  "updated": "2026-10-15",
+  "slug": "regions/hauts-de-france",
+  "nav": "Hauts-de-France",
+  "title": "Artisans dans les Hauts-de-France : devis gratuits",
+  "description": "Trouvez un artisan dans les Hauts-de-France (Lille, Amiens…) : conseils locaux, règles à connaître et devis gratuits près de chez vous.",
+  "keywords": [
+    "artisan hauts-de-france",
+    "artisan lille",
+    "artisan amiens",
+    "artisan roubaix",
+    "artisan tourcoing",
+    "plombier lille",
+    "plombier amiens",
+    "plombier roubaix"
+  ],
+  "cardText": "Lille, Amiens, Roubaix, Tourcoing… Bâti local, risques et démarches.",
+  "eyebrow": "Région",
+  "h1": "Trouver un artisan dans les Hauts-de-France",
+  "intro": "Plombier à Lille, couvreur à Amiens ou entreprise de rénovation à Roubaix : décrivez votre projet et comparez les devis d’artisans des Hauts-de-France.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1709486815648-e34d369d7c6b",
+    "alt": "Grand bâtiment surmonté d’une tour d’horloge",
+    "credit": "philippe patin",
+    "creditUrl": "https://unsplash.com/@roidesplaines"
+  },
+  "chips": [
+    {
+      "label": "Maçon",
+      "slug": "metiers/macon"
+    },
+    {
+      "label": "Isolation",
+      "slug": "metiers/isolation"
+    },
+    {
+      "label": "Menuisier",
+      "slug": "metiers/menuisier"
+    },
+    {
+      "label": "Couvreur",
+      "slug": "metiers/couvreur"
+    }
+  ],
+  "partnersTitle": "Comparez les devis d’artisans des Hauts-de-France",
+  "sections": [
+    {
+      "h2": "Les départements et villes des Hauts-de-France",
+      "html": "<p>La région Hauts-de-France regroupe les départements suivants : Aisne (02), Nord (59), Oise (60), Pas-de-Calais (62), Somme (80).</p><p>Principales villes : Lille, Amiens, Roubaix, Tourcoing, Villeneuve-d’Ascq, Dunkerque, Calais, Beauvais. Où que vous soyez dans la région, décrivez votre projet en indiquant votre code postal pour être mis en relation avec des artisans qui interviennent dans votre secteur.</p>"
+    },
+    {
+      "h2": "Le bâti et les travaux typiques des Hauts-de-France",
+      "html": "<ul><li>La <strong>brique</strong> est le matériau emblématique de la région, des maisons de ville aux anciennes cités minières.</li><li>Le climat humide rend les questions d’<strong>humidité</strong>, de remontées capillaires et de <strong>ventilation</strong> fréquentes dans le bâti ancien.</li><li>Les maisons mitoyennes en bande se prêtent bien aux rénovations énergétiques par la toiture et les menuiseries.</li></ul>"
+    },
+    {
+      "h2": "Risques naturels et règles locales à vérifier",
+      "html": "<p>Certaines zones sont concernées par les inondations ou les cavités souterraines (anciennes carrières), à vérifier avant des travaux de fondation.</p><p>Avant des travaux importants, consultez la fiche de votre commune sur <a href=\"https://www.georisques.gouv.fr/\" rel=\"noopener\" target=\"_blank\">Géorisques</a> (inondation, argiles, sismicité, radon…) et le <strong>plan local d’urbanisme</strong> en mairie. Près d’un monument historique, les travaux extérieurs sont soumis à l’avis de l’Architecte des Bâtiments de France.</p>"
+    },
+    {
+      "h2": "Se faire conseiller gratuitement près de chez vous",
+      "html": "<p>Pour un projet de rénovation énergétique, les <strong>Espaces Conseil France Rénov’</strong> offrent des conseils neutres et gratuits ; trouvez le plus proche sur <a href=\"https://france-renov.gouv.fr/\" rel=\"noopener\" target=\"_blank\">france-renov.gouv.fr</a>. Pour les questions juridiques liées au logement (copropriété, location, urbanisme), l’<strong>ADIL</strong> de votre département peut vous renseigner.</p><p>Avant de choisir, lisez nos guides : <a href=\"/guides/verifier-un-artisan/\">vérifier un artisan</a>, <a href=\"/guides/devis-travaux/\">bien lire un devis</a> et <a href=\"/guides/aides-renovation/\">les aides à la rénovation</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Comment traiter l’humidité dans une maison en briques ?",
+      "a": "Il faut d’abord identifier la cause (remontées capillaires, infiltrations, condensation). Les solutions vont de la ventilation à la reprise des joints ou à un traitement des murs ; un diagnostic par un professionnel évite les dépenses inutiles."
+    },
+    {
+      "q": "Les artisans interviennent-ils partout dans les Hauts-de-France ?",
+      "a": "Nos partenaires mettent en relation avec des professionnels dans toute la France métropolitaine. Le nombre de réponses peut varier selon votre commune, le type de travaux et la période."
+    },
+    {
+      "q": "Est-ce gratuit ?",
+      "a": "Oui, décrire votre projet et recevoir des devis est gratuit et sans engagement. Vous traitez ensuite directement avec l’artisan que vous choisissez."
+    }
+  ],
+  "related": [
+    "metiers/macon",
+    "metiers/isolation",
+    "metiers/menuisier",
+    "metiers/couvreur",
+    "regions/normandie",
+    "regions/ile-de-france",
+    "regions/grand-est"
+  ],
+  "relatedTitle": "Métiers et régions voisines",
+  "ctaTitle": "Votre projet dans les Hauts-de-France"
+}

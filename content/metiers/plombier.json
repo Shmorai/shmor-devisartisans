@@ -1,0 +1,86 @@
+{
+  "updated": "2026-10-15",
+  "slug": "metiers/plombier",
+  "nav": "Plombier",
+  "navOrder": 2,
+  "title": "Plombier : comparez des devis gratuits | DevisArtisans",
+  "description": "Fuite, canalisation bouchée, chauffe-eau, salle de bain : trouvez un plombier près de chez vous et comparez plusieurs devis gratuits, sans engagement.",
+  "keywords": [
+    "plombier",
+    "plombier pas cher",
+    "devis plombier",
+    "plombier urgence",
+    "fuite d’eau",
+    "débouchage canalisation",
+    "chauffe-eau"
+  ],
+  "cardText": "Recherche et réparation de fuites · Débouchage de canalisations, WC et évacuations · Remplacement d’un chauffe-eau ou d’un ballon d’eau chaude",
+  "eyebrow": "Plomberie",
+  "h1": "Trouver un plombier près de chez vous",
+  "intro": "Dépannage urgent ou projet de salle de bain, un bon plombier vous fait gagner du temps et évite les mauvaises surprises. Décrivez votre besoin et comparez les devis de plombiers de votre secteur.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1676210133055-eab6ef033ce3",
+    "alt": "Plombier réparant la tuyauterie sous un évier de cuisine",
+    "credit": "Timur Shakerzianov",
+    "creditUrl": "https://unsplash.com/@shaker_jpg"
+  },
+  "searchPlaceholder": "Votre projet, p. ex. « fuite » ou « fenêtres »",
+  "highlights": [
+    {
+      "title": "Gratuit",
+      "text": "Décrire votre projet et recevoir des devis ne vous coûte rien."
+    },
+    {
+      "title": "Plusieurs devis",
+      "text": "Comparez les propositions, les délais et les prix avant de décider."
+    },
+    {
+      "title": "Sans engagement",
+      "text": "Vous choisissez librement votre artisan, ou personne."
+    }
+  ],
+  "partnersTitle": "Comparez les devis gratuits de nos partenaires",
+  "sections": [
+    {
+      "h2": "Ce que fait un plombier",
+      "html": "<ul><li>Recherche et réparation de fuites</li><li>Débouchage de canalisations, WC et évacuations</li><li>Remplacement d’un chauffe-eau ou d’un ballon d’eau chaude</li><li>Pose de robinetterie, d’éviers, de lavabos et de WC</li><li>Création ou rénovation de la plomberie d’une salle de bain ou d’une cuisine</li><li>Raccordement d’un lave-linge ou d’un lave-vaisselle</li></ul>"
+    },
+    {
+      "h2": "Quand faire appel à un plombier ?",
+      "html": "<ul><li>Une fuite apparaît : coupez d’abord l’eau au robinet d’arrêt ou au compteur, puis contactez un professionnel</li><li>Une évacuation est bouchée et les produits du commerce n’y font rien</li><li>Votre eau chaude ne fonctionne plus ou votre ballon est entartré</li><li>Vous refaites une salle de bain ou déplacez une cuisine</li></ul>"
+    },
+    {
+      "h2": "Les questions à poser avant de signer",
+      "html": "<p>Au moment de comparer les devis, ces questions vous aident à choisir :</p><ol><li>Pouvez-vous me transmettre votre <strong>attestation d’assurance décennale</strong> (et de responsabilité civile professionnelle) en cours de validité ?</li><li>Quel est votre numéro <strong>SIRET</strong> ?</li><li>Le déplacement est-il inclus dans le devis ?</li><li>Quelles pièces prévoyez-vous de remplacer, et de quelle marque ?</li><li>Sous quel délai pouvez-vous intervenir ?</li></ol><p>Pour aller plus loin : <a href=\"/guides/verifier-un-artisan/\">comment vérifier un artisan</a>.</p>"
+    },
+    {
+      "h2": "Ce qui fait varier le prix",
+      "html": "<p>Chaque chantier est différent. Les principaux facteurs :</p><ul><li>Le caractère urgent de l’intervention (nuit, week-end, jour férié)</li><li>Les frais de déplacement</li><li>L’accessibilité des canalisations (encastrées, en sous-sol…)</li><li>Le matériel fourni (gamme de robinetterie, capacité du chauffe-eau)</li></ul><p>Le plus fiable pour connaître le prix de votre projet est de comparer plusieurs devis détaillés. Voir <a href=\"/guides/devis-travaux/\">ce que doit contenir un devis</a>.</p>"
+    },
+    {
+      "h2": "Règles et précautions à connaître",
+      "html": "<p>Pour les travaux de dépannage, de réparation et d’entretien, le professionnel doit vous remettre un <strong>devis détaillé avant d’intervenir</strong> (arrêté du 24 janvier 2017). Méfiez-vous des numéros « d’urgence » glissés dans les boîtes aux lettres sous forme d’autocollants ou de faux documents officiels : la DGCCRF met régulièrement en garde contre ces pratiques. Privilégiez un plombier que vous avez choisi, et demandez le prix avant toute intervention.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Le plombier doit-il me donner un devis avant un dépannage ?",
+      "a": "Oui. Pour les prestations de dépannage, de réparation et d’entretien, un devis détaillé doit vous être remis avant le début des travaux. Il doit notamment préciser s’il est gratuit ou payant."
+    },
+    {
+      "q": "Qui paie la réparation d’une fuite dans un logement loué ?",
+      "a": "L’entretien courant et les menues réparations sont à la charge du locataire (décret n° 87-712 du 26 août 1987), tandis que les réparations liées à la vétusté ou à un défaut de l’installation relèvent du propriétaire. En cas de doute, informez votre bailleur avant d’engager des frais."
+    },
+    {
+      "q": "Que faire en attendant le plombier ?",
+      "a": "Coupez l’arrivée d’eau, coupez l’électricité si l’eau approche des prises ou appareils, et prévenez vos voisins du dessous si vous êtes en immeuble. Prenez des photos pour votre assurance habitation."
+    }
+  ],
+  "related": [
+    "metiers/chauffagiste",
+    "metiers/carreleur",
+    "metiers/renovation"
+  ],
+  "relatedTitle": "Métiers liés",
+  "ctaTitle": "De quel artisan avez-vous besoin ?"
+}

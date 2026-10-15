@@ -1,0 +1,88 @@
+{
+  "updated": "2026-10-15",
+  "slug": "regions/bretagne",
+  "nav": "Bretagne",
+  "title": "Artisans en Bretagne : devis gratuits",
+  "description": "Trouvez un artisan en Bretagne (Rennes, Brest…) : conseils locaux, règles à connaître et devis gratuits près de chez vous.",
+  "keywords": [
+    "artisan bretagne",
+    "artisan rennes",
+    "artisan brest",
+    "artisan quimper",
+    "artisan lorient",
+    "plombier rennes",
+    "plombier brest",
+    "plombier quimper"
+  ],
+  "cardText": "Rennes, Brest, Quimper, Lorient… Bâti local, risques et démarches.",
+  "eyebrow": "Région",
+  "h1": "Trouver un artisan en Bretagne",
+  "intro": "Plombier à Rennes, couvreur à Brest ou entreprise de rénovation à Quimper : décrivez votre projet et comparez les devis d’artisans de Bretagne.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1745572819054-d710f24659e7",
+    "alt": "Vue aérienne d’une ville côtière et de sa longue jetée",
+    "credit": "Thomas Dorgler",
+    "creditUrl": "https://unsplash.com/@tom_drglr"
+  },
+  "chips": [
+    {
+      "label": "Couvreur",
+      "slug": "metiers/couvreur"
+    },
+    {
+      "label": "Peintre",
+      "slug": "metiers/peintre"
+    },
+    {
+      "label": "Menuisier",
+      "slug": "metiers/menuisier"
+    },
+    {
+      "label": "Isolation",
+      "slug": "metiers/isolation"
+    }
+  ],
+  "partnersTitle": "Comparez les devis d’artisans de Bretagne",
+  "sections": [
+    {
+      "h2": "Les départements et villes de Bretagne",
+      "html": "<p>La région Bretagne regroupe les départements suivants : Côtes-d’Armor (22), Finistère (29), Ille-et-Vilaine (35), Morbihan (56).</p><p>Principales villes : Rennes, Brest, Quimper, Lorient, Vannes, Saint-Malo, Saint-Brieuc. Où que vous soyez dans la région, décrivez votre projet en indiquant votre code postal pour être mis en relation avec des artisans qui interviennent dans votre secteur.</p>"
+    },
+    {
+      "h2": "Le bâti et les travaux typiques de Bretagne",
+      "html": "<ul><li>L’<strong>ardoise</strong> domine les toitures bretonnes, et de nombreuses maisons sont bâties en <strong>granit</strong> ou en pierre locale.</li><li>Le climat océanique, humide et venteux, sollicite fortement les <strong>toitures</strong>, la <strong>zinguerie</strong> et les <strong>façades</strong> : un entretien régulier évite les infiltrations.</li><li>Les maisons anciennes en pierre sont sensibles à l’humidité : enduits à la chaux et ventilation sont souvent préférés aux matériaux étanches.</li></ul>"
+    },
+    {
+      "h2": "Risques naturels et règles locales à vérifier",
+      "html": "<p>Le sous-sol granitique explique un potentiel radon significatif dans une grande partie de la région, et le littoral est concerné par les risques de submersion marine dans certaines communes.</p><p>Avant des travaux importants, consultez la fiche de votre commune sur <a href=\"https://www.georisques.gouv.fr/\" rel=\"noopener\" target=\"_blank\">Géorisques</a> (inondation, argiles, sismicité, radon…) et le <strong>plan local d’urbanisme</strong> en mairie. Près d’un monument historique, les travaux extérieurs sont soumis à l’avis de l’Architecte des Bâtiments de France.</p>"
+    },
+    {
+      "h2": "Se faire conseiller gratuitement près de chez vous",
+      "html": "<p>Pour un projet de rénovation énergétique, les <strong>Espaces Conseil France Rénov’</strong> offrent des conseils neutres et gratuits ; trouvez le plus proche sur <a href=\"https://france-renov.gouv.fr/\" rel=\"noopener\" target=\"_blank\">france-renov.gouv.fr</a>. Pour les questions juridiques liées au logement (copropriété, location, urbanisme), l’<strong>ADIL</strong> de votre département peut vous renseigner.</p><p>Avant de choisir, lisez nos guides : <a href=\"/guides/verifier-un-artisan/\">vérifier un artisan</a>, <a href=\"/guides/devis-travaux/\">bien lire un devis</a> et <a href=\"/guides/aides-renovation/\">les aides à la rénovation</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Faut-il se préoccuper du radon en Bretagne ?",
+      "a": "De nombreuses communes bretonnes sont classées à potentiel radon significatif. Lors de travaux, une bonne ventilation et l’étanchéité des planchers bas réduisent l’exposition ; votre commune est indiquée sur Géorisques."
+    },
+    {
+      "q": "Les artisans interviennent-ils partout en Bretagne ?",
+      "a": "Nos partenaires mettent en relation avec des professionnels dans toute la France métropolitaine. Le nombre de réponses peut varier selon votre commune, le type de travaux et la période."
+    },
+    {
+      "q": "Est-ce gratuit ?",
+      "a": "Oui, décrire votre projet et recevoir des devis est gratuit et sans engagement. Vous traitez ensuite directement avec l’artisan que vous choisissez."
+    }
+  ],
+  "related": [
+    "metiers/couvreur",
+    "metiers/peintre",
+    "metiers/menuisier",
+    "metiers/isolation",
+    "regions/normandie",
+    "regions/pays-de-la-loire"
+  ],
+  "relatedTitle": "Métiers et régions voisines",
+  "ctaTitle": "Votre projet en Bretagne"
+}

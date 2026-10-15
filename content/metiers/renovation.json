@@ -1,0 +1,86 @@
+{
+  "updated": "2026-10-15",
+  "slug": "metiers/renovation",
+  "nav": "Rénovation",
+  "navOrder": 5,
+  "title": "Rénovation maison et appartement : devis gratuits",
+  "description": "Rénovation complète ou partielle de maison ou d’appartement : comparez les devis d’entreprises de rénovation et de maîtres d’œuvre près de chez vous.",
+  "keywords": [
+    "rénovation",
+    "rénovation maison",
+    "rénovation appartement",
+    "entreprise de rénovation",
+    "travaux de rénovation",
+    "maître d’œuvre",
+    "tous corps d’état"
+  ],
+  "cardText": "Rénovation complète « tous corps d’état » · Rénovation de cuisine ou de salle de bain · Redistribution des pièces",
+  "eyebrow": "Rénovation",
+  "h1": "Rénover votre maison ou votre appartement",
+  "intro": "Une rénovation réussie, c’est un bon projet, un budget réaliste et des entreprises bien coordonnées. Décrivez vos travaux et comparez les devis d’entreprises de rénovation de votre région.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1618832515490-e181c4794a45",
+    "alt": "Cuisine en travaux avec des meubles protégés par du plastique",
+    "credit": "immo RENOVATION",
+    "creditUrl": "https://unsplash.com/@immorenovation"
+  },
+  "searchPlaceholder": "Votre projet, p. ex. « fuite » ou « fenêtres »",
+  "highlights": [
+    {
+      "title": "Gratuit",
+      "text": "Décrire votre projet et recevoir des devis ne vous coûte rien."
+    },
+    {
+      "title": "Plusieurs devis",
+      "text": "Comparez les propositions, les délais et les prix avant de décider."
+    },
+    {
+      "title": "Sans engagement",
+      "text": "Vous choisissez librement votre artisan, ou personne."
+    }
+  ],
+  "partnersTitle": "Comparez les devis gratuits de nos partenaires",
+  "sections": [
+    {
+      "h2": "Ce que fait une entreprise de rénovation",
+      "html": "<ul><li>Rénovation complète « tous corps d’état »</li><li>Rénovation de cuisine ou de salle de bain</li><li>Redistribution des pièces</li><li>Rénovation énergétique globale</li><li>Coordination des artisans et suivi de chantier</li></ul>"
+    },
+    {
+      "h2": "Quand faire appel à une entreprise de rénovation ?",
+      "html": "<ul><li>Vous achetez un bien à rénover</li><li>Votre logement ne correspond plus à vos besoins</li><li>Vous voulez améliorer le confort et réduire les factures d’énergie</li><li>Vous préparez une location ou une vente</li></ul>"
+    },
+    {
+      "h2": "Les questions à poser avant de signer",
+      "html": "<p>Au moment de comparer les devis, ces questions vous aident à choisir :</p><ol><li>Pouvez-vous me transmettre votre <strong>attestation d’assurance décennale</strong> (et de responsabilité civile professionnelle) en cours de validité ?</li><li>Quel est votre numéro <strong>SIRET</strong> ?</li><li>Qui coordonne les différents corps de métier ?</li><li>Quel est le planning prévisionnel et que se passe-t-il en cas de retard ?</li><li>Comment sont échelonnés les paiements ?</li></ol><p>Pour aller plus loin : <a href=\"/guides/verifier-un-artisan/\">comment vérifier un artisan</a>.</p>"
+    },
+    {
+      "h2": "Ce qui fait varier le prix",
+      "html": "<p>Chaque chantier est différent. Les principaux facteurs :</p><ul><li>La surface et l’étendue des travaux</li><li>L’état du bâti (structure, réseaux, humidité)</li><li>Le niveau de finition</li><li>Le recours à un architecte ou maître d’œuvre</li></ul><p>Le plus fiable pour connaître le prix de votre projet est de comparer plusieurs devis détaillés. Voir <a href=\"/guides/devis-travaux/\">ce que doit contenir un devis</a>.</p>"
+    },
+    {
+      "h2": "Règles et précautions à connaître",
+      "html": "<p>Pour une rénovation lourde, faites établir un <strong>devis détaillé par lot</strong> et un planning. À la fin, la <strong>réception des travaux</strong>, idéalement par procès-verbal avec réserves éventuelles, fait démarrer les garanties légales (parfait achèvement, biennale, décennale). Pour une rénovation énergétique aidée, l’accompagnement par un <strong>Accompagnateur Rénov’</strong> est requis dans certains parcours MaPrimeRénov’.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Entreprise générale ou artisans séparés ?",
+      "a": "Une entreprise générale ou un maître d’œuvre coordonne tout, ce qui simplifie le suivi. Des artisans séparés peuvent coûter moins cher, mais la coordination vous revient."
+    },
+    {
+      "q": "Faut-il un architecte pour rénover ?",
+      "a": "Ce n’est obligatoire que dans certains cas, notamment lorsque des travaux soumis à permis de construire portent la surface totale au-delà de 150 m². Un architecte reste utile pour les projets complexes."
+    },
+    {
+      "q": "Quel acompte verser ?",
+      "a": "Il n’existe pas de montant légal unique pour les travaux. Négociez un acompte raisonnable puis des paiements à l’avancement, et conservez une partie jusqu’à la réception."
+    }
+  ],
+  "related": [
+    "metiers/macon",
+    "metiers/plaquiste",
+    "metiers/isolation"
+  ],
+  "relatedTitle": "Métiers liés",
+  "ctaTitle": "De quel artisan avez-vous besoin ?"
+}

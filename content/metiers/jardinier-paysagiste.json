@@ -1,0 +1,87 @@
+{
+  "updated": "2026-10-15",
+  "slug": "metiers/jardinier-paysagiste",
+  "nav": "Jardinier paysagiste",
+  "title": "Jardinier paysagiste : entretien et élagage",
+  "description": "Entretien de jardin, taille de haies, élagage, création d’espaces verts ou terrasse : comparez les devis de jardiniers et paysagistes près de chez vous.",
+  "keywords": [
+    "jardinier",
+    "paysagiste",
+    "jardinier paysagiste",
+    "élagage",
+    "elagage",
+    "élagueur",
+    "entretien jardin",
+    "taille de haie",
+    "débroussaillage"
+  ],
+  "cardText": "Tonte, taille de haies et entretien régulier · Élagage et abattage d’arbres · Débroussaillage",
+  "eyebrow": "Jardin et extérieur",
+  "h1": "Trouver un jardinier ou un paysagiste",
+  "intro": "Entretien régulier, élagage ou création complète : confiez votre jardin à un professionnel. Comparez les devis de jardiniers, paysagistes et élagueurs de votre secteur.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1700689807667-82630348b301",
+    "alt": "Allée de jardin en briques bordée de fleurs et d’arbres",
+    "credit": "Annie Tray-Gavin",
+    "creditUrl": "https://unsplash.com/@annietraygavin"
+  },
+  "searchPlaceholder": "Votre projet, p. ex. « fuite » ou « fenêtres »",
+  "highlights": [
+    {
+      "title": "Gratuit",
+      "text": "Décrire votre projet et recevoir des devis ne vous coûte rien."
+    },
+    {
+      "title": "Plusieurs devis",
+      "text": "Comparez les propositions, les délais et les prix avant de décider."
+    },
+    {
+      "title": "Sans engagement",
+      "text": "Vous choisissez librement votre artisan, ou personne."
+    }
+  ],
+  "partnersTitle": "Comparez les devis gratuits de nos partenaires",
+  "sections": [
+    {
+      "h2": "Ce que fait un jardinier paysagiste",
+      "html": "<ul><li>Tonte, taille de haies et entretien régulier</li><li>Élagage et abattage d’arbres</li><li>Débroussaillage</li><li>Création de jardin, plantations et engazonnement</li><li>Allées, terrasses et clôtures végétales</li><li>Arrosage automatique</li></ul>"
+    },
+    {
+      "h2": "Quand faire appel à un jardinier paysagiste ?",
+      "html": "<ul><li>Vous manquez de temps pour entretenir votre jardin</li><li>Un arbre devient dangereux ou dépasse chez le voisin</li><li>Vous habitez une zone où le débroussaillement est obligatoire</li><li>Vous voulez réaménager votre extérieur</li></ul>"
+    },
+    {
+      "h2": "Les questions à poser avant de signer",
+      "html": "<p>Au moment de comparer les devis, ces questions vous aident à choisir :</p><ol><li>Pouvez-vous me transmettre votre <strong>attestation d’assurance décennale</strong> (et de responsabilité civile professionnelle) en cours de validité ?</li><li>Quel est votre numéro <strong>SIRET</strong> ?</li><li>Évacuez-vous les déchets verts ?</li><li>Pour un élagage : êtes-vous assuré pour le travail en hauteur ?</li><li>Votre entreprise est-elle déclarée « services à la personne » (pour le crédit d’impôt) ?</li></ol><p>Pour aller plus loin : <a href=\"/guides/verifier-un-artisan/\">comment vérifier un artisan</a>.</p>"
+    },
+    {
+      "h2": "Ce qui fait varier le prix",
+      "html": "<p>Chaque chantier est différent. Les principaux facteurs :</p><ul><li>La surface du jardin et la fréquence d’entretien</li><li>La hauteur et l’accessibilité des arbres</li><li>L’évacuation des déchets verts</li><li>Les végétaux et matériaux pour une création</li></ul><p>Le plus fiable pour connaître le prix de votre projet est de comparer plusieurs devis détaillés. Voir <a href=\"/guides/devis-travaux/\">ce que doit contenir un devis</a>.</p>"
+    },
+    {
+      "h2": "Règles et précautions à connaître",
+      "html": "<p>Les <strong>petits travaux de jardinage</strong> réalisés chez vous par un prestataire de services à la personne peuvent ouvrir droit à un <strong>crédit d’impôt de 50 %</strong>, dans la limite d’un plafond annuel spécifique ; l’élagage et la création de jardin ne sont en principe pas concernés. Les plantations doivent respecter des <strong>distances</strong> avec la limite de propriété : 2 m pour les arbres dépassant 2 m de haut, 50 cm pour les autres (article 671 du Code civil), sauf règles locales. Dans les zones exposées aux feux de forêt, les <strong>obligations légales de débroussaillement</strong> s’imposent aux propriétaires.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Mon voisin peut-il m’obliger à couper mes branches ?",
+      "a": "Oui, il peut exiger que les branches qui dépassent sur son terrain soient coupées, mais il ne peut pas les couper lui-même sans votre accord. Les racines, en revanche, peuvent être coupées par lui à la limite."
+    },
+    {
+      "q": "L’entretien du jardin donne-t-il droit à un avantage fiscal ?",
+      "a": "Les petits travaux de jardinage effectués par un organisme déclaré de services à la personne ouvrent droit à un crédit d’impôt de 50 %, sous plafond. Vérifiez les conditions sur impots.gouv.fr."
+    },
+    {
+      "q": "Quand faut-il élaguer ?",
+      "a": "En général hors période de montée de sève et en dehors de la nidification des oiseaux. Un élagueur vous conseillera selon l’essence de l’arbre."
+    }
+  ],
+  "related": [
+    "metiers/macon",
+    "metiers/renovation",
+    "metiers/couvreur"
+  ],
+  "relatedTitle": "Métiers liés",
+  "ctaTitle": "De quel artisan avez-vous besoin ?"
+}

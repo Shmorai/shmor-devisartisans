@@ -1,0 +1,87 @@
+{
+  "updated": "2026-10-15",
+  "slug": "regions/corse",
+  "nav": "Corse",
+  "title": "Artisans en Corse : devis gratuits",
+  "description": "Trouvez un artisan en Corse (Ajaccio, Bastia…) : conseils locaux, règles à connaître et devis gratuits près de chez vous.",
+  "keywords": [
+    "artisan corse",
+    "artisan ajaccio",
+    "artisan bastia",
+    "artisan porto-vecchio",
+    "artisan calvi",
+    "plombier ajaccio",
+    "plombier bastia",
+    "plombier porto-vecchio"
+  ],
+  "cardText": "Ajaccio, Bastia, Porto-Vecchio, Calvi… Bâti local, risques et démarches.",
+  "eyebrow": "Région",
+  "h1": "Trouver un artisan en Corse",
+  "intro": "Plombier à Ajaccio, couvreur à Bastia ou entreprise de rénovation à Porto-Vecchio : décrivez votre projet et comparez les devis d’artisans de Corse.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1676326130253-467efac1334d",
+    "alt": "Ville perchée au bord d’une falaise au-dessus de la mer",
+    "credit": "Maksim Shutov",
+    "creditUrl": "https://unsplash.com/@maksimshutov"
+  },
+  "chips": [
+    {
+      "label": "Maçon",
+      "slug": "metiers/macon"
+    },
+    {
+      "label": "Climatisation",
+      "slug": "metiers/climatisation"
+    },
+    {
+      "label": "Jardinier paysagiste",
+      "slug": "metiers/jardinier-paysagiste"
+    },
+    {
+      "label": "Couvreur",
+      "slug": "metiers/couvreur"
+    }
+  ],
+  "partnersTitle": "Comparez les devis d’artisans de Corse",
+  "sections": [
+    {
+      "h2": "Les départements et villes de Corse",
+      "html": "<p>La région Corse regroupe les départements suivants : Corse-du-Sud (2A), Haute-Corse (2B).</p><p>Principales villes : Ajaccio, Bastia, Porto-Vecchio, Calvi, Corte. Où que vous soyez dans la région, décrivez votre projet en indiquant votre code postal pour être mis en relation avec des artisans qui interviennent dans votre secteur.</p>"
+    },
+    {
+      "h2": "Le bâti et les travaux typiques de Corse",
+      "html": "<ul><li>Les maisons traditionnelles en <strong>pierre</strong> (granit, schiste selon les secteurs) et les villages perchés imposent des chantiers souvent difficiles d’accès.</li><li>L’insularité allonge parfois les <strong>délais d’approvisionnement</strong> en matériaux : prévoyez-le dans votre planning et demandez des délais précis dans les devis.</li><li>Les étés chauds et ensoleillés rendent la <strong>climatisation</strong>, les protections solaires et l’isolation des toitures particulièrement utiles.</li></ul>"
+    },
+    {
+      "h2": "Risques naturels et règles locales à vérifier",
+      "html": "<p>La Corse est très exposée aux feux de forêt : de nombreuses zones sont soumises aux obligations légales de débroussaillement autour des habitations.</p><p>Avant des travaux importants, consultez la fiche de votre commune sur <a href=\"https://www.georisques.gouv.fr/\" rel=\"noopener\" target=\"_blank\">Géorisques</a> (inondation, argiles, sismicité, radon…) et le <strong>plan local d’urbanisme</strong> en mairie. Près d’un monument historique, les travaux extérieurs sont soumis à l’avis de l’Architecte des Bâtiments de France.</p>"
+    },
+    {
+      "h2": "Se faire conseiller gratuitement près de chez vous",
+      "html": "<p>Pour un projet de rénovation énergétique, les <strong>Espaces Conseil France Rénov’</strong> offrent des conseils neutres et gratuits ; trouvez le plus proche sur <a href=\"https://france-renov.gouv.fr/\" rel=\"noopener\" target=\"_blank\">france-renov.gouv.fr</a>. Pour les questions juridiques liées au logement (copropriété, location, urbanisme), l’<strong>ADIL</strong> de votre département peut vous renseigner.</p><p>Avant de choisir, lisez nos guides : <a href=\"/guides/verifier-un-artisan/\">vérifier un artisan</a>, <a href=\"/guides/devis-travaux/\">bien lire un devis</a> et <a href=\"/guides/aides-renovation/\">les aides à la rénovation</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Le débroussaillement est-il obligatoire en Corse ?",
+      "a": "Dans les zones exposées aux incendies, le propriétaire doit débroussailler autour de sa construction, généralement sur 50 mètres. Votre mairie ou la préfecture précise les obligations applicables."
+    },
+    {
+      "q": "Les artisans interviennent-ils partout en Corse ?",
+      "a": "Nos partenaires mettent en relation avec des professionnels dans toute la France métropolitaine. Le nombre de réponses peut varier selon votre commune, le type de travaux et la période."
+    },
+    {
+      "q": "Est-ce gratuit ?",
+      "a": "Oui, décrire votre projet et recevoir des devis est gratuit et sans engagement. Vous traitez ensuite directement avec l’artisan que vous choisissez."
+    }
+  ],
+  "related": [
+    "metiers/macon",
+    "metiers/climatisation",
+    "metiers/jardinier-paysagiste",
+    "metiers/couvreur",
+    "regions/provence-alpes-cote-d-azur"
+  ],
+  "relatedTitle": "Métiers et régions voisines",
+  "ctaTitle": "Votre projet en Corse"
+}

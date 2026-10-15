@@ -1,0 +1,30 @@
+{
+  "updated": "2026-10-15",
+  "slug": "guides",
+  "nav": "Guides",
+  "navOrder": 7,
+  "title": "Guides pratiques pour vos travaux | DevisArtisans",
+  "description": "Vérifier un artisan, lire un devis, comprendre les garanties et les aides à la rénovation : nos guides pratiques pour préparer vos travaux sereinement.",
+  "keywords": [
+    "guide travaux",
+    "conseils travaux"
+  ],
+  "cardText": "Vérifier un artisan, lire un devis, garanties et aides.",
+  "eyebrow": "Conseils",
+  "h1": "Nos guides pour réussir vos travaux",
+  "intro": "Avant de signer, prenez quelques minutes pour connaître vos droits et les bons réflexes.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1503387837-b154d5074bd2",
+    "alt": "Personne dessinant un plan de construction",
+    "credit": "Daniel McCullough",
+    "creditUrl": "https://unsplash.com/@d_mccullough"
+  },
+  "related": [
+    "guides/verifier-un-artisan",
+    "guides/devis-travaux",
+    "guides/garanties-travaux",
+    "guides/aides-renovation",
+    "comment-ca-marche"
+  ],
+  "relatedTitle": "Tous les guides"
+}

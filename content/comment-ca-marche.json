@@ -1,0 +1,76 @@
+{
+  "updated": "2026-10-15",
+  "slug": "comment-ca-marche",
+  "nav": "Comment ça marche",
+  "navOrder": 8,
+  "title": "Comment ça marche : vos devis en 3 étapes",
+  "description": "Décrivez votre projet, recevez les réponses d’artisans, choisissez librement : DevisArtisans vous aide à trouver un artisan, gratuitement.",
+  "keywords": [
+    "comment ça marche",
+    "devis en ligne"
+  ],
+  "cardText": "Décrivez votre projet, recevez des réponses, choisissez.",
+  "eyebrow": "Mode d’emploi",
+  "h1": "Comment ça marche ?",
+  "intro": "DevisArtisans vous aide à préparer votre projet et vous oriente vers des plateformes partenaires de mise en relation avec des artisans. Le service est gratuit pour vous.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1517581177682-a085bb7ffb15",
+    "alt": "Artisan sur un escabeau dans une pièce en rénovation",
+    "credit": "Milivoj Kuhar",
+    "creditUrl": "https://unsplash.com/@mimithecook"
+  },
+  "blocks": [
+    {
+      "type": "steps",
+      "title": "Trois étapes",
+      "items": [
+        {
+          "icon": "file",
+          "title": "1. Décrivez votre projet",
+          "text": "Choisissez le métier, précisez vos travaux et votre code postal. C’est gratuit."
+        },
+        {
+          "icon": "message",
+          "title": "2. Les artisans vous répondent",
+          "text": "Des professionnels disponibles dans votre secteur et intéressés par votre projet vous contactent."
+        },
+        {
+          "icon": "check",
+          "title": "3. Vous choisissez",
+          "text": "Comparez les profils, les avis et les devis, puis traitez directement avec l’artisan de votre choix, ou personne."
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Qui sommes-nous ?",
+      "html": "<p>DevisArtisans est un site d’information et d’orientation qui fait partie du réseau <a href=\"https://shmor.ai/\">Shmor.ai</a>. Nous n’employons pas d’artisans et ne réalisons pas de travaux.</p>"
+    },
+    {
+      "h2": "Comment sommes-nous rémunérés ?",
+      "html": "<p>Certains liens sont des liens d’affiliation : lorsque vous publiez un projet chez un partenaire après être passé par notre site, celui-ci peut nous verser une commission. <strong>Cela ne change rien au prix que vous payez</strong> et n’influence pas le contenu de nos guides.</p>"
+    },
+    {
+      "h2": "Nos engagements",
+      "html": "<ul><li>Des informations générales, vérifiées auprès des sources officielles et mises à jour</li><li>Aucun faux avis, aucun prix inventé</li><li>Aucune donnée personnelle collectée sur ce site pour votre projet : vous la confiez directement au partenaire de votre choix</li></ul>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Les artisans sont-ils vérifiés par DevisArtisans ?",
+      "a": "Non. Les professionnels sont des entreprises indépendantes inscrites auprès de nos partenaires, qui effectuent leurs propres contrôles. Faites toujours vos propres vérifications : <a href=\"/guides/verifier-un-artisan/\">voici comment</a>."
+    },
+    {
+      "q": "Suis-je obligé de choisir un artisan ?",
+      "a": "Non. Recevoir des devis ne vous engage à rien."
+    }
+  ],
+  "related": [
+    "metiers",
+    "regions",
+    "guides/verifier-un-artisan",
+    "guides/devis-travaux"
+  ],
+  "relatedTitle": "Pour commencer"
+}

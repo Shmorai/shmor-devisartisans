@@ -1,0 +1,85 @@
+{
+  "updated": "2026-10-15",
+  "slug": "metiers/serrurier",
+  "nav": "Serrurier",
+  "title": "Serrurier : dépannage et sécurisation de porte",
+  "description": "Porte claquée, serrure à changer, porte blindée : comparez les serruriers près de chez vous et évitez les arnaques au dépannage grâce à nos conseils.",
+  "keywords": [
+    "serrurier",
+    "serrurier urgence",
+    "porte claquée",
+    "changer serrure",
+    "porte blindée",
+    "serrure a2p",
+    "devis serrurier"
+  ],
+  "cardText": "Ouverture de porte claquée ou verrouillée · Remplacement de cylindre ou de serrure · Pose de serrure multipoints",
+  "eyebrow": "Serrurerie",
+  "h1": "Trouver un serrurier de confiance",
+  "intro": "La serrurerie d’urgence est l’un des secteurs les plus touchés par les arnaques. Quand c’est possible, comparez avant d’appeler, et exigez toujours un devis avant l’intervention.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1664797523026-f6e277258f0c",
+    "alt": "Couloir avec une porte intérieure et des fenêtres",
+    "credit": "Peter Herrmann",
+    "creditUrl": "https://unsplash.com/@tama66"
+  },
+  "searchPlaceholder": "Votre projet, p. ex. « fuite » ou « fenêtres »",
+  "highlights": [
+    {
+      "title": "Gratuit",
+      "text": "Décrire votre projet et recevoir des devis ne vous coûte rien."
+    },
+    {
+      "title": "Plusieurs devis",
+      "text": "Comparez les propositions, les délais et les prix avant de décider."
+    },
+    {
+      "title": "Sans engagement",
+      "text": "Vous choisissez librement votre artisan, ou personne."
+    }
+  ],
+  "partnersTitle": "Comparez les devis gratuits de nos partenaires",
+  "sections": [
+    {
+      "h2": "Ce que fait un serrurier",
+      "html": "<ul><li>Ouverture de porte claquée ou verrouillée</li><li>Remplacement de cylindre ou de serrure</li><li>Pose de serrure multipoints</li><li>Blindage de porte et porte blindée</li><li>Réparation après effraction</li><li>Pose de verrous et de systèmes de contrôle d’accès</li></ul>"
+    },
+    {
+      "h2": "Quand faire appel à un serrurier ?",
+      "html": "<ul><li>Vous êtes bloqué à l’extérieur</li><li>Vous avez perdu vos clés ou emménagez dans un nouveau logement</li><li>Vous avez subi une tentative d’effraction</li><li>Vous voulez renforcer la sécurité de votre porte</li></ul>"
+    },
+    {
+      "h2": "Les questions à poser avant de signer",
+      "html": "<p>Au moment de comparer les devis, ces questions vous aident à choisir :</p><ol><li>Pouvez-vous me transmettre votre <strong>attestation d’assurance décennale</strong> (et de responsabilité civile professionnelle) en cours de validité ?</li><li>Quel est votre numéro <strong>SIRET</strong> ?</li><li>Quel est le prix total, déplacement compris, avant de vous déplacer ?</li><li>Une porte claquée peut-elle être ouverte sans détruire la serrure ?</li><li>La serrure proposée est-elle certifiée A2P ?</li></ol><p>Pour aller plus loin : <a href=\"/guides/verifier-un-artisan/\">comment vérifier un artisan</a>.</p>"
+    },
+    {
+      "h2": "Ce qui fait varier le prix",
+      "html": "<p>Chaque chantier est différent. Les principaux facteurs :</p><ul><li>Porte claquée ou fermée à clé</li><li>Le type de serrure (simple, multipoints, haute sécurité)</li><li>L’horaire de l’intervention</li><li>Le niveau de certification de la serrure</li></ul><p>Le plus fiable pour connaître le prix de votre projet est de comparer plusieurs devis détaillés. Voir <a href=\"/guides/devis-travaux/\">ce que doit contenir un devis</a>.</p>"
+    },
+    {
+      "h2": "Règles et précautions à connaître",
+      "html": "<p>Un <strong>devis détaillé</strong> doit vous être remis avant toute intervention de dépannage. Ne vous fiez pas aux premiers résultats de recherche ni aux autocollants dans les halls d’immeuble : notez dès maintenant le contact d’un serrurier choisi à l’avance. Pour les serrures, la certification <strong>A2P</strong> (1 à 3 étoiles) indique un niveau de résistance à l’effraction ; certains assureurs l’exigent.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Comment éviter une arnaque au serrurier ?",
+      "a": "Demandez le prix total au téléphone, exigez un devis écrit avant l’intervention, refusez de signer un document vierge et méfiez-vous d’un remplacement de serrure « obligatoire » pour une porte simplement claquée."
+    },
+    {
+      "q": "Mon assurance prend-elle en charge le serrurier ?",
+      "a": "Certaines assurances habitation ou cartes bancaires incluent une assistance dépannage. Vérifiez votre contrat avant d’appeler un serrurier vous-même."
+    },
+    {
+      "q": "Que signifie A2P ?",
+      "a": "C’est une certification délivrée par le CNPP qui classe les serrures et blocs-portes selon leur résistance à l’effraction, de 1 à 3 étoiles."
+    }
+  ],
+  "related": [
+    "metiers/menuisier",
+    "metiers/electricien",
+    "metiers/renovation"
+  ],
+  "relatedTitle": "Métiers liés",
+  "ctaTitle": "De quel artisan avez-vous besoin ?"
+}

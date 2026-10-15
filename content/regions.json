@@ -1,0 +1,47 @@
+{
+  "updated": "2026-10-15",
+  "slug": "regions",
+  "nav": "Régions",
+  "navOrder": 6,
+  "title": "Trouver un artisan dans votre région",
+  "description": "Artisans dans les 13 régions de France métropolitaine : bâti local, risques naturels, règles d’urbanisme et devis gratuits près de chez vous.",
+  "keywords": [
+    "artisan région",
+    "artisan près de chez moi",
+    "artisan local",
+    "trouver un artisan dans ma ville"
+  ],
+  "cardText": "Les 13 régions de France métropolitaine, de la Bretagne à la Corse.",
+  "eyebrow": "France métropolitaine",
+  "h1": "Trouver un artisan dans votre région",
+  "intro": "Chaque région a son bâti, ses matériaux et ses risques naturels. Choisissez la vôtre pour des conseils adaptés avant de comparer les devis d’artisans locaux.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1598603396168-4d3efd660a42",
+    "alt": "Maison en briques entourée d’arbres",
+    "credit": "Aurélia Dubois",
+    "creditUrl": "https://unsplash.com/@aureliaduboisphotographie"
+  },
+  "sections": [
+    {
+      "h2": "Pourquoi le lieu compte pour vos travaux",
+      "html": "<ul><li><strong>Matériaux et savoir-faire :</strong> ardoise en Bretagne, tuile canal dans le Sud, colombages en Alsace et en Normandie, brique dans le Nord…</li><li><strong>Risques naturels :</strong> argiles, inondations, séismes, radon ou feux de forêt, consultables commune par commune sur <a href=\"https://www.georisques.gouv.fr/\" rel=\"noopener\" target=\"_blank\">Géorisques</a>.</li><li><strong>Règles locales :</strong> plan local d’urbanisme, secteurs protégés, obligations de ravalement ou de débroussaillement.</li></ul>"
+    }
+  ],
+  "related": [
+    "regions/auvergne-rhone-alpes",
+    "regions/bourgogne-franche-comte",
+    "regions/bretagne",
+    "regions/centre-val-de-loire",
+    "regions/corse",
+    "regions/grand-est",
+    "regions/hauts-de-france",
+    "regions/ile-de-france",
+    "regions/normandie",
+    "regions/nouvelle-aquitaine",
+    "regions/occitanie",
+    "regions/pays-de-la-loire",
+    "regions/provence-alpes-cote-d-azur"
+  ],
+  "relatedTitle": "Les 13 régions",
+  "ctaTitle": "Où se trouve votre projet ?"
+}

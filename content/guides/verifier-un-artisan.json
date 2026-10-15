@@ -1,0 +1,56 @@
+{
+  "updated": "2026-10-15",
+  "slug": "guides/verifier-un-artisan",
+  "nav": "Vérifier un artisan",
+  "title": "Comment vérifier un artisan avant de signer",
+  "description": "SIRET, assurance décennale, qualification RGE, avis : les vérifications simples à faire avant de confier vos travaux à un artisan, avec les sites officiels.",
+  "keywords": [
+    "vérifier un artisan"
+  ],
+  "cardText": "Quelques minutes de vérification évitent la plupart des mauvaises surprises. Voici les contrôles à faire avant de signer un devis, avec les sources officielles.",
+  "eyebrow": "Guide",
+  "h1": "Comment vérifier un artisan avant de signer",
+  "intro": "Quelques minutes de vérification évitent la plupart des mauvaises surprises. Voici les contrôles à faire avant de signer un devis, avec les sources officielles.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1681505531034-8d67054e07f6",
+    "alt": "Deux personnes se serrant la main au-dessus d’un document",
+    "credit": "Amina Atar",
+    "creditUrl": "https://unsplash.com/@minaslens"
+  },
+  "sections": [
+    {
+      "h2": "Vérifiez que l’entreprise existe",
+      "html": "<p>Recherchez le nom ou le numéro <strong>SIRET</strong> de l’entreprise sur l’<a href=\"https://annuaire-entreprises.data.gouv.fr/\" rel=\"noopener\" target=\"_blank\">Annuaire des entreprises</a> (service public gratuit). Vous y verrez si elle est active, son activité déclarée, son adresse et sa date de création.</p>"
+    },
+    {
+      "h2": "Demandez l’attestation d’assurance décennale",
+      "html": "<p>Tout constructeur doit souscrire une <strong>assurance de responsabilité décennale</strong> avant l’ouverture du chantier et vous en remettre l’attestation ; elle doit aussi être jointe aux devis et factures. Vérifiez que l’<strong>activité couverte</strong> correspond bien à vos travaux et que l’attestation est valable à la date du chantier.</p>"
+    },
+    {
+      "h2": "Contrôlez les qualifications",
+      "html": "<ul><li><strong>RGE</strong> (Reconnu garant de l’environnement) : indispensable pour les aides à la rénovation énergétique ; vérifiable dans l’<a href=\"https://france-renov.gouv.fr/annuaires-professionnels/artisan-rge-architecte\" rel=\"noopener\" target=\"_blank\">annuaire France Rénov’</a>.</li><li>Qualifications métiers délivrées par des organismes comme Qualibat, Qualifelec ou Qualit’EnR.</li><li>IRVE pour les bornes de recharge, attestation de capacité pour les fluides frigorigènes (climatisation, pompes à chaleur).</li></ul>"
+    },
+    {
+      "h2": "Repérez les signaux d’alerte",
+      "html": "<ul><li>Démarchage non sollicité, surtout par téléphone pour la rénovation énergétique (interdit depuis 2020)</li><li>Pression pour signer immédiatement ou pour payer en espèces</li><li>Acompte très élevé avant le début des travaux</li><li>Devis flou, sans détail des quantités et des prix unitaires</li><li>Absence d’adresse fixe ou de numéro SIRET</li></ul>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Un artisan peut-il travailler sans assurance décennale ?",
+      "a": "Non pour les travaux qui relèvent de la garantie décennale. Le défaut d’assurance est puni par la loi. Exigez l’attestation avant le début du chantier."
+    },
+    {
+      "q": "Les avis en ligne suffisent-ils ?",
+      "a": "Ils sont utiles mais ne remplacent pas les vérifications officielles (SIRET, assurance, qualifications). Demandez aussi des photos ou références de chantiers similaires."
+    }
+  ],
+  "related": [
+    "guides/devis-travaux",
+    "guides/garanties-travaux",
+    "guides/aides-renovation",
+    "comment-ca-marche"
+  ],
+  "relatedTitle": "Nos autres guides",
+  "ctaTitle": "Prêt à comparer les devis ?"
+}

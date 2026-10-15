@@ -1,0 +1,87 @@
+{
+  "updated": "2026-10-15",
+  "slug": "metiers/couvreur",
+  "nav": "Couvreur",
+  "navOrder": 4,
+  "title": "Couvreur : réparation et rénovation de toiture",
+  "description": "Fuite de toit, tuiles ou ardoises cassées, gouttières, démoussage ou rénovation complète : comparez les devis gratuits de couvreurs près de chez vous.",
+  "keywords": [
+    "couvreur",
+    "toiture",
+    "devis toiture",
+    "réparation toiture",
+    "fuite toit",
+    "démoussage toiture",
+    "zinguerie",
+    "gouttière"
+  ],
+  "cardText": "Recherche et réparation de fuites · Remplacement de tuiles ou d’ardoises cassées · Zinguerie : gouttières, chéneaux, noues, solins",
+  "eyebrow": "Couverture et toiture",
+  "h1": "Trouver un couvreur pour votre toiture",
+  "intro": "La toiture protège toute la maison : une petite infiltration négligée peut vite devenir coûteuse. Comparez les devis de couvreurs de votre région pour réparer, entretenir ou refaire votre toit.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1726589004565-bedfba94d3a2",
+    "alt": "Couvreur travaillant sur un toit en pente",
+    "credit": "Christer Lässman",
+    "creditUrl": "https://unsplash.com/@lassman"
+  },
+  "searchPlaceholder": "Votre projet, p. ex. « fuite » ou « fenêtres »",
+  "highlights": [
+    {
+      "title": "Gratuit",
+      "text": "Décrire votre projet et recevoir des devis ne vous coûte rien."
+    },
+    {
+      "title": "Plusieurs devis",
+      "text": "Comparez les propositions, les délais et les prix avant de décider."
+    },
+    {
+      "title": "Sans engagement",
+      "text": "Vous choisissez librement votre artisan, ou personne."
+    }
+  ],
+  "partnersTitle": "Comparez les devis gratuits de nos partenaires",
+  "sections": [
+    {
+      "h2": "Ce que fait un couvreur",
+      "html": "<ul><li>Recherche et réparation de fuites</li><li>Remplacement de tuiles ou d’ardoises cassées</li><li>Zinguerie : gouttières, chéneaux, noues, solins</li><li>Nettoyage et traitement de la toiture</li><li>Pose de fenêtres de toit</li><li>Réfection complète de la couverture, souvent avec isolation</li></ul>"
+    },
+    {
+      "h2": "Quand faire appel à un couvreur ?",
+      "html": "<ul><li>Des traces d’humidité apparaissent au plafond ou dans les combles</li><li>Des tuiles ont bougé après un coup de vent ou un orage</li><li>Les gouttières débordent ou fuient</li><li>La couverture est ancienne et vous envisagez d’isoler par l’extérieur</li></ul>"
+    },
+    {
+      "h2": "Les questions à poser avant de signer",
+      "html": "<p>Au moment de comparer les devis, ces questions vous aident à choisir :</p><ol><li>Pouvez-vous me transmettre votre <strong>attestation d’assurance décennale</strong> (et de responsabilité civile professionnelle) en cours de validité ?</li><li>Quel est votre numéro <strong>SIRET</strong> ?</li><li>Allez-vous monter sur le toit pour établir le devis ?</li><li>Comment sécurisez-vous le chantier (échafaudage, protections) ?</li><li>Le remplacement des liteaux ou de l’écran sous toiture est-il prévu ?</li></ol><p>Pour aller plus loin : <a href=\"/guides/verifier-un-artisan/\">comment vérifier un artisan</a>.</p>"
+    },
+    {
+      "h2": "Ce qui fait varier le prix",
+      "html": "<p>Chaque chantier est différent. Les principaux facteurs :</p><ul><li>La surface et la pente du toit</li><li>Le matériau (tuile terre cuite, ardoise naturelle, zinc, bac acier…)</li><li>L’accès et l’échafaudage nécessaires</li><li>L’état de la charpente et des éléments sous la couverture</li></ul><p>Le plus fiable pour connaître le prix de votre projet est de comparer plusieurs devis détaillés. Voir <a href=\"/guides/devis-travaux/\">ce que doit contenir un devis</a>.</p>"
+    },
+    {
+      "h2": "Règles et précautions à connaître",
+      "html": "<p>Changer de matériau ou de couleur de couverture modifie l’aspect extérieur : une <strong>déclaration préalable de travaux</strong> en mairie est alors généralement nécessaire, et le plan local d’urbanisme peut imposer certains matériaux. Méfiez-vous du <strong>démarchage à domicile</strong> pour des « démoussages » ou réparations urgentes : en cas de contrat signé chez vous, vous disposez d’un délai de rétractation de 14 jours.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Faut-il une autorisation pour refaire sa toiture ?",
+      "a": "Une réfection à l’identique ne nécessite en principe pas d’autorisation. Si vous changez de matériau, de couleur ou ajoutez des fenêtres de toit, une déclaration préalable est généralement requise. Renseignez-vous auprès de votre mairie."
+    },
+    {
+      "q": "Les travaux de toiture sont-ils couverts par la garantie décennale ?",
+      "a": "Oui, les travaux qui touchent à l’étanchéité et à la solidité de l’ouvrage relèvent de la garantie décennale. Demandez l’attestation d’assurance avant le début du chantier."
+    },
+    {
+      "q": "À quelle fréquence entretenir sa toiture ?",
+      "a": "Une inspection régulière, notamment après les tempêtes, et un nettoyage des gouttières chaque automne limitent les risques d’infiltration. La fréquence d’un nettoyage complet dépend du matériau et de l’exposition."
+    }
+  ],
+  "related": [
+    "metiers/isolation",
+    "metiers/menuisier",
+    "metiers/macon"
+  ],
+  "relatedTitle": "Métiers liés",
+  "ctaTitle": "De quel artisan avez-vous besoin ?"
+}

@@ -1,0 +1,54 @@
+{
+  "updated": "2026-10-15",
+  "slug": "metiers",
+  "nav": "Tous les métiers",
+  "navOrder": 1,
+  "title": "Tous les métiers du bâtiment et de la maison",
+  "description": "Plombier, électricien, couvreur, peintre, maçon, chauffagiste, menuisier… Trouvez le bon artisan pour vos travaux et comparez des devis gratuits en France.",
+  "keywords": [
+    "artisans",
+    "métiers du bâtiment",
+    "trouver un artisan",
+    "artisan près de chez moi",
+    "devis artisan"
+  ],
+  "cardText": "Plomberie, électricité, toiture, peinture, maçonnerie, chauffage, menuiserie et plus encore.",
+  "eyebrow": "Annuaire des métiers",
+  "h1": "Quel artisan pour vos travaux ?",
+  "intro": "Choisissez le métier qui correspond à votre projet pour connaître les bonnes questions à poser, les règles à respecter et ce qui fait varier le prix. Puis comparez des devis gratuits.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1426927308491-6380b6a9936f",
+    "alt": "Outils à main rangés sur un mur d’atelier",
+    "credit": "Barn Images",
+    "creditUrl": "https://unsplash.com/@barnimages"
+  },
+  "sections": [
+    {
+      "h2": "Les métiers par type de travaux",
+      "html": "<ul><li><strong>Eau et énergie :</strong> <a href=\"/metiers/plombier/\">plombier</a>, <a href=\"/metiers/electricien/\">électricien</a>, <a href=\"/metiers/chauffagiste/\">chauffagiste</a>, <a href=\"/metiers/pompe-a-chaleur/\">pompe à chaleur</a>, <a href=\"/metiers/climatisation/\">climatisation</a>.</li><li><strong>Gros œuvre et enveloppe :</strong> <a href=\"/metiers/macon/\">maçon</a>, <a href=\"/metiers/couvreur/\">couvreur</a>, <a href=\"/metiers/isolation/\">isolation</a>.</li><li><strong>Second œuvre et finitions :</strong> <a href=\"/metiers/menuisier/\">menuisier</a>, <a href=\"/metiers/plaquiste/\">plaquiste</a>, <a href=\"/metiers/carreleur/\">carreleur</a>, <a href=\"/metiers/peintre/\">peintre</a>.</li><li><strong>Extérieur et sécurité :</strong> <a href=\"/metiers/jardinier-paysagiste/\">jardinier paysagiste</a>, <a href=\"/metiers/serrurier/\">serrurier</a>.</li><li><strong>Projet complet :</strong> <a href=\"/metiers/renovation/\">entreprise de rénovation</a>.</li></ul>"
+    },
+    {
+      "h2": "Vous ne savez pas à qui vous adresser ?",
+      "html": "<ul><li><strong>Une tache au plafond ?</strong> Sous la toiture, appelez un <a href=\"/metiers/couvreur/\">couvreur</a> ; sous une salle de bain, un <a href=\"/metiers/plombier/\">plombier</a>.</li><li><strong>Une maison froide ?</strong> Commencez par l’<a href=\"/metiers/isolation/\">isolation</a> avant de changer de <a href=\"/metiers/chauffagiste/\">chauffage</a>.</li><li><strong>Plusieurs métiers à coordonner ?</strong> Une <a href=\"/metiers/renovation/\">entreprise de rénovation</a> ou un maître d’œuvre peut tout prendre en charge.</li></ul>"
+    }
+  ],
+  "related": [
+    "metiers/plombier",
+    "metiers/electricien",
+    "metiers/couvreur",
+    "metiers/peintre",
+    "metiers/macon",
+    "metiers/chauffagiste",
+    "metiers/pompe-a-chaleur",
+    "metiers/climatisation",
+    "metiers/menuisier",
+    "metiers/carreleur",
+    "metiers/plaquiste",
+    "metiers/jardinier-paysagiste",
+    "metiers/serrurier",
+    "metiers/renovation",
+    "metiers/isolation"
+  ],
+  "relatedTitle": "Tous les métiers",
+  "ctaTitle": "De quel artisan avez-vous besoin ?"
+}
