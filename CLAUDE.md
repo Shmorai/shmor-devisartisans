@@ -5,7 +5,7 @@ A Shmor marketplace (shared rules in `../../CLAUDE.md`): its own brand, design a
 ## Language
 - **Everything is in French**, including meta, breadcrumbs ("Accueil"), FAQs, 404 and search. `shmor-site.json` → `seo.locale: "fr"` switches the site kit's built-in French word pack (kit `tools/build.js` → `WORDS.fr`; any word can be overridden with `seo.strings`). `ogLocale: "fr_FR"`, `<html lang="fr">`.
 - Write in French with "vous", French typography (no-break space before `: ? !`, « guillemets », ’ apostrophes) and French terms (devis, SIRET, décennale, RGE, MaPrimeRénov’). The US/UK/EU wording rule in `../../CLAUDE.md` does not apply here.
-- Footer legal links point to shmor.ai's English pages. Before launch, consider French "Mentions légales" / "Politique de confidentialité" pages (French law requires mentions légales: publisher identity, host).
+- Legal pages are French and on this site (see "Legal pages" below); the footer's "À propos" column links to them.
 
 ## Where things are
 | What | Where |
@@ -16,15 +16,23 @@ A Shmor marketplace (shared rules in `../../CLAUDE.md`): its own brand, design a
 | Design: styles | `assets/site.css` (kit defaults at the top; **DevisArtisans theme** block at the bottom) |
 | Generated output (don't edit by hand) | `index.html`, `*/index.html`, `sitemap.xml`, `robots.txt`, `404.html`, `search/`, `search-index.json` |
 
-## Pages (77)
+## Pages (80)
 - Home · `comment-ca-marche` · `metiers` hub · `regions` hub · `guides` hub · `blog` index.
 - **30 trades** `metiers/<slug>` (the most-requested categories on Travaux.com): plombier, electricien, couvreur, peintre, macon, chauffagiste, pompe-a-chaleur, climatisation, menuisier, carreleur, plaquiste, jardinier-paysagiste, serrurier, renovation, isolation, charpentier, facadier, cuisiniste, salle-de-bain, pisciniste, vitrier, terrassier, ramoneur, nettoyage, demenageur, diagnostiqueur, panneaux-solaires, poele-a-bois, parquet, veranda. Each covers: ce que fait…, quand faire appel…, questions à poser, ce qui fait varier le prix, règles et précautions, plus FAQs.
 - **Service cards**: 53 popular "prestations" (from Travaux.com's activity list) as icon cards (`deals` blocks with class `svc`), grouped into 8 categories on the `metiers` hub. The 16 most requested are also on the homepage. Each card links to its trade page.
 - **13 regions** `regions/<slug>`: every region of mainland France, Corsica included (Travaux.com covers mainland France; no DROM). Each lists its departments with numbers and its main cities, then covers local building styles and materials, natural risks (linked to Géorisques), France Rénov’/ADIL advice and a region-specific FAQ.
 - **4 guides** `guides/<slug>`: verifier-un-artisan, devis-travaux, garanties-travaux, aides-renovation.
 - **Blog**: 24 posts `blog/<slug>` (about 280–500 words each, with sources), dated every 9–10 days from 2026-03-03 to 2026-10-10 at the user's request ("backdated"). Content is evergreen, so the facts don't depend on the date shown. Homepage shows the 3 latest. RSS at `/blog/feed.xml`.
+- **3 legal pages**: `mentions-legales`, `confidentialite`, `cookies` (see below).
 - Top menu: Métiers, Régions, Guides, Blog, Comment ça marche + "Demander un devis" pill (written in `layout.html`, links to /metiers/ until a referral link exists).
 - **French typography**: content strings use a no-break space before `? ! : ;` and inside « ». Keep doing this when editing content, or the "?" can wrap onto its own line.
+
+## Legal pages (French law / CNIL)
+- `content/mentions-legales.json` (LCEN: éditeur, directeur de la publication, hébergeur GitHub Pages, contact, activité, responsabilité, propriété intellectuelle; it also stands in for "conditions d'utilisation"), `content/confidentialite.json` (RGPD art. 13: responsable, données, bases légales, destinataires, transferts DPF/CCT, durées, droits incl. directives post-mortem, CNIL complaint), `content/cookies.json` (site sets **no** cookies or storage, so no banner).
+- **Placeholders** are `<mark class="todo">[À compléter : …]</mark>` (styled in `site.css`): company name, legal form and capital, registration number, registered office, TVA number, phone, directeur de la publication, GitHub's phone number, the email provider, and the EU representative (RGPD art. 27, needed if the company is outside the EU, e.g. a UK company). Fill them **only with details the user gives**; master `../../shmor-ai/assets/js/config.js` → `SITE.company` is still unfilled. Remove the marks before launch.
+- Contact emails used: hello@shmor.ai, privacy@shmor.ai (from master `SITE.emails`); make sure these mailboxes exist.
+- What the privacy/cookie pages say must stay true: no cookies, no localStorage, no analytics, no forms; IPs go to GitHub (host), Google Fonts and Unsplash (images). If any of that changes (a form, self-hosted fonts, analytics), update both pages.
+- **If analytics or any consent-based tracker is ever added**: follow CNIL rules: nothing loads before consent; "Tout refuser" as easy and visible as "Tout accepter" (same level, same look); browsing on ≠ consent; choice kept 6 months; a "Gérer mes cookies" footer link to change it at any time; list each cookie (name, émetteur, finalité, durée ≤ 13 months) on `/cookies/`. Rewrite the cookies page's "Si nous ajoutons…" section into the real list.
 
 ## Facts and sources (keep content genuine)
 Checked 2026-10-15: devis obligatoire avant dépannage/réparation/entretien (arrêté du 24 janvier 2017, in force since 1 April 2017, 150 € threshold removed); décennale (service-public.gouv.fr F2034: insurance before the site opens, certificate attached to devis and factures); parfait achèvement 1 an / biennale 2 ans / décennale 10 ans (Code civil 1792-6, 1792-3, 1792); TVA 5,5 % rénovation énergétique / 10 % amélioration (logement > 2 ans); démarchage téléphonique rénovation énergétique interdit depuis 2020; entretien chaudière annuel (4–400 kW), PAC tous les 2 ans (4–70 kW); Consuel; IRVE > 3,7 kW; A2P; art. 671 Code civil.
@@ -55,5 +63,7 @@ None yet. **Travaux.com** runs an affiliate programme ("Devenez affilié", trava
 - 2026-10-15 (same day): the user asked for a lot more work: a redesign that looks more professionally French using cjaffiliates.com (= cj.com) as the design guide, at least 20 backdated blog posts, and many more service cards for Travaux.com's most popular services. Result: design v2, 15 more trades (30 in total), 53 service cards and 24 dated posts. The new kit icons were copied to every site.
 - Honesty rules: footer and FAQs say DevisArtisans is an information and referral service that doesn't employ or vet artisans and may earn commissions. General information only, not legal or tax advice.
 
+- 2026-10-15: French legal pages added (mentions légales, confidentialité, cookies) and the footer now links to them instead of shmor.ai's English pages; Contact → `/mentions-legales/#contact`, "Notre rémunération" → `/comment-ca-marche/`.
+
 ## Ideas / next
-Travaux.com affiliate link · French legal pages (mentions légales, confidentialité, cookies with CNIL-compliant consent) · more trades from Travaux.com's activity list (VMC, volets roulants, portail, alarme/vidéosurveillance, désamiantage, dératisation, fosse septique, ascenseur/monte-escalier) · city pages (Paris, Marseille, Lyon, Toulouse…) only with genuinely local content · deepen blog posts towards 600–900 words · new posts on current topics (MaPrimeRénov’ when official barèmes are published).
+Travaux.com affiliate link · fill the legal-page placeholders once the user gives company details · consider self-hosting fonts (drops the Google Fonts IP transfer) · more trades from Travaux.com's activity list (VMC, volets roulants, portail, alarme/vidéosurveillance, désamiantage, dératisation, fosse septique, ascenseur/monte-escalier) · city pages (Paris, Marseille, Lyon, Toulouse…) only with genuinely local content · deepen blog posts towards 600–900 words · new posts on current topics (MaPrimeRénov’ when official barèmes are published).

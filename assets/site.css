@@ -476,3 +476,5 @@ section h2 { font-size: clamp(28px, 3.4vw, 42px); line-height: 1.1; letter-spaci
 .nav-compact .nav.open { display: flex; }
 .nav-compact .nav a { padding: 12px 0; border-bottom: 1px solid var(--line); border-radius: 0; }
 .content-grid > * { min-width: 0; }
+/* Legal pages: details still to fill in before launch (mentions légales, confidentialité) */
+mark.todo { background: #FBE9E2; color: #9A3412; border-radius: 4px; padding: 0 4px; font-weight: 600; }

@@ -1,0 +1,64 @@
+{
+  "updated": "2026-10-15",
+  "search": false,
+  "ctaSearch": false,
+  "slug": "cookies",
+  "title": "Politique de cookies et autres traceurs",
+  "description": "DevisArtisans ne dépose aucun cookie ni traceur. Ce qui se passe quand vous cliquez vers un partenaire, et comment maîtriser les cookies dans votre navigateur.",
+  "keywords": [
+    "cookies",
+    "traceurs",
+    "consentement"
+  ],
+  "cardText": "Aucun cookie sur ce site : ce que cela veut dire, et vos réglages.",
+  "eyebrow": "Informations légales",
+  "h1": "Politique de cookies",
+  "intro": "Bonne nouvelle : DevisArtisans ne dépose aucun cookie ni autre traceur sur votre appareil. C’est pourquoi aucun bandeau de consentement ne s’affiche.",
+  "sections": [
+    {
+      "h2": "Qu’est-ce qu’un cookie ou un traceur ?",
+      "html": "<p>Un cookie est un petit fichier enregistré par votre navigateur lors de la visite d’un site. La notion de « traceur » est plus large : elle couvre aussi le stockage local du navigateur, les pixels invisibles ou l’identification de votre appareil. Selon l’article 82 de la loi Informatique et Libertés, un site doit recueillir votre consentement avant de lire ou d’écrire ces informations, sauf pour celles qui sont strictement nécessaires au service que vous demandez.</p>"
+    },
+    {
+      "h2": "Les traceurs utilisés sur DevisArtisans",
+      "html": "<p><strong>Aucun.</strong> Le site ne dépose aucun cookie, n’utilise pas le stockage local de votre navigateur et n’intègre ni mesure d’audience, ni publicité, ni bouton de réseau social.</p><p>Pour afficher les polices de caractères et les photos, votre navigateur contacte Google Fonts et Unsplash, ce qui leur transmet votre adresse IP ; nous ne nous en servons pas pour vous suivre. Voir notre <a href=\"/confidentialite/\">politique de confidentialité</a>.</p>"
+    },
+    {
+      "h2": "Quand vous cliquez vers un partenaire",
+      "html": "<p>Lorsque vous suivez un lien vers une plateforme partenaire, celle-ci et, le cas échéant, sa plateforme d’affiliation peuvent déposer des cookies sur leur propre site, notamment pour savoir que vous venez de DevisArtisans. Ces cookies relèvent de leur responsabilité : c’est à eux de vous demander votre accord, et vous pouvez le refuser dans leur bandeau. Consultez leur politique de cookies.</p>"
+    },
+    {
+      "h2": "Si nous ajoutons un jour une mesure d’audience",
+      "html": "<p>Si nous ajoutons un outil de mesure d’audience ou tout autre traceur soumis à consentement, nous suivrons les règles de la CNIL :</p><ul><li>aucun traceur déposé avant votre choix ;</li><li>un bandeau où « Tout refuser » est aussi simple et visible que « Tout accepter », au même niveau et sous la même forme ;</li><li>continuer à naviguer ne vaudra pas consentement ;</li><li>votre choix sera conservé six mois, puis redemandé ;</li><li>un lien « Gérer mes cookies » en bas de chaque page pour changer d’avis à tout moment, aussi facilement que vous avez accepté ;</li><li>cette page listera chaque traceur : nom, émetteur, finalité et durée de vie (13 mois au maximum).</li></ul>"
+    },
+    {
+      "h2": "Maîtriser les cookies dans votre navigateur",
+      "html": "<p>Quel que soit le site, vous pouvez bloquer ou supprimer les cookies dans les réglages de votre navigateur. La CNIL explique comment faire pour chaque navigateur : <a href=\"https://www.cnil.fr/fr/cookies-et-autres-traceurs/comment-se-proteger/maitriser-votre-navigateur\" rel=\"noopener\">maîtriser votre navigateur</a>.</p>"
+    }
+  ],
+  "sources": [
+    {
+      "title": "CNIL : cookies et autres traceurs",
+      "url": "https://www.cnil.fr/fr/cookies-et-autres-traceurs"
+    },
+    {
+      "title": "CNIL : lignes directrices et recommandation « cookies et autres traceurs »",
+      "url": "https://www.cnil.fr/fr/cookies-et-autres-traceurs/regles/cookies/lignes-directrices-modificatives-et-recommandation"
+    },
+    {
+      "title": "CNIL : solutions pour les outils de mesure d’audience",
+      "url": "https://www.cnil.fr/fr/cookies-et-autres-traceurs/regles/cookies-solutions-pour-les-outils-de-mesure-daudience"
+    },
+    {
+      "title": "Service Public Entreprendre : gérer les cookies sur le site d’une entreprise",
+      "url": "https://entreprendre.service-public.gouv.fr/vosdroits/F31228"
+    }
+  ],
+  "sourcesTitle": "Pour aller plus loin",
+  "related": [
+    "confidentialite",
+    "mentions-legales",
+    "comment-ca-marche"
+  ],
+  "relatedTitle": "Informations utiles"
+}

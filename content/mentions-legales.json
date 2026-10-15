@@ -1,0 +1,61 @@
+{
+  "updated": "2026-10-15",
+  "search": false,
+  "ctaSearch": false,
+  "slug": "mentions-legales",
+  "title": "Mentions légales du site DevisArtisans",
+  "description": "Mentions légales de DevisArtisans : éditeur du site, directeur de la publication, hébergeur, contact, propriété intellectuelle et responsabilité.",
+  "keywords": [
+    "mentions légales",
+    "éditeur",
+    "hébergeur"
+  ],
+  "cardText": "Éditeur, hébergeur, contact et conditions d’utilisation du site.",
+  "eyebrow": "Informations légales",
+  "h1": "Mentions légales",
+  "intro": "Conformément à la loi n° 2004-575 du 21 juin 2004 pour la confiance dans l’économie numérique (LCEN), voici l’identité de l’éditeur et de l’hébergeur du site devisartisans.shmor.ai.",
+  "sections": [
+    {
+      "h2": "Éditeur du site",
+      "html": "<p>Le site <strong>DevisArtisans</strong> (devisartisans.shmor.ai) fait partie du réseau <a href=\"https://shmor.ai/\">Shmor.ai</a>. Il est édité par :</p><ul><li>Dénomination sociale : <mark class=\"todo\">[À compléter : dénomination sociale]</mark></li><li>Forme juridique et capital social : <mark class=\"todo\">[À compléter : forme juridique et capital social]</mark></li><li>Immatriculation : <mark class=\"todo\">[À compléter : registre et numéro d’immatriculation]</mark></li><li>Siège social : <mark class=\"todo\">[À compléter : adresse du siège social]</mark></li><li>Numéro de TVA intracommunautaire : <mark class=\"todo\">[À compléter : numéro de TVA, le cas échéant]</mark></li><li>Téléphone : <mark class=\"todo\">[À compléter : numéro de téléphone]</mark></li><li>E-mail : <a href=\"mailto:hello@shmor.ai\">hello@shmor.ai</a></li></ul>"
+    },
+    {
+      "h2": "Directeur de la publication",
+      "html": "<p><mark class=\"todo\">[À compléter : nom et qualité du directeur de la publication]</mark></p>"
+    },
+    {
+      "h2": "Hébergeur",
+      "html": "<p>Le site est hébergé par <strong>GitHub, Inc.</strong> (service GitHub Pages), 88 Colin P. Kelly Jr. Street, San Francisco, CA 94107, États-Unis. Téléphone : <mark class=\"todo\">[À compléter : téléphone de l’hébergeur]</mark>. Site : <a href=\"https://github.com/\" rel=\"noopener\">github.com</a>.</p>"
+    },
+    {
+      "h2": "Contact",
+      "html": "<p>Pour toute question sur le site : <a href=\"mailto:hello@shmor.ai\">hello@shmor.ai</a>.<br>Pour vos données personnelles : <a href=\"mailto:privacy@shmor.ai\">privacy@shmor.ai</a> (voir notre <a href=\"/confidentialite/\">politique de confidentialité</a>).</p><p>DevisArtisans ne réalise pas de travaux : pour une question sur un devis ou un chantier, adressez-vous directement à l’artisan ou à la plateforme concernée.</p>"
+    },
+    {
+      "h2": "Notre activité et notre rémunération",
+      "html": "<p>DevisArtisans est un service gratuit d’information et d’orientation. Nous n’employons pas d’artisans, ne réalisons pas de travaux et ne vérifions pas individuellement les professionnels : vous contractez directement avec eux ou avec la plateforme de mise en relation de votre choix.</p><p>Certains liens sont des liens d’affiliation : un partenaire peut nous verser une commission lorsque vous publiez une demande de devis après être passé par notre site. Cela ne change rien au prix que vous payez. <a href=\"/comment-ca-marche/\">En savoir plus sur notre fonctionnement</a>.</p>"
+    },
+    {
+      "h2": "Utilisation du site et responsabilité",
+      "html": "<p>L’accès au site est gratuit. Les informations publiées sont générales, vérifiées auprès de sources officielles à la date indiquée sur chaque page, et ne constituent pas un conseil juridique, fiscal ou technique adapté à votre situation. Les règles (aides, TVA, garanties) peuvent évoluer : vérifiez-les auprès des sources officielles citées avant de vous engager.</p><p>Nous faisons notre possible pour que le site soit exact et accessible, sans pouvoir garantir l’absence d’erreur ou d’interruption. Si vous repérez une erreur, écrivez-nous : nous la corrigerons.</p>"
+    },
+    {
+      "h2": "Liens vers d’autres sites",
+      "html": "<p>Le site contient des liens vers des sites tiers (plateformes partenaires, sites officiels). Nous ne contrôlons pas leur contenu et ne sommes pas responsables de leurs offres, de leurs conditions ni de leur traitement de vos données : consultez leurs propres mentions et politiques.</p>"
+    },
+    {
+      "h2": "Propriété intellectuelle",
+      "html": "<p>Les textes, le logo, la charte graphique et la structure du site sont la propriété de l’éditeur, sauf mention contraire. Toute reproduction ou réutilisation sans autorisation écrite est interdite.</p><p>Les photographies proviennent d’<a href=\"https://unsplash.com/\" rel=\"noopener\">Unsplash</a> et sont utilisées selon la licence Unsplash ; leurs auteurs sont crédités sur chaque page.</p>"
+    },
+    {
+      "h2": "Données personnelles et cookies",
+      "html": "<p>Voir notre <a href=\"/confidentialite/\">politique de confidentialité</a> et notre <a href=\"/cookies/\">politique de cookies</a>. En bref : ce site ne dépose aucun cookie et ne vous demande aucune donnée pour votre projet.</p>"
+    }
+  ],
+  "related": [
+    "confidentialite",
+    "cookies",
+    "comment-ca-marche"
+  ],
+  "relatedTitle": "Informations utiles"
+}
