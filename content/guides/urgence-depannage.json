@@ -1,0 +1,65 @@
+{
+  "updated": "2026-10-15",
+  "slug": "guides/urgence-depannage",
+  "nav": "Urgences à la maison",
+  "title": "Urgence à la maison : les bons réflexes",
+  "description": "Fuite d’eau, odeur de gaz, panne électrique, porte claquée, vitre cassée : les gestes de sécurité avant d’appeler un professionnel.",
+  "keywords": [
+    "urgences à la maison"
+  ],
+  "cardText": "En cas d’urgence, quelques gestes limitent les dégâts et protègent votre sécurité. Gardez cette page à portée de main.",
+  "eyebrow": "Guide",
+  "h1": "Urgence à la maison : que faire en attendant l’artisan ?",
+  "intro": "En cas d’urgence, quelques gestes limitent les dégâts et protègent votre sécurité. Gardez cette page à portée de main.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1526898943670-92bfa9f94c12",
+    "alt": "Eau s’échappant d’un tuyau gris",
+    "credit": "Daan Mooij",
+    "creditUrl": "https://unsplash.com/@daanmooij"
+  },
+  "sections": [
+    {
+      "h2": "Odeur de gaz",
+      "html": "<ol><li>Ne touchez à aucun interrupteur ni appareil électrique, n’allumez pas de flamme</li><li>Fermez le robinet de gaz si vous le pouvez</li><li>Ouvrez les fenêtres et sortez</li><li>Appelez depuis l’extérieur le numéro d’urgence sécurité gaz de votre distributeur (affiché sur vos factures) ou les pompiers (18 ou 112)</li></ol>"
+    },
+    {
+      "h2": "Fuite d’eau",
+      "html": "<p>Coupez l’eau au robinet d’arrêt ou au compteur, coupez l’électricité si l’eau approche des prises, prévenez les voisins concernés et photographiez les dégâts pour l’assurance. Puis appelez un <a href=\"/metiers/plombier/\">plombier</a>.</p>"
+    },
+    {
+      "h2": "Panne électrique",
+      "html": "<p>Vérifiez si la coupure concerne tout le quartier. Sinon, regardez le disjoncteur général et les disjoncteurs divisionnaires : celui qui a sauté indique le circuit en cause. S’il disjoncte à nouveau, débranchez les appareils de ce circuit et appelez un <a href=\"/metiers/electricien/\">électricien</a>.</p>"
+    },
+    {
+      "h2": "Porte claquée ou serrure bloquée",
+      "html": "<p>Avant d’appeler un serrurier inconnu, vérifiez si votre assurance ou votre carte bancaire inclut une assistance. Demandez toujours le prix total avant le déplacement. Voir <a href=\"/metiers/serrurier/\">serrurier</a>.</p>"
+    },
+    {
+      "h2": "Tempête, toiture ou vitre endommagée",
+      "html": "<p>Mettez-vous en sécurité, n’allez pas sur le toit, protégez provisoirement l’intérieur (bâche, carton sur une vitre cassée), puis déclarez le sinistre à votre assureur dans les délais. Faites intervenir un <a href=\"/metiers/couvreur/\">couvreur</a> ou un <a href=\"/metiers/vitrier/\">vitrier</a>.</p>"
+    },
+    {
+      "h2": "Les numéros utiles",
+      "html": "<ul><li>112 : numéro d’urgence européen</li><li>18 : pompiers</li><li>15 : SAMU</li><li>Le numéro de dépannage de votre distributeur d’électricité et de gaz, indiqué sur vos factures</li></ul>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Le dépanneur doit-il faire un devis en urgence ?",
+      "a": "Oui, pour les prestations de dépannage, un devis détaillé doit vous être remis avant l’intervention."
+    },
+    {
+      "q": "Puis-je me rétracter après un dépannage urgent ?",
+      "a": "Le droit de rétractation ne s’applique pas aux travaux d’urgence que vous avez sollicités, dans la limite de ce qui est nécessaire pour faire face à l’urgence."
+    }
+  ],
+  "related": [
+    "guides/verifier-un-artisan",
+    "guides/devis-travaux",
+    "guides/preparer-son-projet",
+    "guides/budget-travaux",
+    "guides/travaux-locataire-proprietaire"
+  ],
+  "relatedTitle": "Nos autres guides",
+  "ctaTitle": "Prêt à comparer les devis ?"
+}

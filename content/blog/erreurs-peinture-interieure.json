@@ -1,0 +1,56 @@
+{
+  "type": "post",
+  "date": "2026-04-16",
+  "updated": "2026-04-16",
+  "slug": "blog/erreurs-peinture-interieure",
+  "nav": "Peinture intérieure : les 8 erreurs les plus fréquentes",
+  "title": "Peinture intérieure : 8 erreurs à éviter",
+  "description": "Préparation bâclée, mauvaise sous-couche, couleur testée trop vite, rouleau inadapté : les erreurs qui gâchent une peinture intérieure et comment les éviter.",
+  "keywords": [
+    "peinture",
+    "peinture",
+    "intérieure"
+  ],
+  "cardText": "Préparation bâclée, mauvaise sous-couche, couleur testée trop vite, rouleau inadapté : les erreurs qui gâchent une peinture intérieure et comment les éviter.",
+  "eyebrow": "Peinture",
+  "h1": "Peinture intérieure : les 8 erreurs les plus fréquentes",
+  "intro": "Que vous peigniez vous-même ou que vous fassiez appel à un peintre, ces erreurs expliquent la plupart des résultats décevants.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1693985120993-e9b203ce7631",
+    "alt": "Personne appliquant de la peinture au rouleau sur un mur",
+    "credit": "Andrew Itaga",
+    "creditUrl": "https://unsplash.com/@and73w"
+  },
+  "sections": [
+    {
+      "h2": "Les erreurs de préparation",
+      "html": "<ol><li>Peindre sur un support sale, gras ou poussiéreux</li><li>Négliger le rebouchage et le ponçage des trous et fissures</li><li>Oublier la sous-couche sur un plâtre neuf, un support taché ou un changement de couleur fort</li><li>Ne pas protéger sols, prises et menuiseries</li></ol>"
+    },
+    {
+      "h2": "Les erreurs d’application",
+      "html": "<ol><li>Choisir une couleur sur un petit nuancier sans tester un échantillon au mur</li><li>Appliquer une seule couche épaisse au lieu de deux couches régulières</li><li>Utiliser un rouleau inadapté au support et à la finition</li><li>Peindre dans une pièce trop froide, trop chaude ou mal ventilée</li></ol>"
+    },
+    {
+      "h2": "Choisir la bonne finition",
+      "html": "<ul><li><strong>Mat</strong> : masque les défauts, idéal pour les plafonds et les murs de séjour</li><li><strong>Velours</strong> : bon compromis, se nettoie mieux</li><li><strong>Satin</strong> : lessivable, adapté aux pièces humides et aux boiseries</li><li><strong>Brillant</strong> : très résistant mais révèle tous les défauts</li></ul>"
+    },
+    {
+      "h2": "Quand faire appel à un pro ?",
+      "html": "<p>Pour de grandes surfaces, des plafonds hauts, des murs abîmés ou une finition très soignée, un <a href=\"/metiers/peintre/\">peintre en bâtiment</a> fait gagner du temps et garantit un rendu homogène. Comparez des devis précisant le nombre de couches et la préparation.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Faut-il toujours une sous-couche ?",
+      "a": "Pas toujours, mais elle est recommandée sur un support neuf, poreux ou taché, et lors d’un changement de couleur important."
+    },
+    {
+      "q": "Combien de temps entre deux couches ?",
+      "a": "Respectez le temps indiqué par le fabricant, qui dépend du produit, de la température et de l’humidité."
+    },
+    {
+      "q": "Peut-on peindre sur du papier peint ?",
+      "a": "C’est possible s’il est bien collé et sain, mais le résultat est souvent moins durable qu’après décollage."
+    }
+  ]
+}

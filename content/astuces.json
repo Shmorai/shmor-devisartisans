@@ -1,0 +1,332 @@
+{
+  "updated": "2026-10-15",
+  "slug": "astuces",
+  "nav": "Astuces",
+  "navOrder": 4,
+  "title": "Astuces et conseils de pro pour vos travaux",
+  "description": "36 astuces pratiques pour réussir vos travaux : avant de signer, pendant le chantier, économies d’énergie, entretien, urgences et règles de voisinage.",
+  "keywords": [
+    "astuces travaux",
+    "conseils travaux",
+    "astuces maison",
+    "conseils artisan"
+  ],
+  "cardText": "36 astuces pour préparer, suivre et entretenir vos travaux.",
+  "eyebrow": "Conseils et astuces",
+  "h1": "Astuces et conseils de pro",
+  "intro": "36 conseils pratiques, simples à appliquer, pour éviter les pièges, faire des économies et garder votre maison en bon état. Chaque astuce renvoie vers un guide ou un article détaillé.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1426927308491-6380b6a9936f",
+    "alt": "Outils à main rangés sur un mur d’atelier",
+    "credit": "Barn Images",
+    "creditUrl": "https://unsplash.com/@barnimages"
+  },
+  "blocks": [
+    {
+      "type": "deals",
+      "class": "svc tips",
+      "title": "Avant de signer",
+      "items": [
+        {
+          "title": "Trois devis, pas plus",
+          "text": "Deux ou trois devis détaillés suffisent pour juger : au-delà, la comparaison devient confuse.",
+          "icon": "file",
+          "slug": "blog/comparer-plusieurs-devis-travaux",
+          "cta": "En savoir plus"
+        },
+        {
+          "title": "Le SIRET en 30 secondes",
+          "text": "Vérifiez l’entreprise sur l’Annuaire des entreprises avant même la visite.",
+          "icon": "search",
+          "slug": "guides/verifier-un-artisan",
+          "cta": "En savoir plus"
+        },
+        {
+          "title": "La décennale avant le chantier",
+          "text": "Exigez l’attestation et vérifiez que l’activité couverte correspond à vos travaux.",
+          "icon": "shield",
+          "slug": "guides/assurances-et-travaux",
+          "cta": "En savoir plus"
+        },
+        {
+          "title": "Les aides avant la signature",
+          "text": "Certaines aides doivent être demandées avant de signer le devis.",
+          "icon": "wallet",
+          "slug": "guides/aides-renovation",
+          "cta": "En savoir plus"
+        },
+        {
+          "title": "Jamais sous pression",
+          "text": "Une offre « valable aujourd’hui seulement » est un signal d’alerte.",
+          "icon": "alert",
+          "slug": "blog/demarchage-arnaques-travaux",
+          "cta": "En savoir plus"
+        },
+        {
+          "title": "Un acompte raisonnable",
+          "text": "Payez à l’avancement et gardez le solde pour la réception.",
+          "icon": "receipt",
+          "slug": "blog/acompte-travaux-combien",
+          "cta": "En savoir plus"
+        }
+      ]
+    },
+    {
+      "type": "deals",
+      "class": "svc tips",
+      "title": "Pendant le chantier",
+      "items": [
+        {
+          "title": "Tout changement par écrit",
+          "text": "Un avenant chiffré avant d’accepter des travaux supplémentaires.",
+          "icon": "file",
+          "slug": "guides/devis-travaux",
+          "cta": "En savoir plus"
+        },
+        {
+          "title": "Des photos à chaque étape",
+          "text": "Ce qui sera caché (réseaux, étanchéité) mérite une photo datée.",
+          "icon": "clipboard",
+          "slug": "guides/garanties-travaux",
+          "cta": "En savoir plus"
+        },
+        {
+          "title": "Prévenez les voisins",
+          "text": "Bruit, livraisons, échafaudage : un mot à l’avance évite les tensions.",
+          "icon": "users",
+          "slug": "blog/travaux-en-copropriete",
+          "cta": "En savoir plus"
+        },
+        {
+          "title": "Protégez ce qui reste",
+          "text": "Sols, meubles et escaliers : vérifiez que la protection est prévue au devis.",
+          "icon": "shield",
+          "slug": "metiers/renovation",
+          "cta": "En savoir plus"
+        },
+        {
+          "title": "Un point hebdomadaire",
+          "text": "Faites le point régulièrement sur l’avancement et le planning.",
+          "icon": "calendar",
+          "slug": "guides/preparer-son-projet",
+          "cta": "En savoir plus"
+        },
+        {
+          "title": "La réception, par écrit",
+          "text": "Un procès-verbal avec réserves fait démarrer vos garanties.",
+          "icon": "check",
+          "slug": "blog/reception-travaux-proces-verbal",
+          "cta": "En savoir plus"
+        }
+      ]
+    },
+    {
+      "type": "deals",
+      "class": "svc tips",
+      "title": "Économies d’énergie",
+      "items": [
+        {
+          "title": "Isoler avant de changer de chauffage",
+          "text": "Des besoins réduits permettent un équipement plus petit et moins cher.",
+          "icon": "house",
+          "slug": "guides/renovation-energetique-par-ou-commencer",
+          "cta": "En savoir plus"
+        },
+        {
+          "title": "19 °C dans les pièces de vie",
+          "text": "Chaque degré en moins réduit sensiblement la consommation de chauffage.",
+          "icon": "thermometer",
+          "slug": "blog/preparer-maison-hiver",
+          "cta": "En savoir plus"
+        },
+        {
+          "title": "Purgez vos radiateurs",
+          "text": "De l’air dans le circuit, et le radiateur chauffe moins bien.",
+          "icon": "flame",
+          "slug": "metiers/chauffagiste",
+          "cta": "En savoir plus"
+        },
+        {
+          "title": "Les combles d’abord",
+          "text": "C’est souvent le premier poste de déperdition d’une maison.",
+          "icon": "layers",
+          "slug": "blog/isolation-combles-perdus-etapes",
+          "cta": "En savoir plus"
+        },
+        {
+          "title": "Ne bouchez pas les entrées d’air",
+          "text": "Une bonne ventilation évite l’humidité, qui coûte cher à chauffer.",
+          "icon": "waves",
+          "slug": "blog/vmc-simple-ou-double-flux",
+          "cta": "En savoir plus"
+        },
+        {
+          "title": "Volets fermés l’été, ouverts l’hiver",
+          "text": "Le soleil chauffe gratuitement en hiver ; bloquez-le en été.",
+          "icon": "sun",
+          "slug": "blog/rafraichir-maison-sans-climatisation",
+          "cta": "En savoir plus"
+        }
+      ]
+    },
+    {
+      "type": "deals",
+      "class": "svc tips",
+      "title": "Entretien de la maison",
+      "items": [
+        {
+          "title": "Chaudière : une fois par an",
+          "text": "L’entretien est obligatoire et améliore le rendement.",
+          "icon": "flame",
+          "slug": "blog/entretien-chaudiere-obligatoire",
+          "cta": "En savoir plus"
+        },
+        {
+          "title": "Ramonage avant l’hiver",
+          "text": "Et pendant la saison de chauffe pour le bois, selon votre département.",
+          "icon": "house",
+          "slug": "blog/ramonage-obligatoire-frequence",
+          "cta": "En savoir plus"
+        },
+        {
+          "title": "Gouttières à l’automne",
+          "text": "Retirez les feuilles avant les grosses pluies.",
+          "icon": "droplet",
+          "slug": "blog/entretenir-ses-gouttieres",
+          "cta": "En savoir plus"
+        },
+        {
+          "title": "Toiture après chaque tempête",
+          "text": "Un coup d’œil aux jumelles depuis le sol suffit souvent.",
+          "icon": "house",
+          "slug": "blog/signes-toiture-a-refaire",
+          "cta": "En savoir plus"
+        },
+        {
+          "title": "Testez vos détecteurs",
+          "text": "Appuyez sur le bouton test de vos détecteurs de fumée chaque mois.",
+          "icon": "alert",
+          "slug": "guides/urgence-depannage",
+          "cta": "En savoir plus"
+        },
+        {
+          "title": "Relevez le compteur d’eau",
+          "text": "Une nuit sans consommation : s’il tourne, cherchez la fuite.",
+          "icon": "droplet",
+          "slug": "blog/economiser-eau-maison",
+          "cta": "En savoir plus"
+        }
+      ]
+    },
+    {
+      "type": "deals",
+      "class": "svc tips",
+      "title": "Urgences et sécurité",
+      "items": [
+        {
+          "title": "Repérez vos coupures",
+          "text": "Robinet d’arrêt, disjoncteur général, vanne de gaz : sachez où ils sont.",
+          "icon": "key",
+          "slug": "guides/urgence-depannage",
+          "cta": "En savoir plus"
+        },
+        {
+          "title": "Odeur de gaz : sortez",
+          "text": "Pas d’interrupteur, pas de flamme, appelez depuis l’extérieur.",
+          "icon": "alert",
+          "slug": "guides/urgence-depannage",
+          "cta": "En savoir plus"
+        },
+        {
+          "title": "Un serrurier choisi à l’avance",
+          "text": "Notez un contact fiable avant d’en avoir besoin.",
+          "icon": "lock",
+          "slug": "metiers/serrurier",
+          "cta": "En savoir plus"
+        },
+        {
+          "title": "Vérifiez votre assistance",
+          "text": "Assurance habitation ou carte bancaire incluent parfois le dépannage.",
+          "icon": "shield",
+          "slug": "metiers/serrurier",
+          "cta": "En savoir plus"
+        },
+        {
+          "title": "Piscine : surveillance constante",
+          "text": "Le dispositif obligatoire ne remplace pas un adulte attentif.",
+          "icon": "waves",
+          "slug": "blog/securite-piscine-obligatoire",
+          "cta": "En savoir plus"
+        },
+        {
+          "title": "Débroussaillez à temps",
+          "text": "Avant l’été, dans les zones exposées aux feux.",
+          "icon": "tree",
+          "slug": "blog/debroussaillement-obligatoire",
+          "cta": "En savoir plus"
+        }
+      ]
+    },
+    {
+      "type": "deals",
+      "class": "svc tips",
+      "title": "Voisinage et règles",
+      "items": [
+        {
+          "title": "Le PLU avant tout projet extérieur",
+          "text": "Clôture, extension, couleur de façade : le PLU fixe les règles.",
+          "icon": "building",
+          "slug": "blog/declaration-prealable-ou-permis",
+          "cta": "En savoir plus"
+        },
+        {
+          "title": "2 mètres pour les grands arbres",
+          "text": "Sauf règle locale, à 2 m de la limite pour plus de 2 m de haut.",
+          "icon": "tree",
+          "slug": "blog/arbres-voisin-regles",
+          "cta": "En savoir plus"
+        },
+        {
+          "title": "Clôture : parlez-en d’abord",
+          "text": "Un accord écrit sur la mitoyenneté évite les litiges.",
+          "icon": "fence",
+          "slug": "blog/cloture-mitoyenne-regles",
+          "cta": "En savoir plus"
+        },
+        {
+          "title": "Copropriété : l’AG d’abord",
+          "text": "Façade, mur porteur, climatisation : votez avant de commander.",
+          "icon": "users",
+          "slug": "blog/travaux-en-copropriete",
+          "cta": "En savoir plus"
+        },
+        {
+          "title": "Affichez votre autorisation",
+          "text": "Le délai de recours des tiers court à partir de l’affichage.",
+          "icon": "file",
+          "slug": "blog/declaration-prealable-ou-permis",
+          "cta": "En savoir plus"
+        },
+        {
+          "title": "Bruit : respectez les horaires",
+          "text": "Les arrêtés municipaux fixent souvent des créneaux pour les travaux bruyants.",
+          "icon": "clock",
+          "slug": "guides/preparer-son-projet",
+          "cta": "En savoir plus"
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Ces conseils remplacent-ils l’avis d’un professionnel ?",
+      "a": "Non. Ce sont des repères généraux : pour votre situation, demandez conseil à un artisan qualifié, à un conseiller France Rénov’ ou à l’ADIL."
+    }
+  ],
+  "related": [
+    "guides",
+    "blog",
+    "metiers"
+  ],
+  "relatedTitle": "Aller plus loin"
+}

@@ -1,0 +1,70 @@
+{
+  "type": "post",
+  "date": "2026-03-08",
+  "updated": "2026-03-08",
+  "slug": "blog/choisir-ses-fenetres",
+  "nav": "Bien choisir ses fenêtres : matériau, vitrage et pose",
+  "title": "Choisir ses fenêtres : matériau, vitrage, pose",
+  "description": "Bois, PVC, aluminium ou mixte, double ou triple vitrage, pose en rénovation ou en dépose totale : les critères pour choisir des fenêtres durables et isolantes.",
+  "keywords": [
+    "menuiserie",
+    "choisir",
+    "fenêtres"
+  ],
+  "cardText": "Bois, PVC, aluminium ou mixte, double ou triple vitrage, pose en rénovation ou en dépose totale : les critères pour choisir des fenêtres durables et isolantes.",
+  "eyebrow": "Menuiserie",
+  "h1": "Bien choisir ses fenêtres : matériau, vitrage et pose",
+  "intro": "Changer ses fenêtres améliore le confort, l’isolation phonique et parfois la sécurité. Encore faut-il choisir le bon matériau, le bon vitrage et la bonne pose.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1572739275114-ec3764ba1477",
+    "alt": "Fenêtre à cadre blanc",
+    "credit": "Nick Romanov",
+    "creditUrl": "https://unsplash.com/@nick_r"
+  },
+  "sections": [
+    {
+      "h2": "Le matériau du cadre",
+      "html": "<ul><li><strong>PVC</strong> : bon isolant, peu d’entretien, gamme de prix large.</li><li><strong>Bois</strong> : isolant et chaleureux, il demande un entretien régulier des lasures ou peintures.</li><li><strong>Aluminium</strong> : profilés fins et grandes surfaces vitrées, à choisir avec rupture de pont thermique.</li><li><strong>Mixte bois-alu</strong> : le bois à l’intérieur, l’aluminium à l’extérieur pour la durabilité.</li></ul>"
+    },
+    {
+      "h2": "Lire les performances",
+      "html": "<p>Le coefficient <strong>Uw</strong> mesure les pertes de chaleur de la fenêtre complète : plus il est bas, mieux elle isole. Le facteur solaire <strong>Sw</strong> indique la part de chaleur du soleil qui entre : utile au nord, à limiter au sud et à l’ouest pour le confort d’été. Pour l’acoustique, regardez l’indice d’affaiblissement en décibels.</p>"
+    },
+    {
+      "h2": "Double ou triple vitrage ?",
+      "html": "<p>Le double vitrage performant convient à la plupart des logements. Le triple vitrage isole davantage mais il est plus lourd et laisse entrer moins d’apports solaires : il est surtout pertinent dans les régions froides ou pour les façades peu ensoleillées.</p>"
+    },
+    {
+      "h2": "Pose en rénovation ou dépose totale",
+      "html": "<p>En <strong>pose en rénovation</strong>, le nouveau cadre est fixé sur l’ancien dormant conservé : rapide et propre, mais la surface vitrée diminue un peu. En <strong>dépose totale</strong>, tout est retiré : meilleure étanchéité et surface vitrée préservée, mais chantier plus lourd avec reprises de maçonnerie et de peinture.</p>"
+    },
+    {
+      "h2": "Démarches et aides",
+      "html": "<p>Si l’aspect extérieur change, une déclaration préalable est en général nécessaire. Le remplacement de simple vitrage peut ouvrir droit à des aides et à la TVA à 5,5 % avec une entreprise RGE. Comparez les <a href=\"/metiers/menuisier/\">menuisiers</a> de votre secteur.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Faut-il changer toutes les fenêtres en même temps ?",
+      "a": "Pas obligatoirement. Commencez par les plus dégradées ou les pièces les plus utilisées, en gardant une cohérence d’aspect en façade."
+    },
+    {
+      "q": "Les nouvelles fenêtres créent-elles de l’humidité ?",
+      "a": "Des fenêtres étanches réduisent les infiltrations d’air : la ventilation doit alors être assurée par des entrées d’air ou une VMC pour éviter la condensation."
+    },
+    {
+      "q": "Combien de temps dure la pose ?",
+      "a": "En rénovation, souvent quelques heures par fenêtre. En dépose totale, comptez davantage en raison des reprises."
+    }
+  ],
+  "sources": [
+    {
+      "title": "France Rénov’ (service public de la rénovation de l’habitat)",
+      "url": "https://france-renov.gouv.fr/"
+    },
+    {
+      "title": "Service-public.fr",
+      "url": "https://www.service-public.gouv.fr/"
+    }
+  ]
+}

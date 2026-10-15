@@ -1,0 +1,66 @@
+{
+  "type": "post",
+  "date": "2026-03-19",
+  "updated": "2026-03-19",
+  "slug": "blog/vmc-simple-ou-double-flux",
+  "nav": "VMC simple flux ou double flux : quelle ventilation choisir ?",
+  "title": "VMC simple flux ou double flux : comment choisir",
+  "description": "Autoréglable, hygroréglable, double flux : fonctionnement, avantages, contraintes et entretien des différentes VMC pour un logement sain et économe.",
+  "keywords": [
+    "ventilation",
+    "simple",
+    "double"
+  ],
+  "cardText": "Autoréglable, hygroréglable, double flux : fonctionnement, avantages, contraintes et entretien des différentes VMC pour un logement sain et économe.",
+  "eyebrow": "Ventilation",
+  "h1": "VMC simple flux ou double flux : quelle ventilation choisir ?",
+  "intro": "Un logement bien isolé doit être bien ventilé. La ventilation mécanique contrôlée renouvelle l’air, évacue l’humidité et les polluants intérieurs.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1574334292321-4844f63aefef",
+    "alt": "Conduit de ventilation",
+    "credit": "Mitchell Luo",
+    "creditUrl": "https://unsplash.com/@mitchel3uo"
+  },
+  "sections": [
+    {
+      "h2": "La VMC simple flux",
+      "html": "<p>Un caisson extrait l’air vicié des pièces humides (cuisine, salle de bain, WC) ; l’air neuf entre par des bouches placées en haut des fenêtres des pièces sèches. En version <strong>autoréglable</strong>, le débit est constant. En version <strong>hygroréglable</strong>, il s’adapte à l’humidité, ce qui limite les pertes de chaleur.</p>"
+    },
+    {
+      "h2": "La VMC double flux",
+      "html": "<p>Elle insuffle de l’air neuf et extrait l’air vicié par deux réseaux de gaines, en récupérant une grande partie de la chaleur de l’air sortant grâce à un échangeur. Elle filtre aussi l’air entrant. Elle convient surtout aux logements très bien isolés et étanches, et demande de la place pour les gaines.</p>"
+    },
+    {
+      "h2": "Comment choisir ?",
+      "html": "<ul><li>Maison ancienne en rénovation légère : simple flux hygroréglable</li><li>Rénovation globale performante ou construction : double flux à étudier</li><li>Appartement : selon la configuration et la copropriété</li><li>Pièces humides sans fenêtre : ventilation indispensable</li></ul>"
+    },
+    {
+      "h2": "Les signes d’une ventilation insuffisante",
+      "html": "<ul><li>Buée persistante sur les vitres</li><li>Moisissures dans les angles et derrière les meubles</li><li>Odeurs qui persistent</li><li>Sensation d’air lourd</li></ul>"
+    },
+    {
+      "h2": "Entretien",
+      "html": "<p>Nettoyez les bouches d’extraction plusieurs fois par an, ne les obstruez jamais, et faites vérifier le caisson. Pour une double flux, les filtres doivent être changés régulièrement. Un <a href=\"/metiers/electricien/\">électricien</a> ou un spécialiste de la ventilation peut installer et entretenir votre VMC.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Peut-on couper la VMC l’hiver pour économiser ?",
+      "a": "Non : couper la ventilation favorise l’humidité et les moisissures et dégrade l’air intérieur. Une VMC hygroréglable limite déjà les débits quand c’est possible."
+    },
+    {
+      "q": "Une VMC double flux est-elle aidée ?",
+      "a": "Elle peut être éligible à certaines aides à la rénovation énergétique si elle est posée par une entreprise RGE et respecte les critères de performance."
+    },
+    {
+      "q": "La VMC est-elle bruyante ?",
+      "a": "Un caisson bien posé sur des supports antivibratiles et des gaines correctement dimensionnées restent discrets."
+    }
+  ],
+  "sources": [
+    {
+      "title": "France Rénov’ (service public de la rénovation de l’habitat)",
+      "url": "https://france-renov.gouv.fr/"
+    }
+  ]
+}

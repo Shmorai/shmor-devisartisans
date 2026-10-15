@@ -1,0 +1,56 @@
+{
+  "type": "post",
+  "date": "2026-09-17",
+  "updated": "2026-09-17",
+  "slug": "blog/choisir-son-carrelage",
+  "nav": "Bien choisir son carrelage : classement, format et entretien",
+  "title": "Choisir son carrelage : classement, format, pose",
+  "description": "Grès cérame, faïence, classement UPEC, antidérapance, formats et joints : les critères pour choisir un carrelage adapté à chaque pièce de la maison.",
+  "keywords": [
+    "sols",
+    "choisir",
+    "carrelage"
+  ],
+  "cardText": "Grès cérame, faïence, classement UPEC, antidérapance, formats et joints : les critères pour choisir un carrelage adapté à chaque pièce de la maison.",
+  "eyebrow": "Sols",
+  "h1": "Bien choisir son carrelage : classement, format et entretien",
+  "intro": "Un carrelage se choisit pour sa résistance autant que pour son style. Un mauvais choix se paie par des rayures, des éclats ou des glissades.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1685949546169-0d6e2505acae",
+    "alt": "Douche sur un mur carrelé",
+    "credit": "Igal Ness",
+    "creditUrl": "https://unsplash.com/@igalness"
+  },
+  "sections": [
+    {
+      "h2": "Les matériaux",
+      "html": "<ul><li><strong>Grès cérame</strong> : très résistant, pour sols intérieurs et extérieurs</li><li><strong>Faïence</strong> : pour les murs, plus fragile</li><li><strong>Terre cuite</strong> : authentique, demande un traitement</li><li><strong>Pierre naturelle</strong> : noble, plus exigeante en entretien</li></ul>"
+    },
+    {
+      "h2": "Le classement UPEC",
+      "html": "<p>En France, le classement UPEC indique la résistance à l’usure (U), au poinçonnement (P), à l’eau (E) et aux produits chimiques (C). Plus les indices sont élevés, plus le carrelage supporte un usage intensif. Demandez-le au vendeur.</p>"
+    },
+    {
+      "h2": "Antidérapance et pièces humides",
+      "html": "<p>Dans la douche, la salle de bain et à l’extérieur, choisissez un carrelage antidérapant. Pour une douche à l’italienne, prévoyez de petits formats ou des carreaux adaptés à la pente.</p>"
+    },
+    {
+      "h2": "Formats et joints",
+      "html": "<p>Les grands formats agrandissent visuellement l’espace mais exigent un support parfaitement plan. Des joints fins et de couleur proche du carrelage donnent un rendu sobre. Faites appel à un <a href=\"/metiers/carreleur/\">carreleur</a> pour les grands formats.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Faut-il prévoir des carreaux en plus ?",
+      "a": "Oui, une marge pour les coupes et la casse, et quelques carreaux de réserve pour d’éventuelles réparations."
+    },
+    {
+      "q": "Peut-on carreler sur un plancher bois ?",
+      "a": "C’est possible avec une préparation spécifique et un plancher suffisamment rigide ; l’avis d’un professionnel est indispensable."
+    },
+    {
+      "q": "Comment entretenir les joints ?",
+      "a": "Un nettoyage régulier et, si besoin, un produit hydrofuge limitent les taches et les moisissures."
+    }
+  ]
+}

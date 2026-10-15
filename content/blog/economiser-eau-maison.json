@@ -1,0 +1,63 @@
+{
+  "type": "post",
+  "date": "2026-09-07",
+  "updated": "2026-09-07",
+  "slug": "blog/economiser-eau-maison",
+  "nav": "Économiser l’eau à la maison : gestes simples et petits travaux",
+  "title": "Économiser l’eau à la maison : 12 gestes et équipements",
+  "description": "Mousseurs, chasse double débit, chasse aux fuites, eau de pluie, appareils économes : réduire sa consommation d’eau sans perdre en confort.",
+  "keywords": [
+    "plomberie",
+    "économiser",
+    "l’eau",
+    "maison"
+  ],
+  "cardText": "Mousseurs, chasse double débit, chasse aux fuites, eau de pluie, appareils économes : réduire sa consommation d’eau sans perdre en confort.",
+  "eyebrow": "Plomberie",
+  "h1": "Économiser l’eau à la maison : gestes simples et petits travaux",
+  "intro": "Réduire sa consommation d’eau, c’est alléger sa facture et préserver une ressource sous tension pendant les sécheresses. Beaucoup de solutions sont simples.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1521207418485-99c705420785",
+    "alt": "Robinet coulant dans un évier de cuisine",
+    "credit": "Imani",
+    "creditUrl": "https://unsplash.com/@spider_mani"
+  },
+  "sections": [
+    {
+      "h2": "Traquer les fuites",
+      "html": "<p>Une chasse d’eau qui coule en continu ou un robinet qui goutte gaspille beaucoup d’eau. Relevez votre compteur avant et après une nuit sans consommation pour détecter une fuite cachée. Voir <a href=\"/blog/fuite-eau-qui-paie/\">que faire en cas de fuite</a>.</p>"
+    },
+    {
+      "h2": "Des équipements économes",
+      "html": "<ul><li>Mousseurs et réducteurs de débit sur les robinets</li><li>Pommeau de douche économe</li><li>Chasse d’eau double débit</li><li>Mitigeurs thermostatiques qui évitent de laisser couler l’eau</li><li>Lave-linge et lave-vaisselle bien classés</li></ul>"
+    },
+    {
+      "h2": "Au jardin",
+      "html": "<ul><li>Récupérateur d’eau de pluie</li><li>Arrosage le soir, au pied des plantes</li><li>Paillage pour limiter l’évaporation</li><li>Plantes adaptées au climat local</li></ul>"
+    },
+    {
+      "h2": "Respecter les restrictions",
+      "html": "<p>En période de sécheresse, la préfecture peut limiter certains usages (arrosage, remplissage des piscines, lavage des véhicules). Consultez les restrictions en vigueur pour votre commune.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "La douche consomme-t-elle moins que le bain ?",
+      "a": "En général oui, surtout avec un pommeau économe et une durée raisonnable."
+    },
+    {
+      "q": "Peut-on utiliser l’eau de pluie pour les toilettes ?",
+      "a": "C’est possible sous conditions techniques et avec une déclaration en mairie."
+    },
+    {
+      "q": "Un plombier peut-il installer un réducteur de pression ?",
+      "a": "Oui, si la pression du réseau est élevée : il protège aussi les équipements."
+    }
+  ],
+  "sources": [
+    {
+      "title": "VigiEau : restrictions d’eau en vigueur",
+      "url": "https://vigieau.gouv.fr/"
+    }
+  ]
+}

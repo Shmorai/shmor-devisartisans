@@ -1,0 +1,62 @@
+{
+  "type": "post",
+  "date": "2026-05-25",
+  "updated": "2026-05-25",
+  "slug": "blog/terrasse-bois-ou-carrelage",
+  "nav": "Terrasse en bois ou en carrelage : le bon choix pour votre jardin",
+  "title": "Terrasse en bois ou carrelée : comment choisir",
+  "description": "Esthétique, entretien, durabilité, chaleur, pose et autorisations : comparez terrasse en bois, composite et carrelage avant de demander vos devis.",
+  "keywords": [
+    "extérieur",
+    "terrasse",
+    "carrelée"
+  ],
+  "cardText": "Esthétique, entretien, durabilité, chaleur, pose et autorisations : comparez terrasse en bois, composite et carrelage avant de demander vos devis.",
+  "eyebrow": "Extérieur",
+  "h1": "Terrasse en bois ou en carrelage : le bon choix pour votre jardin",
+  "intro": "La terrasse prolonge la maison vers le jardin. Le choix du revêtement dépend de votre style, du climat et du temps que vous voulez consacrer à l’entretien.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1700689807667-82630348b301",
+    "alt": "Allée de jardin en briques bordée de fleurs",
+    "credit": "Annie Tray-Gavin",
+    "creditUrl": "https://unsplash.com/@annietraygavin"
+  },
+  "sections": [
+    {
+      "h2": "Le bois",
+      "html": "<p>Chaleureux et agréable pieds nus, il grise naturellement avec le temps. Les essences durables ou les bois traités en autoclave résistent mieux. Prévoyez un entretien régulier (nettoyage, saturateur) si vous voulez conserver la teinte d’origine.</p>"
+    },
+    {
+      "h2": "Le composite",
+      "html": "<p>Mélange de fibres de bois et de résine, il demande peu d’entretien et ne grise pas, mais il peut chauffer au soleil et son aspect est moins naturel.</p>"
+    },
+    {
+      "h2": "Le carrelage et la pierre",
+      "html": "<p>Très durables et faciles à entretenir, ils demandent une dalle bien préparée et des carreaux adaptés à l’extérieur (résistants au gel et antidérapants). Faites appel à un <a href=\"/metiers/carreleur/\">carreleur</a> ou un <a href=\"/metiers/macon/\">maçon</a>.</p>"
+    },
+    {
+      "h2": "Les autorisations",
+      "html": "<p>Une terrasse de plain-pied ne demande en principe pas d’autorisation, sauf en secteur protégé. Une terrasse surélevée peut créer de l’emprise au sol et nécessiter une déclaration préalable. Vérifiez auprès de votre mairie.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Une terrasse bois sur plots est-elle durable ?",
+      "a": "Oui si la structure est ventilée, les lambourdes adaptées et le sol bien drainé : l’humidité stagnante est l’ennemie du bois."
+    },
+    {
+      "q": "Quel carrelage pour une terrasse ?",
+      "a": "Un carrelage ingélif et antidérapant, posé avec une pente pour l’écoulement de l’eau."
+    },
+    {
+      "q": "Peut-on poser une terrasse soi-même ?",
+      "a": "Une terrasse sur plots est accessible aux bricoleurs ; une dalle maçonnée ou un carrelage extérieur demandent plus de savoir-faire."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Service-public.fr",
+      "url": "https://www.service-public.gouv.fr/"
+    }
+  ]
+}

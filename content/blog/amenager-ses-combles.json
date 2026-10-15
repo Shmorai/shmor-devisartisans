@@ -1,0 +1,62 @@
+{
+  "type": "post",
+  "date": "2026-05-06",
+  "updated": "2026-05-06",
+  "slug": "blog/amenager-ses-combles",
+  "nav": "Aménager ses combles : est-ce possible chez vous ?",
+  "title": "Aménager ses combles : faisabilité et démarches",
+  "description": "Hauteur sous plafond, charpente, plancher, accès, lumière, isolation et urbanisme : les points à vérifier avant d’aménager des combles en pièce à vivre.",
+  "keywords": [
+    "aménagement",
+    "aménager",
+    "combles"
+  ],
+  "cardText": "Hauteur sous plafond, charpente, plancher, accès, lumière, isolation et urbanisme : les points à vérifier avant d’aménager des combles en pièce à vivre.",
+  "eyebrow": "Aménagement",
+  "h1": "Aménager ses combles : est-ce possible chez vous ?",
+  "intro": "Transformer ses combles en chambre ou en bureau permet de gagner de la place sans agrandir l’emprise de la maison. Mais tous les combles ne sont pas aménageables facilement.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1768080315797-892a70ce05ee",
+    "alt": "Chambre aménagée sous les combles avec fenêtre de toit",
+    "credit": "Kirsten Miles",
+    "creditUrl": "https://unsplash.com/@sirole"
+  },
+  "sections": [
+    {
+      "h2": "Les critères techniques",
+      "html": "<ul><li><strong>Hauteur</strong> : seule la surface où la hauteur dépasse 1,80 m compte dans la surface habitable.</li><li><strong>Charpente</strong> : une charpente traditionnelle libère l’espace ; des fermettes en W doivent être modifiées par un professionnel.</li><li><strong>Plancher</strong> : il doit supporter les charges d’une pièce habitée, souvent à renforcer.</li><li><strong>Accès</strong> : il faut prévoir un escalier, donc de la place à l’étage inférieur.</li></ul>"
+    },
+    {
+      "h2": "Lumière et confort",
+      "html": "<p>Fenêtres de toit, lucarnes ou chiens-assis apportent la lumière. L’isolation des rampants est indispensable pour le confort d’hiver et surtout d’été : sous une toiture mal isolée, les combles deviennent vite étouffants.</p>"
+    },
+    {
+      "h2": "Les démarches",
+      "html": "<p>La création de surface de plancher et la modification de l’aspect extérieur (fenêtres de toit, lucarnes) demandent en général une déclaration préalable ou un permis de construire selon la surface créée et les règles locales. Si la surface totale dépasse 150 m² après travaux, le recours à un architecte est obligatoire pour un permis.</p>"
+    },
+    {
+      "h2": "Les intervenants",
+      "html": "<p>Le projet mobilise souvent un <a href=\"/metiers/charpentier/\">charpentier</a>, un <a href=\"/metiers/couvreur/\">couvreur</a> pour les ouvertures, une entreprise d’<a href=\"/metiers/isolation/\">isolation</a>, un <a href=\"/metiers/plaquiste/\">plaquiste</a> et un <a href=\"/metiers/electricien/\">électricien</a>. Une <a href=\"/metiers/renovation/\">entreprise de rénovation</a> peut coordonner l’ensemble.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "L’aménagement des combles augmente-t-il les impôts ?",
+      "a": "La surface créée doit être déclarée et peut augmenter la taxe foncière ; la taxe d’aménagement peut aussi s’appliquer."
+    },
+    {
+      "q": "Faut-il une étude de structure ?",
+      "a": "Dès qu’on modifie la charpente ou qu’on crée un plancher habitable, un calcul par un professionnel est fortement recommandé."
+    },
+    {
+      "q": "Peut-on aménager des combles en copropriété ?",
+      "a": "Les combles sont souvent des parties communes : leur aménagement suppose l’accord de l’assemblée générale, voire leur rachat."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Service-public.fr",
+      "url": "https://www.service-public.gouv.fr/"
+    }
+  ]
+}

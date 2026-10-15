@@ -1,0 +1,64 @@
+{
+  "type": "post",
+  "date": "2026-06-22",
+  "updated": "2026-06-22",
+  "slug": "blog/installer-borne-recharge-maison",
+  "nav": "Installer une borne de recharge chez soi : mode d’emploi",
+  "title": "Installer une borne de recharge à la maison",
+  "description": "Prise renforcée ou wallbox, puissance, abonnement, installateur IRVE, droit à la prise en copropriété : tout pour recharger sa voiture électrique à domicile.",
+  "keywords": [
+    "électricité",
+    "installer",
+    "borne",
+    "recharge",
+    "maison"
+  ],
+  "cardText": "Prise renforcée ou wallbox, puissance, abonnement, installateur IRVE, droit à la prise en copropriété : tout pour recharger sa voiture électrique à domicile.",
+  "eyebrow": "Électricité",
+  "h1": "Installer une borne de recharge chez soi : mode d’emploi",
+  "intro": "Recharger chez soi est souvent le plus pratique. Le choix entre prise renforcée et borne dépend de vos trajets, de votre installation électrique et de votre logement.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1704475336842-0ab3798abf0e",
+    "alt": "Main branchant un câble de recharge sur une voiture électrique",
+    "credit": "Zaptec",
+    "creditUrl": "https://unsplash.com/@zaptec"
+  },
+  "sections": [
+    {
+      "h2": "Prise renforcée ou borne murale ?",
+      "html": "<p>Une <strong>prise renforcée</strong> suffit pour de petits trajets quotidiens, avec une recharge lente. Une <strong>borne murale</strong> (wallbox) recharge plus vite et offre souvent un pilotage (programmation en heures creuses, suivi de consommation).</p>"
+    },
+    {
+      "h2": "Vérifier l’installation et l’abonnement",
+      "html": "<p>L’électricien vérifie le tableau, la section des câbles, la protection différentielle adaptée et la puissance de votre abonnement. Une gestion de charge peut éviter d’augmenter la puissance souscrite.</p>"
+    },
+    {
+      "h2": "Un installateur qualifié",
+      "html": "<p>Au-delà de 3,7 kW, l’installation doit être réalisée par un professionnel qualifié IRVE. Comparez les <a href=\"/metiers/electricien/\">électriciens</a> de votre secteur.</p>"
+    },
+    {
+      "h2": "En copropriété",
+      "html": "<p>Le droit à la prise permet à un copropriétaire ou locataire d’équiper sa place, après information du syndic. Voir <a href=\"/blog/travaux-en-copropriete/\">les travaux en copropriété</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Faut-il augmenter son abonnement ?",
+      "a": "Pas toujours : un délestage ou une recharge programmée la nuit peut suffire. L’électricien fera le calcul."
+    },
+    {
+      "q": "Une prise classique suffit-elle ?",
+      "a": "Une prise domestique standard n’est pas conçue pour des recharges longues et répétées : préférez une prise renforcée ou une borne."
+    },
+    {
+      "q": "Existe-t-il des aides ?",
+      "a": "Des dispositifs existent ou ont existé, notamment en copropriété. Leurs conditions évoluent : vérifiez-les au moment du projet."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Service-public.fr",
+      "url": "https://www.service-public.gouv.fr/"
+    }
+  ]
+}

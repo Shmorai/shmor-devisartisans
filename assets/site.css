@@ -465,7 +465,7 @@ section h2 { font-size: clamp(28px, 3.4vw, 42px); line-height: 1.1; letter-spaci
 
 /* Home: visual order hero → benefits → services and blocks → latest posts → rest (HTML order unchanged) */
 .home main { display: flex; flex-direction: column; }
-.home main > .hero { order: -10; }
+.home main > .hero, .home main > .blocks-strip { order: -10; }
 .home main > .highlights { order: -9; }
 .home main > .blocks { order: -8; }
 .home main > .posts { order: -6; }
@@ -478,3 +478,7 @@ section h2 { font-size: clamp(28px, 3.4vw, 42px); line-height: 1.1; letter-spaci
 .content-grid > * { min-width: 0; }
 /* Legal pages: details still to fill in before launch (mentions légales, confidentialité) */
 mark.todo { background: #FBE9E2; color: #9A3412; border-radius: 4px; padding: 0 4px; font-weight: 600; }
+/* Key-figures strip under the home hero */
+.blocks-strip { background: #fff; padding: 22px 0; }
+.blocks-strip .ico { color: var(--terra); }
+.blocks-strip strong { font-family: var(--display); }

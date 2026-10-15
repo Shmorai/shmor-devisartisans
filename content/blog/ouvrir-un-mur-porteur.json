@@ -1,0 +1,62 @@
+{
+  "type": "post",
+  "date": "2026-06-13",
+  "updated": "2026-06-13",
+  "slug": "blog/ouvrir-un-mur-porteur",
+  "nav": "Ouvrir un mur porteur : comment faire en toute sécurité ?",
+  "title": "Ouvrir un mur porteur : étapes et précautions",
+  "description": "Étude de structure, poutre, étaiement, accord de copropriété, autorisation : les étapes indispensables pour ouvrir ou supprimer un mur porteur sans risque.",
+  "keywords": [
+    "gros œuvre",
+    "ouvrir",
+    "porteur"
+  ],
+  "cardText": "Étude de structure, poutre, étaiement, accord de copropriété, autorisation : les étapes indispensables pour ouvrir ou supprimer un mur porteur sans risque.",
+  "eyebrow": "Gros œuvre",
+  "h1": "Ouvrir un mur porteur : comment faire en toute sécurité ?",
+  "intro": "Créer une cuisine ouverte ou agrandir un séjour passe souvent par l’ouverture d’un mur porteur. C’est un chantier de structure qui ne s’improvise pas.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1634586648651-f1fb9ec10d90",
+    "alt": "Pièce en travaux avec des étais métalliques",
+    "credit": "Stefan Lehner",
+    "creditUrl": "https://unsplash.com/@st_lehner"
+  },
+  "sections": [
+    {
+      "h2": "Identifier un mur porteur",
+      "html": "<p>Murs épais, murs de façade, murs sur lesquels reposent des solives ou un mur à l’étage : ce sont des indices, pas des certitudes. Seul un professionnel, plans à l’appui, peut confirmer le rôle d’un mur.</p>"
+    },
+    {
+      "h2": "L’étude de structure",
+      "html": "<p>Un bureau d’études ou un ingénieur calcule les charges et dimensionne la poutre (acier ou béton) et ses appuis. C’est la base du devis et de la sécurité du chantier.</p>"
+    },
+    {
+      "h2": "Le déroulé du chantier",
+      "html": "<ol><li>Étaiement provisoire des planchers</li><li>Ouverture du mur et création des appuis</li><li>Pose de la poutre</li><li>Retrait des étais après prise et vérification</li><li>Finitions (plâtre, électricité, peinture)</li></ol>"
+    },
+    {
+      "h2": "Les autorisations",
+      "html": "<p>En copropriété, l’accord de l’assemblée générale est obligatoire, avec l’étude de structure à l’appui. En maison individuelle, une autorisation d’urbanisme n’est en principe nécessaire que si l’aspect extérieur change. Confiez le chantier à un <a href=\"/metiers/macon/\">maçon</a> assuré en décennale.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Peut-on ouvrir un mur porteur soi-même ?",
+      "a": "C’est fortement déconseillé : une erreur peut provoquer des fissures, voire un effondrement, et engager votre responsabilité."
+    },
+    {
+      "q": "Combien de temps dure le chantier ?",
+      "a": "Quelques jours pour l’ouverture et la poutre, davantage avec les finitions."
+    },
+    {
+      "q": "L’assurance habitation est-elle concernée ?",
+      "a": "Informez votre assureur des travaux importants, surtout s’ils touchent la structure."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Service-public.fr",
+      "url": "https://www.service-public.gouv.fr/"
+    }
+  ]
+}

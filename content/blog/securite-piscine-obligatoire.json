@@ -1,0 +1,62 @@
+{
+  "type": "post",
+  "date": "2026-08-08",
+  "updated": "2026-08-08",
+  "slug": "blog/securite-piscine-obligatoire",
+  "nav": "Sécurité de la piscine : les dispositifs obligatoires",
+  "title": "Sécurité des piscines : ce qui est obligatoire",
+  "description": "Barrière, couverture, abri ou alarme : les dispositifs de sécurité obligatoires des piscines enterrées privées et les bons réflexes.",
+  "keywords": [
+    "piscine",
+    "sécurité",
+    "piscines"
+  ],
+  "cardText": "Barrière, couverture, abri ou alarme : les dispositifs de sécurité obligatoires des piscines enterrées privées et les bons réflexes.",
+  "eyebrow": "Piscine",
+  "h1": "Sécurité de la piscine : les dispositifs obligatoires",
+  "intro": "Les noyades d’enfants en piscine privée sont souvent liées à un instant d’inattention. La loi impose un dispositif de sécurité, mais rien ne remplace la surveillance.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1727579674528-600120447183",
+    "alt": "Grande piscine entourée de verdure",
+    "credit": "Aiper Pool Cleaner",
+    "creditUrl": "https://unsplash.com/@aiper_official"
+  },
+  "sections": [
+    {
+      "h2": "Qui est concerné ?",
+      "html": "<p>Les piscines privatives enterrées ou semi-enterrées, à usage individuel ou collectif, doivent être équipées d’au moins un dispositif de sécurité normalisé. Les piscines hors-sol posées sans travaux ne sont pas concernées par cette obligation, mais les mêmes précautions s’imposent.</p>"
+    },
+    {
+      "h2": "Les quatre dispositifs",
+      "html": "<ul><li><strong>Barrière</strong> : empêche le passage des jeunes enfants</li><li><strong>Couverture</strong> : supporte le poids d’un adulte</li><li><strong>Abri</strong> : ferme totalement le bassin</li><li><strong>Alarme</strong> : détecte les chutes ou les passages</li></ul><p>Chaque dispositif doit être conforme à sa norme française et installé correctement.</p>"
+    },
+    {
+      "h2": "Les bons réflexes",
+      "html": "<ul><li>Surveillance permanente par un adulte</li><li>Apprendre à nager aux enfants dès que possible</li><li>Retirer échelles et jouets après la baignade</li><li>Garder un téléphone à proximité</li></ul>"
+    },
+    {
+      "h2": "Faire installer",
+      "html": "<p>Un <a href=\"/metiers/pisciniste/\">pisciniste</a> vous conseillera sur le dispositif adapté et sa pose. En cas de location saisonnière, l’obligation s’applique aussi.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Que risque-t-on sans dispositif ?",
+      "a": "Une amende, et surtout une responsabilité engagée en cas d’accident."
+    },
+    {
+      "q": "Un volet roulant compte-t-il comme couverture ?",
+      "a": "Oui s’il est conforme à la norme des couvertures de sécurité."
+    },
+    {
+      "q": "Faut-il déclarer sa piscine ?",
+      "a": "Oui, auprès de la mairie selon sa taille et à l’administration fiscale."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Service-public.fr",
+      "url": "https://www.service-public.gouv.fr/"
+    }
+  ]
+}

@@ -57,6 +57,10 @@
       "html": "<p>Chaque chantier est différent. Les principaux facteurs :</p><ul><li>L’ampleur des travaux (remplacement ponctuel ou rénovation complète)</li><li>Le nombre de circuits, prises et points lumineux</li><li>L’état des murs et la nécessité de saignées</li><li>Le matériel choisi (tableau, appareillage, domotique)</li></ul><p>Le plus fiable pour connaître le prix de votre projet est de comparer plusieurs devis détaillés. Voir <a href=\"/guides/devis-travaux/\">ce que doit contenir un devis</a>.</p>"
     },
     {
+      "h2": "Astuces de pro",
+      "html": "<ul><li>Appuyez sur le bouton test de votre interrupteur différentiel une fois par mois pour vérifier qu’il déclenche.</li><li>Évitez les multiprises en cascade : c’est le signe qu’il manque des prises, à ajouter par un professionnel.</li><li>Profitez d’une rénovation pour faire passer des gaines en attente : elles servent des années plus tard.</li></ul><p>Retrouvez toutes nos <a href=\"/astuces/\">astuces travaux</a>.</p>"
+    },
+    {
       "h2": "Règles et précautions à connaître",
       "html": "<p>Une installation <strong>neuve ou entièrement rénovée</strong> doit en général faire l’objet d’une <strong>attestation de conformité visée par le Consuel</strong> avant la mise sous tension par le distributeur. Lors de la vente ou de la location d’un logement dont l’installation a plus de 15 ans, un <strong>diagnostic électricité</strong> doit être fourni. L’installation d’une borne de recharge de plus de 3,7 kW doit être confiée à un professionnel qualifié IRVE.</p>"
     }

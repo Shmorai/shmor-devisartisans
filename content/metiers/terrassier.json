@@ -57,6 +57,10 @@
       "html": "<p>Chaque chantier est différent. Les principaux facteurs :</p><ul><li>Le volume de terre à déplacer</li><li>La nature du sol (roche, argile)</li><li>L’accès pour les engins</li><li>L’évacuation et la mise en décharge</li></ul><p>Le plus fiable pour connaître le prix de votre projet est de comparer plusieurs devis détaillés. Voir <a href=\"/guides/devis-travaux/\">ce que doit contenir un devis</a>.</p>"
     },
     {
+      "h2": "Astuces de pro",
+      "html": "<ul><li>Vérifiez la présence de réseaux enterrés avant tout creusement.</li><li>Prévoyez l’évacuation ou la réutilisation des terres dès le devis.</li><li>Un drainage bien conçu protège durablement les fondations de l’humidité.</li></ul><p>Retrouvez toutes nos <a href=\"/astuces/\">astuces travaux</a>.</p>"
+    },
+    {
       "h2": "Règles et précautions à connaître",
       "html": "<p>Avant de creuser près de réseaux enterrés, des <strong>déclarations préalables aux exploitants</strong> (DT-DICT) sont obligatoires via le guichet unique des réseaux. Une installation d’<strong>assainissement non collectif</strong> est contrôlée par le SPANC de votre commune, de la conception à la réalisation.</p>"
     }

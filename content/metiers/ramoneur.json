@@ -56,6 +56,10 @@
       "html": "<p>Chaque chantier est différent. Les principaux facteurs :</p><ul><li>Le type d’appareil et de conduit</li><li>La hauteur et l’accès au toit</li><li>Le débistrage éventuel</li><li>Le nombre de conduits</li></ul><p>Le plus fiable pour connaître le prix de votre projet est de comparer plusieurs devis détaillés. Voir <a href=\"/guides/devis-travaux/\">ce que doit contenir un devis</a>.</p>"
     },
     {
+      "h2": "Astuces de pro",
+      "html": "<ul><li>Brûlez uniquement du bois sec pour limiter le bistre.</li><li>Conservez le certificat de ramonage : l’assureur peut le demander.</li><li>Faites vérifier le conduit avant de raccorder un nouvel appareil.</li></ul><p>Retrouvez toutes nos <a href=\"/astuces/\">astuces travaux</a>.</p>"
+    },
+    {
       "h2": "Règles et précautions à connaître",
       "html": "<p>Le ramonage est <strong>obligatoire</strong> ; sa fréquence est fixée par le <strong>règlement sanitaire départemental</strong> ou un arrêté municipal (souvent deux fois par an pour le bois, dont une pendant la période de chauffe). Le professionnel remet un <strong>certificat de ramonage</strong>, que votre assureur peut demander après un sinistre.</p>"
     }

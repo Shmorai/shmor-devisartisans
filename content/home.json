@@ -67,6 +67,32 @@
   ],
   "blocks": [
     {
+      "type": "strip",
+      "position": "top",
+      "items": [
+        {
+          "icon": "check",
+          "title": "30 métiers",
+          "text": "du plombier au pisciniste"
+        },
+        {
+          "icon": "pin",
+          "title": "13 régions",
+          "text": "partout en France métropolitaine"
+        },
+        {
+          "icon": "file",
+          "title": "10 guides",
+          "text": "pour réussir vos travaux"
+        },
+        {
+          "icon": "clock",
+          "title": "44 articles",
+          "text": "de conseils pratiques sur le blog"
+        }
+      ]
+    },
+    {
       "type": "deals",
       "class": "svc",
       "title": "Les prestations les plus demandées",
@@ -225,6 +251,60 @@
       ]
     },
     {
+      "type": "deals",
+      "class": "svc tips",
+      "title": "Astuces du moment",
+      "intro": "Des conseils simples pour éviter les pièges et faire des économies.",
+      "more": {
+        "title": "Toutes les astuces",
+        "slug": "astuces"
+      },
+      "items": [
+        {
+          "title": "Trois devis, pas plus",
+          "text": "Deux ou trois devis détaillés suffisent pour juger : au-delà, la comparaison devient confuse.",
+          "icon": "file",
+          "slug": "blog/comparer-plusieurs-devis-travaux",
+          "cta": "En savoir plus"
+        },
+        {
+          "title": "Les aides avant la signature",
+          "text": "Certaines aides doivent être demandées avant de signer le devis.",
+          "icon": "wallet",
+          "slug": "guides/aides-renovation",
+          "cta": "En savoir plus"
+        },
+        {
+          "title": "Isoler avant de changer de chauffage",
+          "text": "Des besoins réduits permettent un équipement plus petit et moins cher.",
+          "icon": "house",
+          "slug": "guides/renovation-energetique-par-ou-commencer",
+          "cta": "En savoir plus"
+        },
+        {
+          "title": "Chaudière : une fois par an",
+          "text": "L’entretien est obligatoire et améliore le rendement.",
+          "icon": "flame",
+          "slug": "blog/entretien-chaudiere-obligatoire",
+          "cta": "En savoir plus"
+        },
+        {
+          "title": "Repérez vos coupures",
+          "text": "Robinet d’arrêt, disjoncteur général, vanne de gaz : sachez où ils sont.",
+          "icon": "key",
+          "slug": "guides/urgence-depannage",
+          "cta": "En savoir plus"
+        },
+        {
+          "title": "La réception, par écrit",
+          "text": "Un procès-verbal avec réserves fait démarrer vos garanties.",
+          "icon": "check",
+          "slug": "blog/reception-travaux-proces-verbal",
+          "cta": "En savoir plus"
+        }
+      ]
+    },
+    {
       "type": "links",
       "title": "Trouver un artisan dans votre région",
       "items": [
@@ -302,6 +382,52 @@
           "text": "Comparez les profils et les devis, puis décidez."
         }
       ]
+    },
+    {
+      "type": "links",
+      "title": "Guides pratiques",
+      "items": [
+        {
+          "slug": "guides/verifier-un-artisan",
+          "icon": "file"
+        },
+        {
+          "slug": "guides/devis-travaux",
+          "icon": "file"
+        },
+        {
+          "slug": "guides/garanties-travaux",
+          "icon": "file"
+        },
+        {
+          "slug": "guides/aides-renovation",
+          "icon": "file"
+        },
+        {
+          "slug": "guides/preparer-son-projet",
+          "icon": "file"
+        },
+        {
+          "slug": "guides/budget-travaux",
+          "icon": "file"
+        },
+        {
+          "slug": "guides/urgence-depannage",
+          "icon": "file"
+        },
+        {
+          "slug": "guides/travaux-locataire-proprietaire",
+          "icon": "file"
+        },
+        {
+          "slug": "guides/assurances-et-travaux",
+          "icon": "file"
+        },
+        {
+          "slug": "guides/renovation-energetique-par-ou-commencer",
+          "icon": "file"
+        }
+      ]
     }
   ],
   "sections": [
@@ -328,7 +454,7 @@
       "a": "Dans toute la France métropolitaine, Corse comprise. Consultez la page de votre région pour des conseils adaptés."
     }
   ],
-  "latestPosts": 3,
+  "latestPosts": 6,
   "latestTitle": "Derniers articles du blog",
   "related": [
     "guides/verifier-un-artisan",

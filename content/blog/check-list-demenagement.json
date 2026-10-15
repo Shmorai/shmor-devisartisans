@@ -1,0 +1,61 @@
+{
+  "type": "post",
+  "date": "2026-09-27",
+  "updated": "2026-09-27",
+  "slug": "blog/check-list-demenagement",
+  "nav": "Déménagement : la check-list complète des démarches",
+  "title": "Déménagement : la check-list des démarches",
+  "description": "Préavis, devis de déménageurs, changement d’adresse, énergie, internet, assurance, état des lieux : la check-list pour déménager sans rien oublier.",
+  "keywords": [
+    "déménagement",
+    "déménagement"
+  ],
+  "cardText": "Préavis, devis de déménageurs, changement d’adresse, énergie, internet, assurance, état des lieux : la check-list pour déménager sans rien oublier.",
+  "eyebrow": "Déménagement",
+  "h1": "Déménagement : la check-list complète des démarches",
+  "intro": "Un déménagement se prépare plusieurs semaines à l’avance. Cette check-list vous aide à ne rien oublier, du préavis à l’installation.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1624137527136-66e631bdaa0e",
+    "alt": "Pile de cartons de déménagement",
+    "credit": "Kadarius Seegars",
+    "creditUrl": "https://unsplash.com/@kseegars"
+  },
+  "sections": [
+    {
+      "h2": "Deux à trois mois avant",
+      "html": "<ul><li>Donner son préavis au bailleur si vous êtes locataire</li><li>Demander plusieurs devis de <a href=\"/metiers/demenageur/\">déménageurs</a></li><li>Trier et vendre ou donner ce que vous n’emportez pas</li><li>Prévoir les congés et la garde des enfants ou animaux</li></ul>"
+    },
+    {
+      "h2": "Un mois avant",
+      "html": "<ul><li>Résilier ou transférer électricité, gaz, internet et assurance habitation</li><li>Réserver le stationnement du camion auprès des mairies</li><li>Commencer les cartons par les objets peu utilisés</li><li>Signaler son changement d’adresse en ligne (service public)</li></ul>"
+    },
+    {
+      "h2": "Le jour J",
+      "html": "<ul><li>Relever les compteurs</li><li>Vérifier le chargement et la lettre de voiture</li><li>Faire l’état des lieux de sortie</li><li>Garder un sac avec l’essentiel (papiers, chargeurs, médicaments)</li></ul>"
+    },
+    {
+      "h2": "Après l’emménagement",
+      "html": "<ul><li>Vérifier vos biens et noter les réserves sous dix jours</li><li>Faire l’état des lieux d’entrée avec soin</li><li>Mettre à jour la carte grise dans le délai prévu</li><li>Planifier les petits travaux : peinture, électricité, serrure</li></ul>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Faut-il changer la serrure en arrivant ?",
+      "a": "C’est prudent si vous ignorez combien de clés circulent. Un serrurier peut changer le cylindre rapidement."
+    },
+    {
+      "q": "Peut-on déménager sans déménageur ?",
+      "a": "Oui, mais pensez à l’assurance des biens transportés et à la location d’un véhicule adapté."
+    },
+    {
+      "q": "Combien de devis demander ?",
+      "a": "Au moins deux ou trois, après une visite ou un inventaire précis du volume."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Service-public.fr",
+      "url": "https://www.service-public.gouv.fr/"
+    }
+  ]
+}

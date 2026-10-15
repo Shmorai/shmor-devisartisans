@@ -1,0 +1,64 @@
+{
+  "type": "post",
+  "date": "2026-07-01",
+  "updated": "2026-07-01",
+  "slug": "blog/rafraichir-maison-sans-climatisation",
+  "nav": "Canicule : 10 façons de garder sa maison au frais sans climatisation",
+  "title": "Garder sa maison au frais sans climatisation",
+  "description": "Volets, ventilation nocturne, brasseurs d’air, protections solaires, isolation et végétalisation : les solutions pour rafraîchir un logement sans climatiseur.",
+  "keywords": [
+    "confort d’été",
+    "garder",
+    "maison",
+    "frais",
+    "climatisation"
+  ],
+  "cardText": "Volets, ventilation nocturne, brasseurs d’air, protections solaires, isolation et végétalisation : les solutions pour rafraîchir un logement sans climatiseur.",
+  "eyebrow": "Confort d’été",
+  "h1": "Canicule : 10 façons de garder sa maison au frais sans climatisation",
+  "intro": "Les épisodes de forte chaleur se multiplient. Avant d’investir dans une climatisation, de nombreux gestes et travaux limitent la surchauffe.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1600762849691-4b51bc94009c",
+    "alt": "Façade claire avec des fleurs violettes sous le soleil",
+    "credit": "Auriane Clément",
+    "creditUrl": "https://unsplash.com/@aurianeclem"
+  },
+  "sections": [
+    {
+      "h2": "Les gestes du quotidien",
+      "html": "<ol><li>Fermer volets et fenêtres pendant la journée, côté soleil</li><li>Aérer largement la nuit et tôt le matin</li><li>Créer des courants d’air entre façades opposées</li><li>Limiter les appareils qui chauffent (four, éclairages)</li><li>Utiliser un ventilateur ou un brasseur d’air de plafond</li></ol>"
+    },
+    {
+      "h2": "Les petits équipements",
+      "html": "<ul><li>Stores et brise-soleil extérieurs, plus efficaces que les rideaux intérieurs</li><li>Films ou vitrages à contrôle solaire</li><li>Moustiquaires pour ventiler la nuit fenêtres ouvertes</li></ul>"
+    },
+    {
+      "h2": "Les travaux qui font la différence",
+      "html": "<p>L’<a href=\"/metiers/isolation/\">isolation des combles</a> avec des isolants denses, l’isolation des murs par l’extérieur, des <a href=\"/metiers/menuisier/\">volets</a> sur toutes les baies exposées et la végétalisation (arbres caducs, pergola végétale) réduisent fortement la chaleur intérieure.</p>"
+    },
+    {
+      "h2": "Et si la climatisation devient nécessaire ?",
+      "html": "<p>Choisissez un appareil bien dimensionné et réversible, installé par un professionnel habilité. Voir <a href=\"/blog/climatisation-copropriete-autorisations/\">les règles à connaître</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Le ventilateur rafraîchit-il vraiment ?",
+      "a": "Il ne baisse pas la température mais le mouvement d’air améliore nettement la sensation de confort."
+    },
+    {
+      "q": "Faut-il fermer les fenêtres la journée ?",
+      "a": "Oui si l’air extérieur est plus chaud que l’intérieur : ouvrez quand il fait plus frais dehors."
+    },
+    {
+      "q": "Les plantes rafraîchissent-elles une façade ?",
+      "a": "Un arbre caduc ou une plante grimpante ombrage la façade en été et laisse passer le soleil en hiver."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Santé publique France : fortes chaleurs",
+      "url": "https://www.santepubliquefrance.fr/"
+    }
+  ]
+}

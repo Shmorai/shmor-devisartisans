@@ -1,0 +1,61 @@
+{
+  "updated": "2026-10-15",
+  "slug": "guides/budget-travaux",
+  "nav": "Budget travaux",
+  "title": "Budget travaux : bien l’estimer et le maîtriser",
+  "description": "Postes oubliés, marge pour imprévus, priorisation, financement et aides : comment construire un budget travaux réaliste et le tenir jusqu’à la fin du chantier.",
+  "keywords": [
+    "budget travaux"
+  ],
+  "cardText": "Les dépassements de budget viennent rarement du prix de l’artisan : ils viennent surtout des postes oubliés et des changements en cours de route.",
+  "eyebrow": "Guide",
+  "h1": "Budget travaux : l’estimer et le maîtriser",
+  "intro": "Les dépassements de budget viennent rarement du prix de l’artisan : ils viennent surtout des postes oubliés et des changements en cours de route.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1648201637025-1c77b9be3013",
+    "alt": "Calculatrice et stylo posés sur une feuille de papier",
+    "credit": "Aaron Lefler",
+    "creditUrl": "https://unsplash.com/@alefler"
+  },
+  "sections": [
+    {
+      "h2": "Les postes souvent oubliés",
+      "html": "<ul><li>Études (structure, sol, audit énergétique)</li><li>Frais d’autorisation et taxe d’aménagement</li><li>Dépose et évacuation de l’existant</li><li>Finitions : peinture, plinthes, joints</li><li>Raccordements et mises en conformité</li><li>Relogement ou stockage pendant les travaux</li></ul>"
+    },
+    {
+      "h2": "Prévoir une marge pour les imprévus",
+      "html": "<p>Dans le bâti ancien surtout, on découvre souvent des surprises en ouvrant les murs ou les sols : canalisations à remplacer, bois abîmé, humidité. Gardez une réserve dans votre budget pour y faire face sans arrêter le chantier.</p>"
+    },
+    {
+      "h2": "Prioriser",
+      "html": "<p>Si le budget ne suffit pas, commencez par ce qui protège le bâti (toiture, humidité, électricité dangereuse) et ce qui conditionne la suite (isolation avant chauffage). Les finitions peuvent attendre.</p>"
+    },
+    {
+      "h2": "Financer",
+      "html": "<ul><li><a href=\"/guides/aides-renovation/\">Aides à la rénovation</a> et TVA réduite</li><li>Éco-prêt à taux zéro pour la rénovation énergétique</li><li>Prêt travaux bancaire</li><li>Aides locales de votre commune ou région</li></ul>"
+    },
+    {
+      "h2": "Tenir le budget",
+      "html": "<p>Évitez les changements en cours de chantier, ou faites-les chiffrer par écrit avant de les accepter. Payez selon l’avancement réel. Voir <a href=\"/blog/acompte-travaux-combien/\">combien verser d’acompte</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Comment connaître le prix de mes travaux ?",
+      "a": "Chaque chantier est différent : le moyen le plus fiable est de comparer plusieurs devis détaillés établis après visite."
+    },
+    {
+      "q": "Faire soi-même une partie des travaux fait-il économiser ?",
+      "a": "Oui pour des tâches simples (démolition légère, peinture), mais attention aux garanties : l’artisan ne garantit pas le travail qu’il n’a pas fait."
+    }
+  ],
+  "related": [
+    "guides/verifier-un-artisan",
+    "guides/devis-travaux",
+    "guides/preparer-son-projet",
+    "guides/urgence-depannage",
+    "guides/travaux-locataire-proprietaire"
+  ],
+  "relatedTitle": "Nos autres guides",
+  "ctaTitle": "Prêt à comparer les devis ?"
+}

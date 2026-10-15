@@ -1,0 +1,66 @@
+{
+  "type": "post",
+  "date": "2026-07-29",
+  "updated": "2026-07-29",
+  "slug": "blog/cloture-mitoyenne-regles",
+  "nav": "Clôture et mur mitoyen : les règles à connaître",
+  "title": "Clôture et mur mitoyen : hauteur, frais et démarches",
+  "description": "Hauteur maximale, partage des frais, déclaration préalable, mitoyenneté : les règles pour construire une clôture ou un mur entre deux propriétés.",
+  "keywords": [
+    "voisinage",
+    "clôture",
+    "mitoyen"
+  ],
+  "cardText": "Hauteur maximale, partage des frais, déclaration préalable, mitoyenneté : les règles pour construire une clôture ou un mur entre deux propriétés.",
+  "eyebrow": "Voisinage",
+  "h1": "Clôture et mur mitoyen : les règles à connaître",
+  "intro": "Avant de construire une clôture ou un mur en limite de propriété, vérifiez les règles d’urbanisme et parlez-en avec votre voisin : cela évite bien des litiges.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1601042860368-debed90085e0",
+    "alt": "Clôture de jardin en bois avec des fleurs blanches",
+    "credit": "Daniel Janzen",
+    "creditUrl": "https://unsplash.com/@paladin_community"
+  },
+  "sections": [
+    {
+      "h2": "Faut-il une autorisation ?",
+      "html": "<p>Une clôture nécessite une déclaration préalable si la commune l’a décidé ou si le terrain est situé en secteur protégé. Le plan local d’urbanisme peut fixer la hauteur, les matériaux et l’aspect.</p>"
+    },
+    {
+      "h2": "La hauteur",
+      "html": "<p>À défaut de règle locale, le Code civil fixe une hauteur minimale de clôture pouvant être imposée entre voisins en ville : 3,20 m dans les villes de 50 000 habitants et plus, 2,60 m dans les autres (article 663). Le PLU peut prévoir d’autres limites.</p>"
+    },
+    {
+      "h2": "Mur mitoyen ou privatif ?",
+      "html": "<p>Un mur construit à cheval sur la limite et à frais partagés est mitoyen : son entretien est commun. Un mur construit entièrement sur votre terrain et à vos frais vous appartient seul. Formalisez l’accord par écrit.</p>"
+    },
+    {
+      "h2": "Les travaux",
+      "html": "<p>Un <a href=\"/metiers/macon/\">maçon</a> réalise les murs et murets, un <a href=\"/metiers/jardinier-paysagiste/\">paysagiste</a> les clôtures végétales et grillages. Prévoyez des fondations adaptées au sol.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Mon voisin doit-il participer aux frais ?",
+      "a": "En ville, chacun peut contraindre son voisin à contribuer à une clôture séparative. Hors de ces zones, la participation se négocie."
+    },
+    {
+      "q": "Puis-je adosser un abri au mur mitoyen ?",
+      "a": "Avec l’accord du voisin et dans le respect des règles d’urbanisme."
+    },
+    {
+      "q": "Qui entretient une haie mitoyenne ?",
+      "a": "Les deux voisins, à frais partagés."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Légifrance : Code civil",
+      "url": "https://www.legifrance.gouv.fr/"
+    },
+    {
+      "title": "Service-public.fr",
+      "url": "https://www.service-public.gouv.fr/"
+    }
+  ]
+}

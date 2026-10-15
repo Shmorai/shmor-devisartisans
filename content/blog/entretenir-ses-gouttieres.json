@@ -1,0 +1,55 @@
+{
+  "type": "post",
+  "date": "2026-08-19",
+  "updated": "2026-08-19",
+  "slug": "blog/entretenir-ses-gouttieres",
+  "nav": "Gouttières : comment les entretenir et quand les remplacer",
+  "title": "Gouttières : entretien, réparation, remplacement",
+  "description": "Nettoyage, crapaudines, pente, fuites, matériaux zinc, PVC ou aluminium : l’entretien des gouttières pour protéger façade et fondations de l’eau de pluie.",
+  "keywords": [
+    "entretien",
+    "gouttières"
+  ],
+  "cardText": "Nettoyage, crapaudines, pente, fuites, matériaux zinc, PVC ou aluminium : l’entretien des gouttières pour protéger façade et fondations de l’eau de pluie.",
+  "eyebrow": "Entretien",
+  "h1": "Gouttières : comment les entretenir et quand les remplacer",
+  "intro": "Des gouttières bouchées ou percées déversent l’eau le long des murs : taches, infiltrations, humidité dans les fondations. Leur entretien est simple et peu coûteux.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1642799829852-4049c0a74d97",
+    "alt": "Toits et cheminées de maisons mitoyennes",
+    "credit": "Richard Bell",
+    "creditUrl": "https://unsplash.com/@maplerockdesign"
+  },
+  "sections": [
+    {
+      "h2": "L’entretien régulier",
+      "html": "<ul><li>Nettoyer au moins une fois par an, à l’automne après la chute des feuilles</li><li>Poser des crapaudines ou grilles pare-feuilles à l’entrée des descentes</li><li>Vérifier l’écoulement avec un seau d’eau</li><li>Contrôler les fixations et les joints</li></ul>"
+    },
+    {
+      "h2": "Les signes d’un problème",
+      "html": "<ul><li>Débordements par forte pluie</li><li>Traces verdâtres ou coulures sur la façade</li><li>Gouttière qui penche ou se décroche</li><li>Fuites aux raccords</li></ul>"
+    },
+    {
+      "h2": "Choisir le matériau",
+      "html": "<p>Le <strong>zinc</strong> est durable et traditionnel, le <strong>PVC</strong> économique, l’<strong>aluminium</strong> sans soudure se fabrique sur mesure. Le choix dépend aussi du style de la maison et des règles locales.</p>"
+    },
+    {
+      "h2": "Faire intervenir un pro",
+      "html": "<p>Le travail en hauteur est dangereux. Un <a href=\"/metiers/couvreur/\">couvreur</a> ou un zingueur peut nettoyer, réparer ou remplacer vos gouttières en sécurité.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Peut-on récupérer l’eau de pluie des gouttières ?",
+      "a": "Oui, avec un récupérateur. Pour certains usages intérieurs, une déclaration en mairie est requise et l’installation doit respecter des règles précises."
+    },
+    {
+      "q": "Quelle pente pour une gouttière ?",
+      "a": "Une légère pente vers la descente est nécessaire pour éviter la stagnation ; le professionnel la règle à la pose."
+    },
+    {
+      "q": "Combien de temps dure une gouttière ?",
+      "a": "Cela dépend du matériau et de l’entretien : le zinc bien entretenu dure très longtemps."
+    }
+  ]
+}

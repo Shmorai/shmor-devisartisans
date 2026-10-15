@@ -1,0 +1,62 @@
+{
+  "type": "post",
+  "date": "2026-04-27",
+  "updated": "2026-04-27",
+  "slug": "blog/chauffe-eau-thermodynamique",
+  "nav": "Chauffe-eau thermodynamique : est-ce fait pour vous ?",
+  "title": "Chauffe-eau thermodynamique : avantages et contraintes",
+  "description": "Fonctionnement, emplacement, bruit, capacité et aides : ce qu’il faut savoir avant de remplacer un cumulus électrique par un chauffe-eau thermodynamique.",
+  "keywords": [
+    "eau chaude",
+    "chauffe-eau",
+    "thermodynamique"
+  ],
+  "cardText": "Fonctionnement, emplacement, bruit, capacité et aides : ce qu’il faut savoir avant de remplacer un cumulus électrique par un chauffe-eau thermodynamique.",
+  "eyebrow": "Eau chaude",
+  "h1": "Chauffe-eau thermodynamique : est-ce fait pour vous ?",
+  "intro": "L’eau chaude représente une part importante de la consommation d’énergie d’un foyer. Le chauffe-eau thermodynamique utilise une pompe à chaleur pour la produire avec moins d’électricité qu’un cumulus classique.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1676210134190-3f2c0d5cf58d",
+    "alt": "Plombier intervenant sur un chauffe-eau",
+    "credit": "Timur Shakerzianov",
+    "creditUrl": "https://unsplash.com/@shaker_jpg"
+  },
+  "sections": [
+    {
+      "h2": "Comment ça marche ?",
+      "html": "<p>Une petite pompe à chaleur intégrée capte les calories de l’air ambiant (ou extérieur, selon le modèle) pour chauffer l’eau du ballon. Une résistance électrique prend le relais quand c’est nécessaire.</p>"
+    },
+    {
+      "h2": "Où l’installer ?",
+      "html": "<ul><li>Dans un local non chauffé et suffisamment volumineux (garage, buanderie, cellier) pour les modèles sur air ambiant</li><li>Ou avec des gaines vers l’extérieur</li><li>Près des points de puisage si possible, pour limiter l’attente d’eau chaude</li><li>Loin des chambres : le ventilateur fait un peu de bruit</li></ul>"
+    },
+    {
+      "h2": "Bien dimensionner",
+      "html": "<p>La capacité dépend du nombre de personnes et des usages (bains, douches). Un ballon trop petit oblige la résistance d’appoint à fonctionner souvent ; trop grand, il coûte plus cher sans bénéfice.</p>"
+    },
+    {
+      "h2": "Aides et installation",
+      "html": "<p>Posé par un professionnel RGE, il peut ouvrir droit à des aides à la rénovation énergétique et à la TVA réduite. Un <a href=\"/metiers/plombier/\">plombier</a> ou un <a href=\"/metiers/chauffagiste/\">chauffagiste</a> vérifiera l’emplacement, l’évacuation des condensats et le raccordement.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Fonctionne-t-il en hiver ?",
+      "a": "Oui, mais son rendement baisse quand l’air capté est froid ; la résistance d’appoint compense alors."
+    },
+    {
+      "q": "Faut-il l’entretenir ?",
+      "a": "Oui : contrôle de l’anode, du groupe de sécurité et nettoyage de l’évaporateur selon les préconisations du fabricant."
+    },
+    {
+      "q": "Peut-on l’installer en appartement ?",
+      "a": "Certains modèles compacts ou raccordés à l’extérieur le permettent, sous réserve de place et de l’accord de la copropriété pour les traversées de façade."
+    }
+  ],
+  "sources": [
+    {
+      "title": "France Rénov’ (service public de la rénovation de l’habitat)",
+      "url": "https://france-renov.gouv.fr/"
+    }
+  ]
+}

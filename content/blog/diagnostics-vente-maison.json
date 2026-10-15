@@ -1,0 +1,58 @@
+{
+  "type": "post",
+  "date": "2026-06-03",
+  "updated": "2026-06-03",
+  "slug": "blog/diagnostics-vente-maison",
+  "nav": "Vendre un logement : quels diagnostics et combien de temps sont-ils valables ?",
+  "title": "Diagnostics pour vendre : la liste et leur validité",
+  "description": "DPE, amiante, plomb, électricité, gaz, termites, état des risques, assainissement : la liste des diagnostics obligatoires pour vendre et leur durée de validité.",
+  "keywords": [
+    "immobilier",
+    "diagnostics",
+    "vendre"
+  ],
+  "cardText": "DPE, amiante, plomb, électricité, gaz, termites, état des risques, assainissement : la liste des diagnostics obligatoires pour vendre et leur durée de validité.",
+  "eyebrow": "Immobilier",
+  "h1": "Vendre un logement : quels diagnostics et combien de temps sont-ils valables ?",
+  "intro": "Le dossier de diagnostic technique (DDT) doit être annexé à la promesse de vente. Son contenu dépend de l’âge, de la localisation et des équipements du logement.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1564846824194-346b7871b855",
+    "alt": "Personne remplissant un formulaire au stylo",
+    "credit": "Leon Seibert",
+    "creditUrl": "https://unsplash.com/@yapics"
+  },
+  "sections": [
+    {
+      "h2": "Les principaux diagnostics",
+      "html": "<ul><li><strong>DPE</strong> : pour tous les logements, valable 10 ans (validité réduite pour les anciens DPE).</li><li><strong>Amiante</strong> : permis de construire antérieur au 1er juillet 1997 ; sans limite de validité si absence d’amiante.</li><li><strong>Plomb (CREP)</strong> : logement construit avant 1949 ; un an si du plomb est détecté, illimité sinon.</li><li><strong>Électricité et gaz</strong> : installations de plus de 15 ans ; trois ans pour une vente.</li><li><strong>Termites</strong> : zones délimitées par arrêté ; six mois.</li><li><strong>État des risques</strong> (ERP) : six mois.</li><li><strong>Assainissement non collectif</strong> : trois ans.</li></ul>"
+    },
+    {
+      "h2": "L’audit énergétique",
+      "html": "<p>Pour la vente d’une maison ou d’un immeuble en monopropriété classé F ou G, puis E depuis 2025, un audit énergétique proposant des scénarios de travaux doit aussi être fourni.</p>"
+    },
+    {
+      "h2": "Choisir son diagnostiqueur",
+      "html": "<p>Le diagnostiqueur doit être certifié et assuré, et indépendant des parties. Comparez plusieurs <a href=\"/metiers/diagnostiqueur/\">diagnostiqueurs</a> et vérifiez leur certification dans l’annuaire officiel.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Qui paie les diagnostics ?",
+      "a": "Le vendeur, en principe."
+    },
+    {
+      "q": "Que se passe-t-il en cas d’erreur dans le DPE ?",
+      "a": "Le DPE est opposable : l’acquéreur peut se retourner contre le vendeur, qui peut lui-même agir contre le diagnostiqueur."
+    },
+    {
+      "q": "Faut-il des diagnostics pour louer ?",
+      "a": "Oui, un dossier de diagnostic technique doit être annexé au bail (DPE, plomb, électricité, gaz, état des risques, amiante selon les cas)."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Service-public.fr",
+      "url": "https://www.service-public.gouv.fr/"
+    }
+  ]
+}

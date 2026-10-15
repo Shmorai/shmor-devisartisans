@@ -12,7 +12,7 @@
   "cardText": "Vérifier un artisan, lire un devis, garanties et aides.",
   "eyebrow": "Conseils",
   "h1": "Nos guides pour réussir vos travaux",
-  "intro": "Avant de signer, prenez quelques minutes pour connaître vos droits et les bons réflexes.",
+  "intro": "Avant de signer, prenez quelques minutes pour connaître vos droits et les bons réflexes : dix guides pratiques, des astuces et un blog mis à jour régulièrement.",
   "image": {
     "src": "https://images.unsplash.com/photo-1503387837-b154d5074bd2",
     "alt": "Personne dessinant un plan de construction",
@@ -24,6 +24,13 @@
     "guides/devis-travaux",
     "guides/garanties-travaux",
     "guides/aides-renovation",
+    "guides/preparer-son-projet",
+    "guides/budget-travaux",
+    "guides/urgence-depannage",
+    "guides/travaux-locataire-proprietaire",
+    "guides/assurances-et-travaux",
+    "guides/renovation-energetique-par-ou-commencer",
+    "astuces",
     "comment-ca-marche"
   ],
   "relatedTitle": "Tous les guides"

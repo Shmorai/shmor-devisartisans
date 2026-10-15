@@ -1,0 +1,65 @@
+{
+  "type": "post",
+  "date": "2026-03-30",
+  "updated": "2026-03-30",
+  "slug": "blog/signes-toiture-a-refaire",
+  "nav": "Les 7 signes qu’une toiture doit être rénovée",
+  "title": "Toiture : 7 signes qu’elle doit être rénovée",
+  "description": "Tuiles cassées, mousses, infiltrations, faîtage abîmé, charpente qui fléchit : les signes qu’une toiture doit être réparée ou refaite.",
+  "keywords": [
+    "toiture",
+    "toiture"
+  ],
+  "cardText": "Tuiles cassées, mousses, infiltrations, faîtage abîmé, charpente qui fléchit : les signes qu’une toiture doit être réparée ou refaite.",
+  "eyebrow": "Toiture",
+  "h1": "Les 7 signes qu’une toiture doit être rénovée",
+  "intro": "Une toiture ne prévient pas toujours avant de fuir. Quelques signes visibles depuis le sol ou les combles permettent pourtant d’anticiper.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1564783679669-f5391270417b",
+    "alt": "Mousse sur de vieilles tuiles de toit",
+    "credit": "Barb McMahon",
+    "creditUrl": "https://unsplash.com/@barbmcmahon"
+  },
+  "sections": [
+    {
+      "h2": "Depuis l’extérieur",
+      "html": "<ol><li>Tuiles ou ardoises cassées, déplacées ou manquantes</li><li>Mousses et lichens épais qui retiennent l’humidité</li><li>Faîtage ou rives dont le mortier s’effrite</li><li>Gouttières qui débordent, se déforment ou fuient</li><li>Ligne de toit qui ondule ou s’affaisse</li></ol>"
+    },
+    {
+      "h2": "Depuis les combles",
+      "html": "<ol><li>Traces d’humidité, auréoles ou bois noirci</li><li>Lumière visible à travers la couverture</li></ol>"
+    },
+    {
+      "h2": "Réparer ou refaire ?",
+      "html": "<p>Quelques tuiles cassées ou un solin abîmé se réparent ponctuellement. Si les désordres se multiplient, si les liteaux sont pourris ou si l’écran sous toiture est absent, une réfection complète peut être plus durable, et c’est l’occasion d’isoler par l’extérieur.</p>"
+    },
+    {
+      "h2": "En sécurité",
+      "html": "<p>Ne montez pas sur le toit vous-même : les chutes de hauteur sont graves. Utilisez des jumelles depuis le sol et faites intervenir un <a href=\"/metiers/couvreur/\">couvreur</a> équipé et assuré. Méfiez-vous des démarcheurs qui « passaient par là » et ont repéré un problème.</p>"
+    },
+    {
+      "h2": "Bon à savoir",
+      "html": "<p>Une réfection avec changement de matériau ou de couleur demande généralement une déclaration préalable. Les travaux de couverture relèvent de la garantie décennale.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Faut-il démousser son toit ?",
+      "a": "Un entretien régulier limite l’accumulation d’humidité. Le nettoyage à haute pression peut abîmer certains matériaux : laissez le professionnel choisir la méthode."
+    },
+    {
+      "q": "Une fuite de toit est-elle couverte par l’assurance ?",
+      "a": "Les dégâts consécutifs à une tempête ou à un événement soudain le sont souvent ; le défaut d’entretien, en général non. Vérifiez votre contrat."
+    },
+    {
+      "q": "Quand faire inspecter sa toiture ?",
+      "a": "Idéalement à l’automne et après chaque tempête ou épisode de grêle."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Service-public.fr",
+      "url": "https://www.service-public.gouv.fr/"
+    }
+  ]
+}

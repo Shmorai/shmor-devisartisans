@@ -1,0 +1,69 @@
+{
+  "updated": "2026-10-15",
+  "slug": "guides/preparer-son-projet",
+  "nav": "Préparer son projet",
+  "title": "Préparer son projet de travaux en 7 étapes",
+  "description": "Besoins, budget, autorisations, aides, devis, planning, réception : la méthode en 7 étapes pour préparer un projet de travaux et éviter les mauvaises surprises.",
+  "keywords": [
+    "préparer son projet"
+  ],
+  "cardText": "Un chantier réussi se joue souvent avant le premier coup de marteau. Voici la méthode pour préparer votre projet, du besoin à la réception.",
+  "eyebrow": "Guide",
+  "h1": "Préparer son projet de travaux en 7 étapes",
+  "intro": "Un chantier réussi se joue souvent avant le premier coup de marteau. Voici la méthode pour préparer votre projet, du besoin à la réception.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1542621334-a254cf47733d",
+    "alt": "Crayon posé sur un plan d’architecte imprimé",
+    "credit": "Sven Mieke",
+    "creditUrl": "https://unsplash.com/@sxoxm"
+  },
+  "sections": [
+    {
+      "h2": "1. Définir précisément le besoin",
+      "html": "<p>Notez ce qui ne vous convient pas aujourd’hui et ce que vous attendez du résultat : confort, surface, économies d’énergie, esthétique, accessibilité. Plus votre demande est précise, plus les devis seront comparables.</p>"
+    },
+    {
+      "h2": "2. Fixer un budget réaliste",
+      "html": "<p>Prévoyez le coût des travaux, mais aussi les études, les autorisations, les finitions, le mobilier et une marge pour les imprévus. Voir <a href=\"/guides/budget-travaux/\">notre guide du budget</a>.</p>"
+    },
+    {
+      "h2": "3. Vérifier les règles",
+      "html": "<p>Urbanisme (<a href=\"/blog/declaration-prealable-ou-permis/\">déclaration préalable ou permis</a>), copropriété, risques naturels sur Géorisques, et réglementation technique propre à vos travaux.</p>"
+    },
+    {
+      "h2": "4. Explorer les aides",
+      "html": "<p>Pour la rénovation énergétique et l’adaptation du logement, renseignez-vous avant de signer : certaines aides doivent être demandées en amont. Voir <a href=\"/guides/aides-renovation/\">les aides</a>.</p>"
+    },
+    {
+      "h2": "5. Consulter plusieurs artisans",
+      "html": "<p>Demandez deux ou trois devis détaillés et <a href=\"/guides/verifier-un-artisan/\">vérifiez les entreprises</a> (SIRET, assurance, qualifications).</p>"
+    },
+    {
+      "h2": "6. Planifier",
+      "html": "<p>Fixez par écrit les dates de démarrage et de fin, l’ordre d’intervention des métiers et les conditions de paiement. Anticipez la vie pendant le chantier : accès, bruit, poussière, coupures.</p>"
+    },
+    {
+      "h2": "7. Réceptionner",
+      "html": "<p>À la fin, faites une <a href=\"/blog/reception-travaux-proces-verbal/\">réception écrite</a> avec réserves si besoin : c’est le point de départ des garanties.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Faut-il un maître d’œuvre ?",
+      "a": "Pour un projet complexe mobilisant plusieurs métiers, un maître d’œuvre ou un architecte simplifie la coordination et le suivi. Pour un chantier simple, un artisan suffit."
+    },
+    {
+      "q": "Quelle est la meilleure saison pour les travaux ?",
+      "a": "Cela dépend des travaux : l’extérieur et la toiture se font plutôt à la belle saison, l’intérieur toute l’année. Anticipez, car les artisans sont souvent réservés plusieurs semaines à l’avance."
+    }
+  ],
+  "related": [
+    "guides/verifier-un-artisan",
+    "guides/devis-travaux",
+    "guides/budget-travaux",
+    "guides/urgence-depannage",
+    "guides/travaux-locataire-proprietaire"
+  ],
+  "relatedTitle": "Nos autres guides",
+  "ctaTitle": "Prêt à comparer les devis ?"
+}

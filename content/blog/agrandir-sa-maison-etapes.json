@@ -1,0 +1,70 @@
+{
+  "type": "post",
+  "date": "2026-05-15",
+  "updated": "2026-05-15",
+  "slug": "blog/agrandir-sa-maison-etapes",
+  "nav": "Agrandir sa maison : les étapes d’un projet d’extension",
+  "title": "Agrandir sa maison : les étapes d’une extension",
+  "description": "Extension, surélévation ou véranda : du projet aux autorisations, du choix des entreprises à la réception, les étapes clés pour agrandir sa maison sereinement.",
+  "keywords": [
+    "extension",
+    "agrandir",
+    "maison"
+  ],
+  "cardText": "Extension, surélévation ou véranda : du projet aux autorisations, du choix des entreprises à la réception, les étapes clés pour agrandir sa maison sereinement.",
+  "eyebrow": "Extension",
+  "h1": "Agrandir sa maison : les étapes d’un projet d’extension",
+  "intro": "Une extension est un vrai projet de construction. Bien enchaîner les étapes évite les retards et les mauvaises surprises.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1754063257992-bb9eabdbdd86",
+    "alt": "Extension moderne de plain-pied avec de grandes baies vitrées",
+    "credit": "Brett Jordan",
+    "creditUrl": "https://unsplash.com/@brett_jordan"
+  },
+  "sections": [
+    {
+      "h2": "1. Définir le besoin et le budget",
+      "html": "<p>Quelle pièce, quelle surface, quel usage ? Listez vos besoins, puis fixez un budget global incluant études, autorisations, travaux, aménagements intérieurs et une marge pour les imprévus.</p>"
+    },
+    {
+      "h2": "2. Vérifier ce que permet le terrain",
+      "html": "<p>Consultez le plan local d’urbanisme : emprise au sol, hauteur, distances aux limites, aspect. Vérifiez aussi les risques naturels (argiles, inondation) sur Géorisques, qui peuvent imposer une étude de sol.</p>"
+    },
+    {
+      "h2": "3. Concevoir et déposer l’autorisation",
+      "html": "<p>Selon la surface, une déclaration préalable ou un permis de construire est nécessaire. Un architecte est obligatoire au-delà de 150 m² de surface totale. Voir <a href=\"/blog/declaration-prealable-ou-permis/\">déclaration préalable ou permis</a>.</p>"
+    },
+    {
+      "h2": "4. Consulter les entreprises",
+      "html": "<p>Demandez des devis détaillés à des entreprises assurées en décennale : <a href=\"/metiers/macon/\">maçon</a>, <a href=\"/metiers/charpentier/\">charpentier</a>, <a href=\"/metiers/couvreur/\">couvreur</a>, <a href=\"/metiers/menuisier/\">menuisier</a>… ou une entreprise générale. Souscrivez l’assurance dommages-ouvrage avant l’ouverture du chantier.</p>"
+    },
+    {
+      "h2": "5. Suivre le chantier et réceptionner",
+      "html": "<p>Affichez l’autorisation, suivez l’avancement, payez selon les étapes réalisées, puis organisez la <a href=\"/blog/reception-travaux-proces-verbal/\">réception des travaux</a>. Déposez ensuite la déclaration d’achèvement et déclarez la nouvelle surface aux impôts.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Extension ou surélévation ?",
+      "a": "L’extension consomme du terrain ; la surélévation le préserve mais demande une structure capable de supporter un étage. Une étude technique tranchera."
+    },
+    {
+      "q": "Combien de temps prévoir ?",
+      "a": "Entre la conception, l’instruction de l’autorisation, le délai de recours des tiers et les travaux, un projet d’extension s’étale souvent sur plusieurs mois."
+    },
+    {
+      "q": "Faut-il prévenir les voisins ?",
+      "a": "Ce n’est pas obligatoire, mais c’est conseillé : l’affichage de l’autorisation ouvre de toute façon un délai de recours de deux mois."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Service-public.fr",
+      "url": "https://www.service-public.gouv.fr/"
+    },
+    {
+      "title": "Géorisques",
+      "url": "https://www.georisques.gouv.fr/"
+    }
+  ]
+}

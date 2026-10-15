@@ -1,0 +1,57 @@
+{
+  "updated": "2026-10-15",
+  "slug": "guides/assurances-et-travaux",
+  "nav": "Assurances et travaux",
+  "title": "Assurances et travaux : décennale, dommages-ouvrage…",
+  "description": "Décennale de l’artisan, dommages-ouvrage, responsabilité civile, assurance habitation pendant le chantier : quelles assurances pour des travaux bien protégés.",
+  "keywords": [
+    "assurances et travaux"
+  ],
+  "cardText": "Plusieurs assurances interviennent autour d’un chantier. Savoir qui couvre quoi vous évite de découvrir un trou de garantie au mauvais moment.",
+  "eyebrow": "Guide",
+  "h1": "Assurances et travaux : qui couvre quoi ?",
+  "intro": "Plusieurs assurances interviennent autour d’un chantier. Savoir qui couvre quoi vous évite de découvrir un trou de garantie au mauvais moment.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1627518788331-b3b7fdaa382f",
+    "alt": "Main signant un document papier avec un stylo",
+    "credit": "Signature Pro",
+    "creditUrl": "https://unsplash.com/@signaturepro"
+  },
+  "sections": [
+    {
+      "h2": "Côté artisan",
+      "html": "<ul><li><strong>Responsabilité civile décennale</strong> : obligatoire pour les travaux de construction ; couvre pendant dix ans les dommages graves.</li><li><strong>Responsabilité civile professionnelle</strong> : couvre les dommages causés pendant le chantier (à vous, à vos biens, aux voisins).</li></ul><p>Demandez les deux attestations et vérifiez les activités couvertes.</p>"
+    },
+    {
+      "h2": "Côté maître d’ouvrage",
+      "html": "<ul><li><strong>Dommages-ouvrage</strong> : obligatoire pour les travaux de construction relevant de la décennale ; préfinance les réparations sans attendre la recherche de responsabilités.</li><li><strong>Assurance habitation</strong> : prévenez votre assureur de travaux importants, qui peuvent modifier le risque (surface, valeur, échafaudage).</li></ul>"
+    },
+    {
+      "h2": "Pendant le chantier",
+      "html": "<p>Un dégât causé par l’artisan relève de sa responsabilité civile. Un vol de matériaux sur le chantier ou une intempérie avant réception relèvent en principe de l’entreprise, qui a la garde du chantier jusqu’à la réception.</p>"
+    },
+    {
+      "h2": "Après le chantier",
+      "html": "<p>Conservez tous les documents dix ans. Voir <a href=\"/guides/garanties-travaux/\">les garanties légales</a> et <a href=\"/blog/malfacons-garantie-decennale/\">que faire en cas de malfaçon</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "La dommages-ouvrage est-elle obligatoire pour une petite rénovation ?",
+      "a": "Elle concerne les travaux de construction relevant de la garantie décennale. Pour des travaux de second œuvre sans impact sur la structure ou le clos et couvert, elle n’est en général pas exigée."
+    },
+    {
+      "q": "Que faire si l’artisan n’a pas d’assurance ?",
+      "a": "Ne commencez pas les travaux avec lui : sans décennale, vous risquez de ne jamais être indemnisé en cas de dommage grave."
+    }
+  ],
+  "related": [
+    "guides/verifier-un-artisan",
+    "guides/devis-travaux",
+    "guides/preparer-son-projet",
+    "guides/budget-travaux",
+    "guides/urgence-depannage"
+  ],
+  "relatedTitle": "Nos autres guides",
+  "ctaTitle": "Prêt à comparer les devis ?"
+}

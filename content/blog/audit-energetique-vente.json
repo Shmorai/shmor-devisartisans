@@ -1,0 +1,67 @@
+{
+  "type": "post",
+  "date": "2026-10-14",
+  "updated": "2026-10-14",
+  "slug": "blog/audit-energetique-vente",
+  "nav": "Audit énergétique : quand est-il obligatoire et à quoi sert-il ?",
+  "title": "Audit énergétique obligatoire : quand et pour qui ?",
+  "description": "Vente de maison classée E, F ou G, contenu de l’audit, différence avec le DPE, scénarios de travaux : tout savoir sur l’audit énergétique réglementaire.",
+  "keywords": [
+    "immobilier",
+    "audit",
+    "énergétique",
+    "obligatoire"
+  ],
+  "cardText": "Vente de maison classée E, F ou G, contenu de l’audit, différence avec le DPE, scénarios de travaux : tout savoir sur l’audit énergétique réglementaire.",
+  "eyebrow": "Immobilier",
+  "h1": "Audit énergétique : quand est-il obligatoire et à quoi sert-il ?",
+  "intro": "L’audit énergétique va plus loin que le DPE : il propose des scénarios de travaux chiffrés pour améliorer la performance du logement. Il est obligatoire dans certains cas de vente.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1598603396168-4d3efd660a42",
+    "alt": "Maison en briques entourée d’arbres",
+    "credit": "Aurélia Dubois",
+    "creditUrl": "https://unsplash.com/@aureliaduboisphotographie"
+  },
+  "sections": [
+    {
+      "h2": "Quand est-il obligatoire ?",
+      "html": "<p>Pour la vente d’une maison individuelle ou d’un immeuble en monopropriété dont le DPE est classé F ou G (depuis 2023), puis E (depuis le 1er janvier 2025). L’échéance pour la classe D est fixée à 2034.</p>"
+    },
+    {
+      "h2": "Ce qu’il contient",
+      "html": "<ul><li>Un état des lieux de la performance du bâtiment</li><li>Des scénarios de travaux, dont au moins un permettant d’atteindre une classe performante</li><li>Une estimation des économies d’énergie</li><li>Une information sur les aides disponibles</li></ul>"
+    },
+    {
+      "h2": "DPE et audit : quelle différence ?",
+      "html": "<p>Le DPE classe le logement de A à G. L’audit explique comment progresser, par étapes ou en une fois. Pour une rénovation d’ampleur aidée, un audit est également demandé.</p>"
+    },
+    {
+      "h2": "Qui le réalise ?",
+      "html": "<p>Un professionnel qualifié : diagnostiqueur certifié, bureau d’études ou architecte selon les cas. Comparez les <a href=\"/metiers/diagnostiqueur/\">diagnostiqueurs</a> de votre secteur, puis, pour les travaux, les entreprises d’<a href=\"/metiers/isolation/\">isolation</a> et de chauffage.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "L’acheteur est-il obligé de faire les travaux ?",
+      "a": "Non, l’audit informe l’acheteur ; il ne l’oblige pas à réaliser les travaux, sauf règles propres à la location du logement."
+    },
+    {
+      "q": "Combien de temps l’audit est-il valable ?",
+      "a": "En général cinq ans."
+    },
+    {
+      "q": "Faut-il un audit pour vendre un appartement ?",
+      "a": "Non, l’obligation vise les maisons et les immeubles en monopropriété, pas les lots de copropriété."
+    }
+  ],
+  "sources": [
+    {
+      "title": "France Rénov’ (service public de la rénovation de l’habitat)",
+      "url": "https://france-renov.gouv.fr/"
+    },
+    {
+      "title": "Service-public.fr",
+      "url": "https://www.service-public.gouv.fr/"
+    }
+  ]
+}

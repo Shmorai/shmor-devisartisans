@@ -57,6 +57,10 @@
       "html": "<p>Chaque chantier est différent. Les principaux facteurs :</p><ul><li>Le nombre de pièces à climatiser</li><li>Le type de système (split, gainable)</li><li>La longueur des liaisons et la complexité de la pose</li><li>La gamme de l’appareil (performance, niveau sonore)</li></ul><p>Le plus fiable pour connaître le prix de votre projet est de comparer plusieurs devis détaillés. Voir <a href=\"/guides/devis-travaux/\">ce que doit contenir un devis</a>.</p>"
     },
     {
+      "h2": "Astuces de pro",
+      "html": "<ul><li>Réglez la climatisation quelques degrés seulement sous la température extérieure.</li><li>Nettoyez les filtres des unités intérieures régulièrement.</li><li>Fermez volets et stores en journée : la climatisation travaille beaucoup moins.</li></ul><p>Retrouvez toutes nos <a href=\"/astuces/\">astuces travaux</a>.</p>"
+    },
+    {
       "h2": "Règles et précautions à connaître",
       "html": "<p>La pose d’une climatisation implique des <strong>fluides frigorigènes</strong> : seul un professionnel titulaire d’une <strong>attestation de capacité</strong> peut les manipuler. L’unité extérieure peut nécessiter une <strong>déclaration préalable</strong> si elle modifie l’aspect de la façade, et, en copropriété, une autorisation de l’assemblée générale. Pensez aussi au bruit pour vos voisins.</p>"
     }

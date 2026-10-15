@@ -56,6 +56,10 @@
       "html": "<p>Chaque chantier est différent. Les principaux facteurs :</p><ul><li>La puissance installée</li><li>Le type de pose (surimposition, intégration)</li><li>Les onduleurs et le stockage</li><li>L’état et la complexité de la toiture</li></ul><p>Le plus fiable pour connaître le prix de votre projet est de comparer plusieurs devis détaillés. Voir <a href=\"/guides/devis-travaux/\">ce que doit contenir un devis</a>.</p>"
     },
     {
+      "h2": "Astuces de pro",
+      "html": "<ul><li>Faites vérifier l’état de la toiture avant de poser des panneaux.</li><li>Comparez les estimations de production de plusieurs installateurs.</li><li>Lisez séparément le bon de commande et un éventuel contrat de crédit.</li></ul><p>Retrouvez toutes nos <a href=\"/astuces/\">astuces travaux</a>.</p>"
+    },
+    {
       "h2": "Règles et précautions à connaître",
       "html": "<p>L’installation sur une toiture demande en général une <strong>déclaration préalable</strong> en mairie. Elle doit ensuite être déclarée ou raccordée auprès du gestionnaire de réseau (Enedis le plus souvent) et faire l’objet d’une <strong>attestation de conformité Consuel</strong>. Les dispositifs de soutien (prime, tarif d’achat du surplus) évoluent régulièrement : vérifiez-les sur des sources officielles avant de signer, et méfiez-vous des promesses d’« autofinancement ».</p>"
     }

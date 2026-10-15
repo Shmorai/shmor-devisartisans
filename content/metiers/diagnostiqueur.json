@@ -57,6 +57,10 @@
       "html": "<p>Chaque chantier est différent. Les principaux facteurs :</p><ul><li>Le nombre de diagnostics nécessaires</li><li>La surface et l’âge du bien</li><li>La localisation (zones termites, risques)</li><li>L’urgence</li></ul><p>Le plus fiable pour connaître le prix de votre projet est de comparer plusieurs devis détaillés. Voir <a href=\"/guides/devis-travaux/\">ce que doit contenir un devis</a>.</p>"
     },
     {
+      "h2": "Astuces de pro",
+      "html": "<ul><li>Vérifiez la certification du diagnostiqueur dans l’annuaire officiel.</li><li>Faites réaliser les diagnostics tôt pour ne pas retarder la vente.</li><li>Préparez les accès (combles, compteurs, tableau électrique) pour le jour de la visite.</li></ul><p>Retrouvez toutes nos <a href=\"/astuces/\">astuces travaux</a>.</p>"
+    },
+    {
       "h2": "Règles et précautions à connaître",
       "html": "<p>Le diagnostiqueur doit être <strong>certifié</strong> par un organisme accrédité ; vous pouvez le vérifier dans l’annuaire officiel des diagnostiqueurs. Les diagnostics requis dépendent du bien : amiante (permis de construire avant juillet 1997), plomb (avant 1949), électricité et gaz (installations de plus de 15 ans), termites selon la zone. Un <strong>audit énergétique</strong> est exigé pour la vente de certaines maisons et immeubles en monopropriété mal classés au DPE.</p>"
     }

@@ -1,0 +1,57 @@
+{
+  "updated": "2026-10-15",
+  "slug": "guides/travaux-locataire-proprietaire",
+  "nav": "Locataire ou propriétaire ?",
+  "title": "Travaux en location : qui paie, locataire ou bailleur ?",
+  "description": "Réparations locatives, gros travaux, aménagements, transformations : qui fait quoi entre locataire et propriétaire en matière de travaux.",
+  "keywords": [
+    "locataire ou propriétaire ?"
+  ],
+  "cardText": "Entre locataire et propriétaire, la répartition des travaux est encadrée par la loi. La connaître évite bien des conflits.",
+  "eyebrow": "Guide",
+  "h1": "Travaux en location : qui fait quoi ?",
+  "intro": "Entre locataire et propriétaire, la répartition des travaux est encadrée par la loi. La connaître évite bien des conflits.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1543399151-5dc42f103557",
+    "alt": "Immeubles blancs sous un ciel nuageux",
+    "credit": "Salomé Watel",
+    "creditUrl": "https://unsplash.com/@samefaisrire"
+  },
+  "sections": [
+    {
+      "h2": "À la charge du locataire",
+      "html": "<p>L’entretien courant et les menues réparations, listés par le décret du 26 août 1987 : joints, robinets, remplacement d’ampoules et de fusibles, entretien de la chaudière, ramonage, débouchage des canalisations, entretien des espaces verts privatifs…</p>"
+    },
+    {
+      "h2": "À la charge du propriétaire",
+      "html": "<p>Les grosses réparations, la vétusté, les défauts de construction et les cas de force majeure. Le bailleur doit délivrer un logement décent et en bon état, et réaliser les travaux nécessaires à son maintien.</p>"
+    },
+    {
+      "h2": "Ce que le locataire peut faire",
+      "html": "<ul><li>Aménager librement : peinture, petits équipements, sans transformer le logement</li><li>Pour une transformation (abattre une cloison, changer de cuisine), obtenir l’accord écrit du bailleur</li><li>Certains travaux d’adaptation au handicap ou à la perte d’autonomie et de rénovation énergétique peuvent être demandés au bailleur selon une procédure spécifique</li></ul>"
+    },
+    {
+      "h2": "En cas de désaccord",
+      "html": "<p>Écrivez au bailleur, puis saisissez la commission départementale de conciliation, gratuite. L’ADIL de votre département vous informe gratuitement sur vos droits.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Le bailleur peut-il faire des travaux pendant la location ?",
+      "a": "Oui pour les travaux nécessaires, d’amélioration ou d’économie d’énergie, après en avoir informé le locataire. Si les travaux durent plus de 21 jours, le loyer peut être réduit."
+    },
+    {
+      "q": "Qui paie l’entretien de la chaudière ?",
+      "a": "Le locataire, sauf clause contraire du bail."
+    }
+  ],
+  "related": [
+    "guides/verifier-un-artisan",
+    "guides/devis-travaux",
+    "guides/preparer-son-projet",
+    "guides/budget-travaux",
+    "guides/urgence-depannage"
+  ],
+  "relatedTitle": "Nos autres guides",
+  "ctaTitle": "Prêt à comparer les devis ?"
+}

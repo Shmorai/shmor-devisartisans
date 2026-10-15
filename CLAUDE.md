@@ -16,15 +16,17 @@ A Shmor marketplace (shared rules in `../../CLAUDE.md`): its own brand, design a
 | Design: styles | `assets/site.css` (kit defaults at the top; **DevisArtisans theme** block at the bottom) |
 | Generated output (don't edit by hand) | `index.html`, `*/index.html`, `sitemap.xml`, `robots.txt`, `404.html`, `search/`, `search-index.json` |
 
-## Pages (80)
+## Pages (107)
 - Home · `comment-ca-marche` · `metiers` hub · `regions` hub · `guides` hub · `blog` index.
 - **30 trades** `metiers/<slug>` (the most-requested categories on Travaux.com): plombier, electricien, couvreur, peintre, macon, chauffagiste, pompe-a-chaleur, climatisation, menuisier, carreleur, plaquiste, jardinier-paysagiste, serrurier, renovation, isolation, charpentier, facadier, cuisiniste, salle-de-bain, pisciniste, vitrier, terrassier, ramoneur, nettoyage, demenageur, diagnostiqueur, panneaux-solaires, poele-a-bois, parquet, veranda. Each covers: ce que fait…, quand faire appel…, questions à poser, ce qui fait varier le prix, règles et précautions, plus FAQs.
 - **Service cards**: 53 popular "prestations" (from Travaux.com's activity list) as icon cards (`deals` blocks with class `svc`), grouped into 8 categories on the `metiers` hub. The 16 most requested are also on the homepage. Each card links to its trade page.
 - **13 regions** `regions/<slug>`: every region of mainland France, Corsica included (Travaux.com covers mainland France; no DROM). Each lists its departments with numbers and its main cities, then covers local building styles and materials, natural risks (linked to Géorisques), France Rénov’/ADIL advice and a region-specific FAQ.
-- **4 guides** `guides/<slug>`: verifier-un-artisan, devis-travaux, garanties-travaux, aides-renovation.
-- **Blog**: 24 posts `blog/<slug>` (about 280–500 words each, with sources), dated every 9–10 days from 2026-03-03 to 2026-10-10 at the user's request ("backdated"). Content is evergreen, so the facts don't depend on the date shown. Homepage shows the 3 latest. RSS at `/blog/feed.xml`.
+- **10 guides** `guides/<slug>`: verifier-un-artisan, devis-travaux, garanties-travaux, aides-renovation, preparer-son-projet, budget-travaux, urgence-depannage, travaux-locataire-proprietaire, assurances-et-travaux, renovation-energetique-par-ou-commencer.
+- **Astuces** hub `astuces`: 36 tip cards in 6 themes (avant de signer, pendant le chantier, économies d’énergie, entretien, urgences, voisinage), each linking to a guide, post or trade page. Every trade page also has an "Astuces de pro" section (3 tips).
+- **Blog**: 44 posts (24 in the first batch, plus 20 more on 2026-10-15 dated between them, 2026-03-08 → 2026-10-14) `blog/<slug>` (about 280–500 words each, with sources), dated every 9–10 days from 2026-03-03 to 2026-10-10 at the user's request ("backdated"). Content is evergreen, so the facts don't depend on the date shown. Homepage shows the 6 latest. RSS at `/blog/feed.xml`.
 - **3 legal pages**: `mentions-legales`, `confidentialite`, `cookies` (see below).
-- Top menu: Métiers, Régions, Guides, Blog, Comment ça marche + "Demander un devis" pill (written in `layout.html`, links to /metiers/ until a referral link exists).
+- Homepage blocks: key-figures strip under the hero, 16 popular services, 6 trade photo tiles, 6 "Astuces du moment", 13 region pills, steps, 10 guide pills, 6 latest posts.
+- Top menu: Métiers, Régions, Guides, Astuces, Blog, Comment ça marche + "Demander un devis" pill (written in `layout.html`, links to /metiers/ until a referral link exists).
 - **French typography**: content strings use a no-break space before `? ! : ;` and inside « ». Keep doing this when editing content, or the "?" can wrap onto its own line.
 
 ## Legal pages (French law / CNIL)
@@ -60,7 +62,7 @@ None yet. **Travaux.com** runs an affiliate programme ("Devenez affilié", trava
 
 ## History & decisions
 - 2026-10-15: the user asked for "another site like ProFinders, completely in French for the French market, genuine, using French regions and services as offered on Travaux.com". Brand **DevisArtisans** ("devis artisan" is a core French search term). The kit gained French support (`seo.locale: "fr"`) in the same change, and English sites build unchanged.
-- 2026-10-15 (same day): the user asked for a lot more work: a redesign that looks more professionally French using cjaffiliates.com (= cj.com) as the design guide, at least 20 backdated blog posts, and many more service cards for Travaux.com's most popular services. Result: design v2, 15 more trades (30 in total), 53 service cards and 24 dated posts. The new kit icons were copied to every site.
+- 2026-10-15 (same day): the user asked for a lot more work: a redesign that looks more professionally French using cjaffiliates.com (= cj.com) as the design guide, at least 20 backdated blog posts, and many more service cards for Travaux.com's most popular services. Later the same day, the user asked for more blogs, cards, guides, tips and advice so the site looks busy and active before applying to Travaux.com: 20 more posts, 6 guides, the Astuces hub and trade tips were added (107 pages). Earlier: design v2, 15 more trades (30 in total), 53 service cards and 24 dated posts. The new kit icons were copied to every site.
 - Honesty rules: footer and FAQs say DevisArtisans is an information and referral service that doesn't employ or vet artisans and may earn commissions. General information only, not legal or tax advice.
 
 - 2026-10-15: French legal pages added (mentions légales, confidentialité, cookies) and the footer now links to them instead of shmor.ai's English pages; Contact → `/mentions-legales/#contact`, "Notre rémunération" → `/comment-ca-marche/`.

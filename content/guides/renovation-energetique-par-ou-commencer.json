@@ -1,0 +1,61 @@
+{
+  "updated": "2026-10-15",
+  "slug": "guides/renovation-energetique-par-ou-commencer",
+  "nav": "Rénovation énergétique",
+  "title": "Rénovation énergétique : par où commencer ?",
+  "description": "Audit, isolation, ventilation, chauffage, ordre des travaux, accompagnement et aides : la méthode pour rénover énergétiquement son logement dans le bon ordre.",
+  "keywords": [
+    "rénovation énergétique"
+  ],
+  "cardText": "Changer de chauffage avant d’isoler, c’est souvent acheter un équipement trop puissant. Une rénovation énergétique réussie suit un ordre logique.",
+  "eyebrow": "Guide",
+  "h1": "Rénovation énergétique : par où commencer ?",
+  "intro": "Changer de chauffage avant d’isoler, c’est souvent acheter un équipement trop puissant. Une rénovation énergétique réussie suit un ordre logique.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1752852381113-7d93abc9d7ea",
+    "alt": "Combles isolés avec fenêtres de toit",
+    "credit": "Brett Jordan",
+    "creditUrl": "https://unsplash.com/@brett_jordan"
+  },
+  "sections": [
+    {
+      "h2": "1. Faire un état des lieux",
+      "html": "<p>Un DPE donne une première image ; un audit énergétique détaille les déperditions et propose des scénarios de travaux. Un conseiller France Rénov’ peut vous orienter gratuitement.</p>"
+    },
+    {
+      "h2": "2. Réduire les besoins : l’enveloppe",
+      "html": "<ol><li><a href=\"/metiers/isolation/\">Isolation</a> de la toiture ou des combles</li><li>Isolation des murs (intérieur ou extérieur)</li><li>Isolation des planchers bas</li><li>Remplacement des <a href=\"/metiers/menuisier/\">fenêtres</a> peu performantes</li></ol>"
+    },
+    {
+      "h2": "3. Renouveler l’air",
+      "html": "<p>Une maison mieux isolée doit être bien ventilée : prévoyez une <a href=\"/blog/vmc-simple-ou-double-flux/\">VMC adaptée</a>.</p>"
+    },
+    {
+      "h2": "4. Produire la chaleur efficacement",
+      "html": "<p>Une fois les besoins réduits, choisissez un chauffage dimensionné en conséquence : <a href=\"/metiers/pompe-a-chaleur/\">pompe à chaleur</a>, <a href=\"/metiers/poele-a-bois/\">bois</a>, réseau de chaleur, et un <a href=\"/blog/chauffe-eau-thermodynamique/\">chauffe-eau performant</a>.</p>"
+    },
+    {
+      "h2": "Par étapes ou en une fois ?",
+      "html": "<p>Une rénovation d’ampleur en une fois est souvent plus efficace et mieux aidée ; une rénovation par étapes reste possible si chaque étape prépare la suivante. L’Accompagnateur Rénov’ aide à construire ce parcours.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Quel gain attendre ?",
+      "a": "Il dépend du logement et des travaux. L’audit énergétique estime les économies pour chaque scénario."
+    },
+    {
+      "q": "Faut-il une entreprise RGE ?",
+      "a": "Oui pour bénéficier de la plupart des aides à la rénovation énergétique."
+    }
+  ],
+  "related": [
+    "guides/verifier-un-artisan",
+    "guides/devis-travaux",
+    "guides/preparer-son-projet",
+    "guides/budget-travaux",
+    "guides/urgence-depannage"
+  ],
+  "relatedTitle": "Nos autres guides",
+  "ctaTitle": "Prêt à comparer les devis ?"
+}
