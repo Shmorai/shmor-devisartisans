@@ -17,7 +17,7 @@
   "sections": [
     {
       "h2": "Éditeur du site",
-      "html": "<p>Le site <strong>DevisArtisans</strong> (devisartisans.shmor.ai) fait partie du réseau <a href=\"https://shmor.ai/\">Shmor.ai</a>. Il est édité par :</p><ul><li>Dénomination sociale : <mark class=\"todo\">[À compléter : dénomination sociale]</mark></li><li>Forme juridique et capital social : <mark class=\"todo\">[À compléter : forme juridique et capital social]</mark></li><li>Immatriculation : <mark class=\"todo\">[À compléter : registre et numéro d’immatriculation]</mark></li><li>Siège social : <mark class=\"todo\">[À compléter : adresse du siège social]</mark></li><li>Numéro de TVA intracommunautaire : <mark class=\"todo\">[À compléter : numéro de TVA, le cas échéant]</mark></li><li>Téléphone : <mark class=\"todo\">[À compléter : numéro de téléphone]</mark></li><li>E-mail : <a href=\"mailto:hello@shmor.ai\">hello@shmor.ai</a></li></ul>"
+      "html": "<p>Le site <strong>DevisArtisans</strong> (devisartisans.shmor.ai) fait partie du réseau <a href=\"https://shmor.ai/\">Shmor.ai</a>. Il est édité par :</p><ul><li>Dénomination sociale : Shmor.ai</li><li>Forme juridique et capital social : <mark class=\"todo\">[À compléter : forme juridique et capital social]</mark></li><li>Immatriculation : <mark class=\"todo\">[À compléter : registre et numéro d’immatriculation]</mark></li><li>Siège social : 82 King Street, Manchester, Greater Manchester, M2 4WQ, Royaume-Uni</li><li>Numéro de TVA intracommunautaire : <mark class=\"todo\">[À compléter : numéro de TVA, le cas échéant]</mark></li><li>Téléphone : <mark class=\"todo\">[À compléter : numéro de téléphone]</mark></li><li>E-mail : <a href=\"mailto:devisartisans@shmor.ai\">devisartisans@shmor.ai</a></li></ul>"
     },
     {
       "h2": "Directeur de la publication",
@@ -29,7 +29,7 @@
     },
     {
       "h2": "Contact",
-      "html": "<p>Pour toute question sur le site : <a href=\"mailto:hello@shmor.ai\">hello@shmor.ai</a>.<br>Pour vos données personnelles : <a href=\"mailto:privacy@shmor.ai\">privacy@shmor.ai</a> (voir notre <a href=\"/confidentialite/\">politique de confidentialité</a>).</p><p>DevisArtisans ne réalise pas de travaux : pour une question sur un devis ou un chantier, adressez-vous directement à l’artisan ou à la plateforme concernée.</p>"
+      "html": "<p>Pour toute question sur le site : <a href=\"mailto:devisartisans@shmor.ai\">devisartisans@shmor.ai</a>.<br>Pour vos données personnelles : <a href=\"mailto:devisartisans@shmor.ai\">devisartisans@shmor.ai</a> (voir notre <a href=\"/confidentialite/\">politique de confidentialité</a>).</p><p>DevisArtisans ne réalise pas de travaux : pour une question sur un devis ou un chantier, adressez-vous directement à l’artisan ou à la plateforme concernée.</p>"
     },
     {
       "h2": "Notre activité et notre rémunération",

@@ -17,7 +17,7 @@
   "sections": [
     {
       "h2": "Responsable du traitement",
-      "html": "<p>Le responsable du traitement est <mark class=\"todo\">[À compléter : dénomination sociale]</mark>, <mark class=\"todo\">[À compléter : adresse du siège social]</mark>, éditeur du réseau Shmor.ai (voir les <a href=\"/mentions-legales/\">mentions légales</a>).</p><p>Contact pour toute question ou demande sur vos données : <a href=\"mailto:privacy@shmor.ai\">privacy@shmor.ai</a>.</p><p>Représentant dans l’Union européenne (article 27 du RGPD), si le responsable est établi hors de l’UE : <mark class=\"todo\">[À compléter : nom et adresse du représentant, ou supprimer cette ligne]</mark>.</p>"
+      "html": "<p>Le responsable du traitement est Shmor.ai, 82 King Street, Manchester, Greater Manchester, M2 4WQ, Royaume-Uni, éditeur du réseau Shmor.ai (voir les <a href=\"/mentions-legales/\">mentions légales</a>).</p><p>Contact pour toute question ou demande sur vos données : <a href=\"mailto:devisartisans@shmor.ai\">devisartisans@shmor.ai</a>.</p><p>Représentant dans l’Union européenne (article 27 du RGPD), si le responsable est établi hors de l’UE : <mark class=\"todo\">[À compléter : nom et adresse du représentant, ou supprimer cette ligne]</mark>.</p>"
     },
     {
       "h2": "Ce que nous ne collectons pas",
@@ -37,7 +37,7 @@
     },
     {
       "h2": "Transferts hors de l’Union européenne",
-      "html": "<p>Certains prestataires sont situés aux États-Unis. Ces transferts reposent sur la décision d’adéquation de la Commission européenne relative au cadre de protection des données UE–États-Unis (Data Privacy Framework) pour les entreprises certifiées, ou à défaut sur les clauses contractuelles types de la Commission européenne. Vous pouvez obtenir une copie de ces garanties en écrivant à <a href=\"mailto:privacy@shmor.ai\">privacy@shmor.ai</a>.</p>"
+      "html": "<p>Certains prestataires sont situés aux États-Unis. Ces transferts reposent sur la décision d’adéquation de la Commission européenne relative au cadre de protection des données UE–États-Unis (Data Privacy Framework) pour les entreprises certifiées, ou à défaut sur les clauses contractuelles types de la Commission européenne. Vous pouvez obtenir une copie de ces garanties en écrivant à <a href=\"mailto:devisartisans@shmor.ai\">devisartisans@shmor.ai</a>.</p>"
     },
     {
       "h2": "Durées de conservation",
@@ -45,7 +45,7 @@
     },
     {
       "h2": "Vos droits",
-      "html": "<p>Vous disposez d’un droit d’accès, de rectification, d’effacement, de limitation du traitement, d’opposition (notamment au traitement fondé sur notre intérêt légitime) et de portabilité de vos données, ainsi que du droit de définir des directives sur le sort de vos données après votre décès (article 85 de la loi Informatique et Libertés). Lorsqu’un traitement repose sur votre consentement, vous pouvez le retirer à tout moment.</p><p>Pour exercer vos droits, écrivez à <a href=\"mailto:privacy@shmor.ai\">privacy@shmor.ai</a>. Nous vous répondrons dans un délai d’un mois, prolongeable de deux mois si la demande est complexe ; nous vous en informerions alors. Nous ne vous demanderons un justificatif d’identité qu’en cas de doute raisonnable.</p>"
+      "html": "<p>Vous disposez d’un droit d’accès, de rectification, d’effacement, de limitation du traitement, d’opposition (notamment au traitement fondé sur notre intérêt légitime) et de portabilité de vos données, ainsi que du droit de définir des directives sur le sort de vos données après votre décès (article 85 de la loi Informatique et Libertés). Lorsqu’un traitement repose sur votre consentement, vous pouvez le retirer à tout moment.</p><p>Pour exercer vos droits, écrivez à <a href=\"mailto:devisartisans@shmor.ai\">devisartisans@shmor.ai</a>. Nous vous répondrons dans un délai d’un mois, prolongeable de deux mois si la demande est complexe ; nous vous en informerions alors. Nous ne vous demanderons un justificatif d’identité qu’en cas de doute raisonnable.</p>"
     },
     {
       "h2": "Réclamation auprès de la CNIL",
