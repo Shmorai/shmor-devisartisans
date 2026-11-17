@@ -524,3 +524,9 @@ mark.todo { background: #FBE9E2; color: #9A3412; border-radius: 4px; padding: 0 
 .site-footer .da-word { color: #F2A07F; }
 .site-footer .da-word b { color: #fff; }
 .da-mark { filter: drop-shadow(0 4px 10px rgba(194,80,42,.28)); }
+
+
+/* Affiliate disclosure bar at the top of every page (tools/build.js "aff-top"). Theme-neutral: inherits each site's colours. */
+.aff-top { order: -99; font-size: 12.5px; line-height: 1.5; border-bottom: 1px solid color-mix(in srgb, currentColor 14%, transparent); }
+.aff-top p { margin: 0; padding: 7px 0; opacity: .78; }
+.aff-top a { text-decoration: underline; text-underline-offset: 2px; white-space: nowrap; }
