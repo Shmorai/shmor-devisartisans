@@ -1,0 +1,88 @@
+{
+  "type": "post",
+  "date": "2026-11-19",
+  "updated": "2026-11-19",
+  "slug": "blog/assurance-dommages-ouvrage",
+  "nav": "Assurance dommages-ouvrage : obligatoire ou pas ?",
+  "title": "Assurance dommages-ouvrage : obligatoire pour vos travaux ?",
+  "description": "Assurance dommages-ouvrage : qui doit la souscrire, quand, quels travaux, délais de l’assureur en cas de sinistre et sanctions. Le point sur vos obligations.",
+  "keywords": [
+    "assurance dommages-ouvrage",
+    "dommages ouvrage obligatoire",
+    "assurance dommage ouvrage particulier",
+    "dommages-ouvrage travaux",
+    "dommages ouvrage rénovation",
+    "dommages ouvrage vente maison",
+    "garantie décennale et dommages-ouvrage",
+    "délai assurance dommages-ouvrage"
+  ],
+  "cardText": "Qui doit la souscrire, quand, quels délais en cas de sinistre.",
+  "eyebrow": "Assurances",
+  "h1": "Assurance dommages-ouvrage : faut-il la souscrire pour vos travaux ?",
+  "intro": "Construction, extension, rénovation lourde : l’assurance dommages-ouvrage revient dans presque tous les projets. Elle est obligatoire dans de nombreux cas, et sa souscription se fait avant le début du chantier. Voici ce qu’il faut savoir.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1754063257992-bb9eabdbdd86",
+    "alt": "Extension moderne de plain-pied avec de grandes baies vitrées",
+    "credit": "Brett Jordan",
+    "creditUrl": "https://unsplash.com/@brett_jordan"
+  },
+  "sections": [
+    {
+      "h2": "À quoi sert l’assurance dommages-ouvrage ?",
+      "html": "<p>L’assurance dommages-ouvrage (DO) finance la réparation des dommages qui relèvent de la garantie décennale : ceux qui compromettent la solidité de l’ouvrage ou le rendent impropre à sa destination, ainsi que certains éléments d’équipement indissociables du bâti. Son intérêt est d’être indemnisé rapidement, sans attendre qu’un tribunal détermine le responsable. L’assureur se retourne ensuite contre les entreprises concernées.</p><p>Elle complète la <a href=\"/blog/malfacons-garantie-decennale/\">garantie décennale de l’artisan</a> : la décennale protège contre le constructeur, la DO vous avance l’argent.</p>"
+    },
+    {
+      "h2": "Qui doit la souscrire, et quand ?",
+      "html": "<p>D’après Service-public.fr (fiche vérifiée en septembre 2026), l’assurance DO est obligatoire pour le propriétaire de l’ouvrage, son mandataire, le syndic de copropriété, le vendeur et le promoteur immobilier. Elle doit être souscrite <strong>avant le début des travaux</strong> de construction ou de rénovation importante (gros œuvre, fondations, terrassement…).</p><p>Si aucun assureur n’accepte votre chantier, vous pouvez saisir le Bureau central de tarification (BCT). Pour les petits travaux d’entretien ou de décoration, la question ne se pose généralement pas : demandez conseil à votre assureur si vous hésitez.</p>"
+    },
+    {
+      "h2": "Que risque-t-on sans dommages-ouvrage ?",
+      "html": "<p>Le défaut de souscription est un délit, passible de 6 mois d’emprisonnement et de 75 000 € d’amende au plus. Ces sanctions ne s’appliquent pas au particulier qui fait construire un logement pour l’occuper lui-même ou pour un membre de sa famille. Même dans ce cas, l’absence de DO a des conséquences concrètes : en cas de sinistre, vous devrez agir vous-même contre l’entreprise et son assureur,.</p>"
+    },
+    {
+      "h2": "Combien de temps l’assureur a-t-il pour répondre ?",
+      "html": "<p>Après une déclaration de sinistre complète, l’assureur DO doit respecter des délais (en jours calendaires) :</p><ul><li><strong>10 jours</strong> pour réclamer les renseignements manquants ;</li><li><strong>60 jours</strong> pour faire expertiser et notifier sa décision (15 jours pour un dommage estimé à moins de 1 800 €) ;</li><li><strong>90 jours maximum</strong> pour présenter une offre d’indemnisation ;</li><li><strong>15 jours</strong> pour verser l’indemnité après acceptation.</li></ul><p>En cas de dépassement, les indemnités sont majorées d’intérêts égaux au double du taux légal. Aucune franchise ne peut rester à votre charge. Le sinistre doit être déclaré dans les 2 ans suivant sa survenance ou sa connaissance, par lettre recommandée avec accusé de réception ou contre récépissé.</p>"
+    },
+    {
+      "h2": "Durée de la garantie et revente du logement",
+      "html": "<p>La couverture dure <strong>10 ans à compter de la réception des travaux</strong>. Pendant la première année, c’est la garantie de parfait achèvement qui joue : l’entrepreneur répare. L’assurance DO intervient ensuite, ou plus tôt s’il ne respecte pas une mise en demeure. Si vous vendez, l’assurance est transmise au nouvel acquéreur : l’acte de vente doit en mentionner l’existence et l’attestation y est annexée. Pensez-y aussi pour les <a href=\"/blog/diagnostics-vente-maison/\">démarches de vente</a>.</p>"
+    },
+    {
+      "h2": "Comment bien préparer son projet",
+      "html": "<ol><li>Demandez plusieurs devis d’assurance avant de signer les marchés de travaux (voir notre guide pour <a href=\"/blog/comparer-plusieurs-devis-travaux/\">comparer plusieurs devis</a>).</li><li>Vérifiez l’attestation de décennale de chaque artisan (voir <a href=\"/guides/verifier-un-artisan/\">vérifier un artisan</a>).</li><li>Conservez le procès-verbal de réception, point de départ des garanties (<a href=\"/blog/reception-travaux-proces-verbal/\">comment le rédiger</a>).</li><li>Gardez tous les documents d’assurance avec les factures.</li></ol>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "L’assurance dommages-ouvrage est-elle obligatoire pour une rénovation ?",
+      "a": "Elle est obligatoire pour des travaux de construction ou de rénovation importante touchant à la structure (gros œuvre, fondations…). Pour de petits travaux, demandez à votre assureur."
+    },
+    {
+      "q": "Peut-on souscrire la DO après le début du chantier ?",
+      "a": "La loi prévoit une souscription avant l’ouverture du chantier. Ne commencez pas les travaux sans avoir obtenu votre contrat."
+    },
+    {
+      "q": "Que se passe-t-il à la vente de la maison ?",
+      "a": "L’assurance est transmise à l’acquéreur. L’acte de vente doit mentionner son existence et l’attestation d’assurance y est annexée."
+    },
+    {
+      "q": "Quelle est la différence avec la garantie décennale ?",
+      "a": "La décennale est souscrite par l’entreprise pour couvrir sa responsabilité. La DO est souscrite par le maître d’ouvrage et préfinance les réparations avant toute recherche de responsabilité."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Service-public.fr : Assurance dommages-ouvrage (DO)",
+      "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2032"
+    },
+    {
+      "title": "Service-public.fr : Garantie décennale",
+      "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2034"
+    }
+  ],
+  "related": [
+    "blog/malfacons-garantie-decennale",
+    "guides/garanties-travaux",
+    "guides/assurances-et-travaux"
+  ]
+}
