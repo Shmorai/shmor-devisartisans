@@ -1,0 +1,79 @@
+{
+  "eyebrow": "Plomberie · Hiver",
+  "title": "Canalisations gelées : prévenir et agir cet hiver",
+  "description": "Comment protéger vos canalisations et votre compteur d’eau du gel, que faire en cas de fuite et quand déclarer le sinistre à votre assurance habitation.",
+  "h1": "Canalisations gelées : comment les protéger et que faire en cas de fuite",
+  "intro": "Quand les températures chutent, une canalisation exposée peut geler puis se fissurer, et la fuite n’apparaît souvent qu’au dégel. Quelques gestes avant l’hiver limitent le risque, et savoir déclarer un dégât des eaux vous fait gagner du temps.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1526898943670-92bfa9f94c12",
+    "alt": "Eau s’échappant d’un tuyau gris",
+    "credit": "Daan Mooij",
+    "creditUrl": "https://unsplash.com/@daanmooij"
+  },
+  "keywords": [
+    "canalisation gelée",
+    "tuyau gelé que faire",
+    "protéger canalisations du gel",
+    "isoler compteur d’eau",
+    "gel canalisation assurance",
+    "dégât des eaux gel",
+    "tuyau éclaté gel",
+    "plombier urgence hiver",
+    "isolation tuyauterie"
+  ],
+  "cardText": "Isolation, compteur, assurance : les bons réflexes avant et après le gel.",
+  "sections": [
+    {
+      "h2": "Pourquoi les canalisations gèlent-elles ?",
+      "html": "<p>Les tuyaux les plus exposés sont ceux qui passent en extérieur, dans une cave, un garage, un vide sanitaire ou un local non chauffé, ainsi que le compteur d’eau s’il est mal protégé. L’eau gelée gonfle et peut fissurer le tuyau. La fuite se révèle souvent au moment du dégel, d’où l’intérêt de se préparer avant les grands froids.</p>"
+    },
+    {
+      "h2": "Protéger vos canalisations avant l’hiver",
+      "html": "<p>D’après les conseils de prévention de la MAIF, voici les principaux gestes :</p><ul><li><strong>Isoler les canalisations</strong> exposées avec des manchons en mousse, de la laine de verre ou des câbles chauffants qui se déclenchent à partir d’un seuil de température.</li><li><strong>Isoler le compteur d’eau</strong>, par exemple avec un matériau isolant adapté.</li><li><strong>Protéger la tuyauterie extérieure</strong>, notamment les robinets extérieurs, même si vous ne les utilisez pas.</li><li><strong>Renforcer l’isolation des murs</strong>, qui limite aussi le gel dans les canalisations.</li></ul><p>Pour une maison laissée vide, la MAIF conseille aussi de maintenir une température minimale et de vérifier l’antigel du circuit de chauffage central. Notre article <a href=\"/blog/preparer-maison-hiver/\">préparer sa maison pour l’hiver</a> complète cette liste.</p>"
+    },
+    {
+      "h2": "Un tuyau a gelé ou éclaté : que faire ?",
+      "html": "<ol><li>Coupez l’arrivée d’eau au robinet d’arrêt, puis, si une fuite touche des installations électriques, coupez le courant au tableau en restant à distance de l’eau.</li><li>Limitez les dégâts : épongez, déplacez les meubles, prenez des photos.</li><li>Appelez un plombier pour réparer la partie endommagée. En urgence, notre <a href=\"/guides/urgence-depannage/\">guide du dépannage en urgence</a> rappelle de demander un devis écrit avant l’intervention.</li><li>Contactez votre assureur pour savoir si une assistance dépannage est prévue : certaines garanties ne couvrent les frais que si le professionnel est mandaté par l’assureur.</li></ol>"
+    },
+    {
+      "h2": "Dégât des eaux : déclarer à l’assurance dans les délais",
+      "html": "<p>Selon service-public.gouv.fr, vous devez déclarer le sinistre à votre assureur dans les <strong>5 jours ouvrés</strong> suivant sa survenue. Vous pouvez le faire par téléphone ou en agence. Le constat amiable dégât des eaux n’est pas obligatoire, mais il accélère le traitement. Chaque assureur a son propre modèle, et si vous êtes locataire ou en copropriété, il faut aussi l’envoyer au propriétaire ou au syndic.</p><p>La convention IRSI, un accord entre assureurs, s’applique aux dégâts des eaux dont l’indemnisation n’excède pas 5 000 € hors taxes. Pour savoir qui paie en cas de fuite, lisez <a href=\"/blog/fuite-eau-qui-paie/\">fuite d’eau : qui paie ?</a> et vérifiez les garanties de votre contrat, car elles varient.</p>"
+    },
+    {
+      "h2": "Quand faire appel à un plombier ?",
+      "html": "<p>Dès qu’une canalisation est fissurée ou que vous ne parvenez pas à localiser la fuite, mieux vaut un professionnel. Demandez un devis détaillé, vérifiez son assurance professionnelle et comparez si le chantier n’est pas urgent. Retrouvez les points de contrôle sur la page <a href=\"/metiers/plombier/\">plombier</a> et dans notre guide <a href=\"/guides/assurances-et-travaux/\">assurances et travaux</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Dans quel délai déclarer un dégât des eaux à son assurance ?",
+      "a": "Selon service-public.gouv.fr, vous devez prévenir votre assureur dans les 5 jours ouvrés suivant le sinistre. Votre contrat ne peut pas prévoir un délai plus court."
+    },
+    {
+      "q": "Le constat amiable dégât des eaux est-il obligatoire ?",
+      "a": "Non, il n’est pas obligatoire, mais il accélère le traitement du dossier. Chaque assureur propose son propre modèle."
+    },
+    {
+      "q": "Comment protéger le compteur d’eau du gel ?",
+      "a": "En l’isolant avec un matériau adapté, comme le conseille la MAIF. Renseignez-vous aussi auprès de votre service des eaux sur ses recommandations."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Service-public.gouv.fr : Assurance dégâts des eaux",
+      "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1352"
+    },
+    {
+      "title": "MAIF : Protéger ses canalisations contre le froid",
+      "url": "https://www.maif.fr/conseils-prevention/la-vie-quotidienne/maison/proteger-ses-canalisations-contre-le-froid"
+    }
+  ],
+  "related": [
+    "blog/fuite-eau-qui-paie",
+    "guides/urgence-depannage"
+  ],
+  "type": "post",
+  "date": "2026-11-21",
+  "updated": "2026-11-21",
+  "slug": "blog/canalisations-gelees-prevenir-agir"
+}
