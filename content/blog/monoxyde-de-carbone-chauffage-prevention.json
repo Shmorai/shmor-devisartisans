@@ -1,0 +1,80 @@
+{
+  "eyebrow": "Chauffage · Sécurité",
+  "title": "Monoxyde de carbone : prévenir les risques en hiver",
+  "description": "Monoxyde de carbone en hiver : les gestes officiels pour l’éviter (entretien annuel, aération, appareils), les symptômes et le réflexe en cas de doute.",
+  "h1": "Monoxyde de carbone : comment éviter l’intoxication quand on se chauffe",
+  "intro": "Chaque hiver, des intoxications au monoxyde de carbone surviennent à cause d’appareils de chauffage mal entretenus ou mal utilisés. Ce gaz est invisible et sans odeur, d’où l’importance de la prévention avant les premiers froids.",
+  "image": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/House_with_wood_stove_and_stacked_firewood.jpg/1920px-House_with_wood_stove_and_stacked_firewood.jpg",
+    "alt": "Maison en bois avec cheminée et bûches empilées devant la façade",
+    "credit": "Raralu4440 / CC BY-SA 4.0",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:House_with_wood_stove_and_stacked_firewood.jpg"
+  },
+  "keywords": [
+    "monoxyde de carbone",
+    "intoxication monoxyde de carbone",
+    "monoxyde de carbone chauffage",
+    "prévention monoxyde de carbone",
+    "symptômes monoxyde de carbone",
+    "entretien chaudière hiver",
+    "ramonage poêle à bois",
+    "chauffage d’appoint danger",
+    "détecteur de monoxyde de carbone"
+  ],
+  "cardText": "Entretien, aération, bons usages : les réflexes officiels contre le CO.",
+  "sections": [
+    {
+      "h2": "Pourquoi le monoxyde de carbone est dangereux",
+      "html": "<p>Le monoxyde de carbone (CO) se forme lors d’une combustion incomplète : chaudière, chauffe-eau, poêle, cheminée, cuisinière ou groupe électrogène. On ne le voit pas et on ne le sent pas, ce qui explique sa dangerosité. Il touche surtout en hiver, quand on chauffe davantage et qu’on aère moins.</p><p>Les premiers signes sont le plus souvent <strong>maux de tête, fatigue et nausées</strong>, parfois accompagnés de vertiges ou de troubles de la concentration. Un comportement inhabituel d’un animal domestique peut aussi être un signal d’alerte, selon le site officiel <a href=\"https://www.sante.fr/node/9031839\" rel=\"noopener\">sante.fr</a>.</p>"
+    },
+    {
+      "h2": "Faire vérifier ses appareils chaque année avant l’hiver",
+      "html": "<p>Le premier réflexe recommandé est de <strong>faire vérifier chaque année, avant l’hiver, vos appareils de chauffage par un professionnel</strong>, et de demander une attestation d’entretien. Cela concerne la chaudière, mais aussi le poêle, l’insert ou le chauffe-eau à combustion.</p><ul><li>Pour une chaudière, voyez notre guide sur l’<a href=\"/blog/entretien-chaudiere-obligatoire/\">entretien obligatoire de la chaudière</a> et la page <a href=\"/metiers/chauffagiste/\">chauffagiste</a>.</li><li>Pour un conduit, un poêle ou une cheminée, consultez le <a href=\"/blog/ramonage-obligatoire-frequence/\">ramonage obligatoire et sa fréquence</a> et la page <a href=\"/metiers/ramoneur/\">ramoneur</a>.</li><li>Pour une installation de poêle, la page <a href=\"/metiers/poele-a-bois/\">poêle à bois</a> détaille les points à vérifier.</li></ul><p>Avant de confier l’intervention, vérifiez les assurances et les qualifications de l’artisan grâce à notre guide pour <a href=\"/guides/verifier-un-artisan/\">vérifier un artisan</a>.</p>"
+    },
+    {
+      "h2": "Bien utiliser son chauffage au quotidien",
+      "html": "<p>Les recommandations officielles rappellent quelques règles simples :</p><ul><li>Dans un poêle à bois, brûlez uniquement du bois non traité.</li><li>N’utilisez pas un chauffage d’appoint plus de 2 heures de suite.</li><li>Ne laissez jamais tourner un moteur thermique de voiture dans un garage.</li><li>N’utilisez jamais un brasero ou un barbecue à l’intérieur.</li><li>Un groupe électrogène ne doit jamais être placé à l’intérieur, ni dans une véranda, un garage ou une cave.</li></ul>"
+    },
+    {
+      "h2": "Aérer et garder les aérations dégagées",
+      "html": "<p>Veillez à ce que les aérations de votre logement soient fonctionnelles et permettent à l’air de circuler. Ne les bouchez pas pour limiter les courants d’air, même lors de travaux d’isolation. Prenez aussi l’habitude d’ouvrir les fenêtres environ 10 minutes par jour, même en hiver. Si vous changez vos fenêtres ou votre ventilation, lisez notre article sur la <a href=\"/blog/vmc-simple-ou-double-flux/\">VMC simple ou double flux</a>.</p>"
+    },
+    {
+      "h2": "Que faire en cas de doute ?",
+      "html": "<p>Si vous soupçonnez une intoxication : ouvrez les portes et les fenêtres, coupez les appareils de chauffage et de cuisson, <strong>sortez du logement</strong> et appelez les secours : le 15, le 18, le 112, ou le 114 pour les personnes sourdes et malentendantes. Ne retournez pas dans le logement avant l’intervention des secours, et faites contrôler l’installation par un professionnel avant de la remettre en service.</p><p>Un détecteur de monoxyde de carbone peut être un complément utile selon notre appréciation, mais il ne remplace ni l’entretien annuel ni l’aération.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Quels sont les symptômes d’une intoxication au monoxyde de carbone ?",
+      "a": "Le plus souvent des maux de tête, de la fatigue et des nausées, parfois des vertiges ou des difficultés de concentration. Si plusieurs personnes du foyer ou un animal sont touchés en même temps, aérez, sortez et appelez les secours."
+    },
+    {
+      "q": "Quel numéro appeler en cas de suspicion d’intoxication ?",
+      "a": "Après être sorti du logement, appelez le 15 (SAMU), le 18 (pompiers) ou le 112. Le 114 est destiné aux personnes sourdes et malentendantes."
+    },
+    {
+      "q": "À quelle fréquence faire vérifier son chauffage ?",
+      "a": "Les autorités de santé recommandent une vérification chaque année avant l’hiver par un professionnel, avec une attestation d’entretien. Certaines obligations légales d’entretien et de ramonage existent aussi selon l’appareil."
+    },
+    {
+      "q": "Peut-on utiliser un chauffage d’appoint toute la nuit ?",
+      "a": "Non. Il est recommandé de ne pas l’utiliser plus de 2 heures de suite et de bien aérer la pièce."
+    }
+  ],
+  "sources": [
+    {
+      "title": "sante.fr : En hiver et face aux intempéries, attention au monoxyde de carbone",
+      "url": "https://www.sante.fr/node/9031839"
+    }
+  ],
+  "related": [
+    "blog/entretien-chaudiere-obligatoire",
+    "blog/ramonage-obligatoire-frequence",
+    "blog/preparer-maison-hiver"
+  ],
+  "type": "post",
+  "date": "2026-11-24",
+  "updated": "2026-11-24",
+  "slug": "blog/monoxyde-de-carbone-chauffage-prevention"
+}
