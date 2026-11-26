@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15",
+  "updated": "2026-11-26",
   "slug": "guides/renovation-energetique-par-ou-commencer",
   "nav": "Rénovation énergétique",
   "title": "Rénovation énergétique : par où commencer ?",
@@ -21,6 +21,10 @@
     {
       "h2": "1. Faire un état des lieux",
       "html": "<p>Un DPE donne une première image ; un audit énergétique détaille les déperditions et propose des scénarios de travaux. Un conseiller France Rénov’ peut vous orienter gratuitement.</p>"
+    },
+    {
+      "h2": "Avant de signer un devis : qui consulter gratuitement ?",
+      "html": "<p>Avant de comparer des devis, vous pouvez demander conseil à <a href=\"https://france-renov.gouv.fr/\">France Rénov’</a>. Le service public indique vous conseiller gratuitement sur les travaux les plus adaptés à votre situation, vous informer sur les aides et vous orienter vers des professionnels. Vous pouvez prendre rendez-vous dans un Espace Conseil proche de chez vous ou passer par le formulaire de contact du site.</p><p>Ce premier échange aide à fixer l’ordre des travaux <em>avant</em> de solliciter des entreprises : vous arrivez avec un projet clair, ce qui rend les <a href=\"/guides/devis-travaux/\">devis plus faciles à comparer</a>. Pour les aides, la demande peut être déposée par un Accompagnateur Rénov’ ou un assistant à maîtrise d’ouvrage, selon le site officiel. Les montants et conditions évoluent : lisez notre guide <a href=\"/guides/aides-renovation/\">aides à la rénovation</a> et vérifiez toujours les barèmes en vigueur.</p>"
     },
     {
       "h2": "2. Réduire les besoins : l’enveloppe",
@@ -47,6 +51,14 @@
     {
       "q": "Faut-il une entreprise RGE ?",
       "a": "Oui pour bénéficier de la plupart des aides à la rénovation énergétique."
+    },
+    {
+      "q": "Où trouver un conseil gratuit avant de lancer mes travaux ?",
+      "a": "Auprès de France Rénov’, le service public de la rénovation : prise de rendez-vous dans un Espace Conseil ou formulaire de contact sur france-renov.gouv.fr."
+    },
+    {
+      "q": "Faut-il demander les aides avant de commander les travaux ?",
+      "a": "Vérifiez-le sur france-renov.gouv.fr avant de signer : les conditions de dépôt de la demande dépendent de l’aide visée et peuvent changer. Ne commencez pas sans avoir confirmé la procédure."
     }
   ],
   "related": [
@@ -57,5 +69,11 @@
     "guides/urgence-depannage"
   ],
   "relatedTitle": "Nos autres guides",
-  "ctaTitle": "Prêt à comparer les devis ?"
+  "ctaTitle": "Prêt à comparer les devis ?",
+  "sources": [
+    {
+      "title": "France Rénov’ : le service public de la rénovation",
+      "url": "https://france-renov.gouv.fr/"
+    }
+  ]
 }

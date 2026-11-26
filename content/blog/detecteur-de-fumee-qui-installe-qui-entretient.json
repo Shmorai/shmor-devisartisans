@@ -1,0 +1,88 @@
+{
+  "eyebrow": "Sécurité · Logement",
+  "title": "Détecteur de fumée : qui installe, qui entretient ?",
+  "description": "Détecteur de fumée (DAAF) : qui l’installe, qui l’entretient, où le poser et ce qu’en dit l’assurance, pour propriétaires comme locataires.",
+  "h1": "Détecteur de fumée : qui doit l’installer, qui doit l’entretenir ?",
+  "intro": "Chaque logement doit être équipé d’au moins un détecteur autonome avertisseur de fumée (DAAF). Mais en location, on ne sait pas toujours qui doit le poser, changer la pile ou prévenir l’assureur. Voici la règle générale, les exceptions et les bons réflexes avant l’hiver, quand les risques d’incendie augmentent.",
+  "image": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Smoke_detector%2C_Russia_%2808%29.jpg/1920px-Smoke_detector%2C_Russia_%2808%29.jpg",
+    "alt": "Détecteur de fumée rond et blanc fixé à un plafond blanc",
+    "credit": "Georg Pik / CC0",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Smoke_detector,_Russia_(08).jpg"
+  },
+  "keywords": [
+    "détecteur de fumée obligatoire",
+    "daaf obligatoire",
+    "détecteur de fumée locataire ou propriétaire",
+    "qui installe le détecteur de fumée",
+    "qui change la pile du détecteur de fumée",
+    "norme nf en 14604",
+    "où installer un détecteur de fumée",
+    "détecteur de fumée assurance habitation",
+    "détecteur de fumée location meublée"
+  ],
+  "cardText": "Propriétaire ou locataire : qui pose, qui entretient, et ce que dit l’assurance.",
+  "sections": [
+    {
+      "h2": "Détecteur de fumée obligatoire : ce que dit la règle",
+      "html": "<p>Selon <a href=\"https://www.service-public.gouv.fr/particuliers/vosdroits/F19950\">service-public.gouv.fr</a>, chaque logement, appartement ou maison, doit comporter <strong>au moins un détecteur de fumée</strong>. L’appareil doit porter le marquage CE avec la référence à la <strong>norme NF EN 14604</strong>. Il fonctionne sur piles, ou sur l’alimentation électrique du logement s’il dispose d’une alimentation de secours.</p><p>Les modèles à ionisation sont interdits, car ils sont radioactifs. Si vous hésitez devant un modèle bon marché, vérifiez donc le marquage et la norme sur l’emballage plutôt que le seul prix.</p>"
+    },
+    {
+      "h2": "Qui installe le détecteur : propriétaire ou locataire ?",
+      "html": "<p>La règle générale est simple : <strong>le propriétaire installe le détecteur</strong>, qu’il occupe le logement ou qu’il le loue. Lors d’une mise en location, le bailleur doit vérifier son bon fonctionnement au moment de l’état des lieux d’entrée.</p><p>Un locataire n’a donc pas à acheter l’appareil à ses frais en arrivant. Si le logement n’en possède pas, il est utile de le signaler par écrit au bailleur ou à l’agence. Pour mieux comprendre les droits et devoirs de chacun, lisez notre guide <a href=\"/guides/travaux-locataire-proprietaire/\">travaux : locataire ou propriétaire</a>.</p>"
+    },
+    {
+      "h2": "Qui entretient le détecteur et change la pile ?",
+      "html": "<p>Une fois le bail en cours, c’est <strong>l’occupant</strong> qui assure l’entretien du détecteur et, si besoin, son remplacement. Concrètement :</p><ul><li>tester régulièrement le bouton d’essai de l’appareil ;</li><li>changer la pile quand il signale qu’elle est faible ;</li><li>dépoussiérer le boîtier, sans le peindre ni le recouvrir ;</li><li>remplacer l’appareil s’il ne fonctionne plus.</li></ul><p>Il y a des exceptions importantes. Le propriétaire assume seul l’ensemble des obligations pour les <strong>locations meublées, les logements saisonniers, les résidences hôtelières à vocation sociale et les logements liés à un emploi ou une fonction</strong>. Pour les logements-foyers et l’habitat inclusif, la charge revient à l’organisme gestionnaire ou au propriétaire, selon la situation décrite sur la fiche officielle.</p>"
+    },
+    {
+      "h2": "Où placer le détecteur de fumée dans le logement ?",
+      "html": "<p>Le détecteur doit être fixé solidement au plafond, de préférence <strong>dans la circulation ou le dégagement qui dessert les chambres</strong>, pour que l’alarme se fasse entendre la nuit. Dans un studio, il faut le placer le plus loin possible de la cuisine et de la salle de bain, afin d’éviter les fausses alertes dues à la vapeur ou aux fumées de cuisson.</p><p>Il est recommandé d’en installer <strong>un par étage</strong>, et plusieurs dans les grands logements. À l’inverse, l’installation est <strong>interdite dans les parties communes</strong> d’un immeuble, notamment en copropriété : elle ne relève pas de l’occupant d’un appartement.</p>"
+    },
+    {
+      "h2": "Détecteur de fumée et assurance habitation",
+      "html": "<p>L’occupant doit <strong>informer son assureur habitation</strong> de la présence du détecteur, en lui fournissant une attestation et une preuve d’achat ou d’installation. Gardez donc la facture ou le justificatif remis par le propriétaire.</p><p>Bon à savoir : selon la fiche officielle, l’assureur ne peut pas refuser d’indemniser un sinistre incendie parce qu’il n’y a pas de détecteur. Il peut en revanche <strong>réduire l’indemnisation</strong> si cette absence a aggravé les conséquences du sinistre. La page ne mentionne pas de sanction en cas de non-respect de l’obligation, mais les enjeux de sécurité restent bien réels. Pour aller plus loin, voyez notre guide sur les <a href=\"/guides/assurances-et-travaux/\">assurances et travaux</a>.</p>"
+    },
+    {
+      "h2": "Quand faire appel à un artisan ?",
+      "html": "<p>Pour un modèle à piles, une fixation au plafond suffit, et la plupart des occupants le font eux-mêmes. Un <a href=\"/metiers/electricien/\">électricien</a> devient utile si vous voulez un appareil relié au secteur avec alimentation de secours, ou plusieurs détecteurs dans une grande maison. Dans ce cas, demandez un <a href=\"/guides/devis-travaux/\">devis écrit</a> détaillant le matériel, sa conformité à la norme NF EN 14604 et le temps de pose. Si vous profitez d’une visite chauffagiste ou ramoneur, pensez aussi à notre article sur le <a href=\"/blog/monoxyde-de-carbone-chauffage-prevention/\">monoxyde de carbone en hiver</a> : un détecteur de fumée ne détecte pas ce gaz.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Le détecteur de fumée est-il obligatoire dans tous les logements ?",
+      "a": "Oui. Chaque logement, appartement ou maison, doit être équipé d’au moins un détecteur de fumée normalisé (NF EN 14604), d’après service-public.gouv.fr."
+    },
+    {
+      "q": "Qui paie le détecteur de fumée en location ?",
+      "a": "C’est au propriétaire de l’installer. Le locataire s’occupe ensuite de l’entretien et, si besoin, du remplacement, sauf en location meublée, saisonnière ou de fonction, où le propriétaire garde l’ensemble des obligations."
+    },
+    {
+      "q": "Où poser un détecteur de fumée ?",
+      "a": "Au plafond, de préférence dans le dégagement desservant les chambres. Dans un studio, le plus loin possible de la cuisine et de la salle de bain. Un par étage est recommandé."
+    },
+    {
+      "q": "Faut-il prévenir son assurance habitation ?",
+      "a": "Oui, l’occupant doit informer son assureur de la présence du détecteur avec une attestation et une preuve d’achat ou d’installation."
+    }
+  ],
+  "sources": [
+    {
+      "title": "service-public.gouv.fr : Détecteur de fumée, sécurité incendie dans le logement",
+      "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F19950"
+    },
+    {
+      "title": "justice.fr : Détecteur de fumée (Daaf) et sécurité incendie dans le logement",
+      "url": "https://www.justice.fr/fiche/detecteur-fumee-daaf-securite-incendie-logement"
+    }
+  ],
+  "related": [
+    "blog/monoxyde-de-carbone-chauffage-prevention",
+    "guides/assurances-et-travaux",
+    "metiers/electricien"
+  ],
+  "type": "post",
+  "date": "2026-11-26",
+  "updated": "2026-11-26",
+  "slug": "blog/detecteur-de-fumee-qui-installe-qui-entretient"
+}
