@@ -1,0 +1,94 @@
+{
+  "eyebrow": "Chauffage au bois · Règles",
+  "title": "Poêle à bois ou cheminée : règles à connaître",
+  "description": "Poêle à bois ou cheminée : copropriété, foyer ouvert interdit selon les communes, ramonage, attestation et aide pour passer à un foyer fermé.",
+  "h1": "Poêle à bois ou cheminée : les règles à connaître avant d’allumer cet hiver",
+  "intro": "Avec les premiers froids, beaucoup de foyers rallument la cheminée ou le poêle. Or le droit de faire du feu dépend de votre immeuble, de votre commune et du type d’appareil. Voici les points à vérifier d’après service-public.gouv.fr et l’ADEME, et les questions à poser à un professionnel avant de remplacer un foyer ouvert.",
+  "keywords": [
+    "poêle à bois règles",
+    "cheminée foyer ouvert interdit",
+    "cheminée en copropriété",
+    "poêle à bois copropriété autorisation",
+    "foyer ouvert interdit paris",
+    "remplacer cheminée par poêle",
+    "poêle à granulés ou à bois",
+    "ramonage poêle à bois",
+    "flamme verte poêle",
+    "maprimerenov foyer fermé",
+    "installateur poêle à bois rge"
+  ],
+  "cardText": "Copropriété, foyer ouvert, ramonage, aides : ce qu’il faut vérifier avant d’allumer.",
+  "sections": [
+    {
+      "h2": "Quels appareils sont autorisés ?",
+      "html": "<p>D’après <a href=\"https://www.service-public.gouv.fr/particuliers/vosdroits/F32437\">service-public.gouv.fr</a>, on peut utiliser une cheminée à foyer ouvert, une cheminée à foyer fermé, un poêle à bois, à granulés ou mixte, comme chauffage principal, chauffage d’appoint ou feu d’agrément. Mais plusieurs règles locales peuvent restreindre cet usage : copropriété, commune, préfecture.</p>"
+    },
+    {
+      "h2": "En copropriété : vérifiez le règlement",
+      "html": "<p>Dans un immeuble, il faut « impérativement vérifier » que le règlement de copropriété n’interdit pas l’usage de la cheminée ou du poêle. Si vous projetez de raccorder un poêle à un conduit existant ou d’en créer un nouveau, demandez aussi au syndic ce qui est autorisé avant de signer un devis. Pour les autres démarches de travaux en immeuble, voir notre article sur les <a href=\"/blog/travaux-en-copropriete/\">travaux en copropriété</a>.</p>"
+    },
+    {
+      "h2": "Foyer ouvert : interdit dans certaines communes",
+      "html": "<p>Certaines mairies ou préfectures interdisent les foyers ouverts à cause de la pollution de l’air. En Île-de-France, toutes les communes sont soumises à un plan de protection de l’atmosphère et l’utilisation d’un foyer ouvert est <strong>interdite à Paris et dans de nombreuses communes</strong>, seuls des feux d’agrément ponctuels pouvant être tolérés, selon service-public.gouv.fr. Renseignez-vous auprès de votre mairie ou de votre préfecture avant d’allumer un foyer ouvert.</p>"
+    },
+    {
+      "h2": "Ramonage et attestation",
+      "html": "<p>Le ramonage doit être réalisé par un ramoneur qualifié, au minimum une fois par an ; dans la majorité des départements, deux ramonages sont exigés, dont un pendant la période d’utilisation. Le ramoneur vous remet une attestation que vous devez conserver, et le non-respect peut être puni d’une amende de 450 €. Détails dans notre article <a href=\"/blog/ramonage-obligatoire-frequence/\">ramonage obligatoire</a>, et dans notre page <a href=\"/metiers/ramoneur/\">ramoneur</a>.</p>"
+    },
+    {
+      "h2": "Remplacer un foyer ouvert par un poêle ou un foyer fermé",
+      "html": "<p>Service-public.gouv.fr indique que, sous conditions, MaPrimeRénov’ peut financer le remplacement d’un foyer ouvert par un foyer fermé, et que France Rénov’ informe gratuitement au 0 808 800 700. Les conditions changent : consultez <a href=\"https://france-renov.gouv.fr\">france-renov.gouv.fr</a> avant de commander. Pour le choix de l’appareil, l’ADEME recommande de se fier au label Flamme verte ; consultez son guide sur le <a href=\"https://agirpourlatransition.ademe.fr/particuliers/amenager-maison/chauffer/chauffage-bois-moins-consommer-moins-polluer\">chauffage au bois</a>.</p><p>Comparez au moins deux devis écrits avec le détail de l’appareil, du conduit, de la pose et de l’attestation fournie. Notre page <a href=\"/metiers/poele-a-bois/\">poêle à bois</a> et notre guide <a href=\"/guides/verifier-un-artisan/\">vérifier un artisan</a> vous aident à choisir l’installateur.</p>"
+    },
+    {
+      "h2": "Ce que la page officielle ne traite pas",
+      "html": "<p>La page de service-public.gouv.fr ne détaille ni les règles d’installation, ni le rôle de l’installateur, ni l’assurance. Pour ces points, posez la question à votre assureur et à l’installateur, et demandez ce qu’il vous remettra à la fin du chantier (attestation, notice de l’appareil).</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Peut-on utiliser un poêle à bois en copropriété ?",
+      "a": "Il faut impérativement vérifier que le règlement de copropriété n’interdit pas l’usage de la cheminée ou du poêle, d’après service-public.gouv.fr. Demandez au syndic avant tout achat."
+    },
+    {
+      "q": "Une cheminée à foyer ouvert est-elle interdite ?",
+      "a": "Pas partout. Certaines mairies ou préfectures l’interdisent à cause de la pollution de l’air, et c’est le cas à Paris et dans de nombreuses communes d’Île-de-France. Renseignez-vous en mairie."
+    },
+    {
+      "q": "Une aide existe-t-elle pour remplacer un foyer ouvert ?",
+      "a": "Sous conditions, MaPrimeRénov’ peut financer le remplacement d’un foyer ouvert par un foyer fermé, selon service-public.gouv.fr. Vérifiez les conditions actuelles sur france-renov.gouv.fr."
+    },
+    {
+      "q": "Quel label chercher pour un appareil de chauffage au bois ?",
+      "a": "L’ADEME recommande de se fier au label Flamme verte pour choisir un appareil de chauffage au bois."
+    }
+  ],
+  "sources": [
+    {
+      "title": "service-public.gouv.fr : Cheminée ou poêle, quelles sont les règles ?",
+      "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F32437"
+    },
+    {
+      "title": "ADEME : Se chauffer au bois, les bons gestes",
+      "url": "https://agirpourlatransition.ademe.fr/particuliers/amenager-maison/chauffer/chauffage-bois-moins-consommer-moins-polluer"
+    },
+    {
+      "title": "France Rénov’",
+      "url": "https://france-renov.gouv.fr"
+    }
+  ],
+  "related": [
+    "metiers/poele-a-bois",
+    "metiers/ramoneur",
+    "blog/ramonage-obligatoire-frequence"
+  ],
+  "type": "post",
+  "date": "2026-11-28",
+  "updated": "2026-11-28",
+  "slug": "blog/poele-a-bois-cheminee-regles-a-connaitre",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1678274909137-ae0677d24a9b",
+    "alt": "Poêle à bois dans un salon",
+    "credit": "Seiya Maeda",
+    "creditUrl": "https://unsplash.com/@seiya_maeda"
+  }
+}
